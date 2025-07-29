@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-recoveryservicesdatareplication",
+  "version": "1.0.0",
+  "summary": "Microsoft Azure Recoveryservicesdatareplication Management Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_mgmt_recoveryservicesdatareplication-1.0.0.tar.gz",
+  "download_time": "2025-07-29T18:54:02.117656",
+  "package_url": "https://pypi.org/project/azure-mgmt-recoveryservicesdatareplication/"
+}

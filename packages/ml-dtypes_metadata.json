@@ -1,0 +1,11 @@
+{
+  "name": "ml-dtypes",
+  "version": "0.5.3",
+  "summary": "ml_dtypes is a stand-alone implementation of several NumPy dtype extensions used in machine learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml_dtypes-0.5.3.tar.gz",
+  "download_time": "2025-07-29T18:54:14.204637",
+  "package_url": "https://pypi.org/project/ml-dtypes/"
+}

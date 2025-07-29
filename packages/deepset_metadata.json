@@ -1,0 +1,11 @@
+{
+  "name": "deepset",
+  "version": "1.1.0",
+  "summary": "Recursive subset comparison for complex nested Python data structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepset-1.1.0.tar.gz",
+  "download_time": "2025-07-29T18:54:16.288281",
+  "package_url": "https://pypi.org/project/deepset/"
+}

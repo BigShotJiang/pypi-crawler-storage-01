@@ -1,0 +1,11 @@
+{
+  "name": "tox-ansible",
+  "version": "25.7.0",
+  "summary": "A radical approach to testing ansible content",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tox_ansible-25.7.0.tar.gz",
+  "download_time": "2025-07-29T18:54:12.142751",
+  "package_url": "https://pypi.org/project/tox-ansible/"
+}

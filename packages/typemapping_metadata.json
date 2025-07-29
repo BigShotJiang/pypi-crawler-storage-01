@@ -1,0 +1,11 @@
+{
+  "name": "typemapping",
+  "version": "0.1.3",
+  "summary": "Advanced type compatibility and checking system for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typemapping-0.1.3.tar.gz",
+  "download_time": "2025-07-29T18:54:08.475162",
+  "package_url": "https://pypi.org/project/typemapping/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spiel-des-jahres",
+  "version": "0.3.1",
+  "summary": "Spiel des Jahres predictions",
+  "author": "Markus Shepherd",
+  "license": "MIT",
+  "home_page": "https://recommend-games.github.io/spiel-des-jahres",
+  "download_filename": "spiel_des_jahres-0.3.1.tar.gz",
+  "download_time": "2025-07-29T18:54:18.916441",
+  "package_url": "https://pypi.org/project/spiel-des-jahres/"
+}

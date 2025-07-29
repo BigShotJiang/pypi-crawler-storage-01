@@ -1,0 +1,11 @@
+{
+  "name": "anaconda-assistant-conda",
+  "version": "0.6.0",
+  "summary": "The Anaconda Assistant conda plugin",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "anaconda_assistant_conda-0.6.0.tar.gz",
+  "download_time": "2025-07-29T18:53:49.005990",
+  "package_url": "https://pypi.org/project/anaconda-assistant-conda/"
+}

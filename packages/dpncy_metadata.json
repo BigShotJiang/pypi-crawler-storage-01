@@ -1,0 +1,11 @@
+{
+  "name": "dpncy",
+  "version": "1.0.3",
+  "summary": "The Intelligent Python Dependency Resolver",
+  "author": "Patrick Ryan",
+  "license": "MIT",
+  "home_page": "https://github.com/patrickryankenneth/dpncy",
+  "download_filename": "dpncy-1.0.3.tar.gz",
+  "download_time": "2025-07-29T18:54:01.066807",
+  "package_url": "https://pypi.org/project/dpncy/"
+}

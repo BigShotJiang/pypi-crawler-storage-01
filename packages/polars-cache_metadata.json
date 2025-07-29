@@ -1,0 +1,11 @@
+{
+  "name": "polars-cache",
+  "version": "1.0.0",
+  "summary": "A lightweight caching library for polars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_cache-1.0.0.tar.gz",
+  "download_time": "2025-07-29T18:54:13.684405",
+  "package_url": "https://pypi.org/project/polars-cache/"
+}

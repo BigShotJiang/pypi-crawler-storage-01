@@ -1,11 +1,11 @@
 {
   "name": "toomanyconfigs",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": null,
   "author": "Miles Copeland Luce",
   "license": null,
   "home_page": null,
-  "download_filename": "toomanyconfigs-0.2.3.tar.gz",
-  "download_time": "2025-07-29T18:18:22.369943",
+  "download_filename": "toomanyconfigs-0.2.4.tar.gz",
+  "download_time": "2025-07-29T18:54:21.512999",
   "package_url": "https://pypi.org/project/toomanyconfigs/"
 }
