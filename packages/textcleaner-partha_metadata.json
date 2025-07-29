@@ -1,11 +1,11 @@
 {
   "name": "textcleaner-partha",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A lightweight and reusable text preprocessing package for NLP tasks",
   "author": "Dr. Partha Majumdar",
   "license": null,
   "home_page": "https://github.com/partha6369/textcleaner",
-  "download_filename": "textcleaner_partha-1.1.0.tar.gz",
-  "download_time": "2025-07-29T09:17:31.863221",
+  "download_filename": "textcleaner_partha-1.1.1.tar.gz",
+  "download_time": "2025-07-29T11:12:35.130912",
   "package_url": "https://pypi.org/project/textcleaner-partha/"
 }
