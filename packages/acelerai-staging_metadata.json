@@ -1,11 +1,11 @@
 {
   "name": "acelerai-staging",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "short package description",
   "author": "DaniloAraneda",
   "license": null,
   "home_page": null,
-  "download_filename": "acelerai_staging-0.0.1.tar.gz",
-  "download_time": "2025-07-29T16:45:27.046735",
+  "download_filename": "acelerai_staging-0.0.3.tar.gz",
+  "download_time": "2025-07-29T17:01:56.384028",
   "package_url": "https://pypi.org/project/acelerai-staging/"
 }

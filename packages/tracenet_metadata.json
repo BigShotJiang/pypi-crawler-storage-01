@@ -1,0 +1,11 @@
+{
+  "name": "tracenet",
+  "version": "0.1.2",
+  "summary": "Universal tracing middleware for agent applications with support for multiple tracing backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracenet-0.1.2.tar.gz",
+  "download_time": "2025-07-29T17:02:12.681627",
+  "package_url": "https://pypi.org/project/tracenet/"
+}

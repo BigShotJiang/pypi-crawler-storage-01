@@ -1,0 +1,11 @@
+{
+  "name": "uproot-browser",
+  "version": "0.8.2",
+  "summary": "Tools to inspect ROOT files with uproot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uproot_browser-0.8.2.tar.gz",
+  "download_time": "2025-07-29T17:01:56.907191",
+  "package_url": "https://pypi.org/project/uproot-browser/"
+}

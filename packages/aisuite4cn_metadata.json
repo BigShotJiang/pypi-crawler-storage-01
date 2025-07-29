@@ -1,0 +1,11 @@
+{
+  "name": "aisuite4cn",
+  "version": "0.1.23",
+  "summary": "Uniform access layer for LLMs of China",
+  "author": "胡伟",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aisuite4cn-0.1.23.tar.gz",
+  "download_time": "2025-07-29T17:01:54.824207",
+  "package_url": "https://pypi.org/project/aisuite4cn/"
+}

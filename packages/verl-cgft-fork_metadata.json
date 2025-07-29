@@ -1,0 +1,11 @@
+{
+  "name": "verl-cgft-fork",
+  "version": "0.5.0.dev2",
+  "summary": "Fork of verl: Volcano Engine Reinforcement Learning for LLM",
+  "author": "Original author: Bytedance - Seed - MLSys",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cgftinc/verl-cgft-fork",
+  "download_filename": "verl_cgft_fork-0.5.0.dev2.tar.gz",
+  "download_time": "2025-07-29T17:01:58.997035",
+  "package_url": "https://pypi.org/project/verl-cgft-fork/"
+}
