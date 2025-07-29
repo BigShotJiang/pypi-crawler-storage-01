@@ -1,0 +1,11 @@
+{
+  "name": "chastack-bdd",
+  "version": "0.7.12",
+  "summary": "Abstracción de Bases de Datos en Python y constructor de modelos.",
+  "author": "Hernán A. Teszkiewicz Novick",
+  "license": null,
+  "home_page": "https://github.com/Hernanatn/bdd.py",
+  "download_filename": "chastack_bdd-0.7.12.tar.gz",
+  "download_time": "2025-07-29T19:49:17.507930",
+  "package_url": "https://pypi.org/project/chastack-bdd/"
+}

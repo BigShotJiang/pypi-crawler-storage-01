@@ -1,0 +1,11 @@
+{
+  "name": "plaidcloud-rpc",
+  "version": "1.6.4",
+  "summary": "PlaidCloud RPC Connection tools and helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plaidcloud_rpc-1.6.4.tar.gz",
+  "download_time": "2025-07-29T19:49:41.650322",
+  "package_url": "https://pypi.org/project/plaidcloud-rpc/"
+}

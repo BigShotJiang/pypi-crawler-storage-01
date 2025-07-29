@@ -1,0 +1,11 @@
+{
+  "name": "harlequin_trino",
+  "version": "0.1.6",
+  "summary": "A Harlequin adapter for Trino.",
+  "author": "Tyler Hillery",
+  "license": "MIT",
+  "home_page": "https://harlequin.sh",
+  "download_filename": "harlequin_trino-0.1.6.tar.gz",
+  "download_time": "2025-07-29T19:49:14.418660",
+  "package_url": "https://pypi.org/project/harlequin_trino/"
+}

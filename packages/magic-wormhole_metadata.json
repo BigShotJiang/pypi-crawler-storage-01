@@ -1,0 +1,11 @@
+{
+  "name": "magic-wormhole",
+  "version": "0.20.0",
+  "summary": "Securely transfer data between computers",
+  "author": "Brian Warner",
+  "license": "MIT",
+  "home_page": "https://github.com/warner/magic-wormhole",
+  "download_filename": "magic_wormhole-0.20.0.tar.gz",
+  "download_time": "2025-07-29T19:49:21.759773",
+  "package_url": "https://pypi.org/project/magic-wormhole/"
+}
