@@ -1,0 +1,11 @@
+{
+  "name": "Incubate",
+  "version": "0.0.1",
+  "summary": "A Multi Port, Multi Process, Multi Coroutine, High Concurrency Project.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "incubate-0.0.1.tar.gz",
+  "download_time": "2025-07-29T08:49:55.500922",
+  "package_url": "https://pypi.org/project/Incubate/"
+}

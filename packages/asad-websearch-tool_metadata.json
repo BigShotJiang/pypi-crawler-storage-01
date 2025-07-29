@@ -1,0 +1,11 @@
+{
+  "name": "asad-websearch-tool",
+  "version": "0.1.0",
+  "summary": "A simple DuckDuckGo web search tool using ddgs and OpenAI Agents SDK.",
+  "author": "Asad Shabir",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/asad-websearch/",
+  "download_filename": "asad_websearch_tool-0.1.0.tar.gz",
+  "download_time": "2025-07-29T08:49:54.460645",
+  "package_url": "https://pypi.org/project/asad-websearch-tool/"
+}

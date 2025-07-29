@@ -1,0 +1,11 @@
+{
+  "name": "xiyou-auth-sdk",
+  "version": "1.0.0",
+  "summary": "Xiyou OpenAPI Python认证SDK - 提供完整的加签认证功能",
+  "author": "Xiyou SDK Team",
+  "license": "MIT",
+  "home_page": "https://github.com/xiyou/xiyou-python-auth-sdk",
+  "download_filename": "xiyou_auth_sdk-1.0.0.tar.gz",
+  "download_time": "2025-07-29T08:50:26.043751",
+  "package_url": "https://pypi.org/project/xiyou-auth-sdk/"
+}

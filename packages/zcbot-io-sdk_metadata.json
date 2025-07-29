@@ -1,0 +1,11 @@
+{
+  "name": "zcbot-io-sdk",
+  "version": "0.0.7",
+  "summary": "zcbot io sdk for zsodata",
+  "author": "zsodata",
+  "license": "BSD License",
+  "home_page": "http://www.zsodata.com",
+  "download_filename": "zcbot-io-sdk-0.0.7.tar.gz",
+  "download_time": "2025-07-29T08:50:27.081224",
+  "package_url": "https://pypi.org/project/zcbot-io-sdk/"
+}

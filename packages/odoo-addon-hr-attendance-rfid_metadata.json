@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-attendance-rfid",
+  "version": "18.0.1.0.0.2",
+  "summary": "HR Attendance RFID",
+  "author": "Comunitea, ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr-attendance",
+  "download_filename": "odoo_addon_hr_attendance_rfid-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-29T08:50:20.217667",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-attendance-rfid/"
+}

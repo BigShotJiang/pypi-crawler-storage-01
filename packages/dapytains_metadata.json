@@ -1,0 +1,11 @@
+{
+  "name": "dapytains",
+  "version": "0.0.1a3",
+  "summary": "A brief description of dapytains",
+  "author": "Thibault Clérice",
+  "license": null,
+  "home_page": "https://github.com/distributed-text-services/MyDapytains",
+  "download_filename": "dapytains-0.0.1a3.tar.gz",
+  "download_time": "2025-07-29T08:49:56.020161",
+  "package_url": "https://pypi.org/project/dapytains/"
+}

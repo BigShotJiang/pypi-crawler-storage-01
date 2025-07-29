@@ -1,0 +1,11 @@
+{
+  "name": "piccolo-admin",
+  "version": "1.12.0",
+  "summary": "A powerful and modern admin interface / CMS, powered by Piccolo and ASGI.",
+  "author": "Daniel Townsend",
+  "license": "MIT",
+  "home_page": "https://github.com/piccolo-orm/piccolo_admin",
+  "download_filename": "piccolo_admin-1.12.0.tar.gz",
+  "download_time": "2025-07-29T08:50:34.432078",
+  "package_url": "https://pypi.org/project/piccolo-admin/"
+}

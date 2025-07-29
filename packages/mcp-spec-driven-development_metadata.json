@@ -1,0 +1,11 @@
+{
+  "name": "mcp-spec-driven-development",
+  "version": "0.1.1",
+  "summary": "MCP tool for AI assistants to perform spec-driven development",
+  "author": "lhy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_spec_driven_development-0.1.1.tar.gz",
+  "download_time": "2025-07-29T08:50:00.832057",
+  "package_url": "https://pypi.org/project/mcp-spec-driven-development/"
+}
