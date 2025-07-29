@@ -1,0 +1,11 @@
+{
+  "name": "aimmspy",
+  "version": "25.1.1.11",
+  "summary": "Python bindings for the AIMMS optimization platform, built with pybind11 for seamless C++ integration. Enables efficient data exchange and interaction with AIMMS projects using pandas, polars, and pyarrow. Ideal for advanced optimization workflows requiring high-performance native code.",
+  "author": "AIMMS B.V.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aimmspy-25.1.1.11-cp310-cp310-manylinux_2_27_x86_64.whl",
+  "download_time": "2025-07-29T11:29:55.421292",
+  "package_url": "https://pypi.org/project/aimmspy/"
+}

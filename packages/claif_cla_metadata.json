@@ -1,11 +1,11 @@
 {
   "name": "claif_cla",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "summary": "A Claif provider for Anthropic Claude, compatible with the OpenAI Responses API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claif_cla-1.0.30.tar.gz",
-  "download_time": "2025-07-29T02:25:30.086569",
+  "download_filename": "claif_cla-1.0.31.tar.gz",
+  "download_time": "2025-07-29T11:30:45.478923",
   "package_url": "https://pypi.org/project/claif_cla/"
 }

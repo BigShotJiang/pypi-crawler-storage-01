@@ -1,0 +1,11 @@
+{
+  "name": "syntaxmatrix",
+  "version": "1.4.0",
+  "summary": "SyntaxMUI: A customizable UI framework for Python AI Assistant Projects.",
+  "author": "Bob Nti",
+  "license": null,
+  "home_page": "https://github.com/bobganti/SimpleRAG",
+  "download_filename": "syntaxmatrix-1.4.0.tar.gz",
+  "download_time": "2025-07-29T11:30:09.821128",
+  "package_url": "https://pypi.org/project/syntaxmatrix/"
+}

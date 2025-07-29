@@ -1,11 +1,11 @@
 {
   "name": "fabsdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "SDK Python pour accéder à l’API MovieLens (Data Analysts/Data Scientists friendly)",
   "author": "[Ousmane F Dembele]",
   "license": null,
   "home_page": null,
-  "download_filename": "fabsdk-0.0.1.tar.gz",
-  "download_time": "2025-07-29T10:13:55.486359",
+  "download_filename": "fabsdk-0.0.2.tar.gz",
+  "download_time": "2025-07-29T11:30:32.952529",
   "package_url": "https://pypi.org/project/fabsdk/"
 }
