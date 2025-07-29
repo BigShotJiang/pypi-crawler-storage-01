@@ -1,0 +1,11 @@
+{
+  "name": "CADET-RDM",
+  "version": "1.0.1",
+  "summary": "A Python toolbox for research data management.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "cadet_rdm-1.0.1.tar.gz",
+  "download_time": "2025-07-29T11:42:32.678199",
+  "package_url": "https://pypi.org/project/CADET-RDM/"
+}

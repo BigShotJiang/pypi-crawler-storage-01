@@ -1,0 +1,11 @@
+{
+  "name": "pjsonpath",
+  "version": "1.5",
+  "summary": "Python查找不限层级Json数据中某个key或者value的路径",
+  "author": "yanqing.wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pjsonpath-1.5.tar.gz",
+  "download_time": "2025-07-29T11:42:43.052365",
+  "package_url": "https://pypi.org/project/pjsonpath/"
+}

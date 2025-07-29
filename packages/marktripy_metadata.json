@@ -1,0 +1,11 @@
+{
+  "name": "marktripy",
+  "version": "1.0.3",
+  "summary": "A Python package for converting Markdown to AST and back to Markdown",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "marktripy-1.0.3.tar.gz",
+  "download_time": "2025-07-29T11:42:24.849762",
+  "package_url": "https://pypi.org/project/marktripy/"
+}

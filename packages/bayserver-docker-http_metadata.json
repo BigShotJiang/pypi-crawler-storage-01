@@ -1,0 +1,11 @@
+{
+  "name": "bayserver-docker-http",
+  "version": "3.0.0",
+  "summary": "HTTP Docker for BayServer",
+  "author": "Michisuke-P",
+  "license": "MIT",
+  "home_page": "https://baykit.yokohama/",
+  "download_filename": "bayserver-docker-http-3.0.0.tar.gz",
+  "download_time": "2025-07-29T11:42:48.722422",
+  "package_url": "https://pypi.org/project/bayserver-docker-http/"
+}

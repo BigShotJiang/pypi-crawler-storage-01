@@ -1,0 +1,11 @@
+{
+  "name": "bayserver-docker-maccaferri",
+  "version": "3.0.0",
+  "summary": "Maccaferri docker for BayServer",
+  "author": "Michisuke-P",
+  "license": "MIT",
+  "home_page": "https://baykit.yokohama/",
+  "download_filename": "bayserver-docker-maccaferri-3.0.0.tar.gz",
+  "download_time": "2025-07-29T11:42:47.675296",
+  "package_url": "https://pypi.org/project/bayserver-docker-maccaferri/"
+}

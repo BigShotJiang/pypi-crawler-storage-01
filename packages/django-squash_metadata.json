@@ -1,0 +1,11 @@
+{
+  "name": "django-squash",
+  "version": "0.0.15",
+  "summary": "A migration squasher that doesn't care how Humpty Dumpty was put together.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_squash-0.0.15.tar.gz",
+  "download_time": "2025-07-29T11:42:27.416092",
+  "package_url": "https://pypi.org/project/django-squash/"
+}
