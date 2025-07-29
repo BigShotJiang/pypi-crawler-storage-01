@@ -1,20 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T23:32:46.519403
-- **Total Packages**: 82
-- **Total Size**: 22.27 MB
+- **Download Time**: 2025-07-29T23:51:55.863363
+- **Total Packages**: 78
+- **Total Size**: 6.87 MB
 
 ## Packages List
+- daedaluspy
+- langchain-oci
+- omnata-plugin-runtime
+- sqlmesh
+- ECOv003-L3T-L4T-JET
+- better_experimentation
+- o2o-process
+- terminator-py
+- osbot-aws
+- plasmapy-sphinx
+- yt-dlp
+- rootlearn
+- rose-bag
+- mitogen
+- python3-log
+- sqruff
+- cfncli
+- aiopythonik
+- buildkite-test-collector
+- simile
+- celux
+- metapub
+- turnstile-solver
+- estadistica-facil
+- nv-ingest-client
+- chift
+- abogen
+- aquiles-rag
+- chat-object
+- runloop-api-client
+- dagster-kafka
+- gampixpy
 - ai4ce-helpers
 - radboy
-- terminator-py
 - PyTransportNSWv2
-- turnstile-solver
 - FAIRLinked
 - cuenca-validations
 - mcp-apache-spark-history-server
-- cfncli
 - nextplot
 - rs-audio-stats
 - odinai-sdk
@@ -31,7 +60,6 @@
 - turbopuffer
 - ECOv003-L2T-STARS
 - pyonir
-- ECOv003-L3T-L4T-JET
 - typemapping
 - trulens
 - trulens-eval
@@ -53,38 +81,6 @@
 - trulens-apps-llamaindex
 - trulens-apps-langgraph
 - trulens-apps-langchain
-- sqlmesh
 - flwr-nightly
 - gmri2fem
 - letta-client
-- missmecha-py
-- nominal-api-protos
-- nominal-api
-- celux
-- hugging-voice
-- ecopipeline
-- sober
-- semantic-copycat-minner
-- vibectl
-- vectorwrap
-- wk-ml-utils
-- panta-rhei
-- streamlit-image-carousel
-- rl-actors
-- timecopilot
-- proceed
-- databricks-pipelines
-- brevesky
-- better_experimentation
-- CreandoMiPaquete
-- pyobjict
-- tensorlake
-- opteryx
-- wherobots-python-dbapi
-- T-AI-project
-- guardx
-- graphiti-core
-- graphql-api
-- edc
-- hdn-research-environment
-- not1mm

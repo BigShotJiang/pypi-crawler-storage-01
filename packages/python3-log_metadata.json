@@ -1,0 +1,11 @@
+{
+  "name": "python3-log",
+  "version": "0.0.12",
+  "summary": "used to print log for any app or platform",
+  "author": "redrose2100",
+  "license": "MIT",
+  "home_page": "https://gitee.com/devops_dev/log",
+  "download_filename": "python3_log-0.0.12.tar.gz",
+  "download_time": "2025-07-29T23:51:17.239590",
+  "package_url": "https://pypi.org/project/python3-log/"
+}

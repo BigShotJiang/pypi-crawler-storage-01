@@ -1,11 +1,11 @@
 {
   "name": "osbot-aws",
-  "version": "2.39.1",
+  "version": "2.39.3",
   "summary": "OWASP Security Bot - AWS",
   "author": "Dinis Cruz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "osbot_aws-2.39.1.tar.gz",
-  "download_time": "2025-07-29T14:50:17.453433",
+  "download_filename": "osbot_aws-2.39.3.tar.gz",
+  "download_time": "2025-07-29T23:51:13.771024",
   "package_url": "https://pypi.org/project/osbot-aws/"
 }
