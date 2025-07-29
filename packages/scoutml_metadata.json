@@ -1,0 +1,11 @@
+{
+  "name": "scoutml",
+  "version": "0.1.5",
+  "summary": "Scout ML research papers with intelligent agents - CLI and Python library",
+  "author": "ProspectML",
+  "license": null,
+  "home_page": "https://github.com/prospectml/scoutml",
+  "download_filename": "scoutml-0.1.5.tar.gz",
+  "download_time": "2025-07-29T18:18:40.707832",
+  "package_url": "https://pypi.org/project/scoutml/"
+}

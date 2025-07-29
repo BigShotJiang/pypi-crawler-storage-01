@@ -1,0 +1,11 @@
+{
+  "name": "git-build-branch",
+  "version": "0.1.19",
+  "summary": "Utility tool for building Git branches my merging multiple other branches together.",
+  "author": "Dimagi",
+  "license": "BSD license",
+  "home_page": "https://github.com/dimagi/git-build-branch",
+  "download_filename": "git_build_branch-0.1.19.tar.gz",
+  "download_time": "2025-07-29T18:18:41.226288",
+  "package_url": "https://pypi.org/project/git-build-branch/"
+}

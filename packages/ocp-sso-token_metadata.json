@@ -1,0 +1,11 @@
+{
+  "name": "ocp-sso-token",
+  "version": "1.4.0",
+  "summary": "Obtain an OCP OAuth token for an SSO IdP with Kerberos support",
+  "author": "CKI Team",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.com/cki-project/ocp-sso-token",
+  "download_filename": "ocp_sso_token-1.4.0.tar.gz",
+  "download_time": "2025-07-29T18:18:23.411733",
+  "package_url": "https://pypi.org/project/ocp-sso-token/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cocotbext-mipi-csi2",
+  "version": "0.2.0",
+  "summary": "MIPI CSI-2 simulation framework for cocotb",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cocotbext_mipi_csi2-0.2.0.tar.gz",
+  "download_time": "2025-07-29T18:18:12.836646",
+  "package_url": "https://pypi.org/project/cocotbext-mipi-csi2/"
+}

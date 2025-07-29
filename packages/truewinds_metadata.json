@@ -1,0 +1,11 @@
+{
+  "name": "truewinds",
+  "version": "0.0.3",
+  "summary": "A Python package for estimating true wind speed and direction from anemometers on marine vessels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "truewinds-0.0.3.tar.gz",
+  "download_time": "2025-07-29T18:18:16.626994",
+  "package_url": "https://pypi.org/project/truewinds/"
+}

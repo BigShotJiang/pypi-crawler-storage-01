@@ -1,11 +1,11 @@
 {
   "name": "rxnn",
-  "version": "0.2.154",
+  "version": "0.2.155",
   "summary": "RxNN: Reactive Neural Networks Platform",
   "author": "Adam Filipek",
   "license": "Apache-2.0",
   "home_page": "https://rxai.dev/rxnn",
-  "download_filename": "rxnn-0.2.154.tar.gz",
-  "download_time": "2025-07-29T15:54:57.187129",
+  "download_filename": "rxnn-0.2.155.tar.gz",
+  "download_time": "2025-07-29T18:18:20.799551",
   "package_url": "https://pypi.org/project/rxnn/"
 }

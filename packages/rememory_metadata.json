@@ -1,0 +1,11 @@
+{
+  "name": "rememory",
+  "version": "0.3.1",
+  "summary": "A set of lightweight shared memory variable types for safe multiprocessing access",
+  "author": "Nichola Walch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rememory-0.3.1.tar.gz",
+  "download_time": "2025-07-29T18:18:29.721361",
+  "package_url": "https://pypi.org/project/rememory/"
+}
