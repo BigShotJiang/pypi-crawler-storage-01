@@ -1,0 +1,11 @@
+{
+  "name": "txl_text_editor",
+  "version": "0.3.6",
+  "summary": "TXL plugin for a text editor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txl_text_editor-0.3.6.tar.gz",
+  "download_time": "2025-07-29T10:42:57.539918",
+  "package_url": "https://pypi.org/project/txl_text_editor/"
+}

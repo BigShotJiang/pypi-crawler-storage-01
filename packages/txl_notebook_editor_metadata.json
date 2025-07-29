@@ -1,0 +1,11 @@
+{
+  "name": "txl_notebook_editor",
+  "version": "0.3.6",
+  "summary": "TXL plugin for a notebook editor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txl_notebook_editor-0.3.6.tar.gz",
+  "download_time": "2025-07-29T10:43:00.140001",
+  "package_url": "https://pypi.org/project/txl_notebook_editor/"
+}

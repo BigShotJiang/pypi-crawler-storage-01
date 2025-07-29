@@ -1,11 +1,11 @@
 {
   "name": "xiyou-sdk",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Xiyou OpenAPI Python SDK - 提供完整的API功能（当前包含认证模块）",
   "author": "Xiyou SDK Team",
   "license": "MIT",
   "home_page": "https://github.com/xiyou/xiyou-python-sdk",
-  "download_filename": "xiyou_sdk-1.0.1.tar.gz",
-  "download_time": "2025-07-29T10:13:39.585066",
+  "download_filename": "xiyou_sdk-1.0.3.tar.gz",
+  "download_time": "2025-07-29T10:42:35.519839",
   "package_url": "https://pypi.org/project/xiyou-sdk/"
 }

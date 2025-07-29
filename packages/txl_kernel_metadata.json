@@ -1,0 +1,11 @@
+{
+  "name": "txl_kernel",
+  "version": "0.3.6",
+  "summary": "TXL plugin for a kernel driver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txl_kernel-0.3.6.tar.gz",
+  "download_time": "2025-07-29T10:42:59.619552",
+  "package_url": "https://pypi.org/project/txl_kernel/"
+}

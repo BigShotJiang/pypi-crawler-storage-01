@@ -1,0 +1,11 @@
+{
+  "name": "amber-embeddings",
+  "version": "0.1.0",
+  "summary": "Attention-based Multi-head Bidirectional Enhanced Representations for contextual word embeddings",
+  "author": "Saiyam Jain",
+  "license": null,
+  "home_page": "https://github.com/Saiyam-Sandhir-Jain/AMBER",
+  "download_filename": "amber_embeddings-0.1.0.tar.gz",
+  "download_time": "2025-07-29T10:42:40.260815",
+  "package_url": "https://pypi.org/project/amber-embeddings/"
+}

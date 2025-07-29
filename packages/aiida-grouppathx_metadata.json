@@ -1,0 +1,11 @@
+{
+  "name": "aiida-grouppathx",
+  "version": "0.2.7",
+  "summary": "AiiDA plugin provides the GroupPathX class",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiida_grouppathx-0.2.7.tar.gz",
+  "download_time": "2025-07-29T10:42:44.459903",
+  "package_url": "https://pypi.org/project/aiida-grouppathx/"
+}
