@@ -1,0 +1,11 @@
+{
+  "name": "AutoNico",
+  "version": "1.3.16",
+  "summary": "Provide Basic Interface to conrol Mobile UI.",
+  "author": "Hank Huanng",
+  "license": null,
+  "home_page": "https://github.com/letmeNo1/nico",
+  "download_filename": "autonico-1.3.16-py3-none-any.whl",
+  "download_time": "2025-07-29T02:25:25.662022",
+  "package_url": "https://pypi.org/project/AutoNico/"
+}

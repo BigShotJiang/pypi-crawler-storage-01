@@ -1,0 +1,11 @@
+{
+  "name": "BrainX",
+  "version": "2025.7.29",
+  "summary": "Ecosystem for Brain Modeling.",
+  "author": "Brain Modeling Ecosystem Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/brain-modeling-ecosystem",
+  "download_filename": "BrainX-2025.7.29-py2.py3-none-any.whl",
+  "download_time": "2025-07-29T02:25:14.976234",
+  "package_url": "https://pypi.org/project/BrainX/"
+}

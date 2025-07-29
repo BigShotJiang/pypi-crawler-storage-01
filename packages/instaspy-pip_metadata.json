@@ -1,0 +1,11 @@
+{
+  "name": "instaspy-pip",
+  "version": "1.0",
+  "summary": "A tool to fetch Instagram user data and media.",
+  "author": "spyboy",
+  "license": null,
+  "home_page": "https://github.com/IM-SPYBOY/instaspy",
+  "download_filename": "instaspy-pip-1.0.tar.gz",
+  "download_time": "2025-07-29T02:24:55.587673",
+  "package_url": "https://pypi.org/project/instaspy-pip/"
+}

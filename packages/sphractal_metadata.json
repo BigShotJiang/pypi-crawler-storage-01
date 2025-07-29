@@ -1,0 +1,11 @@
+{
+  "name": "sphractal",
+  "version": "1.1.17",
+  "summary": "Package to estimate fractal dimension of 3D surfaces formed from overlapping spheres via box-counting algorithm.",
+  "author": "Jonathan Yik Chang Ting",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sphractal-1.1.17.tar.gz",
+  "download_time": "2025-07-29T02:25:06.071153",
+  "package_url": "https://pypi.org/project/sphractal/"
+}

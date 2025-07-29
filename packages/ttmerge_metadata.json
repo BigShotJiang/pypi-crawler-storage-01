@@ -1,0 +1,11 @@
+{
+  "name": "ttmerge",
+  "version": "0.0.4",
+  "summary": "Efficiently select and merge expert LoRAs at Test-Time",
+  "author": "Ryo Bertolissi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ttmerge-0.0.4.tar.gz",
+  "download_time": "2025-07-29T02:25:01.350169",
+  "package_url": "https://pypi.org/project/ttmerge/"
+}

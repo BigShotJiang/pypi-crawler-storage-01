@@ -1,0 +1,95 @@
+# PyPI Packages Downloaded
+
+## Download Summary
+- **Download Time**: 2025-07-29T02:25:34.548413
+- **Total Packages**: 87
+- **Total Size**: 43.73 MB
+
+## Packages List
+- volsite-postgres-common
+- farady-python
+- polarstate
+- prefligit
+- hyperliquid-mcp
+- baai-datacube
+- ensembl-tui
+- astartes
+- narada
+- pywayne
+- phis-bin
+- beta-cynosure
+- wp-forge
+- pyAgrum-nightly
+- maxim-py
+- instaspy-pip
+- rtta
+- maya-zen-tools
+- marinholab-working-needlemanipulation
+- MLAMA
+- tree-shaking
+- sdgp
+- projen-modules
+- ethspecify
+- Kea2-python
+- odoo-addon-sale-invoice-plan
+- ttmerge
+- falyx
+- cqc-quam-state
+- nonebot-plugin-value
+- panoseti-grpc
+- mcex-mcp-server
+- ain-uv-test
+- mcp-metricflow
+- rcabench
+- sphractal
+- algokit
+- InsideForest
+- phis-logging
+- churn-modeling-pipelines
+- napari-chatgpt
+- covdrugsim
+- primfunctions
+- opaiui
+- litemind
+- codeflash
+- langgraph-api
+- gobeautifulsoup
+- charmcli
+- agentex-sdk
+- jupyterlab-chat
+- BrainX
+- alibabacloud-ecd20200930
+- traceroot
+- esmc-function-classifier
+- mcp-weather-demo-cjy
+- square-administration
+- zeroeval
+- langgraph-runtime-inmem
+- diplomat-track
+- apsniper0673-constants
+- mavdac
+- nonebot_plugin_suggarchat
+- online-deterministic-annealing
+- psf2flf
+- sipametrics
+- kete
+- mailru-cloud-cli
+- louieai
+- exosphere-cli
+- VersaLog
+- AutoNico
+- metaflow
+- metaflow-stubs
+- lisq
+- claif_gem
+- finter
+- EzQt-Widgets
+- claif
+- claif_cla
+- dataops-testgen
+- aditi
+- nettracer3d
+- wagtail-feathers
+- pandashifu
+- boto3-stubs-full
+- externkit

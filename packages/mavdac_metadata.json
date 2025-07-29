@@ -1,0 +1,11 @@
+{
+  "name": "mavdac",
+  "version": "0.1.5",
+  "summary": "MAVIS Differential Astrometric Calibrations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mavdac-0.1.5.tar.gz",
+  "download_time": "2025-07-29T02:25:20.225871",
+  "package_url": "https://pypi.org/project/mavdac/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sipametrics",
+  "version": "0.2.4",
+  "summary": "Scientific Infra & Private Assets",
+  "author": "SIPA",
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "sipametrics-0.2.4.tar.gz",
+  "download_time": "2025-07-29T02:25:22.432786",
+  "package_url": "https://pypi.org/project/sipametrics/"
+}
