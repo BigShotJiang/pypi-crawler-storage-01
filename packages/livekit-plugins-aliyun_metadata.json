@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-aliyun",
+  "version": "1.2.2",
+  "summary": "LiveKit Agent Plugins for Alibaba Cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_aliyun-1.2.2.tar.gz",
+  "download_time": "2025-07-29T06:54:47.114849",
+  "package_url": "https://pypi.org/project/livekit-plugins-aliyun/"
+}

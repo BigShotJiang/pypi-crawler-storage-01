@@ -1,0 +1,11 @@
+{
+  "name": "collective.portlet.embed",
+  "version": "2.0.0",
+  "summary": "Embed an HTML snippet in a Plone portlet",
+  "author": "JeanMichel FRANCOIS aka toutpt",
+  "license": "GPL",
+  "home_page": "https://github.com/collective/collective.portlet.embed",
+  "download_filename": "collective_portlet_embed-2.0.0.tar.gz",
+  "download_time": "2025-07-29T06:54:35.491549",
+  "package_url": "https://pypi.org/project/collective.portlet.embed/"
+}

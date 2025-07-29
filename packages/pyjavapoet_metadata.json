@@ -1,0 +1,11 @@
+{
+  "name": "pyjavapoet",
+  "version": "0.1.0",
+  "summary": "A Python API for generating Java source files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyjavapoet-0.1.0.tar.gz",
+  "download_time": "2025-07-29T06:54:53.572234",
+  "package_url": "https://pypi.org/project/pyjavapoet/"
+}

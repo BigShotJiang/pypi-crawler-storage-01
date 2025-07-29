@@ -1,0 +1,11 @@
+{
+  "name": "uqregressors",
+  "version": "1.0.4",
+  "summary": "PyTorch-based regressors with uncertainty quantification and scikit-learn interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uqregressors-1.0.4-py3-none-any.whl",
+  "download_time": "2025-07-29T06:54:34.339257",
+  "package_url": "https://pypi.org/project/uqregressors/"
+}

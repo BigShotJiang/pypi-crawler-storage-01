@@ -1,0 +1,11 @@
+{
+  "name": "pytblis",
+  "version": "0.0.2",
+  "summary": "Python bindings for TBLIS, a high performance library for tensor operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytblis-0.0.2.tar.gz",
+  "download_time": "2025-07-29T06:54:32.599872",
+  "package_url": "https://pypi.org/project/pytblis/"
+}

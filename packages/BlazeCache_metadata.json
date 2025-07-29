@@ -1,11 +1,11 @@
 {
   "name": "BlazeCache",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "BlazeCache-0.3.0.tar.gz",
-  "download_time": "2025-07-29T03:56:40.349269",
+  "download_filename": "BlazeCache-0.5.0.tar.gz",
+  "download_time": "2025-07-29T06:54:08.344905",
   "package_url": "https://pypi.org/project/BlazeCache/"
 }

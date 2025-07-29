@@ -1,0 +1,11 @@
+{
+  "name": "default_logging",
+  "version": "0.2.0",
+  "summary": "Standardized Python logging with millisecond precision, timezone support, YAML config, and OpenTelemetry context. Provides a default configuration but allows user replacement.",
+  "author": "kimberly",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "default_logging-0.2.0.tar.gz",
+  "download_time": "2025-07-29T06:54:19.584147",
+  "package_url": "https://pypi.org/project/default_logging/"
+}

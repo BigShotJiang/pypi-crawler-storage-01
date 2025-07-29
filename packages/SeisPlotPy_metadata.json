@@ -1,11 +1,11 @@
 {
   "name": "SeisPlotPy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A GUI tool to view and export SEG-Y seismic data.",
   "author": "Arjun VH",
   "license": null,
   "home_page": "https://github.com/arjun-vh/SeisPlotPy",
-  "download_filename": "seisplotpy-0.1.0.tar.gz",
-  "download_time": "2025-07-29T04:41:50.096484",
+  "download_filename": "seisplotpy-0.1.1.tar.gz",
+  "download_time": "2025-07-29T06:54:08.964428",
   "package_url": "https://pypi.org/project/SeisPlotPy/"
 }

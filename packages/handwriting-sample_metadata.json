@@ -1,0 +1,11 @@
+{
+  "name": "handwriting-sample",
+  "version": "1.0.6",
+  "summary": "Handwriting sample",
+  "author": "Brain Diseases Analysis Laboratory",
+  "license": "MIT",
+  "home_page": "https://github.com/BDALab/handwriting-sample",
+  "download_filename": "handwriting_sample-1.0.6.tar.gz",
+  "download_time": "2025-07-29T06:54:13.135455",
+  "package_url": "https://pypi.org/project/handwriting-sample/"
+}
