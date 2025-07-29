@@ -1,0 +1,11 @@
+{
+  "name": "resilient",
+  "version": "51.0.7.0.1603",
+  "summary": "Python client module for the IBM SOAR REST API",
+  "author": "IBM SOAR",
+  "license": "MIT",
+  "home_page": "https://github.com/ibmresilient/resilient-python-api/tree/main/resilient",
+  "download_filename": "resilient-51.0.7.0.1603.tar.gz",
+  "download_time": "2025-07-29T21:11:47.249303",
+  "package_url": "https://pypi.org/project/resilient/"
+}

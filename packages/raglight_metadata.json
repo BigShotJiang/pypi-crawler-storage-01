@@ -1,0 +1,11 @@
+{
+  "name": "raglight",
+  "version": "2.0.0",
+  "summary": "RAGLight is a lightweight and modular Python library for implementing Retrieval-Augmented Generation (RAG). It enhances the capabilities of Large Language Models (LLMs) by combining document retrieval with natural language inference.",
+  "author": "Labess40",
+  "license": "Designed for simplicity and flexibility, RAGLight provides modular components to easily integrate various LLMs, embeddings, and vector stores, making it an ideal tool for building context-aware AI solutions. ✨MIT",
+  "home_page": "https://github.com/Bessouat40/RAGLight",
+  "download_filename": "raglight-2.0.0.tar.gz",
+  "download_time": "2025-07-29T21:12:00.810902",
+  "package_url": "https://pypi.org/project/raglight/"
+}

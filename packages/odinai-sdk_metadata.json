@@ -1,11 +1,11 @@
 {
   "name": "odinai-sdk",
-  "version": "3.0.100",
+  "version": "3.0.101",
   "summary": "Odin AI Python SDK - Official Python client library for Odin AI API",
   "author": "Odin AI Team",
   "license": "MIT",
   "home_page": "https://getodin.ai",
-  "download_filename": "odinai_sdk-3.0.100.tar.gz",
-  "download_time": "2025-07-29T20:54:17.470517",
+  "download_filename": "odinai_sdk-3.0.101.tar.gz",
+  "download_time": "2025-07-29T21:12:00.298934",
   "package_url": "https://pypi.org/project/odinai-sdk/"
 }
