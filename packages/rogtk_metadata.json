@@ -1,11 +1,11 @@
 {
   "name": "rogtk",
-  "version": "0.1.15",
-  "summary": null,
+  "version": "0.1.16",
+  "summary": "Rust-based genomics toolkit - high-performance backend for ogtk",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "rogtk-0.1.15.tar.gz",
-  "download_time": "2025-07-29T15:41:23.084764",
+  "download_filename": "rogtk-0.1.16.tar.gz",
+  "download_time": "2025-07-29T19:32:15.230444",
   "package_url": "https://pypi.org/project/rogtk/"
 }

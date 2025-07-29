@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T19:15:55.110103
-- **Total Packages**: 82
-- **Total Size**: 31.18 MB
+- **Download Time**: 2025-07-29T19:32:53.077822
+- **Total Packages**: 79
+- **Total Size**: 40.28 MB
 
 ## Packages List
+- plaidcloud-utilities
+- howso-engine
+- npc-mvr
+- toomanyconfigs
+- clientfactory
+- gcp-releasetool
+- metaflow
+- metaflow-stubs
+- rest-adapter
+- sleipnirgroup-jormungandr
+- rogtk
+- pageai-sdk
+- archivey
+- clapp-pm
+- gammarers.aws-frontend-web-app-deploy-stack
+- pywebtransport
+- ozzy-pic
+- bloqade-circuit
+- ingestr
+- agentbeats
+- matrice
+- boto3
+- hivclustering
+- awscli
+- dshellInterpreter
+- geomltoolkits
+- listpick
+- emannotationschemas
+- avocavo-nutrition
+- codal-tsetmc-datastore
+- not1mm
+- cfncli
+- tree-sitter-slang
+- dank-mids
+- npcpy
+- terminal-control-mcp
+- pycarlo
+- cc-validator
+- FinToolsAP
+- strkit-rust-ext
+- winipedia-utils
+- pyblu
+- qtapputils
+- ubuntu-package-download
 - calt-x
 - graph-games-proto
 - getignore3
@@ -18,7 +62,6 @@
 - abdwp
 - krnel
 - dataforge-sdk
-- emannotationschemas
 - adios4dolfinx
 - odoo-addon-mgmtsystem-review
 - odoo-addon-mgmtsystem-review-survey
@@ -42,49 +85,3 @@
 - gitpush-tool
 - kaqing
 - apple-appstore-metadata-extractor
-- pycellin
-- clapp-pm
-- bolt-api-sdk
-- opentrons
-- tonie-podcast-sync
-- myopenai
-- cowlist
-- kreuzberg
-- SAMBA-ilum
-- metrics_layer
-- toomanyconfigs
-- range-tools
-- simba-uw-tf-dev
-- o2o-process
-- bookspointer
-- wdsdk
-- aa-dens
-- bleak-pythonista
-- anaconda-assistant-conda
-- easynetwork
-- clear-skies
-- osbot-fast-api-serverless
-- canonicalize-range
-- streamlit-json-tip
-- llm-cerebras
-- lamin_cli
-- piqtec
-- decksmith
-- logsentinelai
-- molecule
-- PyApso
-- bring-parser
-- lamindb_setup
-- regex
-- radiate
-- invenio-catalogue-marc21
-- ansible-creator
-- ursina-proteins
-- dpncy
-- mimeiapify
-- azure-mgmt-recoveryservicesdatareplication
-- qtype
-- ros2-unbag
-- plato-sdk
-- fastal-langgraph-toolkit
-- duplocloud-client

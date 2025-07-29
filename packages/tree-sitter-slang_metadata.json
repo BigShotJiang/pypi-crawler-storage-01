@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-slang",
+  "version": "0.3.1",
+  "summary": "Slang grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_slang-0.3.1.tar.gz",
+  "download_time": "2025-07-29T19:32:28.859976",
+  "package_url": "https://pypi.org/project/tree-sitter-slang/"
+}

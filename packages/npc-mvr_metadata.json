@@ -1,0 +1,11 @@
+{
+  "name": "npc-mvr",
+  "version": "0.1.12",
+  "summary": "Tools for reading raw video data from MindScope Neuropixels experiments, compatible with data in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npc_mvr-0.1.12.tar.gz",
+  "download_time": "2025-07-29T19:32:11.050383",
+  "package_url": "https://pypi.org/project/npc-mvr/"
+}

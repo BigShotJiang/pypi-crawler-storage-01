@@ -1,0 +1,11 @@
+{
+  "name": "geomltoolkits",
+  "version": "0.4.0",
+  "summary": "Toolkits for Geospatial Machine Learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geomltoolkits-0.4.0.tar.gz",
+  "download_time": "2025-07-29T19:32:25.216782",
+  "package_url": "https://pypi.org/project/geomltoolkits/"
+}

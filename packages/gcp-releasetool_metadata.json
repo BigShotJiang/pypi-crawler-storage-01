@@ -1,0 +1,11 @@
+{
+  "name": "gcp-releasetool",
+  "version": "2.6.1",
+  "summary": null,
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "gcp_releasetool-2.6.1.tar.gz",
+  "download_time": "2025-07-29T19:32:12.596343",
+  "package_url": "https://pypi.org/project/gcp-releasetool/"
+}

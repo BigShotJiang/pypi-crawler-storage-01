@@ -1,0 +1,11 @@
+{
+  "name": "cfncli",
+  "version": "0.2.0",
+  "summary": "CloudFormation CLI Wrapper",
+  "author": "Fase, Andy",
+  "license": "MIT",
+  "home_page": "https://github.com/andyfase/cfncli",
+  "download_filename": "cfncli-0.2.0.tar.gz",
+  "download_time": "2025-07-29T19:32:28.340595",
+  "package_url": "https://pypi.org/project/cfncli/"
+}
