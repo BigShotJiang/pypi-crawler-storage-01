@@ -1,0 +1,11 @@
+{
+  "name": "mcp-domain-checker",
+  "version": "1.0.3",
+  "summary": "MCP server for checking domain availability and suggesting alternatives",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_domain_checker-1.0.3.tar.gz",
+  "download_time": "2025-07-29T13:12:53.765935",
+  "package_url": "https://pypi.org/project/mcp-domain-checker/"
+}

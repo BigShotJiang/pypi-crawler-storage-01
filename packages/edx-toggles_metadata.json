@@ -1,0 +1,11 @@
+{
+  "name": "edx-toggles",
+  "version": "5.4.1",
+  "summary": "Library and utilities for feature toggles",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/edx-toggles",
+  "download_filename": "edx_toggles-5.4.1.tar.gz",
+  "download_time": "2025-07-29T13:13:13.500638",
+  "package_url": "https://pypi.org/project/edx-toggles/"
+}

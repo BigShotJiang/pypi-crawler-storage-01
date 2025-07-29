@@ -1,11 +1,11 @@
 {
   "name": "lusid-scheduler-sdk",
-  "version": "2.1.127",
+  "version": "2.1.128",
   "summary": "FINBOURNE Scheduler API",
   "author": "FINBOURNE Technology",
   "license": "MIT",
   "home_page": "https://github.com/finbourne/scheduler-sdk-python",
-  "download_filename": "lusid_scheduler_sdk-2.1.127.tar.gz",
-  "download_time": "2025-07-29T09:17:42.863044",
+  "download_filename": "lusid_scheduler_sdk-2.1.128.tar.gz",
+  "download_time": "2025-07-29T13:13:12.986315",
   "package_url": "https://pypi.org/project/lusid-scheduler-sdk/"
 }

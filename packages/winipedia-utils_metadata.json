@@ -1,0 +1,11 @@
+{
+  "name": "winipedia-utils",
+  "version": "0.1.57",
+  "summary": "A package with many utility functions",
+  "author": "Winipedia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "winipedia_utils-0.1.57.tar.gz",
+  "download_time": "2025-07-29T13:12:50.198239",
+  "package_url": "https://pypi.org/project/winipedia-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llm-exo-graph",
-  "version": "1.1.0",
-  "summary": "Advanced Knowledge Graph Engine with semantic search and temporal tracking",
+  "version": "1.2.1",
+  "summary": "Advanced Knowledge Graph Engine with Document Processing, Semantic Search and Multi-LLM Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_exo_graph-1.1.0.tar.gz",
-  "download_time": "2025-07-29T10:43:06.433242",
+  "download_filename": "llm_exo_graph-1.2.1-py3-none-any.whl",
+  "download_time": "2025-07-29T13:13:08.338155",
   "package_url": "https://pypi.org/project/llm-exo-graph/"
 }

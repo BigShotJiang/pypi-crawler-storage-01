@@ -1,0 +1,11 @@
+{
+  "name": "mdc-rackauskas",
+  "version": "0.4",
+  "summary": "Minecraft server downloader ir launcher",
+  "author": "Tavo vardas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdc_rackauskas-0.4.tar.gz",
+  "download_time": "2025-07-29T13:13:10.653869",
+  "package_url": "https://pypi.org/project/mdc-rackauskas/"
+}
