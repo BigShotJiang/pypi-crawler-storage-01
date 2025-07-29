@@ -1,0 +1,11 @@
+{
+  "name": "beem-sms-python",
+  "version": "1.0.2",
+  "summary": "Professional Python SDK for Beem SMS API",
+  "author": "James Mashaka",
+  "license": "MIT License - Copyright (c) 2025 James Mashaka",
+  "home_page": "https://github.com/islandkid-20/beem-sms-python",
+  "download_filename": "beem_sms_python-1.0.2.tar.gz",
+  "download_time": "2025-07-29T10:56:21.291773",
+  "package_url": "https://pypi.org/project/beem-sms-python/"
+}

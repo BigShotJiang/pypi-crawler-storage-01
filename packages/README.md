@@ -1,14 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T10:43:21.545553
-- **Total Packages**: 90
-- **Total Size**: 29.2 MB
+- **Download Time**: 2025-07-29T10:56:44.855179
+- **Total Packages**: 85
+- **Total Size**: 32.72 MB
 
 ## Packages List
+- simt-emlite
+- pynintendoparental
+- json-to-sqla
+- evathon
+- truelink
+- arcticdb
+- lybic
+- dlrm
+- konduktor-nightly
+- AVPlay
+- deepsights-api
+- oxylabs-ai-studio
+- xiyou-sdk
+- cryptodatapy
+- signxai2
+- ex4nicegui
+- trainy-policy-nightly
+- molabel
+- colordove-auto
+- pretty-build
+- SWAXSanalysis
+- airflow-dbt-python
+- django-computedfields
+- mlrun
+- staran
+- seven-cloudapp-frame
+- geobox
+- maptrans
+- jbutils
+- pyweber
+- spritze
+- gliner2
+- letta-nightly
+- ws-bom-robot-app
+- smallestai
+- aptx-neuron
+- ComicGUISpider
+- e2b
+- matrice
+- beem-sms-python
+- isar
+- solvency2-data
 - ai4ce-helpers
 - animepahe-dl
-- xiyou-sdk
 - scicat-sdk-py
 - prefect-tool-state
 - mail-bandit
@@ -20,7 +61,6 @@
 - amber-embeddings
 - cenreg
 - huntglitch-python
-- maptrans
 - perian
 - pybatch99
 - licome
@@ -29,8 +69,6 @@
 - google-cloud-helper
 - orq-ai-sdk
 - ngapp
-- colordove-auto
-- matrice
 - pulumi-containerregistry
 - cli-base-utilities
 - legend-pygeom-optics
@@ -53,46 +91,3 @@
 - txl_text_editor
 - txl_local_kernels
 - txl_remote_terminals
-- txl_file_browser
-- txl_kernel
-- txl_notebook_editor
-- txl_image_viewer
-- txl_remote_kernels
-- txl_local_terminals
-- txl_widgets
-- circheck
-- cvat-sdk
-- cvat-cli
-- insight-plugin
-- edcpy
-- secretsentry
-- pact-python-ffi
-- llm-exo-graph
-- pretty-build
-- jupyterlab-classiq
-- classiq
-- pokie-gunicorn
-- appm
-- staran
-- cdk-dev-cloud-constructs
-- odoo-addon-account-invoice-bank-brand
-- demiurg
-- funpayparsers
-- deepsights-api
-- aio-client
-- guillotina-nuclia
-- open-space-toolkit-astrodynamics
-- kstprocess
-- ChronoFidelius
-- itkspec
-- audiostack
-- ory-client
-- tshu
-- apache-airflow-providers-zendesk
-- apache-airflow-providers-ydb
-- apache-airflow-providers-yandex
-- apache-airflow-providers-weaviate
-- odoo-addon-product-brand-tag
-- apache-airflow-providers-vertica
-- odsexport
-- apache-airflow-providers-trino

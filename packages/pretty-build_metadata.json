@@ -1,11 +1,11 @@
 {
   "name": "pretty-build",
-  "version": "1.1.0",
+  "version": "1.2.8",
   "summary": "增强型构建系统包装器 - 美观的构建界面和实时监控",
   "author": "Pretty Build Team",
   "license": null,
   "home_page": "https://github.com/prettybuild/pretty-build",
-  "download_filename": "pretty_build-1.1.0.tar.gz",
-  "download_time": "2025-07-29T10:43:06.951567",
+  "download_filename": "pretty-build-1.2.8.tar.gz",
+  "download_time": "2025-07-29T10:56:10.249043",
   "package_url": "https://pypi.org/project/pretty-build/"
 }
