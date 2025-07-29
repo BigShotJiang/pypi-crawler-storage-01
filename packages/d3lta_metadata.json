@@ -1,11 +1,11 @@
 {
   "name": "d3lta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A library for detecting verbatim-duplicated contents within a vast amount of documents",
   "author": "Viginum",
   "license": null,
   "home_page": null,
-  "download_filename": "d3lta-1.0.1.tar.gz",
-  "download_time": "2025-07-29T08:50:22.343060",
+  "download_filename": "d3lta-1.0.2.tar.gz",
+  "download_time": "2025-07-29T16:14:27.045213",
   "package_url": "https://pypi.org/project/d3lta/"
 }

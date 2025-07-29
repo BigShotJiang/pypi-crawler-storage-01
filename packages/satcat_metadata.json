@@ -1,0 +1,11 @@
+{
+  "name": "satcat",
+  "version": "1.0.2",
+  "summary": "Satcat by Satcat Software Development Kit",
+  "author": "Derek Strobel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "satcat-1.0.2.tar.gz",
+  "download_time": "2025-07-29T16:14:31.165434",
+  "package_url": "https://pypi.org/project/satcat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zohencel-ai",
-  "version": "0.4.20",
+  "version": "0.4.22",
   "summary": "World's first 'Text to ML model' support library. Also comes with an analysis chart bot that plots graphs from your data through queries and a completely customizable AI voice assistant.",
   "author": "Vishnu K",
   "license": null,
   "home_page": "https://zohencelai.github.io/",
-  "download_filename": "zohencel_ai-0.4.20.tar.gz",
-  "download_time": "2025-07-29T07:17:10.159578",
+  "download_filename": "zohencel_ai-0.4.22.tar.gz",
+  "download_time": "2025-07-29T16:14:38.438055",
   "package_url": "https://pypi.org/project/zohencel-ai/"
 }
