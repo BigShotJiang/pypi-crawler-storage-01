@@ -1,0 +1,11 @@
+{
+  "name": "xlhdnumpy",
+  "version": "0.3.0",
+  "summary": "A simple numpy-like library for array operations",
+  "author": "xiaolihuidao",
+  "license": null,
+  "home_page": "https://github.com/xiaolihuidao/xlhdnumpy",
+  "download_filename": "xlhdnumpy-0.3.0.tar.gz",
+  "download_time": "2025-07-29T05:17:00.955999",
+  "package_url": "https://pypi.org/project/xlhdnumpy/"
+}

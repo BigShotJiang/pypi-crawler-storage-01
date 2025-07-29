@@ -1,0 +1,11 @@
+{
+  "name": "CompleteBin",
+  "version": "1.1.0.1",
+  "summary": "The binner to cluster contigs.",
+  "author": "Bohao Zou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "CompleteBin-1.1.0.1.tar.gz",
+  "download_time": "2025-07-29T05:17:04.897141",
+  "package_url": "https://pypi.org/project/CompleteBin/"
+}

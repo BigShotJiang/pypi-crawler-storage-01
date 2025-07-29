@@ -1,0 +1,11 @@
+{
+  "name": "wechatpayv3",
+  "version": "2.0.0",
+  "summary": "微信支付 Python SDK(python sdk for wechatpay)",
+  "author": "minibear",
+  "license": "MIT",
+  "home_page": "https://github.com/minibear2021/wechatpayv3",
+  "download_filename": "wechatpayv3-2.0.0.tar.gz",
+  "download_time": "2025-07-29T05:17:14.030917",
+  "package_url": "https://pypi.org/project/wechatpayv3/"
+}
