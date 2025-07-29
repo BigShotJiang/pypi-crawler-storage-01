@@ -1,0 +1,11 @@
+{
+  "name": "mysqlite4",
+  "version": "0.1.0",
+  "summary": "A lightweight SQLite wrapper for Python with enhanced features.",
+  "author": "Jiaking",
+  "license": "MIT",
+  "home_page": "https://github.com/Jiaking/mysqlite4",
+  "download_filename": "mysqlite4-0.1.0.tar.gz",
+  "download_time": "2025-07-29T07:53:19.562520",
+  "package_url": "https://pypi.org/project/mysqlite4/"
+}

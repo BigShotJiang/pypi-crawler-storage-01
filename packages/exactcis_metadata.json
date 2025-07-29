@@ -1,0 +1,11 @@
+{
+  "name": "exactcis",
+  "version": "0.1.0",
+  "summary": "Exact confidence intervals for odds ratios",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exactcis-0.1.0.tar.gz",
+  "download_time": "2025-07-29T07:53:20.086822",
+  "package_url": "https://pypi.org/project/exactcis/"
+}
