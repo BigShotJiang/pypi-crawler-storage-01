@@ -1,0 +1,11 @@
+{
+  "name": "color-code-stim",
+  "version": "1.0.3",
+  "summary": "A small Python module for simulating & decoding 2D color code circuits",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "color_code_stim-1.0.3.tar.gz",
+  "download_time": "2025-07-29T04:41:51.134431",
+  "package_url": "https://pypi.org/project/color-code-stim/"
+}

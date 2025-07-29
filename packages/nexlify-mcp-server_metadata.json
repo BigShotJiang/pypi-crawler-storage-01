@@ -1,11 +1,11 @@
 {
   "name": "nexlify-mcp-server",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "The Nexlify MCP Server is a lightweight Python package designed to integrate GitHub Copilot with the Nexlify AI system.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "nexlify_mcp_server-0.1.4.tar.gz",
-  "download_time": "2025-07-29T03:56:45.244564",
+  "download_filename": "nexlify_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-07-29T04:42:08.509077",
   "package_url": "https://pypi.org/project/nexlify-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "t8386",
+  "version": "0.1.5",
+  "summary": "A Python package for managing blockchain accounts and interactions with REST APIs.",
+  "author": "t8386",
+  "license": "MIT",
+  "home_page": "https://github.com/tyluudinh/t8386",
+  "download_filename": "t8386-0.1.5.tar.gz",
+  "download_time": "2025-07-29T04:42:00.143641",
+  "package_url": "https://pypi.org/project/t8386/"
+}

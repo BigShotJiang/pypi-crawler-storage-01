@@ -1,0 +1,11 @@
+{
+  "name": "shtuff",
+  "version": "0.4.0",
+  "summary": "It's like screen's stuff command, without screen",
+  "author": "Jeremy Fleischman",
+  "license": null,
+  "home_page": "https://github.com/jfly/shtuff",
+  "download_filename": "shtuff-0.4.0.tar.gz",
+  "download_time": "2025-07-29T04:42:15.320541",
+  "package_url": "https://pypi.org/project/shtuff/"
+}

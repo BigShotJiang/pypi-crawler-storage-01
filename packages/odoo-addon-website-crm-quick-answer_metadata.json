@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-crm-quick-answer",
+  "version": "17.0.1.0.0.5",
+  "summary": "Add an automatic answer for contacts asking for info",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/website",
+  "download_filename": "odoo_addon_website_crm_quick_answer-17.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-07-29T04:42:11.140591",
+  "package_url": "https://pypi.org/project/odoo-addon-website-crm-quick-answer/"
+}

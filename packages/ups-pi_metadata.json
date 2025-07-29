@@ -1,0 +1,11 @@
+{
+  "name": "ups-pi",
+  "version": "1.0.8",
+  "summary": "uart-based ups power management for raspberry pi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ups_pi-1.0.8.tar.gz",
+  "download_time": "2025-07-29T04:42:04.861082",
+  "package_url": "https://pypi.org/project/ups-pi/"
+}
