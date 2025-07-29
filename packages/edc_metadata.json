@@ -1,0 +1,11 @@
+{
+  "name": "edc",
+  "version": "1.2.1",
+  "summary": "EDC core modules for clinicedc/edc projects",
+  "author": "Erik van Widenfelt, Jonathan Willitts",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edc-1.2.1.tar.gz",
+  "download_time": "2025-07-29T03:56:26.960495",
+  "package_url": "https://pypi.org/project/edc/"
+}

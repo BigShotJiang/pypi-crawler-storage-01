@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-task-stage-change-restriction",
+  "version": "16.0.1.0.0.4",
+  "summary": "Restrict project task stage",
+  "author": "Odoo Community Association (OCA), Cetmix",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_task_stage_change_restriction-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-07-29T03:56:53.804527",
+  "package_url": "https://pypi.org/project/odoo-addon-project-task-stage-change-restriction/"
+}

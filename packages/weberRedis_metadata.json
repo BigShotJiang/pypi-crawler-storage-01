@@ -1,0 +1,11 @@
+{
+  "name": "weberRedis",
+  "version": "0.0.13",
+  "summary": "Public functions library wrote by Weber Juche.",
+  "author": "Weber Juche",
+  "license": "MIT",
+  "home_page": "https://github.com/Weber-JC/PythonEggs/tree/master/weberFuncs",
+  "download_filename": "weberredis-0.0.13.tar.gz",
+  "download_time": "2025-07-29T03:57:12.991045",
+  "package_url": "https://pypi.org/project/weberRedis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genebank-file-generater",
+  "version": "0.1.2",
+  "summary": "A comprehensive tool for converting DNA FASTA files to annotated GenBank format with automated gene prediction using Augustus",
+  "author": "GbkGen Development Team",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "genebank_file_generater-0.1.2.tar.gz",
+  "download_time": "2025-07-29T03:56:26.421421",
+  "package_url": "https://pypi.org/project/genebank-file-generater/"
+}

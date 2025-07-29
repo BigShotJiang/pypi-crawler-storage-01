@@ -1,0 +1,11 @@
+{
+  "name": "llm-execution-time-predictor",
+  "version": "0.1.2",
+  "summary": "LLM batch inference latency predictor and profiler CLI tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_execution_time_predictor-0.1.2.tar.gz",
+  "download_time": "2025-07-29T03:57:14.057526",
+  "package_url": "https://pypi.org/project/llm-execution-time-predictor/"
+}
