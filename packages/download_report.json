@@ -1,8 +1,15 @@
 {
-  "download_time": "2025-07-29T22:54:20.368843",
+  "download_time": "2025-07-29T23:12:49.056845",
   "total_packages_downloaded": 86,
-  "total_size_mb": 16.31,
+  "total_size_mb": 7.19,
   "packages": [
+    "brevesky",
+    "better_experimentation",
+    "CreandoMiPaquete",
+    "pyobjict",
+    "tensorlake",
+    "opteryx",
+    "wherobots-python-dbapi",
     "T-AI-project",
     "letta-client",
     "guardx",
@@ -81,13 +88,6 @@
     "sd-mecha",
     "bigraph-viz",
     "BSTPythonSDK",
-    "streamlit-rockyroad-tools",
-    "o2o-process",
-    "pre-commit-crocodile",
-    "vsrl",
-    "link2abc",
-    "azure-monitor-opentelemetry",
-    "osbot-fast-api-serverless",
-    "meshwork"
+    "streamlit-rockyroad-tools"
   ]
 }
