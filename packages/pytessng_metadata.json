@@ -1,0 +1,11 @@
+{
+  "name": "pytessng",
+  "version": "0.4.8",
+  "summary": "TESS NG Toolkit for Network Edit",
+  "author": "Xinghao Su",
+  "license": null,
+  "home_page": "https://www.jidatraffic.com/",
+  "download_filename": "pytessng-0.4.8.tar.gz",
+  "download_time": "2025-07-29T06:19:53.549302",
+  "package_url": "https://pypi.org/project/pytessng/"
+}

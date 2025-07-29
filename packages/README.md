@@ -1,43 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T05:50:20.153681
-- **Total Packages**: 81
-- **Total Size**: 23.61 MB
+- **Download Time**: 2025-07-29T06:19:58.336810
+- **Total Packages**: 85
+- **Total Size**: 11.54 MB
 
 ## Packages List
-- bec-server
-- bec-lib
-- bec-ipython-client
-- icetcore
-- pingxiwanggit
-- valve-parsers
-- julia-browser
-- thoth-dbmanager
-- imio.directory.core
-- prefig
-- leaguemanager
-- krex
-- matrice
-- unpage
-- dea-tools
 - nonebot_plugin_lazytea_shell_extension
 - noetl
 - dustmaps3d
 - linkmod
 - pipe-pai-tool
+- matrice
 - pg-db-operation-mcp-server
 - bear-epoch-time
+- julia-browser
 - halib
 - colordove-auto
 - pytest-bec-e2e
+- bec-server
+- bec-lib
 - surfari
+- bec-ipython-client
 - pytsk3
 - triple-equal
 - signxai2
+- thoth-dbmanager
+- pingxiwanggit
 - nonebot_plugin_lazytea
 - ommx-gurobipy-adapter
 - mlstm-kernels
+- dea-tools
 - agentcrew-ai
 - klavis
 - anipy-server
@@ -87,3 +80,14 @@
 - iamdata
 - openaleph-procrastinate
 - get-handling-prompt
+- devstack-cli
+- agentlin
+- africanjokes
+- pytessng
+- return-my-name-sample
+- gllm-inference-binary
+- fastapi-login-shield
+- rcabench
+- koatl
+- lchpersonal-ai-tools
+- beta9

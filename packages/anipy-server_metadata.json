@@ -1,11 +1,11 @@
 {
   "name": "anipy-server",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A modern, self-hosted anime scrapper and streaming server.",
   "author": "B14CK-KN1GH7",
   "license": null,
   "home_page": "https://github.com/nfs-tech-bd/anipy-server",
-  "download_filename": "anipy_server-0.1.4.tar.gz",
-  "download_time": "2025-07-29T05:49:55.041602",
+  "download_filename": "anipy_server-0.1.6.tar.gz",
+  "download_time": "2025-07-29T06:19:22.764571",
   "package_url": "https://pypi.org/project/anipy-server/"
 }
