@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T22:37:22.680593
+- **Download Time**: 2025-07-29T22:54:20.368843
 - **Total Packages**: 86
-- **Total Size**: 36.08 MB
+- **Total Size**: 16.31 MB
 
 ## Packages List
+- T-AI-project
+- letta-client
+- guardx
+- graphiti-core
+- graphql-api
+- edc
+- hdn-research-environment
+- not1mm
+- ai4ce-helpers
+- repo-radar
+- pop-inv
+- arize-phoenix
+- async-pcloud
+- bookspointer
+- scalar-fastapi
+- ollama-chat
+- chift
+- safari-sdk
+- py-attio
+- pypomes-db
+- nbimgextract
+- mush-wikis-scraper
+- scamper
+- langflow-nightly
+- great-expectations-cloud
+- datatrack-core
+- solids
+- oracle-data-studio
 - numpyimage
 - tecton-runtime
 - tecton
@@ -15,7 +43,6 @@
 - oracledb
 - jinja2-max
 - cleanlab-tlm
-- bookspointer
 - phoneshift
 - ollamapy
 - karellen-llvm-toolchain-tools
@@ -31,10 +58,6 @@
 - perisso
 - PySideJZ
 - fireworks-ai
-- jinja-max
-- great-expectations-cloud
-- mush-wikis-scraper
-- pop-inv
 - mp-api
 - ai-resume-parser
 - flet-charts
@@ -69,26 +92,3 @@
 - azure-monitor-opentelemetry
 - osbot-fast-api-serverless
 - meshwork
-- pypomes-db
-- funtracks
-- czechfabric-sdk
-- avocavo-nutrition
-- rms-pdstable
-- foscat
-- nominal-api-protos
-- nominal-api
-- crystallize-ml
-- regula-documentreader-webclient
-- matrix-python-sdk
-- gradio-memotext
-- infra-new
-- openwrite
-- gpu-benchmark-tool
-- gcid
-- FernetKeyGen
-- mailslurp-client
-- docutools
-- jgtml
-- aibs-informatics-core
-- adcutils
-- jgtpy

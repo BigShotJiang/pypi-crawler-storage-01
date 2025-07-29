@@ -1,0 +1,11 @@
+{
+  "name": "scalar-fastapi",
+  "version": "1.2.3",
+  "summary": "This plugin provides an easy way to render a beautiful API reference based on a OpenAPI/Swagger file with FastAPI.",
+  "author": "Marc Laventure",
+  "license": null,
+  "home_page": "https://github.com/scalar/scalar",
+  "download_filename": "scalar_fastapi-1.2.3.tar.gz",
+  "download_time": "2025-07-29T22:53:38.700826",
+  "package_url": "https://pypi.org/project/scalar-fastapi/"
+}
