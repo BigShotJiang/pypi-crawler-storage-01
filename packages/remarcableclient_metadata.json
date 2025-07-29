@@ -1,0 +1,11 @@
+{
+  "name": "remarcableclient",
+  "version": "1.0.0",
+  "summary": "Interacts with Remarcable's API to support inventory management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "remarcableclient-1.0.0.tar.gz",
+  "download_time": "2025-07-29T19:15:19.675819",
+  "package_url": "https://pypi.org/project/remarcableclient/"
+}

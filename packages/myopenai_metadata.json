@@ -1,0 +1,11 @@
+{
+  "name": "myopenai",
+  "version": "2.3.6",
+  "summary": "A simple OpenAI function package",
+  "author": "Shin Oomura",
+  "license": null,
+  "home_page": "https://github.com/lupin-oomura/myopenai.git",
+  "download_filename": "myopenai-2.3.6.tar.gz",
+  "download_time": "2025-07-29T19:15:28.925504",
+  "package_url": "https://pypi.org/project/myopenai/"
+}

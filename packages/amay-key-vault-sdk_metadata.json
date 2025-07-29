@@ -1,0 +1,11 @@
+{
+  "name": "amay-key-vault-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for accessing Key Vault API keys and values",
+  "author": "Amay Korade",
+  "license": null,
+  "home_page": "https://github.com/amaykorade/key-vault",
+  "download_filename": "amay_key_vault_sdk-1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-29T19:15:20.308274",
+  "package_url": "https://pypi.org/project/amay-key-vault-sdk/"
+}
