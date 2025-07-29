@@ -1,0 +1,11 @@
+{
+  "name": "emlearn",
+  "version": "0.23.1",
+  "summary": "Machine learning for microcontrollers and embedded systems",
+  "author": "Jon Nordby",
+  "license": null,
+  "home_page": "https://github.com/emlearn/emlearn",
+  "download_filename": "emlearn-0.23.1.tar.gz",
+  "download_time": "2025-07-29T20:37:42.136882",
+  "package_url": "https://pypi.org/project/emlearn/"
+}

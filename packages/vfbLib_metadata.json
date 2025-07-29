@@ -1,0 +1,11 @@
+{
+  "name": "vfbLib",
+  "version": "0.10.1",
+  "summary": "Tools for converting FontLab Studio 5 (VFB) files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vfblib-0.10.1.tar.gz",
+  "download_time": "2025-07-29T20:37:52.634277",
+  "package_url": "https://pypi.org/project/vfbLib/"
+}

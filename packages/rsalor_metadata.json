@@ -1,0 +1,11 @@
+{
+  "name": "rsalor",
+  "version": "1.1.2",
+  "summary": "Combines structural data (Relative Solvent Accessibility, RSA) and evolutionary data (Log Odd Ratio, LOR from MSA) to evaluate missense mutations in proteins.",
+  "author": "Matsvei Tsishyn",
+  "license": null,
+  "home_page": "https://github.com/3BioCompBio/RSALOR",
+  "download_filename": "rsalor-1.1.2.tar.gz",
+  "download_time": "2025-07-29T20:37:59.993002",
+  "package_url": "https://pypi.org/project/rsalor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clausemate",
+  "version": "2.0.1",
+  "summary": "German pronoun clause mate extraction and analysis tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clausemate-2.0.1.tar.gz",
+  "download_time": "2025-07-29T20:37:32.561268",
+  "package_url": "https://pypi.org/project/clausemate/"
+}

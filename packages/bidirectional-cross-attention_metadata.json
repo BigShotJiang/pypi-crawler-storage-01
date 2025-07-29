@@ -1,0 +1,11 @@
+{
+  "name": "bidirectional-cross-attention",
+  "version": "0.1.0",
+  "summary": "Bidirectional Cross Attention",
+  "author": "Phil Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/lucidrains/bidirectional-cross-attention",
+  "download_filename": "bidirectional_cross_attention-0.1.0.tar.gz",
+  "download_time": "2025-07-29T20:37:47.333985",
+  "package_url": "https://pypi.org/project/bidirectional-cross-attention/"
+}

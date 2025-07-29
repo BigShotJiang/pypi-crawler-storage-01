@@ -1,0 +1,11 @@
+{
+  "name": "mtuprobe",
+  "version": "0.1.1",
+  "summary": "A tool to find out maximum MTU size on an IPv4 path",
+  "author": "Rémy Sanchez",
+  "license": "WTFPL",
+  "home_page": "https://github.com/Xowap/mtuprobe",
+  "download_filename": "mtuprobe-0.1.1.tar.gz",
+  "download_time": "2025-07-29T20:37:31.540688",
+  "package_url": "https://pypi.org/project/mtuprobe/"
+}

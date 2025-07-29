@@ -1,0 +1,11 @@
+{
+  "name": "tldw",
+  "version": "1.0.3",
+  "summary": "A Python package to summarize YouTube videos using the OpenAI API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tldw-1.0.3.tar.gz",
+  "download_time": "2025-07-29T20:37:43.695578",
+  "package_url": "https://pypi.org/project/tldw/"
+}

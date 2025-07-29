@@ -1,0 +1,11 @@
+{
+  "name": "sample-size-calculator",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python package for calculating sample sizes for various statistical tests including A/B tests, margin analysis, and log-normal distributions",
+  "author": "Tayo Ososanya",
+  "license": null,
+  "home_page": "https://github.com/Tayoso/sample_size_calculator",
+  "download_filename": "sample_size_calculator-1.0.0.tar.gz",
+  "download_time": "2025-07-29T20:37:54.183981",
+  "package_url": "https://pypi.org/project/sample-size-calculator/"
+}
