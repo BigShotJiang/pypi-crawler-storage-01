@@ -1,0 +1,11 @@
+{
+  "name": "pddiktipy",
+  "version": "2.0.5",
+  "summary": "Unofficial Python API wrapper to get data at PDDIKTI Kemdikbud",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pddiktipy-2.0.5.tar.gz",
+  "download_time": "2025-07-29T08:17:03.061951",
+  "package_url": "https://pypi.org/project/pddiktipy/"
+}

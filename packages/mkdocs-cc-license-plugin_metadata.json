@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-cc-license-plugin",
+  "version": "1.0.1",
+  "summary": "MkDocs plugin for automatic Creative Commons license management",
+  "author": "Jérôme Bezet-Torres",
+  "license": "MIT",
+  "home_page": "https://github.com/JM2K69/mkdocs-cc-license-plugin",
+  "download_filename": "mkdocs_cc_license_plugin-1.0.1.tar.gz",
+  "download_time": "2025-07-29T08:17:04.228771",
+  "package_url": "https://pypi.org/project/mkdocs-cc-license-plugin/"
+}

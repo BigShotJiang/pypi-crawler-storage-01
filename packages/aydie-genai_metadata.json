@@ -1,0 +1,11 @@
+{
+  "name": "aydie-genai",
+  "version": "1.1.0",
+  "summary": "A simple and unified Python library to interact with various Large Language Models (LLMs) like Gemini, GPT, Claude, and more by abstracting provider-specific code and authentication.",
+  "author": "Aditya (Aydie) Dinesh K",
+  "license": "MIT",
+  "home_page": "https://github.com/aydiegithub/aydie-genai",
+  "download_filename": "aydie_genai-1.1.0.tar.gz",
+  "download_time": "2025-07-29T08:17:02.492005",
+  "package_url": "https://pypi.org/project/aydie-genai/"
+}

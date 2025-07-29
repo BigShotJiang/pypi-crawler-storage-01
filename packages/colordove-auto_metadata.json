@@ -1,11 +1,11 @@
 {
   "name": "colordove-auto",
-  "version": "1.0.17",
+  "version": "1.0.20",
   "summary": "Cross border e-commerce automation program",
   "author": "Zhongshuizhou",
   "license": null,
   "home_page": "https://www.colordove.com",
-  "download_filename": "colordove_auto-1.0.17-py3-none-any.whl",
-  "download_time": "2025-07-29T07:53:16.442728",
+  "download_filename": "colordove_auto-1.0.20.tar.gz",
+  "download_time": "2025-07-29T08:17:05.199166",
   "package_url": "https://pypi.org/project/colordove-auto/"
 }
