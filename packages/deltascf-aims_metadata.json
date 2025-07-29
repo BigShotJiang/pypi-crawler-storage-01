@@ -1,0 +1,11 @@
+{
+  "name": "deltascf-aims",
+  "version": "1.1.3",
+  "summary": "Application to calculate core holes in FHI-aims",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deltascf_aims-1.1.3.tar.gz",
+  "download_time": "2025-07-29T10:13:12.492972",
+  "package_url": "https://pypi.org/project/deltascf-aims/"
+}

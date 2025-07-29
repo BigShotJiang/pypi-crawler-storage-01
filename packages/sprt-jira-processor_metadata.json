@@ -1,0 +1,11 @@
+{
+  "name": "sprt-jira-processor",
+  "version": "0.1.4",
+  "summary": "A library to process JIRA issues and generate summaries.",
+  "author": "hannah biju",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sprt_jira_processor-0.1.4.tar.gz",
+  "download_time": "2025-07-29T10:13:20.820574",
+  "package_url": "https://pypi.org/project/sprt-jira-processor/"
+}

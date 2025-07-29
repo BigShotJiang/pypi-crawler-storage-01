@@ -1,0 +1,11 @@
+{
+  "name": "stac-check",
+  "version": "1.11.1",
+  "summary": "Linting and validation tool for STAC assets",
+  "author": "Jonathan Healy",
+  "license": "MIT",
+  "home_page": "https://github.com/stac-utils/stac-check",
+  "download_filename": "stac_check-1.11.1.tar.gz",
+  "download_time": "2025-07-29T10:13:38.052938",
+  "package_url": "https://pypi.org/project/stac-check/"
+}

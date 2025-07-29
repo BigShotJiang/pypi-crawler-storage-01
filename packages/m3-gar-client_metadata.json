@@ -1,0 +1,11 @@
+{
+  "name": "m3-gar-client",
+  "version": "1.4.0",
+  "summary": "UI клиент для сервера ГАР m3-rest-gar",
+  "author": "BARS Group",
+  "license": "MIT",
+  "home_page": "https://stash.bars-open.ru/projects/M3/repos/m3-gar-client",
+  "download_filename": "m3_gar_client-1.4.0.tar.gz",
+  "download_time": "2025-07-29T10:13:40.096417",
+  "package_url": "https://pypi.org/project/m3-gar-client/"
+}

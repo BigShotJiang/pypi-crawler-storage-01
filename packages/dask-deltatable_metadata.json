@@ -1,0 +1,11 @@
+{
+  "name": "dask-deltatable",
+  "version": "0.4.0",
+  "summary": "Dask + Delta Table ",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/dask-contrib/dask-deltatable/",
+  "download_filename": "dask_deltatable-0.4.0.tar.gz",
+  "download_time": "2025-07-29T10:13:42.657429",
+  "package_url": "https://pypi.org/project/dask-deltatable/"
+}

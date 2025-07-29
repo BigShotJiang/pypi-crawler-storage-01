@@ -1,0 +1,11 @@
+{
+  "name": "snoopy-bv",
+  "version": "2.4.0",
+  "summary": "DR C++/Python library",
+  "author": "Research Department BV M&O",
+  "license": null,
+  "home_page": "https://gitlab.com/bv-dr/Snoopy",
+  "download_filename": "snoopy_bv-2.4.0-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-29T10:13:24.040928",
+  "package_url": "https://pypi.org/project/snoopy-bv/"
+}

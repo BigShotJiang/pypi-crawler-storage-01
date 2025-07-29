@@ -1,0 +1,11 @@
+{
+  "name": "py-eval-in-order",
+  "version": "0.1.1",
+  "summary": "A Python package for evaluating multiple boolean conditions (uses eval) IN ORDER.",
+  "author": "Mostafa Hani",
+  "license": null,
+  "home_page": "https://github.com/MostafaHanii/py_eio",
+  "download_filename": "py_eval_in_order-0.1.1.tar.gz",
+  "download_time": "2025-07-29T10:13:31.267820",
+  "package_url": "https://pypi.org/project/py-eval-in-order/"
+}

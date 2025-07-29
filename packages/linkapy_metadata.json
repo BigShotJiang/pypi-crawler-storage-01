@@ -1,11 +1,11 @@
 {
   "name": "linkapy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A common framework to analyse scNMT-seq data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linkapy-1.0.0-cp312-cp312-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-07-29T09:45:45.127006",
+  "download_filename": "linkapy-1.1.0.tar.gz",
+  "download_time": "2025-07-29T10:13:37.029050",
   "package_url": "https://pypi.org/project/linkapy/"
 }
