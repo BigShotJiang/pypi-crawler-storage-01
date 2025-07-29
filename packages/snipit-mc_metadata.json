@@ -1,0 +1,11 @@
+{
+  "name": "snipit-mc",
+  "version": "0.0.4",
+  "summary": "Enhanced snipit with artistic color palettes and improved SNP visualization",
+  "author": "hyzhou1990",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/hyzhou1990/snipit-multicolor",
+  "download_filename": "snipit_mc-0.0.4.tar.gz",
+  "download_time": "2025-07-29T12:24:53.830155",
+  "package_url": "https://pypi.org/project/snipit-mc/"
+}

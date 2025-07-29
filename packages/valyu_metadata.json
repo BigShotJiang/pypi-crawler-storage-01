@@ -1,0 +1,11 @@
+{
+  "name": "valyu",
+  "version": "2.1.0",
+  "summary": "Deepsearch API for AI.",
+  "author": "Valyu",
+  "license": null,
+  "home_page": "https://valyu.network",
+  "download_filename": "valyu-2.1.0.tar.gz",
+  "download_time": "2025-07-29T12:24:56.105172",
+  "package_url": "https://pypi.org/project/valyu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "greeummcp",
+  "version": "1.0.0",
+  "summary": "# GreeumMCP",
+  "author": "GreeumAI",
+  "license": "MIT",
+  "home_page": "https://github.com/GreeumAI/GreeumMCP",
+  "download_filename": "greeummcp-1.0.0.tar.gz",
+  "download_time": "2025-07-29T12:25:10.487149",
+  "package_url": "https://pypi.org/project/greeummcp/"
+}

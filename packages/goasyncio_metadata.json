@@ -1,0 +1,11 @@
+{
+  "name": "goasyncio",
+  "version": "1.0.0",
+  "summary": "High-performance async I/O library powered by Go backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "goasyncio-1.0.0.tar.gz",
+  "download_time": "2025-07-29T12:25:20.259276",
+  "package_url": "https://pypi.org/project/goasyncio/"
+}

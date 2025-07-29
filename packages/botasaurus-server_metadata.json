@@ -1,0 +1,11 @@
+{
+  "name": "botasaurus-server",
+  "version": "4.0.61",
+  "summary": "Botasaurus Server allows you to transform your scrapers into APIs or scale them using Kubernetes.",
+  "author": "Chetan Jain",
+  "license": "MIT",
+  "home_page": "https://github.com/omkarcloud/botasaurus",
+  "download_filename": "botasaurus_server-4.0.61.tar.gz",
+  "download_time": "2025-07-29T12:24:58.392515",
+  "package_url": "https://pypi.org/project/botasaurus-server/"
+}

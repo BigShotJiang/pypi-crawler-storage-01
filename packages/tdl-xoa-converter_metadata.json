@@ -1,0 +1,11 @@
+{
+  "name": "tdl-xoa-converter",
+  "version": "1.1.0",
+  "summary": "XOA Converter is a library for converting Xena's Windows desktop RFC test configurations to XOA RFC test configurations.",
+  "author": "Leonard Yu",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/xenanetworks/tdl-xoa-converter",
+  "download_filename": "tdl_xoa_converter-1.1.0.tar.gz",
+  "download_time": "2025-07-29T12:24:39.412738",
+  "package_url": "https://pypi.org/project/tdl-xoa-converter/"
+}

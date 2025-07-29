@@ -1,11 +1,11 @@
 {
   "name": "staran",
-  "version": "1.0.9",
-  "summary": "staran - 轻量级Python日期工具库",
+  "version": "1.0.10",
+  "summary": "staran - 企业级Python日期处理库",
   "author": "StarAn",
   "license": "MIT",
   "home_page": "https://github.com/starlxa/staran",
-  "download_filename": "staran-1.0.9.tar.gz",
-  "download_time": "2025-07-29T11:29:53.688201",
+  "download_filename": "staran-1.0.10.tar.gz",
+  "download_time": "2025-07-29T12:24:57.805362",
   "package_url": "https://pypi.org/project/staran/"
 }
