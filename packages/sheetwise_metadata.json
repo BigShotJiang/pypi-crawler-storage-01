@@ -1,0 +1,11 @@
+{
+  "name": "sheetwise",
+  "version": "1.0.0",
+  "summary": "A Python package for encoding spreadsheets for Large Language Models, implementing the SpreadsheetLLM research framework",
+  "author": "Khushiyant Chauhan",
+  "license": "MIT",
+  "home_page": "https://github.com/Khushiyant/sheetwise",
+  "download_filename": "sheetwise-1.0.0.tar.gz",
+  "download_time": "2025-07-29T09:45:37.677969",
+  "package_url": "https://pypi.org/project/sheetwise/"
+}

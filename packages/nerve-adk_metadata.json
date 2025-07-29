@@ -1,0 +1,11 @@
+{
+  "name": "nerve-adk",
+  "version": "1.8.0",
+  "summary": "The simple agent development kit.",
+  "author": "evilsocket",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/evilsocket/nerve",
+  "download_filename": "nerve_adk-1.8.0.tar.gz",
+  "download_time": "2025-07-29T09:45:55.200950",
+  "package_url": "https://pypi.org/project/nerve-adk/"
+}

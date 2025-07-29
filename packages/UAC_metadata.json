@@ -1,0 +1,11 @@
+{
+  "name": "UAC",
+  "version": "1.0.2",
+  "summary": "A python library that is an exploit for UAC Bypass on Windows. It works on any version of Windows and can execute a pyload(exe) with admin access without confirmation.",
+  "author": "Mohammad Taha Gorji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uac-1.0.2.tar.gz",
+  "download_time": "2025-07-29T09:45:47.474465",
+  "package_url": "https://pypi.org/project/UAC/"
+}

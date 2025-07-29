@@ -1,0 +1,11 @@
+{
+  "name": "human-protocol-sdk",
+  "version": "4.1.5",
+  "summary": "A python library to launch escrow contracts to the HUMAN network.",
+  "author": "HUMAN Protocol",
+  "license": null,
+  "home_page": "https://github.com/humanprotocol/human-protocol/packages/sdk/python/human-protocol-sdk",
+  "download_filename": "human_protocol_sdk-4.1.5.tar.gz",
+  "download_time": "2025-07-29T09:46:02.138600",
+  "package_url": "https://pypi.org/project/human-protocol-sdk/"
+}

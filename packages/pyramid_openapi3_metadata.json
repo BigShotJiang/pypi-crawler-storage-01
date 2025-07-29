@@ -1,0 +1,11 @@
+{
+  "name": "pyramid_openapi3",
+  "version": "0.21.0",
+  "summary": "Pyramid addon for OpenAPI3 validation of requests and responses.",
+  "author": "Neyts Zupan",
+  "license": "MIT",
+  "home_page": "https://github.com/Pylons/pyramid_openapi3",
+  "download_filename": "pyramid_openapi3-0.21.0.tar.gz",
+  "download_time": "2025-07-29T09:46:10.789001",
+  "package_url": "https://pypi.org/project/pyramid_openapi3/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dobotWrapperPy",
+  "version": "1.3.0",
+  "summary": "Python library for Dobot Magician For Minitechnicus Courses",
+  "author": "Minitechnicus",
+  "license": null,
+  "home_page": "https://github.com/andreishark/dobotWrapperPy",
+  "download_filename": "dobotwrapperpy-1.3.0.tar.gz",
+  "download_time": "2025-07-29T09:45:38.253574",
+  "package_url": "https://pypi.org/project/dobotWrapperPy/"
+}

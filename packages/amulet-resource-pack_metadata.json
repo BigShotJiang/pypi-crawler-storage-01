@@ -1,0 +1,11 @@
+{
+  "name": "amulet-resource-pack",
+  "version": "1.0.1a0.post250729092936",
+  "summary": "A Python and C++ library for interacting with Minecraft resource packs.",
+  "author": "James Clare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amulet_resource_pack-1.0.1a0.post250729092936-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-07-29T09:46:13.101289",
+  "package_url": "https://pypi.org/project/amulet-resource-pack/"
+}

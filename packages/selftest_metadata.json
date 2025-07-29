@@ -1,0 +1,11 @@
+{
+  "name": "selftest",
+  "version": "0.4.6",
+  "summary": "Python In-Source Testing Library",
+  "author": "Erik Groeneveld",
+  "license": null,
+  "home_page": "https://github.com/ejgroene/selftest",
+  "download_filename": "selftest-0.4.6.tar.gz",
+  "download_time": "2025-07-29T09:45:58.655274",
+  "package_url": "https://pypi.org/project/selftest/"
+}

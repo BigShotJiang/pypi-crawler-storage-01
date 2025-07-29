@@ -1,0 +1,11 @@
+{
+  "name": "tsai",
+  "version": "0.4.1",
+  "summary": "Practical Deep Learning for Time Series / Sequential Data library based on fastai & Pytorch",
+  "author": "Ignacio Oguiza and contributors",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/timeseriesAI/tsai/",
+  "download_filename": "tsai-0.4.1.tar.gz",
+  "download_time": "2025-07-29T09:46:11.369499",
+  "package_url": "https://pypi.org/project/tsai/"
+}

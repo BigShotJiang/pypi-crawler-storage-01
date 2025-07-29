@@ -1,0 +1,11 @@
+{
+  "name": "monaco-race-report",
+  "version": "0.0.2",
+  "summary": "Package for parcing F1 race data files and building and printing a report either for",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "monaco_race_report-0.0.2.tar.gz",
+  "download_time": "2025-07-29T09:46:24.953870",
+  "package_url": "https://pypi.org/project/monaco-race-report/"
+}

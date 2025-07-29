@@ -1,0 +1,11 @@
+{
+  "name": "django-export-edit-import",
+  "version": "1.0.2",
+  "summary": "Reusable Django app that enables export, edit and import (Excel) workflow.",
+  "author": "Daniil Pevzner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_export_edit_import-1.0.2.tar.gz",
+  "download_time": "2025-07-29T09:45:38.834116",
+  "package_url": "https://pypi.org/project/django-export-edit-import/"
+}
