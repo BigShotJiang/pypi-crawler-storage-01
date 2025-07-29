@@ -1,11 +1,11 @@
 {
   "name": "whiskerrag",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "summary": "A utlity package for RAG operations",
   "author": "petercat.ai",
   "license": null,
   "home_page": null,
-  "download_filename": "whiskerrag-0.2.17.tar.gz",
-  "download_time": "2025-07-29T09:17:29.814860",
+  "download_filename": "whiskerrag-0.2.18.tar.gz",
+  "download_time": "2025-07-29T14:17:05.990581",
   "package_url": "https://pypi.org/project/whiskerrag/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dag-modelling",
+  "version": "0.12",
+  "summary": "The dag-modelling package is a python implementation of the dataflow programming with the lazy graph evaluation.",
+  "author": "DAGModelling Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dagflow-team/dag-modelling",
+  "download_filename": "dag_modelling-0.12.tar.gz",
+  "download_time": "2025-07-29T14:17:01.809141",
+  "package_url": "https://pypi.org/project/dag-modelling/"
+}

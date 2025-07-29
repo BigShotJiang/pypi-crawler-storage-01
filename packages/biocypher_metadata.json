@@ -1,0 +1,11 @@
+{
+  "name": "biocypher",
+  "version": "0.10.1",
+  "summary": "A unifying framework for biomedical research knowledge graphs",
+  "author": "Sebastian Lobentanzer",
+  "license": "MIT",
+  "home_page": "https://github.com/biocypher/biocypher",
+  "download_filename": "biocypher-0.10.1.tar.gz",
+  "download_time": "2025-07-29T14:16:55.558123",
+  "package_url": "https://pypi.org/project/biocypher/"
+}

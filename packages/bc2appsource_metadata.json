@@ -1,11 +1,11 @@
 {
   "name": "bc2appsource",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A tool to publish Business Central apps to Microsoft AppSource",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bc2appsource-0.1.4.tar.gz",
-  "download_time": "2025-07-29T13:52:24.208748",
+  "download_filename": "bc2appsource-0.1.6.tar.gz",
+  "download_time": "2025-07-29T14:16:59.200773",
   "package_url": "https://pypi.org/project/bc2appsource/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-nominopolitan",
+  "version": "0.2.28",
+  "summary": "Neapolitan with namespaces - Django CRUD views",
+  "author": "doctor-cornelius",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_nominopolitan-0.2.28.tar.gz",
+  "download_time": "2025-07-29T14:17:18.661427",
+  "package_url": "https://pypi.org/project/django-nominopolitan/"
+}

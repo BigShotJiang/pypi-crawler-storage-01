@@ -1,0 +1,11 @@
+{
+  "name": "nested-mapping",
+  "version": "0.11",
+  "summary": "Package to work with nested dictionaries supporing list/set as keys",
+  "author": "DAGModelling Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dagflow-team/nested-mapping",
+  "download_filename": "nested_mapping-0.11.tar.gz",
+  "download_time": "2025-07-29T14:17:08.168327",
+  "package_url": "https://pypi.org/project/nested-mapping/"
+}
