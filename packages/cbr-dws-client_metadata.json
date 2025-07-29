@@ -1,0 +1,11 @@
+{
+  "name": "cbr-dws-client",
+  "version": "0.0.8",
+  "summary": "Клиент для работы с сервисом получения ежедневных данных ЦБ РФ.",
+  "author": "Sergey V. Elfimov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SergeiVElfimov/cbr-dws-client",
+  "download_filename": "cbr_dws_client-0.0.8.tar.gz",
+  "download_time": "2025-07-29T09:17:24.124443",
+  "package_url": "https://pypi.org/project/cbr-dws-client/"
+}

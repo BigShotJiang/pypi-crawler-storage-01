@@ -1,0 +1,11 @@
+{
+  "name": "concatenate-BB",
+  "version": "0.1",
+  "summary": "A custom library for concatenating audio files",
+  "author": "Balthazar Bujard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "concatenate_bb-0.1.tar.gz",
+  "download_time": "2025-07-29T09:17:58.887797",
+  "package_url": "https://pypi.org/project/concatenate-BB/"
+}

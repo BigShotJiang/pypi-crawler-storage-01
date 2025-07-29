@@ -1,0 +1,11 @@
+{
+  "name": "corneto",
+  "version": "1.0.0b2",
+  "summary": "CORNETO: A Unified Framework for Omics-Driven Network Inference",
+  "author": "Pablo Rodriguez-Mier",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "corneto-1.0.0b2.tar.gz",
+  "download_time": "2025-07-29T09:17:49.643296",
+  "package_url": "https://pypi.org/project/corneto/"
+}

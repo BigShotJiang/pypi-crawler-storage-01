@@ -1,0 +1,11 @@
+{
+  "name": "pin-pink",
+  "version": "3.4.0",
+  "summary": "Inverse kinematics for articulated robot models, based on Pinocchio.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pin_pink-3.4.0.tar.gz",
+  "download_time": "2025-07-29T09:17:49.131989",
+  "package_url": "https://pypi.org/project/pin-pink/"
+}

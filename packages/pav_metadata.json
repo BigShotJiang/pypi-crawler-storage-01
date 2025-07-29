@@ -1,0 +1,11 @@
+{
+  "name": "pav",
+  "version": "1.4.2",
+  "summary": "PAV is a Python library with features to easily work with venv",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pav-1.4.2.tar.gz",
+  "download_time": "2025-07-29T09:17:26.677828",
+  "package_url": "https://pypi.org/project/pav/"
+}

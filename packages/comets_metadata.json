@@ -1,0 +1,11 @@
+{
+  "name": "comets",
+  "version": "1.5.1",
+  "summary": "CoMETS, the Cosmo Model Experimentation Toolbox, is a Python library for experimenting with numerical models and simulators",
+  "author": "Cosmo Tech",
+  "license": "Cosmo Tech",
+  "home_page": "https://github.com/Cosmo-Tech/comets",
+  "download_filename": "comets-1.5.1-py3-none-any.whl",
+  "download_time": "2025-07-29T09:17:52.200235",
+  "package_url": "https://pypi.org/project/comets/"
+}
