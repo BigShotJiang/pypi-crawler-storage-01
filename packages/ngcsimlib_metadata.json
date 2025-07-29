@@ -1,0 +1,11 @@
+{
+  "name": "ngcsimlib",
+  "version": "1.0.1",
+  "summary": "Simulation software backend for ngc-learn.",
+  "author": null,
+  "license": "BSD-3-Clause License",
+  "home_page": null,
+  "download_filename": "ngcsimlib-1.0.1.tar.gz",
+  "download_time": "2025-07-29T21:32:59.639268",
+  "package_url": "https://pypi.org/project/ngcsimlib/"
+}

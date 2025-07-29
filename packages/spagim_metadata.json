@@ -1,0 +1,11 @@
+{
+  "name": "spagim",
+  "version": "1.0.0",
+  "summary": "Revealing the biological utility of gene imputation in spatial transcriptomics",
+  "author": "Kai Cao",
+  "license": null,
+  "home_page": "https://github.com/uhlerlab/Spatial-Gene-Imputation-Methods",
+  "download_filename": "spagim-1.0.0.tar.gz",
+  "download_time": "2025-07-29T21:33:09.314566",
+  "package_url": "https://pypi.org/project/spagim/"
+}
