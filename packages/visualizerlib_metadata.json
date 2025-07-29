@@ -1,0 +1,11 @@
+{
+  "name": "visualizerlib",
+  "version": "0.2.0",
+  "summary": "An EDA helper package",
+  "author": "Vishnu",
+  "license": "MIT",
+  "home_page": "https://github.com/Vishnuu011/visualizerlib",
+  "download_filename": "visualizerlib-0.2.0.tar.gz",
+  "download_time": "2025-07-29T13:52:39.491706",
+  "package_url": "https://pypi.org/project/visualizerlib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kiwi-boxed-plugin",
+  "version": "0.2.55",
+  "summary": "KIWI - Boxed Build Plugin",
+  "author": "Marcus Schäfer",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://osinside.github.io/kiwi/",
+  "download_filename": "kiwi_boxed_plugin-0.2.55.tar.gz",
+  "download_time": "2025-07-29T13:52:18.476728",
+  "package_url": "https://pypi.org/project/kiwi-boxed-plugin/"
+}

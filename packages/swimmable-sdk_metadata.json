@@ -1,0 +1,11 @@
+{
+  "name": "swimmable-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Swimmable API - Real-time swimming conditions and water quality data",
+  "author": "Swimmable",
+  "license": null,
+  "home_page": "https://github.com/swimmable/python-sdk",
+  "download_filename": "swimmable_sdk-1.0.0.tar.gz",
+  "download_time": "2025-07-29T13:53:00.019107",
+  "package_url": "https://pypi.org/project/swimmable-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantplay-lab",
+  "version": "0.1.0",
+  "summary": "High-performance backtesting engine for algorithmic trading with focus on Indian markets",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/quantlab",
+  "download_filename": "quantplay_lab-0.1.0.tar.gz",
+  "download_time": "2025-07-29T13:52:42.116570",
+  "package_url": "https://pypi.org/project/quantplay-lab/"
+}

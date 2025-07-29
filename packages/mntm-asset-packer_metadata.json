@@ -1,11 +1,11 @@
 {
   "name": "mntm-asset-packer",
-  "version": "1.1.7",
+  "version": "1.2.1",
   "summary": "An improved asset packer script to make the process of creating and packing asset packs for the Momentum firmware easier.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mntm_asset_packer-1.1.7.tar.gz",
-  "download_time": "2025-07-29T13:12:44.381142",
+  "download_filename": "mntm_asset_packer-1.2.1.tar.gz",
+  "download_time": "2025-07-29T13:52:47.312583",
   "package_url": "https://pypi.org/project/mntm-asset-packer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cvequery",
+  "version": "1.0.5",
+  "summary": "Query CVE details using Shodan's public CVE database API.",
+  "author": "Neo",
+  "license": "MIT",
+  "home_page": "https://github.com/n3th4ck3rx/cvequery",
+  "download_filename": "cvequery-1.0.5.tar.gz",
+  "download_time": "2025-07-29T13:52:21.072253",
+  "package_url": "https://pypi.org/project/cvequery/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pynxtools-em",
+  "version": "0.3.3",
+  "summary": "Make electron microscopy results interoperable via NeXus",
+  "author": "The NOMAD Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pynxtools_em-0.3.3.tar.gz",
+  "download_time": "2025-07-29T13:52:28.944062",
+  "package_url": "https://pypi.org/project/pynxtools-em/"
+}

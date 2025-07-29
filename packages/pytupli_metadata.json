@@ -1,0 +1,11 @@
+{
+  "name": "pytupli",
+  "version": "1.2.0",
+  "summary": "A package for storing and managing tuples for offline reinforcement learning.",
+  "author": "Michael Eichelbeck",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytupli-1.2.0.tar.gz",
+  "download_time": "2025-07-29T13:52:35.281462",
+  "package_url": "https://pypi.org/project/pytupli/"
+}

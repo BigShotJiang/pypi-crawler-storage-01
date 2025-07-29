@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-signedrequest",
+  "version": "3.3.1",
+  "summary": "REST API for CubicWeb",
+  "author": null,
+  "license": "GNU Lesser General Public License v2 or later (LGPLv2+)",
+  "home_page": null,
+  "download_filename": "cubicweb_signedrequest-3.3.1.tar.gz",
+  "download_time": "2025-07-29T13:52:45.755442",
+  "package_url": "https://pypi.org/project/cubicweb-signedrequest/"
+}
