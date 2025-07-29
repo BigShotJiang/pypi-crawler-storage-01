@@ -1,11 +1,11 @@
 {
   "name": "pyconindia",
-  "version": "16.1.1",
+  "version": "16.2.5",
   "summary": "The largest gathering of Pythonistas in India for the Python programming language.",
   "author": "PyCon India Team",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/anistark/pyconindia",
-  "download_filename": "pyconindia-16.1.1.tar.gz",
-  "download_time": "2025-07-29T11:50:54.383469",
+  "download_filename": "pyconindia-16.2.5.tar.gz",
+  "download_time": "2025-07-29T14:50:21.557206",
   "package_url": "https://pypi.org/project/pyconindia/"
 }

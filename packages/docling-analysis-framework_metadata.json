@@ -1,0 +1,11 @@
+{
+  "name": "docling-analysis-framework",
+  "version": "1.1.0",
+  "summary": "AI-ready analysis framework for PDF and Office documents using Docling for content extraction",
+  "author": "Wes Jackson",
+  "license": "MIT",
+  "home_page": "https://github.com/rdwj/docling-analysis-framework",
+  "download_filename": "docling_analysis_framework-1.1.0.tar.gz",
+  "download_time": "2025-07-29T14:50:24.198075",
+  "package_url": "https://pypi.org/project/docling-analysis-framework/"
+}

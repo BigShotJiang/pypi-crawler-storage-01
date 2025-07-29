@@ -1,11 +1,11 @@
 {
   "name": "animepahe-dl",
-  "version": "0.1.0",
+  "version": "5.1.3",
   "summary": "A simple anime downloader",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "animepahe_dl-0.1.0.tar.gz",
-  "download_time": "2025-07-29T10:42:35.000725",
+  "download_filename": "animepahe_dl-5.1.3.tar.gz",
+  "download_time": "2025-07-29T14:50:04.865300",
   "package_url": "https://pypi.org/project/animepahe-dl/"
 }

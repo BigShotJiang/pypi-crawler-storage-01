@@ -1,11 +1,11 @@
 {
   "name": "pddiktipy",
-  "version": "2.0.5",
+  "version": "2.0.5.post1",
   "summary": "Unofficial Python API wrapper to get data at PDDIKTI Kemdikbud",
-  "author": null,
+  "author": "Ilham Riski",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "pddiktipy-2.0.5.tar.gz",
-  "download_time": "2025-07-29T08:17:03.061951",
+  "home_page": "https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API",
+  "download_filename": "pddiktipy-2.0.5.post1.tar.gz",
+  "download_time": "2025-07-29T14:50:04.345996",
   "package_url": "https://pypi.org/project/pddiktipy/"
 }

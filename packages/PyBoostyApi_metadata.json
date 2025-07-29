@@ -1,0 +1,11 @@
+{
+  "name": "PyBoostyApi",
+  "version": "1.0.2",
+  "summary": "PyBoostyAPI is a powerful asynchronous Python library for seamless interaction with the Boosty.to API",
+  "author": "HOCKI1",
+  "license": null,
+  "home_page": "https://github.com/HOCKI1/py_boosty_api",
+  "download_filename": "pyboostyapi-1.0.2.tar.gz",
+  "download_time": "2025-07-29T14:50:24.709171",
+  "package_url": "https://pypi.org/project/PyBoostyApi/"
+}

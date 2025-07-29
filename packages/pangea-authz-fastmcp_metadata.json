@@ -1,0 +1,11 @@
+{
+  "name": "pangea-authz-fastmcp",
+  "version": "0.1.0",
+  "summary": "Pangea AuthZ integration for FastMCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pangea_authz_fastmcp-0.1.0.tar.gz",
+  "download_time": "2025-07-29T14:49:53.923832",
+  "package_url": "https://pypi.org/project/pangea-authz-fastmcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cpu-quota",
+  "version": "0.1.0",
+  "summary": "Determine the actual number of CPUs available based on systemd resource limits - more accurate than nproc in shared systems with CPU quotas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpu_quota-0.1.0.tar.gz",
+  "download_time": "2025-07-29T14:49:54.948978",
+  "package_url": "https://pypi.org/project/cpu-quota/"
+}
