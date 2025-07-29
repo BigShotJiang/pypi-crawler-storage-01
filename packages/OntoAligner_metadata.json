@@ -1,0 +1,11 @@
+{
+  "name": "OntoAligner",
+  "version": "1.5.0",
+  "summary": "OntoAligner: A Comprehensive Modular and Robust Python Toolkit for Ontology Alignment.",
+  "author": "Hamed Babaei Giglou",
+  "license": "Apache-2.0",
+  "home_page": "https://ontoaligner.readthedocs.io/",
+  "download_filename": "ontoaligner-1.5.0.tar.gz",
+  "download_time": "2025-07-29T15:55:10.547690",
+  "package_url": "https://pypi.org/project/OntoAligner/"
+}

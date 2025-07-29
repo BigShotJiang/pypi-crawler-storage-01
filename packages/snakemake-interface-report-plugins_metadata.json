@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-interface-report-plugins",
+  "version": "1.2.0",
+  "summary": "The interface for Snakemake report plugins.",
+  "author": "Johannes Koester",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_interface_report_plugins-1.2.0.tar.gz",
+  "download_time": "2025-07-29T15:54:51.967489",
+  "package_url": "https://pypi.org/project/snakemake-interface-report-plugins/"
+}

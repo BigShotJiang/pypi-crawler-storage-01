@@ -1,0 +1,11 @@
+{
+  "name": "hapless",
+  "version": "0.8.2",
+  "summary": "Run and track processes in background",
+  "author": "Misha Behersky",
+  "license": "MIT",
+  "home_page": "https://github.com/bmwant/hapless",
+  "download_filename": "hapless-0.8.2.tar.gz",
+  "download_time": "2025-07-29T15:54:44.157102",
+  "package_url": "https://pypi.org/project/hapless/"
+}

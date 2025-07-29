@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-requests",
+  "version": "0.57b0",
+  "summary": "OpenTelemetry requests instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_requests-0.57b0.tar.gz",
+  "download_time": "2025-07-29T15:55:06.954964",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-requests/"
+}

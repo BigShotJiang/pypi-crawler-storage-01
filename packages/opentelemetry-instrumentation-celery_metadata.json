@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-celery",
+  "version": "0.57b0",
+  "summary": "OpenTelemetry Celery Instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_celery-0.57b0.tar.gz",
+  "download_time": "2025-07-29T15:55:21.825473",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-celery/"
+}

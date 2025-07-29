@@ -1,0 +1,11 @@
+{
+  "name": "nirfmxspecan",
+  "version": "25.5.0",
+  "summary": "Python APIs for interacting with NI-RFmx drivers",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/nirfmx-python",
+  "download_filename": "nirfmxspecan-25.5.0-py3-none-any.whl",
+  "download_time": "2025-07-29T15:54:54.583136",
+  "package_url": "https://pypi.org/project/nirfmxspecan/"
+}
