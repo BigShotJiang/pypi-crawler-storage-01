@@ -1,0 +1,11 @@
+{
+  "name": "intronator",
+  "version": "0.2.1",
+  "summary": "A Python package for comprehensive splice site analysis and simulation",
+  "author": "Intronator Team",
+  "license": null,
+  "home_page": "https://github.com/intronator/intronator",
+  "download_filename": "intronator-0.2.1.tar.gz",
+  "download_time": "2025-07-29T15:15:05.607468",
+  "package_url": "https://pypi.org/project/intronator/"
+}
