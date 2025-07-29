@@ -1,0 +1,11 @@
+{
+  "name": "intmath",
+  "version": "0.1.0",
+  "summary": "Module for integer-specific mathematics functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "intmath-0.1.0.tar.gz",
+  "download_time": "2025-07-29T15:41:24.246749",
+  "package_url": "https://pypi.org/project/intmath/"
+}
