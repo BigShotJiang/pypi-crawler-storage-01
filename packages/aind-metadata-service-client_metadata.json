@@ -1,0 +1,11 @@
+{
+  "name": "aind-metadata-service-client",
+  "version": "1.0.8",
+  "summary": "aind-metadata-service",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_metadata_service_client-1.0.8.tar.gz",
+  "download_time": "2025-07-29T16:45:39.612025",
+  "package_url": "https://pypi.org/project/aind-metadata-service-client/"
+}

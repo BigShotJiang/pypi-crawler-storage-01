@@ -1,0 +1,11 @@
+{
+  "name": "ICS-IPA",
+  "version": "1.1.59",
+  "summary": "64bit API used for DataMining mdf data files using DataSpy",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/intrepidcs/ICS_IPA",
+  "download_filename": "ICS_IPA-1.1.59.tar.gz",
+  "download_time": "2025-07-29T16:45:50.170716",
+  "package_url": "https://pypi.org/project/ICS-IPA/"
+}
