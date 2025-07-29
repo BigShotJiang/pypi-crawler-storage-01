@@ -1,0 +1,11 @@
+{
+  "name": "testzeus-cli",
+  "version": "0.0.14",
+  "summary": "Command-line interface for TestZeus testing platform",
+  "author": "Shriyansh Agnihotri",
+  "license": null,
+  "home_page": "https://github.com/test-zeus-ai/testzeus-cli",
+  "download_filename": "testzeus_cli-0.0.14.tar.gz",
+  "download_time": "2025-07-29T07:17:21.127463",
+  "package_url": "https://pypi.org/project/testzeus-cli/"
+}

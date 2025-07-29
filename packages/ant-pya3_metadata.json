@@ -1,0 +1,11 @@
+{
+  "name": "ant-pya3",
+  "version": "2.0.9",
+  "summary": "Official Python SDK for Alice Blue API",
+  "author": "Codifi",
+  "license": "MIT",
+  "home_page": "https://a3.aliceblueonline.com/",
+  "download_filename": "ant_pya3-2.0.9.tar.gz",
+  "download_time": "2025-07-29T07:17:22.693497",
+  "package_url": "https://pypi.org/project/ant-pya3/"
+}

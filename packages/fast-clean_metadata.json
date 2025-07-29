@@ -1,0 +1,11 @@
+{
+  "name": "fast-clean",
+  "version": "1.4.1",
+  "summary": "FastAPI Clean Architecture implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_clean-1.4.1.tar.gz",
+  "download_time": "2025-07-29T07:17:09.120187",
+  "package_url": "https://pypi.org/project/fast-clean/"
+}

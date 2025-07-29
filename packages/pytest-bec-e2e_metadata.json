@@ -1,11 +1,11 @@
 {
   "name": "pytest-bec-e2e",
-  "version": "3.53.0",
+  "version": "3.54.0",
   "summary": "BEC pytest plugin for end-to-end tests",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_bec_e2e-3.53.0.tar.gz",
-  "download_time": "2025-07-29T05:49:49.833224",
+  "download_filename": "pytest_bec_e2e-3.54.0.tar.gz",
+  "download_time": "2025-07-29T07:17:31.567340",
   "package_url": "https://pypi.org/project/pytest-bec-e2e/"
 }

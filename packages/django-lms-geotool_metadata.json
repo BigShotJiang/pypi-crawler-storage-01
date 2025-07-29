@@ -1,11 +1,11 @@
 {
   "name": "django-lms-geotool",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "LMS的地理信息工具集",
   "author": "MrYuGoui",
   "license": "MIT",
   "home_page": "https://github.com/cuscri/geotool",
-  "download_filename": "django_lms_geotool-0.1.0.tar.gz",
-  "download_time": "2025-07-29T06:54:39.609320",
+  "download_filename": "django_lms_geotool-0.4.0.tar.gz",
+  "download_time": "2025-07-29T07:17:09.639913",
   "package_url": "https://pypi.org/project/django-lms-geotool/"
 }

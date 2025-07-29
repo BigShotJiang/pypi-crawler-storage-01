@@ -1,0 +1,11 @@
+{
+  "name": "ziocryptor",
+  "version": "10.3.0",
+  "summary": "Hybrid AES + RSA Encryption Tool by Ziole Visa Charles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ziocryptor-10.3.0.tar.gz",
+  "download_time": "2025-07-29T07:17:26.848032",
+  "package_url": "https://pypi.org/project/ziocryptor/"
+}

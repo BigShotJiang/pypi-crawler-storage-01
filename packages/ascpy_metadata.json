@@ -1,0 +1,11 @@
+{
+  "name": "ascpy",
+  "version": "0.1.0",
+  "summary": "Reusable Python utility library for all my projects",
+  "author": "Backup Squre",
+  "license": "MIT",
+  "home_page": "https://github.com/navdeepChad/pyPItest",
+  "download_filename": "ascpy-0.1.0.tar.gz",
+  "download_time": "2025-07-29T07:17:22.172702",
+  "package_url": "https://pypi.org/project/ascpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mysqlite3",
+  "version": "0.1.0",
+  "summary": "A lightweight SQLite wrapper for Python",
+  "author": "JiaWong",
+  "license": "MIT",
+  "home_page": "https://github.com/JiaWong/mysqlite3",
+  "download_filename": "mysqlite3-0.1.0.tar.gz",
+  "download_time": "2025-07-29T07:16:59.118208",
+  "package_url": "https://pypi.org/project/mysqlite3/"
+}

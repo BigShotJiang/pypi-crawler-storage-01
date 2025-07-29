@@ -1,0 +1,11 @@
+{
+  "name": "tapm-instrumentation-openai",
+  "version": "0.43.1a1",
+  "summary": "OpenTelemetry OpenAI instrumentation",
+  "author": "Wilson Cai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tapm_instrumentation_openai-0.43.1a1-py3-none-any.whl",
+  "download_time": "2025-07-29T07:17:29.469357",
+  "package_url": "https://pypi.org/project/tapm-instrumentation-openai/"
+}

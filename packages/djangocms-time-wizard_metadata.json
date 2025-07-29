@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-time-wizard",
+  "version": "2.4.1",
+  "summary": "Simple plugin with django-time-wizard relation",
+  "author": "Wolfgang Fehr",
+  "license": null,
+  "home_page": "https://github.com/wfehr/djangocms-time-wizard",
+  "download_filename": "djangocms_time_wizard-2.4.1.tar.gz",
+  "download_time": "2025-07-29T07:17:20.608676",
+  "package_url": "https://pypi.org/project/djangocms-time-wizard/"
+}
