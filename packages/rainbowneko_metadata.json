@@ -1,0 +1,11 @@
+{
+  "name": "rainbowneko",
+  "version": "1.9.4",
+  "summary": "Neural network training and inference framework",
+  "author": "IrisRainbowNeko",
+  "license": null,
+  "home_page": "https://github.com/IrisRainbowNeko/RainbowNekoEngine",
+  "download_filename": "rainbowneko-1.9.4.tar.gz",
+  "download_time": "2025-07-29T07:43:16.087802",
+  "package_url": "https://pypi.org/project/rainbowneko/"
+}

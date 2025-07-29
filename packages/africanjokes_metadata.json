@@ -1,11 +1,11 @@
 {
   "name": "africanjokes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A library for African jokes",
   "author": "Morris D. Toclo",
   "license": null,
   "home_page": null,
-  "download_filename": "africanjokes-0.0.3.tar.gz",
-  "download_time": "2025-07-29T07:16:59.639283",
+  "download_filename": "africanjokes-0.0.4.tar.gz",
+  "download_time": "2025-07-29T07:43:36.026860",
   "package_url": "https://pypi.org/project/africanjokes/"
 }

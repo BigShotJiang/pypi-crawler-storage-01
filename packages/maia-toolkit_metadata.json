@@ -1,0 +1,11 @@
+{
+  "name": "maia-toolkit",
+  "version": "1.9",
+  "summary": "MAIA is a Kubernetes-based collaborative platform for Medical AI, with integration in the clinical workflow of AI.",
+  "author": "Bendazzoli Simone",
+  "license": "GPLv3",
+  "home_page": "https://github.com/kthcloud/MAIA.git",
+  "download_filename": "maia_toolkit-1.9.tar.gz",
+  "download_time": "2025-07-29T07:43:30.260596",
+  "package_url": "https://pypi.org/project/maia-toolkit/"
+}

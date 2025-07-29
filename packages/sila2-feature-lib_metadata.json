@@ -1,11 +1,11 @@
 {
   "name": "sila2-feature-lib",
-  "version": "2025.30a0",
+  "version": "2025.30a1",
   "summary": "SiLA2 feature library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sila2_feature_lib-2025.30a0.tar.gz",
-  "download_time": "2025-07-29T06:54:23.158420",
+  "download_filename": "sila2_feature_lib-2025.30a1.tar.gz",
+  "download_time": "2025-07-29T07:43:12.437072",
   "package_url": "https://pypi.org/project/sila2-feature-lib/"
 }
