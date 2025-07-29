@@ -1,13 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T11:43:04.576408
-- **Total Packages**: 86
-- **Total Size**: 40.71 MB
+- **Download Time**: 2025-07-29T11:51:33.467048
+- **Total Packages**: 81
+- **Total Size**: 34.59 MB
 
 ## Packages List
-- funpayparsers
+- arthur-common
+- kailash-dataflow
+- k8stools
+- policyengine-us
+- decentriq-dcr-compiler
+- django-marina
+- aws-advanced-python-wrapper
+- netpicker-netbox-plugin
+- yeref
 - pyconindia
+- mcp-server-twelve-data
+- defog
+- automated-actions-cli
+- crunch-model-runner
+- automated-actions-client
+- Endrtz
+- energy-fault-detector
+- aipmodel
+- tinybird
+- leap-model-parser
+- pySigma-validators-sigmahq
+- rusty-tags
+- oci-cli
+- kailash
+- oscar-python
+- teachbooks-sphinx-grasple
+- treefmt
+- yica-yirage
+- funpayparsers
 - trackersremoverqbt
 - aliyun-python-sdk-dataphin-public
 - topsis-Akshat-102203644
@@ -23,17 +50,14 @@
 - cua-core
 - django-squash
 - mx-rmq
-- policyengine-us
 - flake8-async
 - dlts
 - bubbletea-chat
 - backupchan-client-config
-- mcp-server-twelve-data
 - torchCompactRadius
 - django-smartbase-admin
 - CADET-RDM
 - matrice
-- Endrtz
 - deepdoctection
 - drf-nested-model-serializer
 - code-loader
@@ -63,32 +87,3 @@
 - bayserver-docker-http3
 - bayserver-docker-http
 - bayserver-docker-fcgi
-- bayserver-docker-cgi
-- bayserver-docker-ajp
-- bayserver-core
-- odoo-addon-energy-selfconsumption
-- bayserver
-- sema4ai-actions
-- earnix-elevate
-- plaid-xrd
-- huntglitch-python
-- sequifier
-- metapub
-- odoo-addon-product-brand-purchase
-- nq-infra
-- gc-google-services-api
-- staran
-- aqua-fetch
-- logsy-core
-- aimmspy
-- pyminusone
-- zenx
-- aa-ledger
-- asknews
-- odoo-addon-purchase-no-rfq
-- cerebrium
-- qfitswidget
-- nlpg
-- pyobas
-- replbase
-- flowscale
