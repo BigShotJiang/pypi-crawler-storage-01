@@ -1,0 +1,11 @@
+{
+  "name": "rqdb",
+  "version": "1.6.4",
+  "summary": "An unofficial python client for RQLite",
+  "author": "Timothy Moore",
+  "license": null,
+  "home_page": "https://github.com/tjstretchalot/rqdb",
+  "download_filename": "rqdb-1.6.4.tar.gz",
+  "download_time": "2025-07-29T23:32:19.235558",
+  "package_url": "https://pypi.org/project/rqdb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vectorwrap",
-  "version": "0.3.0a2",
-  "summary": "One API for vector search across Postgres (pgvector), MySQL HeatWave, and SQLite",
+  "version": "0.3.1a1",
+  "summary": "Universal vector search wrapper for Postgres, MySQL, SQLite, DuckDB (pgvector, HeatWave, sqlite-vss, DuckDB VSS)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectorwrap-0.3.0a2.tar.gz",
-  "download_time": "2025-07-29T04:42:14.280387",
+  "download_filename": "vectorwrap-0.3.1a1.tar.gz",
+  "download_time": "2025-07-29T23:32:34.612488",
   "package_url": "https://pypi.org/project/vectorwrap/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "missmecha-py",
+  "version": "0.1.2",
+  "summary": "All about missing data mechanisms: simulation, analysis, and visualization",
+  "author": "Youran Zhou",
+  "license": null,
+  "home_page": "https://github.com/echoid/MissMecha",
+  "download_filename": "missmecha_py-0.1.2.tar.gz",
+  "download_time": "2025-07-29T23:32:29.291386",
+  "package_url": "https://pypi.org/project/missmecha-py/"
+}
