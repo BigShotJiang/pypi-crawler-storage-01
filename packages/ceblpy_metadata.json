@@ -1,0 +1,11 @@
+{
+  "name": "ceblpy",
+  "version": "0.1.1",
+  "summary": "Extract and analyze data from the Canadian Elite Basketball league (CEBL).",
+  "author": "Ryan Du",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ceblpy-0.1.1.tar.gz",
+  "download_time": "2025-07-29T21:51:14.117841",
+  "package_url": "https://pypi.org/project/ceblpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "otdf-python",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "summary": "Unofficial OpenTDF SDK for Python.",
   "author": "b-long",
   "license": null,
   "home_page": "https://github.com/b-long/opentdf-python-sdk",
-  "download_filename": "otdf_python-0.2.17-cp310-cp310-macosx_13_0_arm64.whl",
-  "download_time": "2025-07-29T19:15:14.162342",
+  "download_filename": "otdf_python-0.2.18-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-07-29T21:51:18.390161",
   "package_url": "https://pypi.org/project/otdf-python/"
 }

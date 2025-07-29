@@ -1,11 +1,11 @@
 {
   "name": "geoip2fastreverse",
-  "version": "0.0.1b1",
-  "summary": "GeoIP2FastReverse - You provide a country/ASN/city code and we return the corresponding IPv4/IPv6 networks from the Maxmind database updated twice a week. Fast as always, and pure Python!",
+  "version": "0.0.1b3",
+  "summary": "GeoIP2FastReverse - You provide a country/ASN/city code and we return the corresponding IPv4/IPv6 networks. Useful for firewall rules. Uses the Maxmind Geolite2 database updated twice a week. Fast as always, and in pure Python!",
   "author": "Ricardo Abuchaim",
   "license": "MIT",
   "home_page": "https://github.com/rabuchaim/geoip2fastreverse",
-  "download_filename": "geoip2fastreverse-0.0.1b1.tar.gz",
-  "download_time": "2025-07-29T04:42:14.801276",
+  "download_filename": "geoip2fastreverse-0.0.1b3.tar.gz",
+  "download_time": "2025-07-29T21:51:14.637724",
   "package_url": "https://pypi.org/project/geoip2fastreverse/"
 }

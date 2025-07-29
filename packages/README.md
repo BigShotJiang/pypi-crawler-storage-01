@@ -1,19 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T21:33:36.144308
+- **Download Time**: 2025-07-29T21:51:47.463436
 - **Total Packages**: 77
-- **Total Size**: 26.84 MB
+- **Total Size**: 23.52 MB
 
 ## Packages List
-- streamlit-smart-text-input
+- jgtutils
+- listpick
+- bleak-pythonista
+- ngclearn
+- fast-agent-mcp
+- GameSentenceMiner
+- arize-phoenix
+- nominal-api-protos
+- nominal-api
+- infra-new
 - avocavo-nutrition
+- lfx
+- tecton-runtime
+- tecton
+- dash-ai-chat
+- ceblpy
+- geoip2fastreverse
+- sysame
+- liminal-cli
+- openapi-slice-mcp
+- plato-sdk
+- python-ntfy
+- py-attio
+- otdf-python
+- mrx-runway
+- cfbd
+- polars-cache
+- openai-agents
+- omnilogic
+- ggx
+- robo_appian
+- blackbox-cli
+- excitingtools
+- prophecy-libs
+- arize-phoenix-client
+- discord-shared-db
+- django-flatpages-extra
+- gitk
+- django-oauth2
+- cw-constrain
+- deepagents
+- gridgulp
+- dw-ai-x
+- indent
+- EulerKit
+- streamlit-smart-text-input
 - ckanext-dcor-theme
-- dw-obj-det-commons
 - letta-client
 - benchling-api-client
 - odinai-sdk
-- listpick
 - embodi-os
 - greenstream-config
 - mailslurp-client
@@ -32,54 +74,12 @@
 - pyrex-rocksdb
 - resoterre
 - transformerlab-inference
-- infra-new
 - layeutils
-- ggx
 - lmstrix
 - coiled
 - great-expectations-cloud
-- polars-cache
 - spagim
 - claude-mpm
 - navlib
 - pymathutils
 - sbl-optimizer
-- konokenj.cdk-api-mcp-server
-- smartspace-ai
-- bd-scan-yocto-via-sbom
-- cosmos2025
-- jhat
-- matrice
-- ml-goodput-measurement
-- acryl-datahub-cloud
-- bayes-cn-hfs
-- weni-cli
-- maisaedu-poormans-dms
-- maisaedu-utilities-prefect
-- repo-mapper-rs
-- LabTools3
-- clapp-pm
-- odoo-addon-pms
-- mat3ra-esse
-- testy-command-line
-- tokker
-- arthur-client
-- prophecy-libs
-- bayes-hfs
-- pageai-sdk
-- blending-toolkit
-- pragma-sdk
-- openapi-slice-mcp
-- gpu-benchmark-tool
-- ollamapy
-- resilient-sdk
-- pytest-resilient-circuits
-- sieves
-- resilient-circuits
-- ai-filesystem
-- resilient-lib
-- resilient
-- resilient-app-config-plugins
-- tap-canvas
-- flax
-- openlit

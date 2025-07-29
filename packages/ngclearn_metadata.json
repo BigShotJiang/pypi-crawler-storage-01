@@ -1,0 +1,11 @@
+{
+  "name": "ngclearn",
+  "version": "2.0.3",
+  "summary": "Simulation software for building and analyzing arbitrary predictive coding, spiking network, and biomimetic neural systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ngclearn-2.0.3.tar.gz",
+  "download_time": "2025-07-29T21:51:07.525022",
+  "package_url": "https://pypi.org/project/ngclearn/"
+}

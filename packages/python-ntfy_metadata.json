@@ -1,0 +1,11 @@
+{
+  "name": "python-ntfy",
+  "version": "0.7.1",
+  "summary": "An ntfy library aiming for feature completeness",
+  "author": "Matthew Cane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_ntfy-0.7.1.tar.gz",
+  "download_time": "2025-07-29T21:51:17.264776",
+  "package_url": "https://pypi.org/project/python-ntfy/"
+}
