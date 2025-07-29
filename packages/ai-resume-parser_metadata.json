@@ -1,11 +1,11 @@
 {
   "name": "ai-resume-parser",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "AI-powered resume parser with parallel processing for multiple file formats (PDF, DOCX, images, etc.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_resume_parser-1.0.4.tar.gz",
-  "download_time": "2025-07-29T22:12:38.694809",
+  "download_filename": "ai_resume_parser-1.0.5.tar.gz",
+  "download_time": "2025-07-29T22:36:53.225635",
   "package_url": "https://pypi.org/project/ai-resume-parser/"
 }

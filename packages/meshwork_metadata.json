@@ -1,0 +1,11 @@
+{
+  "name": "meshwork",
+  "version": "0.1.2",
+  "summary": "Library for the propagation of distributed parameterized jobs and their streams",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "meshwork-0.1.2.tar.gz",
+  "download_time": "2025-07-29T22:37:10.426801",
+  "package_url": "https://pypi.org/project/meshwork/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycodesnap",
+  "version": "0.2",
+  "summary": "PyCodeSnap for format codes and code to image.",
+  "author": "Shayan Heidari",
+  "license": null,
+  "home_page": "https://github.com/shayanheidari01/pycodesnap",
+  "download_filename": "pycodesnap-0.2.tar.gz",
+  "download_time": "2025-07-29T22:36:43.376570",
+  "package_url": "https://pypi.org/project/pycodesnap/"
+}

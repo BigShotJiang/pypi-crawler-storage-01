@@ -1,0 +1,11 @@
+{
+  "name": "cleanlab-tlm",
+  "version": "1.1.22",
+  "summary": "Python client library for Cleanlab Trustworthy Language Model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cleanlab_tlm-1.1.22.tar.gz",
+  "download_time": "2025-07-29T22:36:39.067302",
+  "package_url": "https://pypi.org/project/cleanlab-tlm/"
+}

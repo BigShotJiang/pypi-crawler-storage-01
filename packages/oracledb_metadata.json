@@ -1,0 +1,11 @@
+{
+  "name": "oracledb",
+  "version": "3.3.0",
+  "summary": "Python interface to Oracle Database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracledb-3.3.0.tar.gz",
+  "download_time": "2025-07-29T22:36:38.036851",
+  "package_url": "https://pypi.org/project/oracledb/"
+}
