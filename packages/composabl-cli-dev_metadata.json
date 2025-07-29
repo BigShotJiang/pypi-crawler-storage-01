@@ -1,11 +1,11 @@
 {
   "name": "composabl-cli-dev",
-  "version": "0.17.0.dev68",
+  "version": "0.17.0.dev69",
   "summary": "the Composabl CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "composabl_cli_dev-0.17.0.dev68-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-07-29T08:16:57.374444",
+  "download_filename": "composabl_cli_dev-0.17.0.dev69-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-07-29T17:54:02.790651",
   "package_url": "https://pypi.org/project/composabl-cli-dev/"
 }

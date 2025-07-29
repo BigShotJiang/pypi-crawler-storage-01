@@ -1,0 +1,11 @@
+{
+  "name": "pdf-toolchest",
+  "version": "0.1.13",
+  "summary": "A Swiss-army knife for everyday PDF workflows – pure-Python, cross-platform, and fully typed.",
+  "author": "Alex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf_toolchest-0.1.13.tar.gz",
+  "download_time": "2025-07-29T17:53:42.682885",
+  "package_url": "https://pypi.org/project/pdf-toolchest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pka-predictor-moitessier",
+  "version": "0.1.12",
+  "summary": "Graph-based pKa prediction for small molecules",
+  "author": "Moitessier Lab",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/MoitessierLab/pKa-predictor",
+  "download_filename": "pka_predictor_moitessier-0.1.12.tar.gz",
+  "download_time": "2025-07-29T17:53:54.341782",
+  "package_url": "https://pypi.org/project/pka-predictor-moitessier/"
+}

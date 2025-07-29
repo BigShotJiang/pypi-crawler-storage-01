@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-contract-variable-quantity",
+  "version": "18.0.1.0.0.2",
+  "summary": "Product contract with variable quantity",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/contract",
+  "download_filename": "odoo_addon_product_contract_variable_quantity-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-29T17:53:44.259593",
+  "package_url": "https://pypi.org/project/odoo-addon-product-contract-variable-quantity/"
+}

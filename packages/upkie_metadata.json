@@ -1,0 +1,11 @@
+{
+  "name": "upkie",
+  "version": "8.1.1",
+  "summary": "Python module to control Upkie wheeled bipeds.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "upkie-8.1.1.tar.gz",
+  "download_time": "2025-07-29T17:53:58.534039",
+  "package_url": "https://pypi.org/project/upkie/"
+}
