@@ -1,0 +1,11 @@
+{
+  "name": "time-measure-decorator",
+  "version": "0.0.1",
+  "summary": "A tiny helper to measure execution time of a callable to ease your performance checks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "time_measure_decorator-0.0.1.tar.gz",
+  "download_time": "2025-07-29T20:14:04.351947",
+  "package_url": "https://pypi.org/project/time-measure-decorator/"
+}

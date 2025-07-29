@@ -1,0 +1,11 @@
+{
+  "name": "getlicense",
+  "version": "0.1.0",
+  "summary": "Easily choose a license for your software and *license it*",
+  "author": "ashkanfeyzollahi@gmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "getlicense-0.1.0.tar.gz",
+  "download_time": "2025-07-29T20:14:18.336752",
+  "package_url": "https://pypi.org/project/getlicense/"
+}

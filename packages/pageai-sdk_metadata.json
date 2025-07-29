@@ -1,11 +1,11 @@
 {
   "name": "pageai-sdk",
-  "version": "0.6.0.189",
+  "version": "0.6.0.190",
   "summary": "PageAI API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "pageai_sdk-0.6.0.189-py3-none-any.whl",
-  "download_time": "2025-07-29T19:32:16.766097",
+  "download_filename": "pageai_sdk-0.6.0.190-py3-none-any.whl",
+  "download_time": "2025-07-29T20:13:57.093560",
   "package_url": "https://pypi.org/project/pageai-sdk/"
 }

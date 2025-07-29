@@ -1,0 +1,11 @@
+{
+  "name": "hetzner-snap-and-rotate",
+  "version": "1.1.4",
+  "summary": "Creates and rotates snapshots of Hetzner cloud servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hetzner_snap_and_rotate-1.1.4.tar.gz",
+  "download_time": "2025-07-29T20:14:13.180488",
+  "package_url": "https://pypi.org/project/hetzner-snap-and-rotate/"
+}

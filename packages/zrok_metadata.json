@@ -1,0 +1,11 @@
+{
+  "name": "zrok",
+  "version": "1.0.8",
+  "summary": "zrok",
+  "author": "NetFoundry",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/openziti/zrok",
+  "download_filename": "zrok-1.0.8.tar.gz",
+  "download_time": "2025-07-29T20:13:44.614396",
+  "package_url": "https://pypi.org/project/zrok/"
+}

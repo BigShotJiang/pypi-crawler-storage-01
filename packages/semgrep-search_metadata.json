@@ -1,0 +1,11 @@
+{
+  "name": "semgrep-search",
+  "version": "1.1.1",
+  "summary": "A tool to generate a custom Semgrep ruleset from multiple sources",
+  "author": "Malte Heinzelmann",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/hnzlmnn/semgrep-search",
+  "download_filename": "semgrep_search-1.1.1.tar.gz",
+  "download_time": "2025-07-29T20:14:13.691342",
+  "package_url": "https://pypi.org/project/semgrep-search/"
+}
