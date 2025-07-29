@@ -1,0 +1,11 @@
+{
+  "name": "valve-parsers",
+  "version": "1.0.0",
+  "summary": "Python library for parsing Valve game files (VPK and PCF)",
+  "author": "Extracted from casual-pre-loader",
+  "license": "MIT",
+  "home_page": "https://github.com/cueki/valve-parsers",
+  "download_filename": "valve_parsers-1.0.0.tar.gz",
+  "download_time": "2025-07-29T05:49:39.903112",
+  "package_url": "https://pypi.org/project/valve-parsers/"
+}

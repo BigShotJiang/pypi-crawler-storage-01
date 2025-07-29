@@ -1,11 +1,11 @@
 {
   "name": "itkspec",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "summary": "A python package responsible for retrieving component specifications from a unified database. This tool can also operate as an API since it is built with the FastAPI framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "itkspec-1.4.7.tar.gz",
-  "download_time": "2025-07-29T04:42:15.840421",
+  "download_filename": "itkspec-1.4.8.tar.gz",
+  "download_time": "2025-07-29T05:49:56.077503",
   "package_url": "https://pypi.org/project/itkspec/"
 }

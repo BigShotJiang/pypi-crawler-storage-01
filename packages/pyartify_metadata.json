@@ -1,0 +1,11 @@
+{
+  "name": "pyartify",
+  "version": "0.1",
+  "summary": "Convert images to pixel art using retro palettes like NES, GameBoy, Minecraft, and PICO-8.",
+  "author": "Shreeya Singh",
+  "license": null,
+  "home_page": "https://github.com/shreeya2424/pyart",
+  "download_filename": "pyartify-0.1.tar.gz",
+  "download_time": "2025-07-29T05:49:55.559174",
+  "package_url": "https://pypi.org/project/pyartify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-bili-fav-watcher",
+  "version": "0.1.12",
+  "summary": "A Bilibili user video favorites monitor",
+  "author": "SakanaVollerei",
+  "license": null,
+  "home_page": "https://github.com/kawaiior/nonebot-plugin-bili-fav-watcher",
+  "download_filename": "nonebot_plugin_bili_fav_watcher-0.1.12.tar.gz",
+  "download_time": "2025-07-29T05:50:08.553866",
+  "package_url": "https://pypi.org/project/nonebot-plugin-bili-fav-watcher/"
+}

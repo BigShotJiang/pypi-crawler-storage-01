@@ -1,0 +1,11 @@
+{
+  "name": "pipe-pai-tool",
+  "version": "0.1.2",
+  "summary": "pipe-pai is a simple command-line tool that allows you to interact with OpenAI models through Unix pipes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipe_pai_tool-0.1.2.tar.gz",
+  "download_time": "2025-07-29T05:49:47.219728",
+  "package_url": "https://pypi.org/project/pipe-pai-tool/"
+}

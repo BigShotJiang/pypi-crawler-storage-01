@@ -1,0 +1,11 @@
+{
+  "name": "dynadoc",
+  "version": "1.4",
+  "summary": "Docstring generation from annotations with configurable output formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynadoc-1.4.tar.gz",
+  "download_time": "2025-07-29T05:50:03.881006",
+  "package_url": "https://pypi.org/project/dynadoc/"
+}

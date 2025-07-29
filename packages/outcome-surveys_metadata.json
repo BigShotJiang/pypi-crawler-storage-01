@@ -1,0 +1,11 @@
+{
+  "name": "outcome-surveys",
+  "version": "3.0.2",
+  "summary": "An edx-platform plugin to send and track course events.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/edx/outcome-surveys",
+  "download_filename": "outcome_surveys-3.0.2.tar.gz",
+  "download_time": "2025-07-29T05:50:16.001598",
+  "package_url": "https://pypi.org/project/outcome-surveys/"
+}

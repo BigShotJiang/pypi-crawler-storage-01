@@ -1,0 +1,11 @@
+{
+  "name": "lego-hqec",
+  "version": "0.1.1",
+  "summary": "A package for accelerating holographic quantum error-correcting codes research",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lego_hqec-0.1.1.tar.gz",
+  "download_time": "2025-07-29T05:50:00.750313",
+  "package_url": "https://pypi.org/project/lego-hqec/"
+}
