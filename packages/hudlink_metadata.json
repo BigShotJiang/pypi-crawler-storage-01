@@ -1,0 +1,11 @@
+{
+  "name": "hudlink",
+  "version": "3.1.0",
+  "summary": "Automated ACS-HUD data linking for housing analysis: eligibility determination, protected-class analysis, and analysis-ready county summaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hudlink-3.1.0.tar.gz",
+  "download_time": "2025-07-29T22:12:26.684070",
+  "package_url": "https://pypi.org/project/hudlink/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "textual-autocomplete",
+  "version": "4.0.5",
+  "summary": "Easily add autocomplete dropdowns to your Textual apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_autocomplete-4.0.5.tar.gz",
+  "download_time": "2025-07-29T22:12:40.868032",
+  "package_url": "https://pypi.org/project/textual-autocomplete/"
+}

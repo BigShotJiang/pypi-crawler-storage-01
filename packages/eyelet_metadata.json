@@ -1,0 +1,11 @@
+{
+  "name": "eyelet",
+  "version": "0.3.0",
+  "summary": "Hook orchestration system for AI agents - Thread through the eyelet! (Work in Progress)",
+  "author": "Brian Morin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eyelet-0.3.0.tar.gz",
+  "download_time": "2025-07-29T22:12:44.580443",
+  "package_url": "https://pypi.org/project/eyelet/"
+}

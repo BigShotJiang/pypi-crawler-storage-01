@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.AKA2JBranding",
+  "version": "25.7.19",
+  "summary": "Package to customize Alaska jurisdiction's needs",
+  "author": "Caroline Robinson",
+  "license": "The MIT License (MIT)",
+  "home_page": "https://docassemble.org",
+  "download_filename": "docassemble_aka2jbranding-25.7.19.tar.gz",
+  "download_time": "2025-07-29T22:12:35.562390",
+  "package_url": "https://pypi.org/project/docassemble.AKA2JBranding/"
+}

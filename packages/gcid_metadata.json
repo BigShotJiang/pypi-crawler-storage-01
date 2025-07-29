@@ -1,0 +1,11 @@
+{
+  "name": "gcid",
+  "version": "0.1.5",
+  "summary": "Global Cryptographic Identifiers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcid-0.1.5.tar.gz",
+  "download_time": "2025-07-29T22:12:21.453543",
+  "package_url": "https://pypi.org/project/gcid/"
+}

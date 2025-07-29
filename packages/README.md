@@ -1,12 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-29T21:51:47.463436
-- **Total Packages**: 77
-- **Total Size**: 23.52 MB
+- **Download Time**: 2025-07-29T22:13:00.571532
+- **Total Packages**: 83
+- **Total Size**: 29.9 MB
 
 ## Packages List
+- crystallize-ml
+- regula-documentreader-webclient
+- matrix-python-sdk
+- gradio-memotext
+- streamlit-rockyroad-tools
+- pymathutils
+- infra-new
+- openwrite
+- gpu-benchmark-tool
+- gcid
+- FernetKeyGen
+- o2o-process
+- mailslurp-client
+- docutools
+- jgtml
+- avocavo-nutrition
+- aibs-informatics-core
+- adcutils
+- jgtpy
+- hudlink
 - jgtutils
+- edc
+- rcsb.db
+- tai-api
+- ollamapy
+- autoblocksai
+- dshellInterpreter
+- streamlit-smart-text-input
+- cfbd
+- simplesingletable
+- xrpl-py
+- azureml-designer-datatransform-modules
+- azureml-designer-dataio-modules
+- gradio-htmlinjector
+- nrel.routee.powertrain
+- docassemble.AKA2JBranding
+- range-tools
+- tombi
+- tai-sql
+- toweroffantasy
+- codrone-edu
+- ai-resume-parser
+- magic_hour
+- arklex
+- npc_sessions
+- textual-autocomplete
+- nshutils
+- quoridor-env
+- vibeprompt
+- automagik
+- pipedream
+- ckanext-dcor-theme
+- eyelet
+- vibectl
+- methodnetworkscan
+- czechfabric-sdk
 - listpick
 - bleak-pythonista
 - ngclearn
@@ -15,8 +70,6 @@
 - arize-phoenix
 - nominal-api-protos
 - nominal-api
-- infra-new
-- avocavo-nutrition
 - lfx
 - tecton-runtime
 - tecton
@@ -31,55 +84,8 @@
 - py-attio
 - otdf-python
 - mrx-runway
-- cfbd
 - polars-cache
 - openai-agents
 - omnilogic
 - ggx
 - robo_appian
-- blackbox-cli
-- excitingtools
-- prophecy-libs
-- arize-phoenix-client
-- discord-shared-db
-- django-flatpages-extra
-- gitk
-- django-oauth2
-- cw-constrain
-- deepagents
-- gridgulp
-- dw-ai-x
-- indent
-- EulerKit
-- streamlit-smart-text-input
-- ckanext-dcor-theme
-- letta-client
-- benchling-api-client
-- odinai-sdk
-- embodi-os
-- greenstream-config
-- mailslurp-client
-- czechfabric-sdk
-- labdata
-- snowflake-data-validation
-- dshellInterpreter
-- docutools
-- xn-model
-- ngcsimlib
-- louieai
-- dicom-utils
-- faststream
-- ptychodus
-- vprikol
-- pyrex-rocksdb
-- resoterre
-- transformerlab-inference
-- layeutils
-- lmstrix
-- coiled
-- great-expectations-cloud
-- spagim
-- claude-mpm
-- navlib
-- pymathutils
-- sbl-optimizer
