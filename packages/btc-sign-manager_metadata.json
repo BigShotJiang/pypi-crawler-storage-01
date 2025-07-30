@@ -1,0 +1,11 @@
+{
+  "name": "btc-sign-manager",
+  "version": "0.18",
+  "summary": "An application for cryptographic signing of models, files and etc.",
+  "author": "MEADez",
+  "license": "BSD License",
+  "home_page": "https://github.com/MEADez/btc-sign-manager",
+  "download_filename": "btc-sign-manager-0.18.tar.gz",
+  "download_time": "2025-07-30T14:41:28.441475",
+  "package_url": "https://pypi.org/project/btc-sign-manager/"
+}

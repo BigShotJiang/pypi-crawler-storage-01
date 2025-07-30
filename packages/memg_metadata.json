@@ -1,0 +1,11 @@
+{
+  "name": "memg",
+  "version": "0.2.0",
+  "summary": "Personal memory system using Qdrant + Kuzu + Google Gemini",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memg-0.2.0.tar.gz",
+  "download_time": "2025-07-30T14:41:46.573105",
+  "package_url": "https://pypi.org/project/memg/"
+}

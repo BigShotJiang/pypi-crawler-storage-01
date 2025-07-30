@@ -1,0 +1,11 @@
+{
+  "name": "companies-house-filing",
+  "version": "0.3.0",
+  "summary": "UK Companies House accounts filing for GnuCash users",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "companies_house_filing-0.3.0.tar.gz",
+  "download_time": "2025-07-30T14:41:21.209462",
+  "package_url": "https://pypi.org/project/companies-house-filing/"
+}

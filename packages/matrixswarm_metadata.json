@@ -1,11 +1,11 @@
 {
   "name": "matrixswarm",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "summary": "Open-source automation and monitoring platform",
   "author": "MatrixSwarm Core Team (Daniel F. MacDonald, ChatGPT) AKA The Generals, Gemini Docstring Engineer",
   "license": null,
   "home_page": null,
-  "download_filename": "matrixswarm-1.0.15.tar.gz",
-  "download_time": "2025-07-29T18:18:09.172950",
+  "download_filename": "matrixswarm-1.0.16.tar.gz",
+  "download_time": "2025-07-30T14:41:24.313359",
   "package_url": "https://pypi.org/project/matrixswarm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "axians-mcp",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "MCP server providing tools for weather and iceland",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axians_mcp-1.2.0.tar.gz",
-  "download_time": "2025-07-30T13:51:42.352036",
+  "download_filename": "axians_mcp-1.2.2.tar.gz",
+  "download_time": "2025-07-30T14:41:26.388672",
   "package_url": "https://pypi.org/project/axians-mcp/"
 }

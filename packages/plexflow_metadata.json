@@ -1,11 +1,11 @@
 {
   "name": "plexflow",
-  "version": "0.0.122",
+  "version": "0.0.124",
   "summary": "A short description of the package.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://www.example.com",
-  "download_filename": "plexflow-0.0.122.tar.gz",
-  "download_time": "2025-07-29T16:46:05.686310",
+  "download_filename": "plexflow-0.0.124.tar.gz",
+  "download_time": "2025-07-30T14:41:31.540645",
   "package_url": "https://pypi.org/project/plexflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "subwiz",
+  "version": "0.3.0",
+  "summary": "A recon tool that uses AI to predict subdomains. Then returns those that resolve.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "subwiz-0.3.0.tar.gz",
+  "download_time": "2025-07-30T14:41:48.116133",
+  "package_url": "https://pypi.org/project/subwiz/"
+}

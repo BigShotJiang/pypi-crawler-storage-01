@@ -1,0 +1,11 @@
+{
+  "name": "scanpy",
+  "version": "1.11.4",
+  "summary": "Single-Cell Analysis in Python.",
+  "author": "Alex Wolf, Philipp Angerer, Fidel Ramirez, Isaac Virshup, Sergei Rybakov, Gokcen Eraslan, Tom White, Malte Luecken, Davide Cittaro, Tobias Callies, Marius Lange, Andrés R. Muñoz-Rojas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scanpy-1.11.4-py3-none-any.whl",
+  "download_time": "2025-07-30T14:41:30.508330",
+  "package_url": "https://pypi.org/project/scanpy/"
+}

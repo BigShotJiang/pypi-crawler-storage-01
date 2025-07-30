@@ -1,0 +1,11 @@
+{
+  "name": "matlab-proxy",
+  "version": "0.26.0",
+  "summary": "Python® package enables you to launch MATLAB® and access it from a web browser.",
+  "author": "The MathWorks, Inc.",
+  "license": "MATHWORKS CLOUD REFERENCE ARCHITECTURE LICENSE",
+  "home_page": "https://github.com/mathworks/matlab-proxy/",
+  "download_filename": "matlab_proxy-0.26.0.tar.gz",
+  "download_time": "2025-07-30T14:41:35.135448",
+  "package_url": "https://pypi.org/project/matlab-proxy/"
+}
