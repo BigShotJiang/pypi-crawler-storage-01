@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-mistralai",
+  "version": "0.7.0",
+  "summary": "llama-index llms mistral ai integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_mistralai-0.7.0.tar.gz",
+  "download_time": "2025-07-30T21:12:53.465956",
+  "package_url": "https://pypi.org/project/llama-index-llms-mistralai/"
+}

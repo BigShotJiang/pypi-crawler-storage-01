@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-astra-db",
+  "version": "0.5.0",
+  "summary": "llama-index vector_stores astra integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_astra_db-0.5.0.tar.gz",
+  "download_time": "2025-07-30T21:12:23.808329",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-astra-db/"
+}

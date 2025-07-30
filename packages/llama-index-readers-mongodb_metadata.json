@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-readers-mongodb",
+  "version": "0.4.0",
+  "summary": "llama-index readers mongodb integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_readers_mongodb-0.4.0.tar.gz",
+  "download_time": "2025-07-30T21:12:46.703152",
+  "package_url": "https://pypi.org/project/llama-index-readers-mongodb/"
+}

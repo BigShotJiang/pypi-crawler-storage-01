@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-packs-longrag",
+  "version": "0.5.0",
+  "summary": "llama-index packs longrag integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_packs_longrag-0.5.0.tar.gz",
+  "download_time": "2025-07-30T21:12:17.022025",
+  "package_url": "https://pypi.org/project/llama-index-packs-longrag/"
+}

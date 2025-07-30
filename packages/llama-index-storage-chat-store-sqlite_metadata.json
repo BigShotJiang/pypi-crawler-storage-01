@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-storage-chat-store-sqlite",
+  "version": "0.2.0",
+  "summary": "llama-index storage-chat-store sqlite integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_storage_chat_store_sqlite-0.2.0.tar.gz",
+  "download_time": "2025-07-30T21:12:43.064065",
+  "package_url": "https://pypi.org/project/llama-index-storage-chat-store-sqlite/"
+}
