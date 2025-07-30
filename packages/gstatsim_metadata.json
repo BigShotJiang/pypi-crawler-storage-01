@@ -1,0 +1,11 @@
+{
+  "name": "gstatsim",
+  "version": "1.1.5",
+  "summary": "Geostatistics tools for interpolation and simulation.",
+  "author": "(Emma) Mickey MacKie",
+  "license": "MIT",
+  "home_page": "https://github.com/GatorGlaciology/GStatSim",
+  "download_filename": "gstatsim-1.1.5-py3-none-any.whl",
+  "download_time": "2025-07-30T18:52:56.267793",
+  "package_url": "https://pypi.org/project/gstatsim/"
+}

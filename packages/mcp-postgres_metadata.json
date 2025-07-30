@@ -1,0 +1,11 @@
+{
+  "name": "mcp-postgres",
+  "version": "1.0.2",
+  "summary": "Uma Ferramenta de Consulta de Bases de Dados PostgreSQL usando Linguagem Natural",
+  "author": "Leonardo Sousa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_postgres-1.0.2.tar.gz",
+  "download_time": "2025-07-30T18:53:10.857035",
+  "package_url": "https://pypi.org/project/mcp-postgres/"
+}
