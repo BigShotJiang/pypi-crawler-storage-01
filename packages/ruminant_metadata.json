@@ -1,0 +1,11 @@
+{
+  "name": "ruminant",
+  "version": "0.0.8",
+  "summary": "Recursive metadata extraction tool",
+  "author": "Laura Kirsch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ruminant-0.0.8.tar.gz",
+  "download_time": "2025-07-30T22:12:52.283931",
+  "package_url": "https://pypi.org/project/ruminant/"
+}

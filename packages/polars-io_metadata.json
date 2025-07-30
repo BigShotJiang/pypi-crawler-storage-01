@@ -1,11 +1,11 @@
 {
   "name": "polars-io",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Lazy and eager reading of Stata and SAS files into Polars",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars_io-0.4.2.tar.gz",
-  "download_time": "2025-07-30T19:13:59.381787",
+  "download_filename": "polars_io-0.4.3.tar.gz",
+  "download_time": "2025-07-30T22:12:41.238620",
   "package_url": "https://pypi.org/project/polars-io/"
 }

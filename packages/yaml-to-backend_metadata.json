@@ -1,11 +1,11 @@
 {
   "name": "yaml-to-backend",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Generador de Backends a partir de YAML",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yaml_to_backend-0.1.7.tar.gz",
-  "download_time": "2025-07-30T21:50:46.190024",
+  "download_filename": "yaml_to_backend-0.1.8.tar.gz",
+  "download_time": "2025-07-30T22:12:41.806620",
   "package_url": "https://pypi.org/project/yaml-to-backend/"
 }

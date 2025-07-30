@@ -1,0 +1,11 @@
+{
+  "name": "libreflow.extensions.file-manager.synchronisation",
+  "version": "1.2.0",
+  "summary": "Libreflow extension to batch manage sync and requests",
+  "author": "LFS",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/lfs.coop/libreflow/extensions/file_manager/synchronisation",
+  "download_filename": "libreflow_extensions_file_manager_synchronisation-1.2.0.tar.gz",
+  "download_time": "2025-07-30T22:12:52.887912",
+  "package_url": "https://pypi.org/project/libreflow.extensions.file-manager.synchronisation/"
+}

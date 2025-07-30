@@ -1,11 +1,11 @@
 {
   "name": "gridworks-proactor",
-  "version": "4.1.7",
+  "version": "4.1.8",
   "summary": "Gridworks Proactor",
   "author": "Jessica Millar",
   "license": "MIT",
   "home_page": "https://github.com/thegridelectric/gridworks-proactor",
-  "download_filename": "gridworks_proactor-4.1.7.tar.gz",
-  "download_time": "2025-07-29T20:37:56.322493",
+  "download_filename": "gridworks_proactor-4.1.8.tar.gz",
+  "download_time": "2025-07-30T22:12:47.353476",
   "package_url": "https://pypi.org/project/gridworks-proactor/"
 }

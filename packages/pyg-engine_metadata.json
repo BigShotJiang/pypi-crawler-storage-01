@@ -1,11 +1,11 @@
 {
   "name": "pyg-engine",
-  "version": "1.0.0a2",
+  "version": "1.0.0a3",
   "summary": "A Python game engine with physics, rendering, and input systems",
   "author": "Aram Aprahamian",
   "license": null,
   "home_page": null,
-  "download_filename": "pyg_engine-1.0.0a2.tar.gz",
-  "download_time": "2025-07-30T19:13:39.648876",
+  "download_filename": "pyg_engine-1.0.0a3.tar.gz",
+  "download_time": "2025-07-30T22:12:50.990626",
   "package_url": "https://pypi.org/project/pyg-engine/"
 }

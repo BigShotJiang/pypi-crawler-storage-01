@@ -1,0 +1,11 @@
+{
+  "name": "scale-sensor-fusion-io",
+  "version": "0.5.4",
+  "summary": "Library for working with timestamp-based sensor fusion scenes",
+  "author": "Michael Choi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scale_sensor_fusion_io-0.5.4.tar.gz",
+  "download_time": "2025-07-30T22:12:31.102432",
+  "package_url": "https://pypi.org/project/scale-sensor-fusion-io/"
+}

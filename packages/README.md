@@ -1,18 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-30T21:51:33.408506
-- **Total Packages**: 94
-- **Total Size**: 69.08 MB
+- **Download Time**: 2025-07-30T22:13:23.101816
+- **Total Packages**: 92
+- **Total Size**: 23.76 MB
 
 ## Packages List
+- kintsugi-tax-platform-sdk
+- krex
+- pydot_flow
+- scale-sensor-fusion-io
+- tree-source-localization
+- cdpcli-beta
+- dlm397-package
+- micro-graph
+- pygpt-net
+- guidance
+- veris-ai
+- pyrosper
+- esiaccel
+- VeriGen
+- PySimaiParser
+- snaptrade-python-sdk
+- QBI-radon
+- BatchalignHK
+- batchalign
+- polars-io
+- yaml-to-backend
+- claude-code-log
+- copyparty
+- dame-flame
+- arize-phoenix
+- PrintPop
+- anosys-logger-4-openai-agents
+- gds-agent
+- gridworks-proactor
+- convtools
+- ledger-cli-toolkit
+- payra-sdk
+- pstar
+- sentry-protos
+- pyg-engine
+- robotframework-ride
+- ruminant
+- libreflow.extensions.file-manager.synchronisation
+- libreflow.flows
 - pip
 - bdgd2dss
 - kabaret.subprocess-manager
 - dearcygui
-- PySimaiParser
-- yaml-to-backend
-- data-processing-dlm397
 - libreflow-launcher
 - mcp-server-ascom
 - meson
@@ -47,7 +83,6 @@
 - llama-index-llms-neutrino
 - llama-index-storage-kvstore-duckdb
 - crewai
-- gradio-memotext
 - indastructa
 - llama-index-packs-diff-private-simple-dataset
 - fnl-aws-cdk
@@ -63,40 +98,3 @@
 - dragonhpc
 - llama-index-llms-novita
 - llama-index-llms-anyscale
-- firewall-testing-framework
-- llama-index-multi-modal-llms-openai
-- llama-index-packs-dense-x-retrieval
-- firewall-test
-- llama-index-llms-nvidia
-- llama-index-llms-stepfun
-- llama-index-multi-modal-llms-mistralai
-- llama-index-llms-openrouter
-- llama-index-packs-node-parser-semantic-chunking
-- llama-index-embeddings-upstage
-- llama-index-packs-self-discover
-- llama-index-llms-groq
-- llama-index-packs-ragatouille-retriever
-- llama-index-packs-sub-question-weaviate
-- llama-index-embeddings-anyscale
-- llama-index-llms-localai
-- tobiko-cloud-pydantic
-- taegis-magic
-- llama-index-embeddings-fireworks
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- llama-index-llms-llama-api
-- llama-index-llms-paieas
-- dsa-metric
-- laboneq
-- llama-index-embeddings-nebius
-- dialoghelper
-- script-utils-log-async
-- llama-index-llms-cerebras
-- symbolicai
-- llama-index-multi-modal-llms-reka
-- openfeature-sdk
-- npc_sessions
-- ggx
-- llama-index-packs-stock-market-data-query-engine
-- llama-index-llms-perplexity
-- tako-sdk

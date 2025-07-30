@@ -1,0 +1,11 @@
+{
+  "name": "dame-flame",
+  "version": "0.81",
+  "summary": "Causal Inference Covariate Matching",
+  "author": "Neha R. Gupta",
+  "license": "MIT",
+  "home_page": "https://github.com/almost-matching-exactly/DAME-FLAME-Python-Package",
+  "download_filename": "dame_flame-0.81.tar.gz",
+  "download_time": "2025-07-30T22:12:44.190191",
+  "package_url": "https://pypi.org/project/dame-flame/"
+}

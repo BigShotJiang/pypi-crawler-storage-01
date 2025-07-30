@@ -1,11 +1,11 @@
 {
   "name": "PrintPop",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Styled console printing made simple — color, format, and clarity in one package.",
   "author": "Ryan LaPine",
   "license": "MIT",
   "home_page": "https://github.com/rlapine/PrintPop",
-  "download_filename": "printpop-0.1.2.tar.gz",
-  "download_time": "2025-07-30T20:35:36.625907",
+  "download_filename": "printpop-0.1.4.tar.gz",
+  "download_time": "2025-07-30T22:12:45.561720",
   "package_url": "https://pypi.org/project/PrintPop/"
 }
