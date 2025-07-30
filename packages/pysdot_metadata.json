@@ -1,0 +1,11 @@
+{
+  "name": "pysdot",
+  "version": "0.2.38",
+  "summary": "Semi-discrete operationnal transport",
+  "author": "Hugo Leclerc",
+  "license": null,
+  "home_page": "https://github.com/sd-ot/pysdot",
+  "download_filename": "pysdot-0.2.38.tar.gz",
+  "download_time": "2025-07-30T09:20:23.770557",
+  "package_url": "https://pypi.org/project/pysdot/"
+}

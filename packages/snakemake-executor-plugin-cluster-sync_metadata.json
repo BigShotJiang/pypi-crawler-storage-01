@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-cluster-sync",
+  "version": "0.1.5",
+  "summary": "A Snakemake executor plugin for cluster jobs that are executed synchronously.",
+  "author": "Johannes Koester",
+  "license": "MIT",
+  "home_page": "https://github.com/snakemake/snakemake-executor-plugin-cluster-sync",
+  "download_filename": "snakemake_executor_plugin_cluster_sync-0.1.5.tar.gz",
+  "download_time": "2025-07-30T09:20:13.704542",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-cluster-sync/"
+}

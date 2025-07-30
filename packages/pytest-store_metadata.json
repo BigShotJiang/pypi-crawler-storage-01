@@ -1,0 +1,11 @@
+{
+  "name": "pytest-store",
+  "version": "0.0.4",
+  "summary": "Pytest plugin to store values from test runs",
+  "author": "tb",
+  "license": "MIT",
+  "home_page": "https://github.com/TBxy/pytest-store",
+  "download_filename": "pytest_store-0.0.4.tar.gz",
+  "download_time": "2025-07-30T09:20:13.126919",
+  "package_url": "https://pypi.org/project/pytest-store/"
+}
