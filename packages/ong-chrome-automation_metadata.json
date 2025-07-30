@@ -1,0 +1,11 @@
+{
+  "name": "ong-chrome-automation",
+  "version": "0.1.0",
+  "summary": "Class to automate Chrome browser tasks using Playwright. It adds a class to deal with Microsoft Copilot",
+  "author": "Oscar Neira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ong_chrome_automation-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-30T22:43:09.894637",
+  "package_url": "https://pypi.org/project/ong-chrome-automation/"
+}

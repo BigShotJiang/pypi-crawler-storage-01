@@ -1,0 +1,11 @@
+{
+  "name": "logfmter",
+  "version": "0.0.10",
+  "summary": "A Python package which supports global logfmt formatted logging.",
+  "author": "Joshua Taylor Eppinette",
+  "license": "MIT",
+  "home_page": "https://github.com/josheppinette/python-logfmter",
+  "download_filename": "logfmter-0.0.10.tar.gz",
+  "download_time": "2025-07-30T22:42:57.385380",
+  "package_url": "https://pypi.org/project/logfmter/"
+}

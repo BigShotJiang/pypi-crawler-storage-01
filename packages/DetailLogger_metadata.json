@@ -1,0 +1,11 @@
+{
+  "name": "DetailLogger",
+  "version": "0.1.4",
+  "summary": "Styled console printing made simple — color, format, and clarity in one package.",
+  "author": "Ryan LaPine",
+  "license": "MIT",
+  "home_page": "https://github.com/rlapine/DetailLogger",
+  "download_filename": "detaillogger-0.1.4.tar.gz",
+  "download_time": "2025-07-30T22:43:00.366562",
+  "package_url": "https://pypi.org/project/DetailLogger/"
+}

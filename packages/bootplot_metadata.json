@@ -1,0 +1,11 @@
+{
+  "name": "bootplot",
+  "version": "0.0.14",
+  "summary": "bootplot is a package for black-box uncertainty visualization.",
+  "author": "David Nabergoj, Erik Štrumbelj,",
+  "license": "MIT",
+  "home_page": "https://github.com/davidnabergoj/bootplot",
+  "download_filename": "bootplot-0.0.14.tar.gz",
+  "download_time": "2025-07-30T22:42:37.383490",
+  "package_url": "https://pypi.org/project/bootplot/"
+}

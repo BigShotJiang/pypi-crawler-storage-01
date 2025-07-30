@@ -1,11 +1,11 @@
 {
   "name": "plain.admin",
-  "version": "0.38.0",
+  "version": "0.38.1",
   "summary": "Manage your app with a backend interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_admin-0.38.0.tar.gz",
-  "download_time": "2025-07-30T20:35:49.366840",
+  "download_filename": "plain_admin-0.38.1.tar.gz",
+  "download_time": "2025-07-30T22:42:36.220849",
   "package_url": "https://pypi.org/project/plain.admin/"
 }

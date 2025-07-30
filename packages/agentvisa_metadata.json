@@ -1,0 +1,11 @@
+{
+  "name": "agentvisa",
+  "version": "0.1.0",
+  "summary": "The official Python SDK for the AgentVisa API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentvisa-0.1.0.tar.gz",
+  "download_time": "2025-07-30T22:42:23.699792",
+  "package_url": "https://pypi.org/project/agentvisa/"
+}
