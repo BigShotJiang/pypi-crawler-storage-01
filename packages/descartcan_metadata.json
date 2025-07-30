@@ -1,0 +1,11 @@
+{
+  "name": "descartcan",
+  "version": "2025.7.30.1",
+  "summary": "A Python toolkit for advanced data processing and API interactions",
+  "author": "DescartCan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "descartcan-2025.7.30.1.tar.gz",
+  "download_time": "2025-07-30T15:13:51.191561",
+  "package_url": "https://pypi.org/project/descartcan/"
+}

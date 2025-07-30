@@ -1,0 +1,11 @@
+{
+  "name": "recallio",
+  "version": "1.2.4",
+  "summary": "Python client for the Recallio API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "recallio-1.2.4.tar.gz",
+  "download_time": "2025-07-30T15:13:58.045654",
+  "package_url": "https://pypi.org/project/recallio/"
+}

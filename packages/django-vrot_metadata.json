@@ -1,0 +1,11 @@
+{
+  "name": "django-vrot",
+  "version": "0.2.0",
+  "summary": "A collection of Django templatetags and middleware.",
+  "author": "Kevin Renskers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_vrot-0.2.0.tar.gz",
+  "download_time": "2025-07-30T15:13:44.467269",
+  "package_url": "https://pypi.org/project/django-vrot/"
+}

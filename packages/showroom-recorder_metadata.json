@@ -1,11 +1,11 @@
 {
   "name": "showroom-recorder",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "summary": "Recording Showroom Streaming Video",
   "author": "vacabun",
   "license": null,
   "home_page": "https://github.com/vacabun/showroom-recorder",
-  "download_filename": "showroom_recorder-0.7.7.tar.gz",
-  "download_time": "2025-07-30T14:41:28.950928",
+  "download_filename": "showroom_recorder-0.7.8.tar.gz",
+  "download_time": "2025-07-30T15:13:51.764494",
   "package_url": "https://pypi.org/project/showroom-recorder/"
 }

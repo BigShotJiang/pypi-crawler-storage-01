@@ -1,0 +1,11 @@
+{
+  "name": "rapidocr-web",
+  "version": "1.0.0",
+  "summary": "The Web version of RapidOCR",
+  "author": "SWHL",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RapidAI/RapidOCRWeb",
+  "download_filename": "rapidocr_web-1.0.0-py3-none-any.whl",
+  "download_time": "2025-07-30T15:14:26.383111",
+  "package_url": "https://pypi.org/project/rapidocr-web/"
+}

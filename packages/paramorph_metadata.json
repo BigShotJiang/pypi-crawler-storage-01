@@ -1,11 +1,11 @@
 {
   "name": "paramorph",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Inephany client library to use Paramorph Agents.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "paramorph-0.7.0.tar.gz",
-  "download_time": "2025-07-30T13:12:39.827288",
+  "download_filename": "paramorph-0.7.1.tar.gz",
+  "download_time": "2025-07-30T15:14:10.958036",
   "package_url": "https://pypi.org/project/paramorph/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pydeepskylog",
+  "version": "1.6",
+  "summary": "Astronomical observation logging software",
+  "author": "Wim De Meester",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/DeepskyLog/pydeepskylog",
+  "download_filename": "pydeepskylog-1.6.tar.gz",
+  "download_time": "2025-07-30T15:14:00.337638",
+  "package_url": "https://pypi.org/project/pydeepskylog/"
+}

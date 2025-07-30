@@ -1,0 +1,11 @@
+{
+  "name": "langchain-anchorbrowser",
+  "version": "0.1.0a1",
+  "summary": "Anchor Browser tools for LangChain",
+  "author": "Gil Dankner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_anchorbrowser-0.1.0a1.tar.gz",
+  "download_time": "2025-07-30T15:14:07.865252",
+  "package_url": "https://pypi.org/project/langchain-anchorbrowser/"
+}
