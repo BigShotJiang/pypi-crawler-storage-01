@@ -1,0 +1,11 @@
+{
+  "name": "polarion-rest-api-client",
+  "version": "1.4.3",
+  "summary": "An API Client for the Polarion REST API",
+  "author": "DB InfraGO AG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polarion_rest_api_client-1.4.3.tar.gz",
+  "download_time": "2025-07-30T16:16:18.371464",
+  "package_url": "https://pypi.org/project/polarion-rest-api-client/"
+}

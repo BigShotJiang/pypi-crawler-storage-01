@@ -1,11 +1,11 @@
 {
   "name": "creo-mcp",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "An MCP server with tools for CAD interaction and knowledge base retrieval.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "creo_mcp-0.1.4.tar.gz",
-  "download_time": "2025-07-30T15:37:30.687808",
+  "download_filename": "creo_mcp-0.1.6.tar.gz",
+  "download_time": "2025-07-30T16:16:05.940202",
   "package_url": "https://pypi.org/project/creo-mcp/"
 }

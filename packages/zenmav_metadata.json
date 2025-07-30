@@ -1,11 +1,11 @@
 {
   "name": "zenmav",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Pymavlink wrappers for easy drone control developped by Zenith Polymtl",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zenmav-0.0.2-py3-none-any.whl",
-  "download_time": "2025-07-30T03:03:34.548140",
+  "download_filename": "zenmav-0.0.4.tar.gz",
+  "download_time": "2025-07-30T16:16:21.472148",
   "package_url": "https://pypi.org/project/zenmav/"
 }

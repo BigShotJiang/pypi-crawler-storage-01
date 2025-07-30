@@ -1,0 +1,11 @@
+{
+  "name": "torchrbf",
+  "version": "1.0.0",
+  "summary": "Radial Basis Function Interpolation in PyTorch",
+  "author": "Arman Maesumi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchrbf-1.0.0.tar.gz",
+  "download_time": "2025-07-30T16:16:00.592495",
+  "package_url": "https://pypi.org/project/torchrbf/"
+}

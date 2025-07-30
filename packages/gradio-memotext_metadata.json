@@ -1,11 +1,11 @@
 {
   "name": "gradio-memotext",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Python library for easily interacting with trained machine learning models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_memotext-0.0.4.tar.gz",
-  "download_time": "2025-07-30T15:55:06.808361",
+  "download_filename": "gradio_memotext-0.0.7.tar.gz",
+  "download_time": "2025-07-30T16:16:20.958286",
   "package_url": "https://pypi.org/project/gradio-memotext/"
 }

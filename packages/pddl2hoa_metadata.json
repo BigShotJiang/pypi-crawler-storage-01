@@ -1,11 +1,11 @@
 {
   "name": "pddl2hoa",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Convert PDDL planning problems to HOA (Hanoi Omega Automata) format",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pddl2hoa-0.1.2.tar.gz",
-  "download_time": "2025-07-30T15:54:56.782552",
+  "download_filename": "pddl2hoa-0.1.4.tar.gz",
+  "download_time": "2025-07-30T16:15:46.504233",
   "package_url": "https://pypi.org/project/pddl2hoa/"
 }

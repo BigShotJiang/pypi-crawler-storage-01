@@ -1,11 +1,11 @@
 {
   "name": "mpy-file-info",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A program to run MicroPython mpy-tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mpy_file_info-0.1.1.tar.gz",
-  "download_time": "2025-07-30T03:03:34.026122",
+  "download_filename": "mpy_file_info-0.1.2.tar.gz",
+  "download_time": "2025-07-30T16:16:02.185581",
   "package_url": "https://pypi.org/project/mpy-file-info/"
 }

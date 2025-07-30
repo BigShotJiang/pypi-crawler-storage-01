@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-postgres",
+  "version": "0.5.5",
+  "summary": "llama-index vector_stores postgres integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_postgres-0.5.5.tar.gz",
+  "download_time": "2025-07-30T16:15:53.281698",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-postgres/"
+}
