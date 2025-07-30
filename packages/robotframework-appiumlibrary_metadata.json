@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-appiumlibrary",
+  "version": "3.0.0",
+  "summary": "Robot Framework Mobile app testing library for Appium Client Android & iOS & Web",
+  "author": "Serhat Bolsu, William Zhang, Xie Lieping, Jari Nurminen",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/serhatbolsu/robotframework-appiumlibrary",
+  "download_filename": "robotframework_appiumlibrary-3.0.0.tar.gz",
+  "download_time": "2025-07-30T01:00:54.881867",
+  "package_url": "https://pypi.org/project/robotframework-appiumlibrary/"
+}

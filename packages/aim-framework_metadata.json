@@ -1,0 +1,11 @@
+{
+  "name": "aim-framework",
+  "version": "1.0.0",
+  "summary": "Adaptive Intelligence Mesh - A distributed coordination system for AI deployment and interaction",
+  "author": "jasonviipers",
+  "license": null,
+  "home_page": "https://github.com/jasonviipers/aim-framework",
+  "download_filename": "aim-framework-1.0.0.tar.gz",
+  "download_time": "2025-07-30T01:01:03.328348",
+  "package_url": "https://pypi.org/project/aim-framework/"
+}
