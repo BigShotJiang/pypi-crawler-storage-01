@@ -1,11 +1,11 @@
 {
   "name": "avinf",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Anytime-Valid Inference python package for Casual Inference in Randomized Experiments by Lindon, Ham, Tingley and Bojinov (2025).",
   "author": "Prajwal Kafle",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "avinf-0.1.0-py3-none-any.whl",
-  "download_time": "2025-07-30T03:03:37.198400",
+  "download_filename": "avinf-1.0.0.tar.gz",
+  "download_time": "2025-07-30T07:19:25.686523",
   "package_url": "https://pypi.org/project/avinf/"
 }

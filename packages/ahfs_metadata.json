@@ -1,0 +1,11 @@
+{
+  "name": "ahfs",
+  "version": "2025.8",
+  "summary": "Python implementation of the Adaptive, Hybrid Feature Selection algorithm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ahfs-2025.8.tar.gz",
+  "download_time": "2025-07-30T07:19:30.915277",
+  "package_url": "https://pypi.org/project/ahfs/"
+}

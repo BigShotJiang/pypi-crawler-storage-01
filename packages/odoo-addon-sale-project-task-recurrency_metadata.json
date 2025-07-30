@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-project-task-recurrency",
+  "version": "18.0.1.0.0.2",
+  "summary": "Configuring Task Recurrence from the Product Form.",
+  "author": "Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_sale_project_task_recurrency-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-30T07:19:30.345167",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-project-task-recurrency/"
+}

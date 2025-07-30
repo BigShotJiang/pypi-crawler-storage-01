@@ -1,11 +1,11 @@
 {
   "name": "czechfabric-sdk",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Python SDK for Czech Intelligence Fabric (CzechFabric MCP)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "czechfabric_sdk-0.2.5.tar.gz",
-  "download_time": "2025-07-29T22:37:11.969740",
+  "download_filename": "czechfabric_sdk-0.2.6.tar.gz",
+  "download_time": "2025-07-30T07:19:19.333803",
   "package_url": "https://pypi.org/project/czechfabric-sdk/"
 }

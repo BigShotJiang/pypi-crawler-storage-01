@@ -1,0 +1,11 @@
+{
+  "name": "zacrostools",
+  "version": "2.5",
+  "summary": "A collection of tools for the preparation of input files for ZACROS",
+  "author": "Hector Prats",
+  "license": null,
+  "home_page": "https://github.com/hprats/ZacrosTools",
+  "download_filename": "zacrostools-2.5.tar.gz",
+  "download_time": "2025-07-30T07:19:09.658184",
+  "package_url": "https://pypi.org/project/zacrostools/"
+}

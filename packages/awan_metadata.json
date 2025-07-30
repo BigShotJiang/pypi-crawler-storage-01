@@ -1,0 +1,11 @@
+{
+  "name": "awan",
+  "version": "9.5.6",
+  "summary": "Awan Server Mini Server Host Multi Platform",
+  "author": "Dwi Bakti N Dev",
+  "license": null,
+  "home_page": "https://github.com/royhtml",
+  "download_filename": "awan-9.5.6.tar.gz",
+  "download_time": "2025-07-30T07:19:32.071205",
+  "package_url": "https://pypi.org/project/awan/"
+}

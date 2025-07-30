@@ -1,0 +1,11 @@
+{
+  "name": "conting-researcher",
+  "version": "0.14.0",
+  "summary": "Conting Researcher - A fork of GPT-Researcher with enhanced features for comprehensive online research on a variety of tasks.",
+  "author": "hurxxxx",
+  "license": "MIT",
+  "home_page": "https://github.com/JYT-AI/conting-researcher",
+  "download_filename": "conting_researcher-0.14.0.tar.gz",
+  "download_time": "2025-07-30T07:19:26.259718",
+  "package_url": "https://pypi.org/project/conting-researcher/"
+}
