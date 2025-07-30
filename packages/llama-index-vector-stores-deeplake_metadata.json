@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-deeplake",
+  "version": "0.4.0",
+  "summary": "llama-index vector_stores deeplake integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_deeplake-0.4.0.tar.gz",
+  "download_time": "2025-07-30T20:53:55.099463",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-deeplake/"
+}

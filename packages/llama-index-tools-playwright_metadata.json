@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-tools-playwright",
+  "version": "0.3.0",
+  "summary": "llama-index tools playwright integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_tools_playwright-0.3.0.tar.gz",
+  "download_time": "2025-07-30T20:54:24.893872",
+  "package_url": "https://pypi.org/project/llama-index-tools-playwright/"
+}

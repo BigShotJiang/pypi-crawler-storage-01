@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-instructor",
+  "version": "0.4.0",
+  "summary": "llama-index embeddings instructor integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_instructor-0.4.0.tar.gz",
+  "download_time": "2025-07-30T20:54:19.253365",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-instructor/"
+}

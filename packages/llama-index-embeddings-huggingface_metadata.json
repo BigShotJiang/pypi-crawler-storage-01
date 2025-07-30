@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-huggingface",
+  "version": "0.6.0",
+  "summary": "llama-index embeddings huggingface integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_huggingface-0.6.0.tar.gz",
+  "download_time": "2025-07-30T20:54:17.717076",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-huggingface/"
+}
