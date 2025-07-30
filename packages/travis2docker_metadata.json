@@ -1,0 +1,11 @@
+{
+  "name": "travis2docker",
+  "version": "6.4.22",
+  "summary": "Script to generate Dockerfile from .travis.yml file",
+  "author": "Vauxoo",
+  "license": "BSD",
+  "home_page": "https://github.com/vauxoo/travis2docker",
+  "download_filename": "travis2docker-6.4.22.tar.gz",
+  "download_time": "2025-07-30T23:32:38.158080",
+  "package_url": "https://pypi.org/project/travis2docker/"
+}
