@@ -1,0 +1,11 @@
+{
+  "name": "mqpipeline",
+  "version": "0.1.0",
+  "summary": "A reusable RabbitMQ pipeline handler for publishing and consuming messages.",
+  "author": "Kazım SARIKAYA",
+  "license": "MIT",
+  "home_page": "https://github.com/kazimsarikaya/mqpipeline",
+  "download_filename": "mqpipeline-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-30T12:25:10.646509",
+  "package_url": "https://pypi.org/project/mqpipeline/"
+}

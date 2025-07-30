@@ -1,0 +1,11 @@
+{
+  "name": "axisregistry",
+  "version": "0.4.16",
+  "summary": "A python API to access data from the Google Fonts variable fonts axis registry.",
+  "author": "Felipe Sanches",
+  "license": null,
+  "home_page": "https://github.com/googlefonts/axisregistry/",
+  "download_filename": "axisregistry-0.4.16.tar.gz",
+  "download_time": "2025-07-30T12:25:28.389711",
+  "package_url": "https://pypi.org/project/axisregistry/"
+}

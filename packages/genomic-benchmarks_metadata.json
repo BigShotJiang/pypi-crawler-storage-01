@@ -1,0 +1,11 @@
+{
+  "name": "genomic-benchmarks",
+  "version": "1.0.0",
+  "summary": "Genomic Benchmarks",
+  "author": "RBP Bioinformatics",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks",
+  "download_filename": "genomic_benchmarks-1.0.0.tar.gz",
+  "download_time": "2025-07-30T12:24:49.648437",
+  "package_url": "https://pypi.org/project/genomic-benchmarks/"
+}

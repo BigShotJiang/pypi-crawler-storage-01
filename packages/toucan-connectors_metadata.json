@@ -1,0 +1,11 @@
+{
+  "name": "toucan-connectors",
+  "version": "9.2.0",
+  "summary": "Toucan Toco Connectors",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "toucan_connectors-9.2.0.tar.gz",
+  "download_time": "2025-07-30T12:24:55.980559",
+  "package_url": "https://pypi.org/project/toucan-connectors/"
+}

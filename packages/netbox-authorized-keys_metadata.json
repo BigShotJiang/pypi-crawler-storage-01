@@ -1,0 +1,11 @@
+{
+  "name": "netbox-authorized-keys",
+  "version": "1.1.1",
+  "summary": "NetBox plugin to store Authorized Keys",
+  "author": "Jan Krupa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netbox_authorized_keys-1.1.1.tar.gz",
+  "download_time": "2025-07-30T12:25:11.681890",
+  "package_url": "https://pypi.org/project/netbox-authorized-keys/"
+}

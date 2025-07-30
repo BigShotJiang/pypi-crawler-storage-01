@@ -1,11 +1,11 @@
 {
   "name": "konfigurator",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A a simple python configuration management and object instantiation tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "konfigurator-0.2.0.tar.gz",
-  "download_time": "2025-07-30T10:14:40.856267",
+  "download_filename": "konfigurator-0.2.1.tar.gz",
+  "download_time": "2025-07-30T12:25:33.098765",
   "package_url": "https://pypi.org/project/konfigurator/"
 }

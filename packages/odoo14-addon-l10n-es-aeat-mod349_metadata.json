@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-l10n-es-aeat-mod349",
-  "version": "14.0.1.4.2",
+  "version": "14.0.1.4.3",
   "summary": "AEAT modelo 349",
   "author": "Tecnativa, ForgeFlow, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-spain",
-  "download_filename": "odoo14_addon_l10n_es_aeat_mod349-14.0.1.4.2-py3-none-any.whl",
-  "download_time": "2025-07-30T11:37:20.421568",
+  "download_filename": "odoo14_addon_l10n_es_aeat_mod349-14.0.1.4.3-py3-none-any.whl",
+  "download_time": "2025-07-30T12:25:32.062576",
   "package_url": "https://pypi.org/project/odoo14-addon-l10n-es-aeat-mod349/"
 }

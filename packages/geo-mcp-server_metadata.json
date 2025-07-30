@@ -1,0 +1,11 @@
+{
+  "name": "geo-mcp-server",
+  "version": "0.5.0",
+  "summary": "DEPRECATED: This package is no longer maintained. Use https://github.com/MCPmed/GEOmcp instead.",
+  "author": "MCP Developer",
+  "license": null,
+  "home_page": "https://github.com/MCPmed/GEOmcp",
+  "download_filename": "geo_mcp_server-0.5.0.tar.gz",
+  "download_time": "2025-07-30T12:25:24.208753",
+  "package_url": "https://pypi.org/project/geo-mcp-server/"
+}
