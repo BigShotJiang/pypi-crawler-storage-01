@@ -1,11 +1,11 @@
 {
   "name": "embodi-os",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "AI-powered operating system with natural language interface",
   "author": "EMBODIOS Contributors",
-  "license": null,
-  "home_page": "https://github.com/embodi-os/embodi",
-  "download_filename": "embodi_os-0.1.0.tar.gz",
-  "download_time": "2025-07-29T21:32:54.324395",
+  "license": "MIT",
+  "home_page": "https://github.com/dddimcha/embodiOS",
+  "download_filename": "embodi_os-0.2.0-py3-none-any.whl",
+  "download_time": "2025-07-30T19:49:02.201996",
   "package_url": "https://pypi.org/project/embodi-os/"
 }
