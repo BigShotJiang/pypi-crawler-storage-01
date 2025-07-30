@@ -1,0 +1,11 @@
+{
+  "name": "loopy",
+  "version": "2025.2",
+  "summary": "A code generator for array-based code on CPUs and GPUs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loopy-2025.2.tar.gz",
+  "download_time": "2025-07-30T17:24:06.742211",
+  "package_url": "https://pypi.org/project/loopy/"
+}

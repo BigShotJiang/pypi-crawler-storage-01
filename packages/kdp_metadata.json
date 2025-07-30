@@ -1,11 +1,11 @@
 {
   "name": "kdp",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "summary": "Data Preprocessing model based on Keras preprocessing layers",
   "author": "Piotr Laczkowski",
   "license": "MIT",
   "home_page": "https://github.com/piotrlaczkowski/keras-data-processor",
-  "download_filename": "kdp-1.11.1.tar.gz",
-  "download_time": "2025-07-30T16:45:18.219915",
+  "download_filename": "kdp-1.11.2.tar.gz",
+  "download_time": "2025-07-30T17:23:42.977661",
   "package_url": "https://pypi.org/project/kdp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "missAV-api",
+  "version": "1.4.3",
+  "summary": "A Python API for the Porn Site missav.ws",
+  "author": "Johannes Habel",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/EchterAlsFake/missAV_api",
+  "download_filename": "missav_api-1.4.3.tar.gz",
+  "download_time": "2025-07-30T17:23:33.684759",
+  "package_url": "https://pypi.org/project/missAV-api/"
+}

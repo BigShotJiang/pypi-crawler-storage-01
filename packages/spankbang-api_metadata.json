@@ -1,0 +1,11 @@
+{
+  "name": "spankbang-api",
+  "version": "1.4",
+  "summary": "A Python API for the Porn Site spankbang.com",
+  "author": "Johannes Habel",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/EchterAlsFake/spankbang_api",
+  "download_filename": "spankbang_api-1.4.tar.gz",
+  "download_time": "2025-07-30T17:23:37.307088",
+  "package_url": "https://pypi.org/project/spankbang-api/"
+}
