@@ -1,0 +1,11 @@
+{
+  "name": "RAGnificentAI",
+  "version": "1.4",
+  "summary": "A simple RAG chatbot supporting multiple LLM providers",
+  "author": "K. M. Abul Farhad-Ibn-Alam",
+  "license": "Custom",
+  "home_page": "https://github.com/Abul-Farhad/RAGnificentAI",
+  "download_filename": "ragnificentai-1.4.tar.gz",
+  "download_time": "2025-07-30T08:18:00.281651",
+  "package_url": "https://pypi.org/project/RAGnificentAI/"
+}

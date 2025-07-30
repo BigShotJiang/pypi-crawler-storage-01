@@ -1,0 +1,11 @@
+{
+  "name": "gtx-mcp-server",
+  "version": "0.1.5.dev1",
+  "summary": "A Model Context Protocol (MCP) server that utilizes XiyanSQL with databases. This server enables AI assistants to list tables, read data, and execute natural language queries",
+  "author": "Zhiling Luo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtx_mcp_server-0.1.5.dev1.tar.gz",
+  "download_time": "2025-07-30T08:17:34.749626",
+  "package_url": "https://pypi.org/project/gtx-mcp-server/"
+}

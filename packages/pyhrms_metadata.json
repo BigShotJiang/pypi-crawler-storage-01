@@ -1,0 +1,11 @@
+{
+  "name": "pyhrms",
+  "version": "1.0.8",
+  "summary": "A powerful GC/LC-HRMS data analysis tool",
+  "author": "Wang Rui",
+  "license": null,
+  "home_page": "https://github.com/WangRui5/PyHRMS.git",
+  "download_filename": "pyhrms-1.0.8-py3-none-any.whl",
+  "download_time": "2025-07-30T08:17:54.031119",
+  "package_url": "https://pypi.org/project/pyhrms/"
+}

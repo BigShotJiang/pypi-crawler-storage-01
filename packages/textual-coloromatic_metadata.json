@@ -1,0 +1,11 @@
+{
+  "name": "textual-coloromatic",
+  "version": "1.0.1",
+  "summary": "A Textual widget for displaying ASCII art with color effects and animations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textual_coloromatic-1.0.1.tar.gz",
+  "download_time": "2025-07-30T08:18:07.332153",
+  "package_url": "https://pypi.org/project/textual-coloromatic/"
+}
