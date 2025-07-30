@@ -1,0 +1,11 @@
+{
+  "name": "aexpect",
+  "version": "1.8.0",
+  "summary": "Aexpect",
+  "author": "Aexpect developers",
+  "license": "GPLv2+",
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "aexpect-1.8.0.tar.gz",
+  "download_time": "2025-07-30T14:56:08.675669",
+  "package_url": "https://pypi.org/project/aexpect/"
+}

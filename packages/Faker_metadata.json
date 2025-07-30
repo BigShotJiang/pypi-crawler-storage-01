@@ -1,0 +1,11 @@
+{
+  "name": "Faker",
+  "version": "37.5.0",
+  "summary": "Faker is a Python package that generates fake data for you.",
+  "author": "joke2k",
+  "license": "MIT License",
+  "home_page": "https://github.com/joke2k/faker",
+  "download_filename": "faker-37.5.0.tar.gz",
+  "download_time": "2025-07-30T14:56:20.497187",
+  "package_url": "https://pypi.org/project/Faker/"
+}

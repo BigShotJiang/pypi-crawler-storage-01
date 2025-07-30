@@ -1,11 +1,11 @@
 {
   "name": "girder-plugin-worker",
-  "version": "5.0.0a8.dev78",
+  "version": "5.0.0a8.dev87",
   "summary": "The Girder server plugin interfacing with girder-worker",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#worker",
-  "download_filename": "girder_plugin_worker-5.0.0a8.dev78.tar.gz",
-  "download_time": "2025-07-29T14:50:01.702801",
+  "download_filename": "girder_plugin_worker-5.0.0a8.dev87.tar.gz",
+  "download_time": "2025-07-30T14:56:09.246205",
   "package_url": "https://pypi.org/project/girder-plugin-worker/"
 }

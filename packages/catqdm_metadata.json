@@ -1,0 +1,11 @@
+{
+  "name": "catqdm",
+  "version": "0.1.1",
+  "summary": "Simple tqdm bar with asci cat faces.",
+  "author": "Aloys Bernard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "catqdm-0.1.1.tar.gz",
+  "download_time": "2025-07-30T14:56:31.675433",
+  "package_url": "https://pypi.org/project/catqdm/"
+}

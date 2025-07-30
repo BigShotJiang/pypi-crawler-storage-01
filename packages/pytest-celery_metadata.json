@@ -1,0 +1,11 @@
+{
+  "name": "pytest-celery",
+  "version": "1.2.1",
+  "summary": "Pytest plugin for Celery",
+  "author": "Tomer Nosrati",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/celery/pytest-celery",
+  "download_filename": "pytest_celery-1.2.1.tar.gz",
+  "download_time": "2025-07-30T14:56:21.982804",
+  "package_url": "https://pypi.org/project/pytest-celery/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gesp",
+  "version": "0.2.0",
+  "summary": "convenient scraping of german court decisions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gesp-0.2.0.tar.gz",
+  "download_time": "2025-07-30T14:56:05.033060",
+  "package_url": "https://pypi.org/project/gesp/"
+}
