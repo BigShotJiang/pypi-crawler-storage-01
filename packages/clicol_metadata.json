@@ -1,0 +1,11 @@
+{
+  "name": "clicol",
+  "version": "1.1.6",
+  "summary": "CLI colorizer",
+  "author": "Viktor Kertesz",
+  "license": "GPLv3",
+  "home_page": "https://github.com/realvitya/clicol",
+  "download_filename": "clicol-1.1.6.tar.gz",
+  "download_time": "2025-07-30T15:54:49.472417",
+  "package_url": "https://pypi.org/project/clicol/"
+}

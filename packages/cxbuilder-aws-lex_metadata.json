@@ -1,0 +1,11 @@
+{
+  "name": "cxbuilder-aws-lex",
+  "version": "1.1.1",
+  "summary": "Higher-level (L2) constructs for AWS LexV2 bot creation using the AWS CDK",
+  "author": "CXBuilder<ivan@cxbuilder.ai>",
+  "license": "MIT",
+  "home_page": "https://github.com/cxbuilder/aws-lex#readme",
+  "download_filename": "cxbuilder_aws_lex-1.1.1.tar.gz",
+  "download_time": "2025-07-30T15:54:53.625933",
+  "package_url": "https://pypi.org/project/cxbuilder-aws-lex/"
+}

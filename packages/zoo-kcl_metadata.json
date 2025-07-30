@@ -1,11 +1,11 @@
 {
   "name": "zoo-kcl",
-  "version": "0.3.88",
+  "version": "0.3.89",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zoo_kcl-0.3.88.tar.gz",
-  "download_time": "2025-07-29T16:45:35.107306",
+  "download_filename": "zoo_kcl-0.3.89.tar.gz",
+  "download_time": "2025-07-30T15:55:03.669757",
   "package_url": "https://pypi.org/project/zoo-kcl/"
 }
