@@ -1,11 +1,11 @@
 {
   "name": "emerge",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "An open source EM FEM simulator in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emerge-0.4.7.tar.gz",
-  "download_time": "2025-07-30T19:13:36.053215",
+  "download_filename": "emerge-0.4.8.tar.gz",
+  "download_time": "2025-07-30T19:42:17.569289",
   "package_url": "https://pypi.org/project/emerge/"
 }

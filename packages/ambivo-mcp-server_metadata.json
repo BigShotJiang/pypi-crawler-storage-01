@@ -1,11 +1,11 @@
 {
   "name": "ambivo-mcp-server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "MCP Server for Ambivo API endpoints - Natural language queries and direct entity data access",
   "author": "Ambivo Development Team",
   "license": "MIT",
-  "home_page": "https://github.com/ambivo/ambivo-mcp-server",
-  "download_filename": "ambivo_mcp_server-1.0.3.tar.gz",
-  "download_time": "2025-07-30T05:22:47.731926",
+  "home_page": "https://github.com/ambivo-corp/ambivo-mcp-server",
+  "download_filename": "ambivo_mcp_server-1.0.4.tar.gz",
+  "download_time": "2025-07-30T19:42:33.840163",
   "package_url": "https://pypi.org/project/ambivo-mcp-server/"
 }

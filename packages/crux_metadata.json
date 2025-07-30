@@ -1,0 +1,11 @@
+{
+  "name": "crux",
+  "version": "1.4",
+  "summary": "Crux Informatics API client library",
+  "author": "Crux Informatics, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/cruxinformatics/crux-python",
+  "download_filename": "crux-1.4.tar.gz",
+  "download_time": "2025-07-30T19:41:58.563181",
+  "package_url": "https://pypi.org/project/crux/"
+}
