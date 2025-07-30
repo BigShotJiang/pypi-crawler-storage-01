@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-30T21:12:56.564643
+- **Download Time**: 2025-07-30T21:33:27.269073
 - **Total Packages**: 98
-- **Total Size**: 2.2 MB
+- **Total Size**: 0.17 MB
 
 ## Packages List
+- pyrosper
+- llama-index-embeddings-ibm
+- llama-index-readers-snowflake
+- llama-index-llms-rungpt
+- llama-index-postprocessor-xinference-rerank
+- llama-index-embeddings-oci-data-science
+- llama-index-llms-alephalpha
+- llama-index-vector-stores-ApertureDB
+- llama-index-vector-stores-clickhouse
+- llama-index-readers-trello
+- llama-index-packs-agent-search-retriever
+- llama-index-graph-stores-ApertureDB
+- llama-index-readers-upstage
+- llama-index-llms-palm
+- llama-index-readers-pdb
+- llama-index-readers-firebase-realtimedb
+- llama-index-vector-stores-milvus
+- llama-index-storage-kvstore-dynamodb
+- llama-index-readers-whisper
+- llama-index-tools-tavily-research
+- llama-index-readers-smart-pdf-loader
+- llama-index-postprocessor-jinaai-rerank
+- llama-index-readers-astra-db
+- llama-index-readers-deeplake
+- llama-index-tools-bing-search
+- llama-index-extractors-entity
+- llama-index-tools-graphql
+- llama-index-embeddings-clip
 - llama-index-vector-stores-baiduvectordb
 - llama-index-readers-spotify
 - llama-index-readers-legacy-office
@@ -76,31 +104,3 @@
 - llama-index-tools-jira-issue
 - llama-index-llms-mymagic
 - llama-index-sparse-embeddings-fastembed
-- llama-index-embeddings-google-genai
-- llama-index-llms-ibm
-- llama-index-storage-chat-store-sqlite
-- llama-index-retrievers-bm25
-- llama-index-readers-document360
-- llama-index-vector-stores-jaguar
-- llama-index-readers-intercom
-- llama-index-readers-elasticsearch
-- llama-index-utils-azure
-- llama-index-readers-mongodb
-- llama-index-llms-vllm
-- llama-index-llms-konko
-- llama-index-tools-azure-translate
-- llama-index-readers-dad-jokes
-- llama-index-embeddings-gemini
-- llama-index-readers-pdf-marker
-- test-python-tag-wheel
-- llama-index-postprocessor-sbert-rerank
-- llama-index-readers-docugami
-- answerrocket-client
-- llama-index-embeddings-siliconflow
-- llama-index-packs-evaluator-benchmarker
-- llama-index-llms-mistralai
-- llama-index-readers-reddit
-- llama-index-readers-wikipedia
-- llama-index-tools-arxiv
-- llama-index-vector-stores-alibabacloud-opensearch
-- codecov-cli

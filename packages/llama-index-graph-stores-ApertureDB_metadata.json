@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-graph-stores-ApertureDB",
+  "version": "0.2.0",
+  "summary": "llama-index graph stores ApertureDB integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_graph_stores_aperturedb-0.2.0.tar.gz",
+  "download_time": "2025-07-30T21:32:38.503398",
+  "package_url": "https://pypi.org/project/llama-index-graph-stores-ApertureDB/"
+}
