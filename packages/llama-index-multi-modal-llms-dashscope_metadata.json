@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-multi-modal-llms-dashscope",
+  "version": "0.4.0",
+  "summary": "llama-index multi modal llms dashscope integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_multi_modal_llms_dashscope-0.4.0.tar.gz",
+  "download_time": "2025-07-30T21:51:09.909746",
+  "package_url": "https://pypi.org/project/llama-index-multi-modal-llms-dashscope/"
+}

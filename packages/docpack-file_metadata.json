@@ -1,0 +1,11 @@
+{
+  "name": "docpack-file",
+  "version": "0.1.0",
+  "summary": "A package format for document outlines and resources",
+  "author": "MADE:Explorations Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docpack_file-0.1.0.tar.gz",
+  "download_time": "2025-07-30T21:50:52.039102",
+  "package_url": "https://pypi.org/project/docpack-file/"
+}

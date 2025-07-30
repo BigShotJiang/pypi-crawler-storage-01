@@ -1,11 +1,11 @@
 {
   "name": "quoridor-env",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Python Quoridor game engine with Gym environment for RL",
   "author": "Christian Contreras",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/chrisjcc/quoridor",
-  "download_filename": "quoridor_env-0.1.4.tar.gz",
-  "download_time": "2025-07-30T08:51:02.718900",
+  "download_filename": "quoridor_env-0.1.8.tar.gz",
+  "download_time": "2025-07-30T21:50:50.999149",
   "package_url": "https://pypi.org/project/quoridor-env/"
 }

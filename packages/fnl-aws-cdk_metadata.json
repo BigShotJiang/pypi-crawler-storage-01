@@ -1,11 +1,11 @@
 {
   "name": "fnl-aws-cdk",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "A collection of AWS CDK Constructs designed by and for the FNL team.",
   "author": "Cole DeVries<devriesca@nih.gov>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/colemandevries/fnl-aws-cdk.git",
-  "download_filename": "fnl_aws_cdk-1.6.0.tar.gz",
-  "download_time": "2025-07-29T20:37:26.373701",
+  "download_filename": "fnl_aws_cdk-1.6.1.tar.gz",
+  "download_time": "2025-07-30T21:51:07.292374",
   "package_url": "https://pypi.org/project/fnl-aws-cdk/"
 }

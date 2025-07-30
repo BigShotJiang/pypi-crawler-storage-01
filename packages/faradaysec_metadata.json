@@ -1,0 +1,11 @@
+{
+  "name": "faradaysec",
+  "version": "5.15.3",
+  "summary": "Open Source Collaborative Penetration Test and Vulnerability Management Platform https://www.faradaysec.com",
+  "author": "Faradaysec",
+  "license": null,
+  "home_page": "https://github.com/infobyte/faraday",
+  "download_filename": "faradaysec-5.15.3.tar.gz",
+  "download_time": "2025-07-30T21:51:01.539205",
+  "package_url": "https://pypi.org/project/faradaysec/"
+}

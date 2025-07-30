@@ -1,0 +1,11 @@
+{
+  "name": "griffe-fieldz",
+  "version": "0.3.0",
+  "summary": "Griffe extension adding support for data-class like things (pydantic, attrs, etc...)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "griffe_fieldz-0.3.0.tar.gz",
+  "download_time": "2025-07-30T21:50:53.651771",
+  "package_url": "https://pypi.org/project/griffe-fieldz/"
+}
