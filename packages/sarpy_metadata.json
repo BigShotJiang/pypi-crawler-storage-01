@@ -1,0 +1,11 @@
+{
+  "name": "sarpy",
+  "version": "1.3.61",
+  "summary": "Python tools for reading, writing, and simple processing of complex SAR data and other associated data.",
+  "author": "National Geospatial-Intelligence Agency",
+  "license": "MIT",
+  "home_page": "https://github.com/ngageoint/sarpy",
+  "download_filename": "sarpy-1.3.61.tar.gz",
+  "download_time": "2025-07-30T06:21:00.585993",
+  "package_url": "https://pypi.org/project/sarpy/"
+}
