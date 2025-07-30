@@ -1,11 +1,11 @@
 {
   "name": "maktab-dl",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A simple downloader videos from maktabkhooneh",
   "author": "Mohammadreza Shaghouzi",
   "license": null,
   "home_page": null,
-  "download_filename": "maktab_dl-0.7.0.tar.gz",
-  "download_time": "2025-07-30T19:42:16.512567",
+  "download_filename": "maktab_dl-0.8.0.tar.gz",
+  "download_time": "2025-07-30T20:36:04.237766",
   "package_url": "https://pypi.org/project/maktab-dl/"
 }
