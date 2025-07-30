@@ -1,11 +1,11 @@
 {
   "name": "maptrans",
-  "version": "0.2",
+  "version": "0.2.1",
   "summary": "Map Transform tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maptrans-0.2-py3-none-any.whl",
-  "download_time": "2025-07-29T11:30:31.256348",
+  "download_filename": "maptrans-0.2.1.tar.gz",
+  "download_time": "2025-07-30T04:55:36.975032",
   "package_url": "https://pypi.org/project/maptrans/"
 }

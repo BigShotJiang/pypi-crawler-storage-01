@@ -1,11 +1,11 @@
 {
   "name": "agentwerkstatt",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "AgentWerkstatt, a minimalistic agentic framework",
   "author": "Hannes Hapke",
   "license": null,
   "home_page": null,
-  "download_filename": "agentwerkstatt-0.1.14.tar.gz",
-  "download_time": "2025-07-29T15:14:52.154120",
+  "download_filename": "agentwerkstatt-0.1.15.tar.gz",
+  "download_time": "2025-07-30T04:55:51.749044",
   "package_url": "https://pypi.org/project/agentwerkstatt/"
 }

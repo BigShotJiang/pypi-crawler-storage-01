@@ -1,0 +1,11 @@
+{
+  "name": "HackKit",
+  "version": "1.0.0",
+  "summary": "WiFi, CSRF, LFI/RFI, SSTI, XXE, SSRF, file uploads, directory brute‑force, auth bypass, header analysis, WordPress exploitation, and more. Missing any method is unacceptable — every function below is exhaustively documented with descriptions, parameters, return values, example usage, and a master example for each class demonstrating all capabilities",
+  "author": "Mohammad Taha Gorji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hackkit-1.0.0.tar.gz",
+  "download_time": "2025-07-30T04:55:43.114195",
+  "package_url": "https://pypi.org/project/HackKit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-fire",
+  "version": "1.0.2",
+  "summary": "A Python package for defining type-safe, dynamic, and maintainable Firestore schemas using Pydantic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_fire-1.0.2.tar.gz",
+  "download_time": "2025-07-30T04:55:29.869042",
+  "package_url": "https://pypi.org/project/pydantic-fire/"
+}

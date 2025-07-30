@@ -1,0 +1,11 @@
+{
+  "name": "pyvelociraptor",
+  "version": "0.1.11",
+  "summary": "PyVelociraptor is the python binding for the Velociraptor API",
+  "author": "The Velociraptor Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Velocidex/pyvelociraptor",
+  "download_filename": "pyvelociraptor-0.1.11-py3-none-any.whl",
+  "download_time": "2025-07-30T04:55:56.114200",
+  "package_url": "https://pypi.org/project/pyvelociraptor/"
+}

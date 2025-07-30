@@ -1,0 +1,11 @@
+{
+  "name": "mdis-sec",
+  "version": "0.1.2",
+  "summary": "MDIS - Malware Detection and Identification System.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdis_sec-0.1.2.tar.gz",
+  "download_time": "2025-07-30T04:55:55.541754",
+  "package_url": "https://pypi.org/project/mdis-sec/"
+}
