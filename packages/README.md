@@ -1,46 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-30T17:24:11.424260
-- **Total Packages**: 89
-- **Total Size**: 34.89 MB
+- **Download Time**: 2025-07-30T17:45:20.016301
+- **Total Packages**: 86
+- **Total Size**: 0.84 MB
 
 ## Packages List
-- galileo
-- letta-client
-- realitydefender
-- lvmcryo
-- harzcoin
-- chaiverse
-- HRM-pytorch
-- cdxbasics
-- thds.mops
-- thds.atacama
-- thds.core
-- thds.humenc
 - yta-video-ffmpeg
-- thds.adls
-- parity-tensor
-- quantconnect-stubs
-- xnxx-api
-- missAV-api
-- doc-it-installer
-- worker-automate-hub
-- xvideos-api
-- bitcoin-safe-lib
-- xhamster-api
-- odoo-addon-product-multi-barcode
-- spankbang-api
-- dev-tools-eagle
-- jusfltuls
-- orientLoss
-- annize
-- fingerprint-pro-server-api-sdk
-- chisel
-- Eporner-API
-- ddcDatabases
-- prof-tg-go-qu
-- copasi-basico
 - kdp
 - rara-tools
 - rapidata
@@ -54,6 +20,7 @@
 - datacommons-mcp
 - ethereal-sdk
 - slimformers
+- parity-tensor
 - plain.pytest
 - prof-tg-to-qu
 - discord-py-utilities
@@ -64,6 +31,7 @@
 - uv-build
 - fluent_validation
 - plain.code
+- doc-it-installer
 - plain.admin
 - plain
 - shabti-types
@@ -95,3 +63,32 @@
 - pysisense
 - sturdy-stats-sdk
 - gradient
+- odoo-addon-l10n-es-aeat-mod349
+- ipsw-parser
+- yta-video-advanced-effects
+- geodesic-api
+- vivarium-dependencies
+- near-omni-client
+- orbax-export
+- bash2gitlab
+- escobar
+- bowser-insar
+- xtrack
+- dexray-intercept
+- opensoundscape
+- wandelbots-api-client
+- openinference-instrumentation-openai-agents
+- openinference-instrumentation-langchain
+- openinference-instrumentation-dspy
+- ledgerblue
+- dustmaps3d
+- dynamicts
+- chastack-bdd
+- pageai-sdk
+- acryl-executor
+- cortex-memory-sdk
+- yaapp
+- state-moseq
+- ovos-skill-weather
+- gammarers.aws-ec2-instance-running-schedule-stack
+- psf-utils

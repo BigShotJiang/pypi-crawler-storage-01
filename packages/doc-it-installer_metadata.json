@@ -1,11 +1,11 @@
 {
   "name": "doc-it-installer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A modular CLI tool to automatically generate documentation for code changes using a local Ollama LLM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doc_it_installer-0.1.2.tar.gz",
-  "download_time": "2025-07-30T17:23:34.198244",
+  "download_filename": "doc_it_installer-0.1.3.tar.gz",
+  "download_time": "2025-07-30T17:44:45.490845",
   "package_url": "https://pypi.org/project/doc-it-installer/"
 }
