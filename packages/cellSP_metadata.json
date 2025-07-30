@@ -1,11 +1,11 @@
 {
   "name": "cellSP",
-  "version": "2.1",
+  "version": "2.2",
   "summary": "cellSP.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cellsp-2.1.tar.gz",
-  "download_time": "2025-07-30T15:14:21.057768",
+  "download_filename": "cellsp-2.2.tar.gz",
+  "download_time": "2025-07-30T15:37:45.274512",
   "package_url": "https://pypi.org/project/cellSP/"
 }

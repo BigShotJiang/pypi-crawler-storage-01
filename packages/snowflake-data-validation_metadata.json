@@ -1,11 +1,11 @@
 {
   "name": "snowflake-data-validation",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Snowflake Data Validation",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "snowflake_data_validation-0.0.9.tar.gz",
-  "download_time": "2025-07-30T13:12:14.465273",
+  "download_filename": "snowflake_data_validation-0.0.10.tar.gz",
+  "download_time": "2025-07-30T15:37:50.483466",
   "package_url": "https://pypi.org/project/snowflake-data-validation/"
 }

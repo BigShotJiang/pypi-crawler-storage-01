@@ -1,0 +1,11 @@
+{
+  "name": "instagram-posts-scraper",
+  "version": "0.0.5",
+  "summary": "Implement Instagram Posts Scraper for post data retrieval",
+  "author": "FaustRen",
+  "license": "MIT",
+  "home_page": "https://github.com/FaustRen/instagram-posts-scraper",
+  "download_filename": "instagram_posts_scraper-0.0.5.tar.gz",
+  "download_time": "2025-07-30T15:37:23.852619",
+  "package_url": "https://pypi.org/project/instagram-posts-scraper/"
+}

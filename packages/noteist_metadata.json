@@ -1,0 +1,11 @@
+{
+  "name": "noteist",
+  "version": "0.7.0",
+  "summary": "Output a Markdown formatted report of completed tasks in Todoist.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "noteist-0.7.0.tar.gz",
+  "download_time": "2025-07-30T15:37:24.889782",
+  "package_url": "https://pypi.org/project/noteist/"
+}

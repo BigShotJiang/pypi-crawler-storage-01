@@ -1,0 +1,11 @@
+{
+  "name": "pyg-base",
+  "version": "0.0.89",
+  "summary": "Utilities for data manipulation including creation of DAGs and tables",
+  "author": "Yoav Git",
+  "license": null,
+  "home_page": "https://github.com/gityoav/pyg-base",
+  "download_filename": "pyg_base-0.0.89.tar.gz",
+  "download_time": "2025-07-30T15:37:25.405986",
+  "package_url": "https://pypi.org/project/pyg-base/"
+}

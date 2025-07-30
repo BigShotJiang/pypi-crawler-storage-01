@@ -1,0 +1,11 @@
+{
+  "name": "pulpcore-client",
+  "version": "3.84.0",
+  "summary": "Pulp 3 API",
+  "author": "Pulp Team",
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "pulpcore-client-3.84.0.tar.gz",
+  "download_time": "2025-07-30T15:37:48.950889",
+  "package_url": "https://pypi.org/project/pulpcore-client/"
+}

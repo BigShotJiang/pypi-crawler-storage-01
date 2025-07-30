@@ -1,11 +1,11 @@
 {
   "name": "Mosek",
-  "version": "11.0.26",
+  "version": "11.0.27",
   "summary": "Python API for Mosek",
   "author": null,
   "license": "https://mosek.com/products/license-agreement",
   "home_page": null,
-  "download_filename": "mosek-11.0.26-cp39-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2025-07-29T08:49:57.135224",
+  "download_filename": "mosek-11.0.27-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-30T15:37:42.712933",
   "package_url": "https://pypi.org/project/Mosek/"
 }
