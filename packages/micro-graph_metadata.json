@@ -1,0 +1,11 @@
+{
+  "name": "micro-graph",
+  "version": "0.1.0",
+  "summary": "A simple library to build compute graphs for logical flows like agents.",
+  "author": "Michael Fuerst",
+  "license": null,
+  "home_page": null,
+  "download_filename": "micro_graph-0.1.0.tar.gz",
+  "download_time": "2025-07-30T19:13:35.030724",
+  "package_url": "https://pypi.org/project/micro-graph/"
+}

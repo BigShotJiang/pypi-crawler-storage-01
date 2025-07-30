@@ -1,0 +1,11 @@
+{
+  "name": "morphomeasure",
+  "version": "0.1.1",
+  "summary": "Python package and CLI for L-Measure-based morphometric extraction",
+  "author": "Masood Akram",
+  "license": null,
+  "home_page": "https://github.com/Masood-Akram/MorphoMeasure",
+  "download_filename": "morphomeasure-0.1.1.tar.gz",
+  "download_time": "2025-07-30T19:13:45.869581",
+  "package_url": "https://pypi.org/project/morphomeasure/"
+}

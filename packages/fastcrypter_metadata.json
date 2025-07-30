@@ -1,0 +1,11 @@
+{
+  "name": "fastcrypter",
+  "version": "2.3.6",
+  "summary": "Professional compression and encryption library with native C/C++ acceleration",
+  "author": "Mmdrza",
+  "license": null,
+  "home_page": "https://github.com/Pymmdrza/fastCrypter",
+  "download_filename": "fastcrypter-2.3.6.tar.gz",
+  "download_time": "2025-07-30T19:13:47.426070",
+  "package_url": "https://pypi.org/project/fastcrypter/"
+}

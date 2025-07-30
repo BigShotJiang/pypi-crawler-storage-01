@@ -1,0 +1,11 @@
+{
+  "name": "aws-cryptography-internal-primitives",
+  "version": "1.11.1",
+  "summary": null,
+  "author": "AWS Crypto Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_cryptography_internal_primitives-1.11.1.tar.gz",
+  "download_time": "2025-07-30T19:13:46.396481",
+  "package_url": "https://pypi.org/project/aws-cryptography-internal-primitives/"
+}
