@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-mlx",
+  "version": "0.4.0",
+  "summary": "llama-index llms mlx integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_mlx-0.4.0.tar.gz",
+  "download_time": "2025-07-30T23:22:55.465112",
+  "package_url": "https://pypi.org/project/llama-index-llms-mlx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-premai",
+  "version": "0.4.0",
+  "summary": "llama-index embeddings premai integration",
+  "author": "PremAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_premai-0.4.0.tar.gz",
+  "download_time": "2025-07-30T23:23:09.500809",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-premai/"
+}

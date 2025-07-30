@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-tools-notion",
+  "version": "0.4.0",
+  "summary": "llama-index tools notion integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_tools_notion-0.4.0.tar.gz",
+  "download_time": "2025-07-30T23:23:07.181014",
+  "package_url": "https://pypi.org/project/llama-index-tools-notion/"
+}

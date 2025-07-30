@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-storage-index-store-mongodb",
+  "version": "0.5.0",
+  "summary": "llama-index index_store mongodb integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_storage_index_store_mongodb-0.5.0.tar.gz",
+  "download_time": "2025-07-30T23:23:20.106966",
+  "package_url": "https://pypi.org/project/llama-index-storage-index-store-mongodb/"
+}

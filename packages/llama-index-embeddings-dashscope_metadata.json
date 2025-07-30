@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-dashscope",
+  "version": "0.4.0",
+  "summary": "llama-index embeddings dashscope integration",
+  "author": "liuyhwangyh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_dashscope-0.4.0.tar.gz",
+  "download_time": "2025-07-30T23:23:18.364800",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-dashscope/"
+}

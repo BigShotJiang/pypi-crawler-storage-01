@@ -1,0 +1,11 @@
+{
+  "name": "chiabip158",
+  "version": "1.5.3",
+  "summary": "Chia BIP158 (wraps C++)",
+  "author": "Mariano Sorgente",
+  "license": "Apache License",
+  "home_page": "https://github.com/Chia-Network/chiabip158",
+  "download_filename": "chiabip158-1.5.3.tar.gz",
+  "download_time": "2025-07-30T23:23:04.837890",
+  "package_url": "https://pypi.org/project/chiabip158/"
+}
