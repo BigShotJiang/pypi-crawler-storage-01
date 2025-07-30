@@ -1,0 +1,11 @@
+{
+  "name": "invenio-rdm-records",
+  "version": "19.5.2",
+  "summary": "InvenioRDM module for the communities feature.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-rdm-records",
+  "download_filename": "invenio_rdm_records-19.5.2.tar.gz",
+  "download_time": "2025-07-30T17:55:47.083718",
+  "package_url": "https://pypi.org/project/invenio-rdm-records/"
+}

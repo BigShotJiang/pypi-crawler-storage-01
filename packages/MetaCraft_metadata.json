@@ -1,0 +1,11 @@
+{
+  "name": "MetaCraft",
+  "version": "2025.7.30",
+  "summary": "Toolkit to enrich, validate and explore YAML metadata from a pandas DataFrame.",
+  "author": "Jose Carlos Del Valle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metacraft-2025.7.30.tar.gz",
+  "download_time": "2025-07-30T17:55:56.894262",
+  "package_url": "https://pypi.org/project/MetaCraft/"
+}

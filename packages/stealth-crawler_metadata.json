@@ -1,0 +1,11 @@
+{
+  "name": "stealth-crawler",
+  "version": "0.9.0",
+  "summary": "A stealth web crawler using headless Chrome",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stealth_crawler-0.9.0.tar.gz",
+  "download_time": "2025-07-30T17:55:44.439898",
+  "package_url": "https://pypi.org/project/stealth-crawler/"
+}

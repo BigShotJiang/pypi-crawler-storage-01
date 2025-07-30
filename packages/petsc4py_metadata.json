@@ -1,0 +1,11 @@
+{
+  "name": "petsc4py",
+  "version": "3.23.5",
+  "summary": "PETSc for Python",
+  "author": "Lisandro Dalcin",
+  "license": "BSD-2-Clause",
+  "home_page": "https://gitlab.com/petsc/petsc",
+  "download_filename": "petsc4py-3.23.5.tar.gz",
+  "download_time": "2025-07-30T17:55:58.580508",
+  "package_url": "https://pypi.org/project/petsc4py/"
+}

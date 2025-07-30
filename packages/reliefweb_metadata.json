@@ -1,0 +1,11 @@
+{
+  "name": "reliefweb",
+  "version": "0.1.4",
+  "summary": "Python client library for the ReliefWeb API",
+  "author": "Titus Joyson",
+  "license": null,
+  "home_page": "https://reliefweb.int/",
+  "download_filename": "reliefweb-0.1.4.tar.gz",
+  "download_time": "2025-07-30T17:56:08.815529",
+  "package_url": "https://pypi.org/project/reliefweb/"
+}
