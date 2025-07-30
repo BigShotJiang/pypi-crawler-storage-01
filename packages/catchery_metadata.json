@@ -1,0 +1,11 @@
+{
+  "name": "catchery",
+  "version": "0.0.1",
+  "summary": "A python error handler. Catch exceptions and handle them gracefully.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "catchery-0.0.1.tar.gz",
+  "download_time": "2025-07-30T13:51:31.926966",
+  "package_url": "https://pypi.org/project/catchery/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dictpress",
+  "version": "0.3.0",
+  "summary": "A Python library designed for deep-merging, updating, and compressing dictionaries.",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/dictpress",
+  "download_filename": "dictpress-0.3.0.tar.gz",
+  "download_time": "2025-07-30T13:52:05.438787",
+  "package_url": "https://pypi.org/project/dictpress/"
+}

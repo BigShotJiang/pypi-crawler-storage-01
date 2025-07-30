@@ -1,11 +1,11 @@
 {
   "name": "interpretsr",
-  "version": "1.0.1",
-  "summary": "Neural Networks with Symbolic Regression for Interpretable Machine Learning",
-  "author": "InterpretSR Team",
+  "version": "1.0.2",
+  "summary": "Deep Learning Interpretability with Symbolic Regression.",
+  "author": "Liz Tan",
   "license": null,
   "home_page": null,
-  "download_filename": "interpretsr-1.0.1.tar.gz",
-  "download_time": "2025-07-30T09:20:05.361770",
+  "download_filename": "interpretsr-1.0.2.tar.gz",
+  "download_time": "2025-07-30T13:52:01.811762",
   "package_url": "https://pypi.org/project/interpretsr/"
 }

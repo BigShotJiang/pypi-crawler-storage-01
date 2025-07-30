@@ -1,11 +1,11 @@
 {
   "name": "square-administration",
-  "version": "3.3.1",
+  "version": "3.4.0",
   "summary": "common business layer for my personal server.",
   "author": "thePmSquare",
   "license": null,
   "home_page": "https://github.com/thepmsquare/square_administration",
-  "download_filename": "square_administration-3.3.1.tar.gz",
-  "download_time": "2025-07-29T02:25:17.597588",
+  "download_filename": "square_administration-3.4.0.tar.gz",
+  "download_time": "2025-07-30T13:52:12.766927",
   "package_url": "https://pypi.org/project/square-administration/"
 }

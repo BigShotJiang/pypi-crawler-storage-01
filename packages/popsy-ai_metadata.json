@@ -1,0 +1,11 @@
+{
+  "name": "popsy-ai",
+  "version": "0.0.8",
+  "summary": "Reddit DM automation CLI using Popsy AI for lead generation and outreach",
+  "author": null,
+  "license": "Copyright 2025 Popsy Labs, Inc.",
+  "home_page": null,
+  "download_filename": "popsy_ai-0.0.8-py3-none-any.whl",
+  "download_time": "2025-07-30T13:51:54.925764",
+  "package_url": "https://pypi.org/project/popsy-ai/"
+}
