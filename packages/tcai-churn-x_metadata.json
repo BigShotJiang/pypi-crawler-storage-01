@@ -1,11 +1,11 @@
 {
   "name": "tcai-churn-x",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Flask-based web app for predicting customer churn using a trained ML model.",
   "author": "The Celeritas AI",
   "license": null,
   "home_page": null,
-  "download_filename": "tcai_churn_x-0.1.0.tar.gz",
-  "download_time": "2025-07-30T19:41:59.111995",
+  "download_filename": "tcai_churn_x-0.1.1.tar.gz",
+  "download_time": "2025-07-30T20:13:12.597840",
   "package_url": "https://pypi.org/project/tcai-churn-x/"
 }

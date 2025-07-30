@@ -1,11 +1,11 @@
 {
   "name": "clickhouse-driver-http",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Lightweight HTTP client for ClickHouse",
   "author": "Nikita Krachkovskiy",
   "license": null,
   "home_page": null,
-  "download_filename": "clickhouse-driver-http-0.1.1.tar.gz",
-  "download_time": "2025-07-30T19:48:59.546369",
+  "download_filename": "clickhouse-driver-http-0.1.4.tar.gz",
+  "download_time": "2025-07-30T20:13:05.235395",
   "package_url": "https://pypi.org/project/clickhouse-driver-http/"
 }

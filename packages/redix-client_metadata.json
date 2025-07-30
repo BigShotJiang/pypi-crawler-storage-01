@@ -1,0 +1,11 @@
+{
+  "name": "redix-client",
+  "version": "0.2.2",
+  "summary": "Python client for Redix Healthcare Data Conversion REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redix_client-0.2.2.tar.gz",
+  "download_time": "2025-07-30T20:13:10.403714",
+  "package_url": "https://pypi.org/project/redix-client/"
+}

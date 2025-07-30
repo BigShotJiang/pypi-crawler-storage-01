@@ -1,11 +1,11 @@
 {
   "name": "robotframework-visualizer",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "A Robot Framework library providing keywords for the visualization of 'date / value' objects.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robotframework_visualizer-0.0.9.tar.gz",
-  "download_time": "2025-07-29T18:54:17.369399",
+  "download_filename": "robotframework_visualizer-0.0.10.tar.gz",
+  "download_time": "2025-07-30T20:13:25.673101",
   "package_url": "https://pypi.org/project/robotframework-visualizer/"
 }

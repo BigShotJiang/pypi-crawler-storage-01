@@ -1,0 +1,11 @@
+{
+  "name": "xltektools",
+  "version": "0.5.2",
+  "summary": "xltektools",
+  "author": "Anthony Fong",
+  "license": "MIT",
+  "home_page": "https://github.com/fonganthonym/python-xltektools",
+  "download_filename": "xltektools-0.5.2.tar.gz",
+  "download_time": "2025-07-30T20:13:17.350451",
+  "package_url": "https://pypi.org/project/xltektools/"
+}
