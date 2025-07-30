@@ -1,0 +1,11 @@
+{
+  "name": "browser-copilot",
+  "version": "1.1.1",
+  "summary": "AI-powered browser automation copilot for testing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "browser_copilot-1.1.1.tar.gz",
+  "download_time": "2025-07-30T23:01:23.100357",
+  "package_url": "https://pypi.org/project/browser-copilot/"
+}

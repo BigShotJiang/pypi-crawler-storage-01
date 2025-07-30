@@ -1,29 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-30T22:43:15.135870
-- **Total Packages**: 85
-- **Total Size**: 53.81 MB
+- **Download Time**: 2025-07-30T23:02:01.544786
+- **Total Packages**: 79
+- **Total Size**: 29.4 MB
 
 ## Packages List
+- openfilter
+- mcp-foxxy-bridge
+- hydroserverpy
+- lentezinha
+- magentic_ui
+- orange3-timeseries-patch
+- maps4fs
+- LbAPCommon
+- policyengine-us
+- dbt-databricks
+- pytest-mirror
+- vidavis
+- parse-qwantz
+- pyegen
+- lightning-sdk
+- rose-bag
+- gbp-ps
+- browser-copilot
+- najaeda
+- gitredate
+- sift-stack-py
+- appodus-utils
+- pylipextractor
+- langgraph-api
+- quoridor-env
+- effect-form-validators
+- letrbinr
+- ngits-iot-db
+- optika
+- fused
+- wi1-bot
+- GameSentenceMiner
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- bx-python
+- modal
+- atopile
 - langgraph-runtime-inmem
 - agentvisa
 - rdf2vecgpu
 - lask
 - tobiko-cloud-api-client
-- mcp-foxxy-bridge
 - tobiko-cloud-pydantic
 - tobiko-cloud-helpers
 - pyrosper
 - kube-compose
-- pyegen
 - acled
 - gradio-richtext
-- GameSentenceMiner
 - gozargah-node-bridge
 - uxly-1shot-client
 - beaker-gantry
-- letrbinr
 - chatmap-py
 - cyclopts
 - litellm-proxy-extras
@@ -31,7 +71,6 @@
 - plain.admin
 - mailslurp-client
 - bootplot
-- ngits-iot-db
 - anosys-logger-4-openai-agents
 - inception-reports
 - peter-cullen-burbery-python-functions
@@ -46,48 +85,3 @@
 - moose-cli
 - payra-sdk
 - pydeephaven
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- deephaven-core
-- kabaret.script-view
-- aioesphomeapi
-- maidr
-- django-flatpages-extra
-- kabaret.flow-contextual-dict
-- logfmter
-- bluecat-libraries
-- policyengine-us-data
-- taxoniumtools
-- moose-lib
-- DetailLogger
-- mc-shell
-- joythief
-- pvevti
-- nv-ingest-client
-- libreflow
-- veris-ai
-- cosmos2025
-- cdk-monitoring-constructs
-- pipedream
-- rxnn
-- nautobot-bgp-models
-- roms-tools
-- diffsky
-- nominal-api-protos
-- nominal-api
-- ong-chrome-automation
-- primitive
-- cuenca-validations
-- PrintPop
-- lambdora
-- supriya
-- kintsugi-tax-platform-sdk
-- krex
-- pydot_flow
