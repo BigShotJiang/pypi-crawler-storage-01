@@ -1,11 +1,11 @@
 {
   "name": "centricube-ragas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "centricube ragas modules",
   "author": "CICIT",
   "license": "Apache 2.0",
   "home_page": "https://github.com/cicit/centricube",
-  "download_filename": "centricube_ragas-1.0.3.tar.gz",
-  "download_time": "2025-07-30T04:15:00.137477",
+  "download_filename": "centricube_ragas-1.0.4.tar.gz",
+  "download_time": "2025-07-30T10:57:01.622255",
   "package_url": "https://pypi.org/project/centricube-ragas/"
 }

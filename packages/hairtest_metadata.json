@@ -1,11 +1,11 @@
 {
   "name": "hairtest",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Airtest 并行测试工具",
   "author": "王彦青",
   "license": null,
   "home_page": "https://github.com/yourusername/hairtest",
-  "download_filename": "hairtest-1.0.0.tar.gz",
-  "download_time": "2025-07-30T06:56:10.013741",
+  "download_filename": "hairtest-1.0.2.tar.gz",
+  "download_time": "2025-07-30T10:57:13.430436",
   "package_url": "https://pypi.org/project/hairtest/"
 }

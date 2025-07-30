@@ -1,11 +1,11 @@
 {
   "name": "opsqueue",
-  "version": "0.30.0",
+  "version": "0.30.2",
   "summary": "Python client library for Opsqueue, the lightweight batch processing queue for heavy loads",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opsqueue-0.30.0.tar.gz",
-  "download_time": "2025-07-30T07:55:01.387283",
+  "download_filename": "opsqueue-0.30.2.tar.gz",
+  "download_time": "2025-07-30T10:56:53.976423",
   "package_url": "https://pypi.org/project/opsqueue/"
 }
