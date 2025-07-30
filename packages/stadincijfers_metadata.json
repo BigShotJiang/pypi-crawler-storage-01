@@ -1,0 +1,11 @@
+{
+  "name": "stadincijfers",
+  "version": "0.2.3",
+  "summary": "A python package to make data from stadincijfers easily available for data scientists. ",
+  "author": "Kay Warrie, Sofie Cromheeke",
+  "license": null,
+  "home_page": "https://github.com/Team-Data-Antwerpen/stadincijfers.py",
+  "download_filename": "stadincijfers-0.2.3.tar.gz",
+  "download_time": "2025-07-30T09:49:32.626964",
+  "package_url": "https://pypi.org/project/stadincijfers/"
+}

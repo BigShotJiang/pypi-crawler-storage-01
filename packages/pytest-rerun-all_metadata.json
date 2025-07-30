@@ -1,0 +1,11 @@
+{
+  "name": "pytest-rerun-all",
+  "version": "0.1.1",
+  "summary": "Rerun testsuite for a certain time or iterations",
+  "author": "tb",
+  "license": "MIT",
+  "home_page": "https://github.com/TBxy/pytest-rerun-all",
+  "download_filename": "pytest_rerun_all-0.1.1.tar.gz",
+  "download_time": "2025-07-30T09:49:28.199548",
+  "package_url": "https://pypi.org/project/pytest-rerun-all/"
+}

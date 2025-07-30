@@ -1,11 +1,11 @@
 {
   "name": "wormpix",
-  "version": "1.0.0",
-  "summary": "🐉 WormPix Pro - Advanced Eye Comfort Tool for Linux",
+  "version": "1.2.0",
+  "summary": "🐉 WormPix - Advanced Eye Comfort & Screen Warmth Tool with Eye Rest Alarm",
   "author": "Lunar Labs",
   "license": null,
   "home_page": "https://github.com/LunarLumos/wormpix",
-  "download_filename": "wormpix-1.0.0.tar.gz",
-  "download_time": "2025-07-30T09:20:16.657513",
+  "download_filename": "wormpix-1.2.0.tar.gz",
+  "download_time": "2025-07-30T09:48:55.659311",
   "package_url": "https://pypi.org/project/wormpix/"
 }

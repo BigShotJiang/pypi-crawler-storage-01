@@ -1,11 +1,11 @@
 {
   "name": "qiskit-scaleway",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "A Qiskit package to connect to Scaleway Quantum as a Service",
   "author": "The Scaleway Developers",
   "license": "Apache 2",
   "home_page": null,
-  "download_filename": "qiskit_scaleway-0.2.4.tar.gz",
-  "download_time": "2025-07-29T16:46:06.967202",
+  "download_filename": "qiskit_scaleway-0.2.6.tar.gz",
+  "download_time": "2025-07-30T09:49:02.063368",
   "package_url": "https://pypi.org/project/qiskit-scaleway/"
 }

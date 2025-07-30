@@ -1,0 +1,11 @@
+{
+  "name": "flatfox-api",
+  "version": "99.99.99",
+  "summary": "[SECURITY RESEARCH] Proof of Concept for Dependency Confusion",
+  "author": "vmares (Security Researcher)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flatfox-api-99.99.99.tar.gz",
+  "download_time": "2025-07-30T09:48:58.851479",
+  "package_url": "https://pypi.org/project/flatfox-api/"
+}

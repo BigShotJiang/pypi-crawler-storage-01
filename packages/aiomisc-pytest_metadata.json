@@ -1,0 +1,11 @@
+{
+  "name": "aiomisc-pytest",
+  "version": "1.3.4",
+  "summary": "pytest integration for aiomisc",
+  "author": "Dmitry Orlov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiomisc_pytest-1.3.4.tar.gz",
+  "download_time": "2025-07-30T09:48:52.793781",
+  "package_url": "https://pypi.org/project/aiomisc-pytest/"
+}

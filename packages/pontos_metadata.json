@@ -1,11 +1,11 @@
 {
   "name": "pontos",
-  "version": "25.7.1",
+  "version": "25.7.2",
   "summary": "Common utilities and tools maintained by Greenbone Networks",
   "author": "Greenbone AG",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pontos-25.7.1.tar.gz",
-  "download_time": "2025-07-29T15:41:18.977613",
+  "download_filename": "pontos-25.7.2.tar.gz",
+  "download_time": "2025-07-30T09:49:14.133244",
   "package_url": "https://pypi.org/project/pontos/"
 }

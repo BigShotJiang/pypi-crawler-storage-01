@@ -1,0 +1,11 @@
+{
+  "name": "watchpoint",
+  "version": "0.1.0",
+  "summary": "A lightweight Python utility for running an action when a specific condition is met.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "watchpoint-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-30T09:48:50.881232",
+  "package_url": "https://pypi.org/project/watchpoint/"
+}

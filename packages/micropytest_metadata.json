@@ -1,11 +1,11 @@
 {
   "name": "micropytest",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "summary": "A micro test runner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "micropytest-0.18.3.tar.gz",
-  "download_time": "2025-07-29T14:17:09.764355",
+  "download_filename": "micropytest-0.18.4.tar.gz",
+  "download_time": "2025-07-30T09:49:18.495749",
   "package_url": "https://pypi.org/project/micropytest/"
 }

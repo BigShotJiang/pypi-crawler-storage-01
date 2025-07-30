@@ -1,0 +1,11 @@
+{
+  "name": "ABBRobotEGM",
+  "version": "1.0.4",
+  "summary": "A Python library for real-time control and data streaming of ABB robots using EGM protocol, enabling high-frequency (250Hz) communication through UDP for industrial automation applications.",
+  "author": "Florian LOBERT",
+  "license": null,
+  "home_page": "https://github.com/FLo-ABB/ABB-EGM-Python",
+  "download_filename": "abbrobotegm-1.0.4.tar.gz",
+  "download_time": "2025-07-30T09:48:50.233734",
+  "package_url": "https://pypi.org/project/ABBRobotEGM/"
+}

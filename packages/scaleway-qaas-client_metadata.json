@@ -1,11 +1,11 @@
 {
   "name": "scaleway-qaas-client",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "('Python client providing primitives to be used from other quantum SDKs',)",
   "author": "The Scaleway Developers",
   "license": "Apache 2",
   "home_page": null,
-  "download_filename": "scaleway_qaas_client-0.1.12.tar.gz",
-  "download_time": "2025-07-29T17:01:51.681400",
+  "download_filename": "scaleway_qaas_client-0.1.13.tar.gz",
+  "download_time": "2025-07-30T09:49:38.491664",
   "package_url": "https://pypi.org/project/scaleway-qaas-client/"
 }
