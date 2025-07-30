@@ -1,11 +1,11 @@
 {
   "name": "contact-test",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "A dummy test package for PyPI testing",
   "author": "CONTACT Software GmbH",
   "license": null,
   "home_page": null,
-  "download_filename": "contact_test-0.1.17-py3-none-any.whl",
-  "download_time": "2025-07-30T11:12:53.042268",
+  "download_filename": "contact_test-0.1.19-py3-none-any.whl",
+  "download_time": "2025-07-30T11:51:27.226987",
   "package_url": "https://pypi.org/project/contact-test/"
 }
