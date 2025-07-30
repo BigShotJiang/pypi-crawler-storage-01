@@ -1,0 +1,11 @@
+{
+  "name": "tree-readme",
+  "version": "2.2.0",
+  "summary": "A simple README generator for Python projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tree_readme-2.2.0.tar.gz",
+  "download_time": "2025-07-30T18:18:19.229982",
+  "package_url": "https://pypi.org/project/tree-readme/"
+}

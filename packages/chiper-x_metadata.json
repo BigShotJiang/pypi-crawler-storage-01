@@ -1,0 +1,11 @@
+{
+  "name": "chiper-x",
+  "version": "1.0.0",
+  "summary": "File encryption (with pattern support)",
+  "author": "Dx4Grey",
+  "license": null,
+  "home_page": "https://github.com/DX4GREY/chiper-x",
+  "download_filename": "chiper_x-1.0.0.tar.gz",
+  "download_time": "2025-07-30T18:17:56.461111",
+  "package_url": "https://pypi.org/project/chiper-x/"
+}
