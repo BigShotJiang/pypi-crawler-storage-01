@@ -1,11 +1,11 @@
 {
   "name": "tscprojpy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A modern Python project template",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tscprojpy-1.0.1.tar.gz",
-  "download_time": "2025-07-29T13:12:59.391326",
+  "download_filename": "tscprojpy-1.0.2.tar.gz",
+  "download_time": "2025-07-30T11:37:36.968539",
   "package_url": "https://pypi.org/project/tscprojpy/"
 }

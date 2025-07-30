@@ -1,0 +1,11 @@
+{
+  "name": "album-environments",
+  "version": "0.3.1",
+  "summary": "Album unifies computational tools across frameworks, languages, and environments.",
+  "author": "Deborah Schmidt, Jan Philipp Albrecht, Lucas Rieckert",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/album-app/album-environments",
+  "download_filename": "album_environments-0.3.1.tar.gz",
+  "download_time": "2025-07-30T11:37:35.374507",
+  "package_url": "https://pypi.org/project/album-environments/"
+}

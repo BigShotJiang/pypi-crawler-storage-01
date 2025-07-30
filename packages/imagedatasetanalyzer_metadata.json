@@ -1,0 +1,11 @@
+{
+  "name": "imagedatasetanalyzer",
+  "version": "0.3.12",
+  "summary": "Image dataset analyzer using image embedding models and clustering methods.",
+  "author": "Joaquin Ortiz de Murua Ferrero",
+  "license": "MIT license",
+  "home_page": "https://github.com/joortif/ImageDatasetAnalyzer",
+  "download_filename": "imagedatasetanalyzer-0.3.12.tar.gz",
+  "download_time": "2025-07-30T11:37:43.009210",
+  "package_url": "https://pypi.org/project/imagedatasetanalyzer/"
+}

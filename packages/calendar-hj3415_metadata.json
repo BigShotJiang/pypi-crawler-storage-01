@@ -1,11 +1,11 @@
 {
   "name": "calendar-hj3415",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "calendar-hj3415 is the program for opening the modal calendar window",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calendar_hj3415-0.0.1.tar.gz",
-  "download_time": "2025-07-30T11:12:44.274733",
+  "download_filename": "calendar_hj3415-0.0.5.tar.gz",
+  "download_time": "2025-07-30T11:37:30.862074",
   "package_url": "https://pypi.org/project/calendar-hj3415/"
 }

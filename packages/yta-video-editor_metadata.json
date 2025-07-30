@@ -1,11 +1,11 @@
 {
   "name": "yta-video-editor",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "Youtube Autonomous Video Editor Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_video_editor-0.1.20.tar.gz",
-  "download_time": "2025-07-30T04:15:28.390067",
+  "download_filename": "yta_video_editor-0.1.21.tar.gz",
+  "download_time": "2025-07-30T11:37:34.270388",
   "package_url": "https://pypi.org/project/yta-video-editor/"
 }
