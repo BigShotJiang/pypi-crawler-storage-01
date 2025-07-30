@@ -1,0 +1,11 @@
+{
+  "name": "test.thing",
+  "version": "0.3.1",
+  "summary": "A simple modern VM runner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_thing-0.3.1.tar.gz",
+  "download_time": "2025-07-30T16:45:14.584234",
+  "package_url": "https://pypi.org/project/test.thing/"
+}

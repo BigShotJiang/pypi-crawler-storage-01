@@ -1,0 +1,11 @@
+{
+  "name": "logtalk-jupyter-kernel",
+  "version": "0.42.0",
+  "summary": "Hercutalk - A Jupyter Kernel for Logtalk",
+  "author": "Paulo Moura, Anne Brecklinghaus, Michael Leuschel, dgelessus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logtalk_jupyter_kernel-0.42.0.tar.gz",
+  "download_time": "2025-07-30T16:45:21.842632",
+  "package_url": "https://pypi.org/project/logtalk-jupyter-kernel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "T-AI-project",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Simplified Agent Framework built on top of pydantic_ai to create ai agent with tools,mcps and memory/deps management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "t_ai_project-0.1.4.tar.gz",
-  "download_time": "2025-07-29T22:53:30.281123",
+  "download_filename": "t_ai_project-0.1.5.tar.gz",
+  "download_time": "2025-07-30T16:45:13.558956",
   "package_url": "https://pypi.org/project/T-AI-project/"
 }

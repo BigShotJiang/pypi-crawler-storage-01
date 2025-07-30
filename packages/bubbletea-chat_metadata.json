@@ -1,11 +1,11 @@
 {
   "name": "bubbletea-chat",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A Python package for building AI chatbots with LiteLLM support for BubbleTea platform",
   "author": "BubbleTea Team",
   "license": "MIT",
   "home_page": "https://github.com/bubbletea/bubbletea-python",
-  "download_filename": "bubbletea_chat-0.6.0.tar.gz",
-  "download_time": "2025-07-29T14:50:14.738716",
+  "download_filename": "bubbletea_chat-0.6.1.tar.gz",
+  "download_time": "2025-07-30T16:45:17.169868",
   "package_url": "https://pypi.org/project/bubbletea-chat/"
 }

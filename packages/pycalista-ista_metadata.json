@@ -1,0 +1,11 @@
+{
+  "name": "pycalista-ista",
+  "version": "0.5.1",
+  "summary": "Python library for the ista calista service",
+  "author": "Juan Herruzo",
+  "license": "MIT",
+  "home_page": "https://github.com/herruzo99/pycalista-ista",
+  "download_filename": "pycalista_ista-0.5.1.tar.gz",
+  "download_time": "2025-07-30T16:45:10.437499",
+  "package_url": "https://pypi.org/project/pycalista-ista/"
+}

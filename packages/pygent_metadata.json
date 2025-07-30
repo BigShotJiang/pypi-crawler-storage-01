@@ -1,11 +1,11 @@
 {
   "name": "pygent",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "Pygent is a minimalist coding assistant that runs commands in a Docker container when available and falls back to local execution.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygent-0.3.6.tar.gz",
-  "download_time": "2025-07-29T03:57:00.899423",
+  "download_filename": "pygent-0.3.8.tar.gz",
+  "download_time": "2025-07-30T16:45:01.636230",
   "package_url": "https://pypi.org/project/pygent/"
 }

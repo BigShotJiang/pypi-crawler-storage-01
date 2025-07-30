@@ -1,0 +1,11 @@
+{
+  "name": "sonar-tools",
+  "version": "3.14.1",
+  "summary": "A collection of utility scripts for SonarQube Server or Cloud",
+  "author": "Olivier Korach",
+  "license": null,
+  "home_page": "https://github.com/okorach/sonar-tools",
+  "download_filename": "sonar_tools-3.14.1-py3-none-any.whl",
+  "download_time": "2025-07-30T16:45:16.142241",
+  "package_url": "https://pypi.org/project/sonar-tools/"
+}

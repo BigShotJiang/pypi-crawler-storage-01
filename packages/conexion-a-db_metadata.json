@@ -1,11 +1,11 @@
 {
   "name": "conexion-a-db",
-  "version": "0.0.3",
-  "summary": "Una librería para conectarse a bases de datos fácilmente.",
+  "version": "0.0.5",
+  "summary": "Librería para conectarse a bases de datos fácilmente.",
   "author": "Gerardo Rios Navarrete",
   "license": null,
   "home_page": "https://github.com/tu_usuario/conexion_a_db",
-  "download_filename": "conexion_a_db-0.0.3.tar.gz",
-  "download_time": "2025-07-30T15:54:53.103648",
+  "download_filename": "conexion_a_db-0.0.5.tar.gz",
+  "download_time": "2025-07-30T16:45:05.743034",
   "package_url": "https://pypi.org/project/conexion-a-db/"
 }

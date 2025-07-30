@@ -1,11 +1,11 @@
 {
   "name": "HaplotagLR",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "summary": "Phasing individual long reads using known haplotype information.",
   "author": "Greg Farnum",
   "license": "MIT",
   "home_page": "https://github.com/Boyle-Lab/HaplotagLR.git",
-  "download_filename": "HaplotagLR-1.1.11.tar.gz",
-  "download_time": "2025-07-30T15:37:38.982308",
+  "download_filename": "HaplotagLR-1.1.12.tar.gz",
+  "download_time": "2025-07-30T16:45:20.311199",
   "package_url": "https://pypi.org/project/HaplotagLR/"
 }
