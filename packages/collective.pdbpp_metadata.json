@@ -1,11 +1,11 @@
 {
   "name": "collective.pdbpp",
-  "version": "1.0.0a7",
+  "version": "1.0.0a8",
   "summary": "An addon for Plone that allow you debug your code using the pdbpp package",
   "author": "ale-rt",
   "license": "GPL version 2",
   "home_page": "https://github.com/collective/collective.pdbpp",
-  "download_filename": "collective_pdbpp-1.0.0a7.tar.gz",
-  "download_time": "2025-07-29T07:17:04.375703",
+  "download_filename": "collective_pdbpp-1.0.0a8.tar.gz",
+  "download_time": "2025-07-30T08:51:15.281499",
   "package_url": "https://pypi.org/project/collective.pdbpp/"
 }

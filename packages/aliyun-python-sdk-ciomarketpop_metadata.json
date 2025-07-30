@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-ciomarketpop",
+  "version": "1.0.0",
+  "summary": "The ciomarketpop module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-ciomarketpop-1.0.0.tar.gz",
+  "download_time": "2025-07-30T08:51:27.255094",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-ciomarketpop/"
+}

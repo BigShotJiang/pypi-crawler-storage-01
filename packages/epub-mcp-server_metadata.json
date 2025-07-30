@@ -1,0 +1,11 @@
+{
+  "name": "epub-mcp-server",
+  "version": "0.1.1",
+  "summary": "智能模板发现助手 - 为 AI 应用提供强大的 epub360 模板搜索能力",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epub_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-07-30T08:50:53.177132",
+  "package_url": "https://pypi.org/project/epub-mcp-server/"
+}

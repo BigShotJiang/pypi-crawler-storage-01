@@ -1,0 +1,11 @@
+{
+  "name": "baas-sms-mcp",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server for SMS and MMS messaging services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baas_sms_mcp-0.1.1.tar.gz",
+  "download_time": "2025-07-30T08:51:07.407722",
+  "package_url": "https://pypi.org/project/baas-sms-mcp/"
+}

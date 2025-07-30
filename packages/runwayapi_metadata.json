@@ -1,11 +1,11 @@
 {
   "name": "runwayapi",
-  "version": "0.1.19",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runwayapi-0.1.19-py3-none-any.whl",
-  "download_time": "2025-07-30T08:17:36.665179",
+  "download_filename": "runwayapi-0.2.1-py3-none-any.whl",
+  "download_time": "2025-07-30T08:51:11.054157",
   "package_url": "https://pypi.org/project/runwayapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "simplesip",
+  "version": "0.1.2",
+  "summary": "Simple SIP client library with RTP audio streaming capabilities",
+  "author": "Awais Khan",
+  "license": "MIT",
+  "home_page": "https://github.com/Awaiskhan404/simplesip",
+  "download_filename": "simplesip-0.1.2.tar.gz",
+  "download_time": "2025-07-30T08:51:17.367953",
+  "package_url": "https://pypi.org/project/simplesip/"
+}
