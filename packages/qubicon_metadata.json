@@ -1,11 +1,11 @@
 {
   "name": "qubicon",
-  "version": "3.5.15",
+  "version": "3.5.16",
   "summary": "Python SDK for interacting with the Qubicon platform through the library or CLI",
   "author": "Olivier Guillet",
   "license": null,
   "home_page": null,
-  "download_filename": "qubicon-3.5.15.tar.gz",
-  "download_time": "2025-07-30T12:24:52.823751",
+  "download_filename": "qubicon-3.5.16.tar.gz",
+  "download_time": "2025-07-30T13:12:33.315903",
   "package_url": "https://pypi.org/project/qubicon/"
 }

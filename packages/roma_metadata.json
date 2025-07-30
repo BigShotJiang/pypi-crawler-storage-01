@@ -1,0 +1,11 @@
+{
+  "name": "roma",
+  "version": "1.5.4",
+  "summary": "A lightweight library to deal with 3D rotations in PyTorch.",
+  "author": "Romain Brégier",
+  "license": null,
+  "home_page": "https://github.com/naver/roma",
+  "download_filename": "roma-1.5.4.tar.gz",
+  "download_time": "2025-07-30T13:12:48.600635",
+  "package_url": "https://pypi.org/project/roma/"
+}

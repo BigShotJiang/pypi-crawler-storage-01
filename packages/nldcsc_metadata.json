@@ -1,0 +1,11 @@
+{
+  "name": "nldcsc",
+  "version": "0.3.51",
+  "summary": "Package with general devops code",
+  "author": "NLDCSC",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/NLDCSC/nldcsc",
+  "download_filename": "nldcsc-0.3.51.tar.gz",
+  "download_time": "2025-07-30T13:12:36.539531",
+  "package_url": "https://pypi.org/project/nldcsc/"
+}

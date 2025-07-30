@@ -1,0 +1,11 @@
+{
+  "name": "rocketcontent",
+  "version": "1.2.0",
+  "summary": "Content Services Api 12.4.x, 12.5.x",
+  "author": "Guillermo Avendano",
+  "license": null,
+  "home_page": "https://docs.rocketsoftware.com/bundle/mobiusdev_123/page/rtb1690483435152.html",
+  "download_filename": "rocketcontent-1.2.0.tar.gz",
+  "download_time": "2025-07-30T13:12:36.001777",
+  "package_url": "https://pypi.org/project/rocketcontent/"
+}

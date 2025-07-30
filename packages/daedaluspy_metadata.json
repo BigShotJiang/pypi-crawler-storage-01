@@ -1,11 +1,11 @@
 {
   "name": "daedaluspy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Code generation toolkit for data engineering",
   "author": "Golden Valley Consulting LTDA",
   "license": null,
   "home_page": "https://github.com/Golden-Valley-Consulting/DaedalusPy",
-  "download_filename": "daedaluspy-1.0.2.tar.gz",
-  "download_time": "2025-07-30T12:24:49.128430",
+  "download_filename": "daedaluspy-1.0.3.tar.gz",
+  "download_time": "2025-07-30T13:12:16.811969",
   "package_url": "https://pypi.org/project/daedaluspy/"
 }

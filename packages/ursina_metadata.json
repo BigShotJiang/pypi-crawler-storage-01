@@ -1,11 +1,11 @@
 {
   "name": "ursina",
-  "version": "8.1.0",
+  "version": "8.1.1",
   "summary": "An easy to use game engine/framework for python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ursina-8.1.0.tar.gz",
-  "download_time": "2025-07-30T12:25:03.362068",
+  "download_filename": "ursina-8.1.1.tar.gz",
+  "download_time": "2025-07-30T13:12:38.204957",
   "package_url": "https://pypi.org/project/ursina/"
 }

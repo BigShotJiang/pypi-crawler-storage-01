@@ -1,0 +1,11 @@
+{
+  "name": "weco",
+  "version": "0.2.24",
+  "summary": "Documentation for `weco`, a CLI for using Weco AI's code optimizer.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weco-0.2.24-py3-none-any.whl",
+  "download_time": "2025-07-30T13:12:42.023589",
+  "package_url": "https://pypi.org/project/weco/"
+}

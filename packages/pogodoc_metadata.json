@@ -1,11 +1,11 @@
 {
   "name": "pogodoc",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Python SDK for Pogodoc",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pogodoc-0.5.2.tar.gz",
-  "download_time": "2025-07-30T08:51:11.602259",
+  "download_filename": "pogodoc-0.5.3.tar.gz",
+  "download_time": "2025-07-30T13:12:10.447171",
   "package_url": "https://pypi.org/project/pogodoc/"
 }

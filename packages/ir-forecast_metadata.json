@@ -1,0 +1,11 @@
+{
+  "name": "ir-forecast",
+  "version": "0.0.1",
+  "summary": "Fetch historical Euribor data, initialize stochastic prediction models and forecast interest rates with Monte Carlo simulations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ir_forecast-0.0.1.tar.gz",
+  "download_time": "2025-07-30T13:12:19.038115",
+  "package_url": "https://pypi.org/project/ir-forecast/"
+}
