@@ -1,0 +1,11 @@
+{
+  "name": "leaf-airflow-operator",
+  "version": "0.1.5",
+  "summary": "Custom Apache Airflow operator to interact with Leaf Agriculture API",
+  "author": "Luiz Henrique Zambom Santana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leaf_airflow_operator-0.1.5.tar.gz",
+  "download_time": "2025-07-30T03:03:50.304478",
+  "package_url": "https://pypi.org/project/leaf-airflow-operator/"
+}

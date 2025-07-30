@@ -1,0 +1,11 @@
+{
+  "name": "dashframe",
+  "version": "0.3.0",
+  "summary": "Quick template to build dash app",
+  "author": null,
+  "license": "LIMIT LICENSE",
+  "home_page": null,
+  "download_filename": "dashframe-0.3.0.tar.gz",
+  "download_time": "2025-07-30T03:03:48.195309",
+  "package_url": "https://pypi.org/project/dashframe/"
+}

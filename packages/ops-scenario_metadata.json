@@ -1,0 +1,11 @@
+{
+  "name": "ops-scenario",
+  "version": "8.1.0",
+  "summary": "Python library providing a state-transition testing API for Operator Framework charms.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ops_scenario-8.1.0.tar.gz",
+  "download_time": "2025-07-30T03:04:08.527298",
+  "package_url": "https://pypi.org/project/ops-scenario/"
+}

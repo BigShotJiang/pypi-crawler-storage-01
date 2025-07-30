@@ -1,0 +1,11 @@
+{
+  "name": "ctea",
+  "version": "1.0.2",
+  "summary": "TEA Decryption",
+  "author": "wood",
+  "license": "BSD",
+  "home_page": "https://github.com/Rin-Wood/ctea",
+  "download_filename": "ctea-1.0.2.tar.gz",
+  "download_time": "2025-07-30T03:03:54.464566",
+  "package_url": "https://pypi.org/project/ctea/"
+}

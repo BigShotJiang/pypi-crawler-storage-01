@@ -1,11 +1,11 @@
 {
   "name": "ollamapy",
-  "version": "0.5.1",
+  "version": "0.6.2",
   "summary": "A simple Python package for Ollama utilities with built-in AI vibe tests",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "ollamapy-0.5.1.tar.gz",
-  "download_time": "2025-07-29T22:36:40.729824",
+  "download_filename": "ollamapy-0.6.2.tar.gz",
+  "download_time": "2025-07-30T03:04:07.487137",
   "package_url": "https://pypi.org/project/ollamapy/"
 }
