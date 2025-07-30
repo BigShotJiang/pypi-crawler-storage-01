@@ -1,11 +1,11 @@
 {
   "name": "SGLab-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Outils CLI pour l’analyse comparative de génomes bactériens",
   "author": "Etienne Ntumba Kabongo",
   "license": null,
   "home_page": "https://github.com/EtienneNtumba/SGLab-tools",
-  "download_filename": "sglab_tools-1.0.1.tar.gz",
-  "download_time": "2025-07-30T04:55:33.113939",
+  "download_filename": "sglab_tools-1.0.2.tar.gz",
+  "download_time": "2025-07-30T05:51:43.294010",
   "package_url": "https://pypi.org/project/SGLab-tools/"
 }

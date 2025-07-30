@@ -1,0 +1,11 @@
+{
+  "name": "rustid",
+  "version": "0.0.1",
+  "summary": "Fast URL-safe unique ID generator in Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustid-0.0.1-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-07-30T05:51:39.200484",
+  "package_url": "https://pypi.org/project/rustid/"
+}

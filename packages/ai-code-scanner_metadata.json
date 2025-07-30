@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-scanner",
+  "version": "1.0.0",
+  "summary": "A powerful Python tool that scans your codebase for security vulnerabilities using Claude AI",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/AI-CodeScanner",
+  "download_filename": "ai-code-scanner-1.0.0.tar.gz",
+  "download_time": "2025-07-30T05:51:43.805416",
+  "package_url": "https://pypi.org/project/ai-code-scanner/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "datashifts",
-  "version": "0.0.2",
+  "version": "0.0.2.1",
   "summary": "Quantify and analyze distribution shifts from samples.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datashifts-0.0.2.tar.gz",
-  "download_time": "2025-07-30T05:22:58.702625",
+  "download_filename": "datashifts-0.0.2.1.tar.gz",
+  "download_time": "2025-07-30T05:51:32.463758",
   "package_url": "https://pypi.org/project/datashifts/"
 }
