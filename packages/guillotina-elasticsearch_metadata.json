@@ -1,0 +1,11 @@
+{
+  "name": "guillotina-elasticsearch",
+  "version": "8.0.13",
+  "summary": "elasticsearch catalog support for guillotina",
+  "author": "Ramon Navarro Bosch & Nathan Van Gheem",
+  "license": "GPL version 3",
+  "home_page": "https://github.com/plone/guillotina_elasticsearch",
+  "download_filename": "guillotina_elasticsearch-8.0.13.tar.gz",
+  "download_time": "2025-07-30T11:12:45.302578",
+  "package_url": "https://pypi.org/project/guillotina-elasticsearch/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tart-cargo",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Curated cargo of TART radio astronomy packages for stimela 2.0",
   "author": "Tim Molteno",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tart_cargo-0.3.1.tar.gz",
-  "download_time": "2025-07-30T07:45:00.281039",
+  "download_filename": "tart_cargo-0.3.2.tar.gz",
+  "download_time": "2025-07-30T11:13:13.649950",
   "package_url": "https://pypi.org/project/tart-cargo/"
 }

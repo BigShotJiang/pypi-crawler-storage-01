@@ -1,11 +1,11 @@
 {
   "name": "flatfox-api",
-  "version": "9.9.99",
+  "version": "999.999.99",
   "summary": "PoC Package for Dependency Confusion",
   "author": "vmares",
   "license": null,
   "home_page": null,
-  "download_filename": "flatfox-api-9.9.99.tar.gz",
-  "download_time": "2025-07-30T10:43:47.859549",
+  "download_filename": "flatfox-api-999.999.99.tar.gz",
+  "download_time": "2025-07-30T11:12:43.725800",
   "package_url": "https://pypi.org/project/flatfox-api/"
 }
