@@ -1,11 +1,11 @@
 {
   "name": "shopsavvy-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Official Python SDK for ShopSavvy Data API - Access product data, pricing, and price history",
   "author": "ShopSavvy by Monolith Technologies, Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "shopsavvy_sdk-1.0.1.tar.gz",
-  "download_time": "2025-07-30T07:44:48.246322",
+  "download_filename": "shopsavvy_sdk-1.0.2.tar.gz",
+  "download_time": "2025-07-30T07:55:03.755869",
   "package_url": "https://pypi.org/project/shopsavvy-sdk/"
 }

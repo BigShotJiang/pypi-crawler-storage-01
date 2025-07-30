@@ -1,0 +1,11 @@
+{
+  "name": "mini-react",
+  "version": "0.1.1",
+  "summary": "轻量级 ReAct 智能体框架实现",
+  "author": "alex",
+  "license": null,
+  "home_page": "https://github.com/cottagephilosopher/mini-react",
+  "download_filename": "mini_react-0.1.1-py3-none-any.whl",
+  "download_time": "2025-07-30T07:55:07.254727",
+  "package_url": "https://pypi.org/project/mini-react/"
+}
