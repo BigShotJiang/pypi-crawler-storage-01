@@ -1,0 +1,11 @@
+{
+  "name": "labtasker",
+  "version": "0.2.10",
+  "summary": "A task queue system for lab experiments",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "labtasker-0.2.10.tar.gz",
+  "download_time": "2025-07-30T05:22:42.043928",
+  "package_url": "https://pypi.org/project/labtasker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "psf2flf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "convert psf fonts to figlet fonts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psf2flf-0.0.1.tar.gz",
-  "download_time": "2025-07-29T02:25:21.912896",
+  "download_filename": "psf2flf-0.0.2.tar.gz",
+  "download_time": "2025-07-30T05:23:02.263866",
   "package_url": "https://pypi.org/project/psf2flf/"
 }

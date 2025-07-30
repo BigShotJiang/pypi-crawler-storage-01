@@ -1,0 +1,11 @@
+{
+  "name": "uncurlx",
+  "version": "0.0.13rc1",
+  "summary": "Uncurl-X is a library that allows you to convert curl requests into python code that uses [httpx](https://www.python-httpx.org/).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncurlx-0.0.13rc1.tar.gz",
+  "download_time": "2025-07-30T05:22:49.838719",
+  "package_url": "https://pypi.org/project/uncurlx/"
+}

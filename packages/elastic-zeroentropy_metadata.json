@@ -1,0 +1,11 @@
+{
+  "name": "elastic-zeroentropy",
+  "version": "0.1.1",
+  "summary": "Turn Elasticsearch into a smart search engine in 5 minutes with ZeroEntropy's LLM-powered reranking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elastic_zeroentropy-0.1.1.tar.gz",
+  "download_time": "2025-07-30T05:22:42.562156",
+  "package_url": "https://pypi.org/project/elastic-zeroentropy/"
+}
