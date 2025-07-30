@@ -1,0 +1,11 @@
+{
+  "name": "trakit",
+  "version": "0.2.5",
+  "summary": "Guess additional information from track titles",
+  "author": "Rato",
+  "license": "MIT",
+  "home_page": "https://github.com/ratoaq2/trakit",
+  "download_filename": "trakit-0.2.5.tar.gz",
+  "download_time": "2025-07-30T04:14:59.547833",
+  "package_url": "https://pypi.org/project/trakit/"
+}

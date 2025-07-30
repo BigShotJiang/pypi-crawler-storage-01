@@ -1,0 +1,11 @@
+{
+  "name": "abstra-connectors",
+  "version": "0.0.8",
+  "summary": "Abstra Connectors",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/abstra-app/connectors",
+  "download_filename": "abstra-connectors-0.0.8.tar.gz",
+  "download_time": "2025-07-30T04:14:58.355634",
+  "package_url": "https://pypi.org/project/abstra-connectors/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "centricube-pyautogen",
+  "version": "0.3.3",
+  "summary": "centricube pyautogen modules",
+  "author": "CICIT",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cicit/centricube",
+  "download_filename": "centricube_pyautogen-0.3.3.tar.gz",
+  "download_time": "2025-07-30T04:15:03.285051",
+  "package_url": "https://pypi.org/project/centricube-pyautogen/"
+}

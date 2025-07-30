@@ -1,0 +1,11 @@
+{
+  "name": "ai-forge-collective",
+  "version": "1.1.0",
+  "summary": "A Python tool for programmatically building and validating Claude workflow instructions for AI Forge",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_forge_collective-1.1.0.tar.gz",
+  "download_time": "2025-07-30T04:15:09.556675",
+  "package_url": "https://pypi.org/project/ai-forge-collective/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mwdb-core",
+  "version": "2.15.1",
+  "summary": "MWDB Core malware database",
+  "author": "CERT Polska",
+  "license": null,
+  "home_page": "https://github.com/CERT-Polska/mwdb-core",
+  "download_filename": "mwdb_core-2.15.1-py3-none-any.whl",
+  "download_time": "2025-07-30T04:15:01.457307",
+  "package_url": "https://pypi.org/project/mwdb-core/"
+}
