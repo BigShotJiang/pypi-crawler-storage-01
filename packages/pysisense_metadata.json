@@ -1,0 +1,11 @@
+{
+  "name": "pysisense",
+  "version": "0.1.2",
+  "summary": "A Python SDK for interacting with Sisense API",
+  "author": "Himanshu Negi",
+  "license": "MIT",
+  "home_page": "https://github.com/hnegi01/pysisense",
+  "download_filename": "pysisense-0.1.2.tar.gz",
+  "download_time": "2025-07-30T17:00:23.218099",
+  "package_url": "https://pypi.org/project/pysisense/"
+}

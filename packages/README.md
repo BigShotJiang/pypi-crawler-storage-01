@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-30T16:45:26.034021
-- **Total Packages**: 65
-- **Total Size**: 42.11 MB
+- **Download Time**: 2025-07-30T17:00:57.334904
+- **Total Packages**: 67
+- **Total Size**: 9.12 MB
 
 ## Packages List
+- eaf-base-api
+- colordove-auto
+- prof-tg-to-qu
+- pysisense
+- sturdy-stats-sdk
+- gradient
+- vulnscan
+- ipsw-parser
+- yta-video-advanced-effects
+- ork.build
+- geodesic-api
+- vivarium-dependencies
+- near-omni-client
+- orbax-export
+- bash2gitlab
+- escobar
+- bowser-insar
+- doc-it-installer
+- xtrack
+- dexray-intercept
+- opensoundscape
+- wandelbots-api-client
+- openinference-instrumentation-openai-agents
+- openinference-instrumentation-langchain
+- openinference-instrumentation-dspy
+- ledgerblue
+- dustmaps3d
+- dynamicts
+- chastack-bdd
+- pageai-sdk
+- acryl-executor
+- cortex-memory-sdk
+- yaapp
+- state-moseq
+- ovos-skill-weather
+- gammarers.aws-ec2-instance-running-schedule-stack
+- psf-utils
+- netbox-cvexplorer
+- dreamtools-dreamgeeker
+- pykiso
+- trgenpy-CoSANLab
 - vivarium-public-health
 - nrgpy
 - rsspolymlp
@@ -15,7 +56,6 @@
 - rwanda-locations-api
 - optimum
 - tna-frontend-jinja
-- yaapp
 - aissemble-universal-config-loader
 - leap-bundle
 - girder-plugin-worker
@@ -33,41 +73,3 @@
 - unpage
 - awesome-lists-generator
 - nidaqmx
-- conexion-a-db
-- maskllm-py
-- mcd-usb-hub-ctrl
-- yta-temp
-- pygpt-net
-- o2o-process
-- data-source-local
-- yta-validation
-- sphinx_pushfeedback
-- pycalista-ista
-- kensho-kfinance
-- dynamicts
-- xsuite
-- pycroner
-- tdfs4ds
-- T-AI-project
-- BSTPythonSDK
-- test.thing
-- tensorzero
-- database-mysql-local
-- sonar-tools
-- netbox-cvexplorer
-- bubbletea-chat
-- rust-pyfunc
-- kdp
-- aicostmanager
-- rcabench
-- eis-partner
-- HaplotagLR
-- DecryptionToolkeet
-- logtalk-jupyter-kernel
-- cybrid-api-id-python
-- plexflow
-- composabl-core-dev
-- redivis
-- composabl-train-dev
-- composabl-cli-dev
-- composabl-dev
