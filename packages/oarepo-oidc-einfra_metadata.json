@@ -1,0 +1,11 @@
+{
+  "name": "oarepo-oidc-einfra",
+  "version": "1.2.1",
+  "summary": "E-infra OIDC Auth backend for OARepo",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/oarepo/oidc-einfra",
+  "download_filename": "oarepo_oidc_einfra-1.2.1.tar.gz",
+  "download_time": "2025-07-30T19:30:48.202828",
+  "package_url": "https://pypi.org/project/oarepo-oidc-einfra/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dask-flood-mapper",
+  "version": "0.1.5",
+  "summary": "Map floods with Sentinel-1 radar images. We replicate in this package the work",
+  "author": "Martin Schobben, Thais Beham, Clay Harrison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dask_flood_mapper-0.1.5.tar.gz",
+  "download_time": "2025-07-30T19:30:49.374954",
+  "package_url": "https://pypi.org/project/dask-flood-mapper/"
+}

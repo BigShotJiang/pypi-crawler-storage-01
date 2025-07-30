@@ -1,0 +1,11 @@
+{
+  "name": "lycosa",
+  "version": "1.0.0",
+  "summary": "lycosa is a python library that allows you to easily manage emails",
+  "author": "Tina",
+  "license": "MIT",
+  "home_page": "https://github.com/Tina-1300/lycosa",
+  "download_filename": "lycosa-1.0.0.tar.gz",
+  "download_time": "2025-07-30T19:30:51.263553",
+  "package_url": "https://pypi.org/project/lycosa/"
+}
