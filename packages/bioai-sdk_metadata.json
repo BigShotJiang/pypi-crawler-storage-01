@@ -1,0 +1,11 @@
+{
+  "name": "bioai-sdk",
+  "version": "0.0.1",
+  "summary": "A modular SDK for building AI-powered bioinformatics tools and research pipelines.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bioai_sdk-0.0.1.tar.gz",
+  "download_time": "2025-07-30T10:43:57.608513",
+  "package_url": "https://pypi.org/project/bioai-sdk/"
+}

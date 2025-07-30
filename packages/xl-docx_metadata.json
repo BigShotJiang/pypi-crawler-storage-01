@@ -1,11 +1,11 @@
 {
   "name": "xl-docx",
-  "version": "0.8.9",
+  "version": "0.9.0",
   "summary": "generate word documents in a sexy way",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xl_docx-0.8.9.tar.gz",
-  "download_time": "2025-07-29T16:45:57.752172",
+  "download_filename": "xl_docx-0.9.0.tar.gz",
+  "download_time": "2025-07-30T10:44:18.335361",
   "package_url": "https://pypi.org/project/xl-docx/"
 }

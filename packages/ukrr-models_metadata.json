@@ -1,0 +1,11 @@
+{
+  "name": "ukrr-models",
+  "version": "3.1.0",
+  "summary": "Models of the UKRR database",
+  "author": "UK Renal Registry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ukrr_models-3.1.0.tar.gz",
+  "download_time": "2025-07-30T10:44:05.592900",
+  "package_url": "https://pypi.org/project/ukrr-models/"
+}

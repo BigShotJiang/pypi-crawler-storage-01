@@ -1,0 +1,11 @@
+{
+  "name": "FWU",
+  "version": "0.0.3",
+  "summary": "FWU is a series of PyTorch-based neural network units. It has higher information utilization, prevents neuronal necrosis, and eliminates the need to add additionall activation functions. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fwu-0.0.3.tar.gz",
+  "download_time": "2025-07-30T10:44:15.167491",
+  "package_url": "https://pypi.org/project/FWU/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "enpassreaderlib",
+  "version": "0.2.6",
+  "summary": "A library implementing the decrypting and retrieving secrets from an enpass 6 database.",
+  "author": "Costas Tyfoxylos",
+  "license": "MIT",
+  "home_page": "https://github.com/costastf/enpassreaderlib",
+  "download_filename": "enpassreaderlib-0.2.6.tar.gz",
+  "download_time": "2025-07-30T10:44:16.216198",
+  "package_url": "https://pypi.org/project/enpassreaderlib/"
+}

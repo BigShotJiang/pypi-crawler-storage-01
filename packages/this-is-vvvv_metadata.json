@@ -1,0 +1,11 @@
+{
+  "name": "this-is-vvvv",
+  "version": "0.1",
+  "summary": "A lightweight Python library for generating random User-Agent headers for anonymity and testing.",
+  "author": "Super",
+  "license": null,
+  "home_page": null,
+  "download_filename": "this_is_vvvv-0.1.tar.gz",
+  "download_time": "2025-07-30T10:43:44.737803",
+  "package_url": "https://pypi.org/project/this-is-vvvv/"
+}

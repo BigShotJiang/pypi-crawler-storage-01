@@ -1,0 +1,11 @@
+{
+  "name": "enpassreadercli",
+  "version": "0.4.3",
+  "summary": "A cli to access enpass 6 encrypted databases and read, list and search values.",
+  "author": "Costas Tyfoxylos",
+  "license": "MIT",
+  "home_page": "https://github.com/costastf/enpassreadercli",
+  "download_filename": "enpassreadercli-0.4.3.tar.gz",
+  "download_time": "2025-07-30T10:43:59.764137",
+  "package_url": "https://pypi.org/project/enpassreadercli/"
+}

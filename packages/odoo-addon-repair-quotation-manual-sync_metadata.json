@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-repair-quotation-manual-sync",
+  "version": "17.0.1.0.1",
+  "summary": "Manually Synchronize Repair Orders with their Quotations",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/repair",
+  "download_filename": "odoo_addon_repair_quotation_manual_sync-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-07-30T10:43:42.615895",
+  "package_url": "https://pypi.org/project/odoo-addon-repair-quotation-manual-sync/"
+}

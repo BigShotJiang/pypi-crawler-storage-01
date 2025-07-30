@@ -1,11 +1,11 @@
 {
   "name": "crewaimaster",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for building intelligent multi-agent systems using CrewAI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crewaimaster-0.1.0.tar.gz",
-  "download_time": "2025-07-30T05:22:56.620192",
+  "download_filename": "crewaimaster-0.1.1.tar.gz",
+  "download_time": "2025-07-30T10:43:58.699508",
   "package_url": "https://pypi.org/project/crewaimaster/"
 }

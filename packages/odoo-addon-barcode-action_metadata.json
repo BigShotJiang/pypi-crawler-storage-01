@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-barcode-action",
+  "version": "18.0.1.0.0.2",
+  "summary": "Allows to use barcodes as a launcher",
+  "author": "Creu Blanca, ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-ux",
+  "download_filename": "odoo_addon_barcode_action-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-30T10:44:21.967695",
+  "package_url": "https://pypi.org/project/odoo-addon-barcode-action/"
+}

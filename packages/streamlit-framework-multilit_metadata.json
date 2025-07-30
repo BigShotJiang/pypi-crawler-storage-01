@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-framework-multilit",
+  "version": "0.7.1",
+  "summary": "Components and Frameworks to give new features to streamlit",
+  "author": "Victor Quilon Ranera",
+  "license": "MIT",
+  "home_page": "https://github.com/quiradev/streamlit-plugins",
+  "download_filename": "streamlit_framework_multilit-0.7.1.tar.gz",
+  "download_time": "2025-07-30T10:44:09.336349",
+  "package_url": "https://pypi.org/project/streamlit-framework-multilit/"
+}
