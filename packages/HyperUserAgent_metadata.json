@@ -1,0 +1,11 @@
+{
+  "name": "HyperUserAgent",
+  "version": "0.1.0",
+  "summary": "Hyper-UA ─ ultra-realistic User-Agent & fingerprint generator.",
+  "author": "Hritu",
+  "license": "MIT",
+  "home_page": "https://github.com/TheHritu/HyperUserAgent",
+  "download_filename": "hyperuseragent-0.1.0.tar.gz",
+  "download_time": "2025-07-30T10:14:47.019598",
+  "package_url": "https://pypi.org/project/HyperUserAgent/"
+}

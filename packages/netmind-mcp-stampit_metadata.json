@@ -1,11 +1,11 @@
 {
   "name": "netmind-mcp-stampit",
-  "version": "0.1.7",
+  "version": "1.0.0",
   "summary": "A lightweight MCP component for adding text watermarks to pictures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netmind_mcp_stampit-0.1.7.tar.gz",
-  "download_time": "2025-07-30T09:20:36.945764",
+  "download_filename": "netmind_mcp_stampit-1.0.0.tar.gz",
+  "download_time": "2025-07-30T10:14:53.688554",
   "package_url": "https://pypi.org/project/netmind-mcp-stampit/"
 }

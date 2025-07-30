@@ -1,0 +1,11 @@
+{
+  "name": "audioprep",
+  "version": "1.1.3",
+  "summary": "AI audio preparation tools, including audio trimming, duration calculation, and subtitle correction.",
+  "author": "abo123456789",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "audioprep-1.1.3.tar.gz",
+  "download_time": "2025-07-30T10:14:55.748959",
+  "package_url": "https://pypi.org/project/audioprep/"
+}
