@@ -1,11 +1,11 @@
 {
   "name": "ovcirrus-api",
-  "version": "10.4.3.post12",
+  "version": "10.4.3.post13",
   "summary": "OmniVista Cirrus RestFul API library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ovcirrus_api-10.4.3.post12.tar.gz",
-  "download_time": "2025-07-30T05:51:39.713260",
+  "download_filename": "ovcirrus_api-10.4.3.post13.tar.gz",
+  "download_time": "2025-07-30T07:45:02.016429",
   "package_url": "https://pypi.org/project/ovcirrus-api/"
 }

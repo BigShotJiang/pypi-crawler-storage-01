@@ -1,0 +1,11 @@
+{
+  "name": "aws-session-tx",
+  "version": "0.1.1",
+  "summary": "A per-session 'begin → plan → rollback' tool for AWS sandboxes",
+  "author": "Session TX Team",
+  "license": null,
+  "home_page": "https://github.com/GarvitBanga/aws-session-tx",
+  "download_filename": "aws_session_tx-0.1.1.tar.gz",
+  "download_time": "2025-07-30T07:45:05.588447",
+  "package_url": "https://pypi.org/project/aws-session-tx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-employee-calendar-planning",
+  "version": "18.0.1.0.1",
+  "summary": "Employee Calendar Planning",
+  "author": "Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr",
+  "download_filename": "odoo_addon_hr_employee_calendar_planning-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-07-30T07:44:42.368772",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-employee-calendar-planning/"
+}

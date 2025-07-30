@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-dali-weekly-cuda120",
+  "version": "1.52.0.dev20250720",
+  "summary": "NVIDIA DALI weekly  for CUDA 12.0. Git SHA: 67f2c79cbb2488d43757d94e30369464f2a516eb",
+  "author": "NVIDIA Corporation",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/NVIDIA/dali",
+  "download_filename": "nvidia_dali_weekly_cuda120-1.52.0.dev20250720.tar.gz",
+  "download_time": "2025-07-30T07:44:56.078813",
+  "package_url": "https://pypi.org/project/nvidia-dali-weekly-cuda120/"
+}

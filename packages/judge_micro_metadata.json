@@ -1,11 +1,11 @@
 {
   "name": "judge_micro",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "judge_micro-0.0.1.tar.gz",
-  "download_time": "2025-07-29T04:42:02.243551",
+  "download_filename": "judge_micro-0.0.3.tar.gz",
+  "download_time": "2025-07-30T07:44:57.849294",
   "package_url": "https://pypi.org/project/judge_micro/"
 }

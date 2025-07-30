@@ -1,0 +1,11 @@
+{
+  "name": "epicore",
+  "version": "0.1.6",
+  "summary": "Compute core epitopes from multiple overlapping peptides.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "epicore-0.1.6.tar.gz",
+  "download_time": "2025-07-30T07:44:53.044869",
+  "package_url": "https://pypi.org/project/epicore/"
+}
