@@ -1,0 +1,11 @@
+{
+  "name": "mlx.traceability",
+  "version": "11.8.1",
+  "summary": "Sphinx traceability extension (Melexis fork)",
+  "author": "Melexis",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/melexis/sphinx-traceability-extension",
+  "download_filename": "mlx_traceability-11.8.1.tar.gz",
+  "download_time": "2025-07-30T06:56:06.866018",
+  "package_url": "https://pypi.org/project/mlx.traceability/"
+}

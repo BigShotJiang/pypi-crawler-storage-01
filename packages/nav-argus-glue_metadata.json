@@ -1,0 +1,11 @@
+{
+  "name": "nav-argus-glue",
+  "version": "0.8.1",
+  "summary": "An Argus glue service for Network Administration Visualized",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "nav_argus_glue-0.8.1-py3-none-any.whl",
+  "download_time": "2025-07-30T06:56:26.714136",
+  "package_url": "https://pypi.org/project/nav-argus-glue/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azllm",
+  "version": "0.1.4",
+  "summary": "A Python package that provides an easier user interface for multiple LLM providers.",
+  "author": "Hanif Sajid",
+  "license": "MIT",
+  "home_page": "https://hanifsajid.github.io/azllm",
+  "download_filename": "azllm-0.1.4.tar.gz",
+  "download_time": "2025-07-30T06:56:12.622031",
+  "package_url": "https://pypi.org/project/azllm/"
+}

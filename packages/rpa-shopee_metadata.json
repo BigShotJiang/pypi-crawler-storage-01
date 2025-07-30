@@ -1,0 +1,11 @@
+{
+  "name": "rpa-shopee",
+  "version": "1.0.0",
+  "summary": "RPA automated execution program for Shopee",
+  "author": "Zhongshuizhou",
+  "license": null,
+  "home_page": "https://www.jeoshi.com",
+  "download_filename": "rpa_shopee-1.0.0.tar.gz",
+  "download_time": "2025-07-30T06:56:35.639380",
+  "package_url": "https://pypi.org/project/rpa-shopee/"
+}

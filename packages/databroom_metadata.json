@@ -1,0 +1,11 @@
+{
+  "name": "databroom",
+  "version": "0.3.1",
+  "summary": "A cross-language DataFrame cleaning assistant with interactive GUI and one-click code export",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databroom-0.3.1.tar.gz",
+  "download_time": "2025-07-30T06:56:33.522894",
+  "package_url": "https://pypi.org/project/databroom/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awan-server-v5",
+  "version": "10.0.3",
+  "summary": "Alat untuk mengelola server Awan Server V5",
+  "author": "Dwi Bakti N Dev",
+  "license": null,
+  "home_page": "https://github.com/royhtml",
+  "download_filename": "awan_server_v5-10.0.3.tar.gz",
+  "download_time": "2025-07-30T06:56:22.016513",
+  "package_url": "https://pypi.org/project/awan-server-v5/"
+}

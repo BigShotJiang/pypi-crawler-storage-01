@@ -1,0 +1,11 @@
+{
+  "name": "snz-movie-recsys",
+  "version": "0.1.6",
+  "summary": "A LangGraph-powered chatbot using tools like OpenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snz_movie_recsys-0.1.6.tar.gz",
+  "download_time": "2025-07-30T06:56:23.576788",
+  "package_url": "https://pypi.org/project/snz-movie-recsys/"
+}
