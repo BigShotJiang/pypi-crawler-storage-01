@@ -1,0 +1,11 @@
+{
+  "name": "fedpredict",
+  "version": "0.0.63",
+  "summary": "FedPredict is a personalization plugin for Federated Learning methods.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fedpredict-0.0.63.tar.gz",
+  "download_time": "2025-07-30T14:14:53.149594",
+  "package_url": "https://pypi.org/project/fedpredict/"
+}

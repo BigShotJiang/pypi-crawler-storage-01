@@ -1,0 +1,11 @@
+{
+  "name": "conehull",
+  "version": "1.0.0",
+  "summary": "This package uses the quickhull algorithm to find the convex hull of a point set, but with the added option of restricting the set of halfplanes we intersect over to only those with normals lying in a given convex cone.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conehull-1.0.0.tar.gz",
+  "download_time": "2025-07-30T14:14:42.281377",
+  "package_url": "https://pypi.org/project/conehull/"
+}

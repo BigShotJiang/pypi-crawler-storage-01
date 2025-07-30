@@ -1,0 +1,11 @@
+{
+  "name": "dottxt-eval",
+  "version": "0.19.0",
+  "summary": "Simple and robust LLM evaluations",
+  "author": ".txt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dottxt_eval-0.19.0.tar.gz",
+  "download_time": "2025-07-30T14:15:04.626007",
+  "package_url": "https://pypi.org/project/dottxt-eval/"
+}

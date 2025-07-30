@@ -1,11 +1,11 @@
 {
   "name": "prt-rl",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Python Research Toolkit - Reinforcement Learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prt_rl-0.4.4-py3-none-any.whl",
-  "download_time": "2025-07-30T13:52:10.147298",
+  "download_filename": "prt_rl-0.4.5-py3-none-any.whl",
+  "download_time": "2025-07-30T14:14:54.756175",
   "package_url": "https://pypi.org/project/prt-rl/"
 }

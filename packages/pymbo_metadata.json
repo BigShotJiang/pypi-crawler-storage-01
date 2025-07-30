@@ -1,11 +1,11 @@
 {
   "name": "pymbo",
-  "version": "3.1.2",
+  "version": "3.1.4",
   "summary": "PyMBO - Python Multi-objective Bayesian Optimization framework",
   "author": "Jakub Jagielski",
-  "license": null,
+  "license": "Proprietary",
   "home_page": "https://github.com/jakub-jagielski/pymbo",
-  "download_filename": "pymbo-3.1.2.tar.gz",
-  "download_time": "2025-07-30T07:19:29.148754",
+  "download_filename": "pymbo-3.1.4.tar.gz",
+  "download_time": "2025-07-30T14:14:38.578902",
   "package_url": "https://pypi.org/project/pymbo/"
 }

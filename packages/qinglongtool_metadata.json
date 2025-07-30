@@ -1,0 +1,11 @@
+{
+  "name": "qinglongtool",
+  "version": "0.1.2",
+  "summary": "A Python API wrapper for QingLong Panel",
+  "author": "mumuwj0001@163.com",
+  "license": "MIT",
+  "home_page": "https://github.com/amumu0022/QingLongTools",
+  "download_filename": "qinglongtool-0.1.2.tar.gz",
+  "download_time": "2025-07-30T14:14:57.366457",
+  "package_url": "https://pypi.org/project/qinglongtool/"
+}
