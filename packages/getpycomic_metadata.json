@@ -1,0 +1,11 @@
+{
+  "name": "getpycomic",
+  "version": "0.1.2",
+  "summary": "Take the manga/comics wherever you want.",
+  "author": "kurotom",
+  "license": "MIT",
+  "home_page": "https://github.com/kurotom/getpycomic",
+  "download_filename": "getpycomic-0.1.2.tar.gz",
+  "download_time": "2025-07-31T18:22:09.767096",
+  "package_url": "https://pypi.org/project/getpycomic/"
+}

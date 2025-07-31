@@ -1,0 +1,11 @@
+{
+  "name": "streamz-zmq",
+  "version": "0.1.2",
+  "summary": "ZeroMQ integration for streamz - high-performance streaming data processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamz_zmq-0.1.2.tar.gz",
+  "download_time": "2025-07-31T18:21:55.915896",
+  "package_url": "https://pypi.org/project/streamz-zmq/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pysoda-fairdataihub-tools",
-  "version": "0.1.55",
+  "version": "0.1.56",
   "summary": "Pysoda package for Fairdataihub tools",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/fairdataihub/pysoda",
-  "download_filename": "pysoda_fairdataihub_tools-0.1.55.tar.gz",
-  "download_time": "2025-07-31T17:53:16.970271",
+  "download_filename": "pysoda_fairdataihub_tools-0.1.56.tar.gz",
+  "download_time": "2025-07-31T18:22:08.014671",
   "package_url": "https://pypi.org/project/pysoda-fairdataihub-tools/"
 }

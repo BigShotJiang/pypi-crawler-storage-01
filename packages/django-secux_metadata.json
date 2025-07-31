@@ -1,11 +1,11 @@
 {
   "name": "django-secux",
-  "version": "5.5.5",
+  "version": "5.5.6",
   "summary": "A smart Django security package to auto-block suspicious traffic",
   "author": "XO Aria",
   "license": "MIT",
   "home_page": "https://github.com/xo-aria/django-secux",
-  "download_filename": "django_secux-5.5.5.tar.gz",
-  "download_time": "2025-07-31T16:50:55.982453",
+  "download_filename": "django_secux-5.5.6.tar.gz",
+  "download_time": "2025-07-31T18:21:41.303433",
   "package_url": "https://pypi.org/project/django-secux/"
 }
