@@ -1,11 +1,11 @@
 {
   "name": "aragog",
-  "version": "0.2.7a0",
+  "version": "0.2.8a0",
   "summary": "1-D interior dynamics of rocky mantles that are solid, liquid, or mixed phase",
   "author": "Dan J Bower",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "aragog-0.2.7a0.tar.gz",
-  "download_time": "2025-07-31T09:46:46.299771",
+  "download_filename": "aragog-0.2.8a0.tar.gz",
+  "download_time": "2025-07-31T11:31:26.063942",
   "package_url": "https://pypi.org/project/aragog/"
 }

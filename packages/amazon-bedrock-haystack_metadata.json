@@ -1,11 +1,11 @@
 {
   "name": "amazon-bedrock-haystack",
-  "version": "3.9.0",
+  "version": "3.9.1",
   "summary": "An integration of Amazon Bedrock as an AmazonBedrockGenerator component.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amazon_bedrock_haystack-3.9.0.tar.gz",
-  "download_time": "2025-07-29T13:13:10.076141",
+  "download_filename": "amazon_bedrock_haystack-3.9.1.tar.gz",
+  "download_time": "2025-07-31T11:31:41.880022",
   "package_url": "https://pypi.org/project/amazon-bedrock-haystack/"
 }

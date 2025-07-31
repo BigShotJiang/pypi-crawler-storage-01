@@ -1,11 +1,11 @@
 {
   "name": "nami-surf",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Node Administration Made Intuitive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nami_surf-0.1.7.tar.gz",
-  "download_time": "2025-07-30T19:13:49.991025",
+  "download_filename": "nami_surf-0.1.8.tar.gz",
+  "download_time": "2025-07-31T11:31:48.816876",
   "package_url": "https://pypi.org/project/nami-surf/"
 }
