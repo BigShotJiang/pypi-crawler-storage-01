@@ -1,11 +1,11 @@
 {
   "name": "felsen-analysis",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": "annabuteau",
   "license": null,
   "home_page": null,
-  "download_filename": "felsen_analysis-0.1.3.tar.gz",
-  "download_time": "2025-07-30T04:14:49.861817",
+  "download_filename": "felsen_analysis-0.1.4.tar.gz",
+  "download_time": "2025-07-31T22:13:30.914561",
   "package_url": "https://pypi.org/project/felsen-analysis/"
 }

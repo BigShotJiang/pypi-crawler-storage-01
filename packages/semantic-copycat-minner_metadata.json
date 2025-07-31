@@ -1,11 +1,11 @@
 {
   "name": "semantic-copycat-minner",
-  "version": "1.5.2",
+  "version": "1.5.4",
   "summary": "Semantic analysis tool for detecting AI-generated code derived from copyrighted sources",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "semantic_copycat_minner-1.5.2.tar.gz",
-  "download_time": "2025-07-31T07:43:38.757627",
+  "download_filename": "semantic_copycat_minner-1.5.4.tar.gz",
+  "download_time": "2025-07-31T22:13:38.608430",
   "package_url": "https://pypi.org/project/semantic-copycat-minner/"
 }
