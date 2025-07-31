@@ -1,0 +1,11 @@
+{
+  "name": "frizzle",
+  "version": "0.1.3",
+  "summary": "Combine spectra by forward modelling",
+  "author": null,
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "frizzle-0.1.3.tar.gz",
+  "download_time": "2025-07-31T23:33:02.557712",
+  "package_url": "https://pypi.org/project/frizzle/"
+}

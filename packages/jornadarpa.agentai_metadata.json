@@ -1,0 +1,11 @@
+{
+  "name": "jornadarpa.agentai",
+  "version": "0.1.4",
+  "summary": "Agent AI for RPA using multiple LLM providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jornadarpa_agentai-0.1.4.tar.gz",
+  "download_time": "2025-07-31T23:33:20.599202",
+  "package_url": "https://pypi.org/project/jornadarpa.agentai/"
+}

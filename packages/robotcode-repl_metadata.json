@@ -1,11 +1,11 @@
 {
   "name": "robotcode-repl",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "summary": "RobotCode REPL for Robot Framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robotcode_repl-1.6.0.tar.gz",
-  "download_time": "2025-07-30T23:32:41.916351",
+  "download_filename": "robotcode_repl-1.7.0.tar.gz",
+  "download_time": "2025-07-31T23:33:06.623526",
   "package_url": "https://pypi.org/project/robotcode-repl/"
 }

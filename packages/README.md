@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T23:13:30.098951
-- **Total Packages**: 83
-- **Total Size**: 13.54 MB
+- **Download Time**: 2025-07-31T23:33:42.494137
+- **Total Packages**: 87
+- **Total Size**: 23.97 MB
 
 ## Packages List
+- rxfoundry.clients.p2rx-api
+- graph-games-proto
+- pulumi-aws
+- chaiverse
+- m24842-ml
+- ecpet
+- ovos-utterance-plugin-cancel
+- ovos-skill-date-time
+- imap-processing
+- radboy
+- fosslight-android
+- redis_hj3415
+- coppersun-brass
+- arma3query
+- awslabs.s3-tables-mcp-server
+- awslabs.aws-pricing-mcp-server
+- awslabs.mcp-lambda-handler
+- awslabs.aws-diagram-mcp-server
+- eggai
+- frizzle
+- robotcode-repl-server
+- robotcode-analyze
+- robotcode-jsonrpc2
+- robotcode-robot
+- robotcode-modifiers
+- robotcode-core
+- robotcode-repl
+- robotcode
+- robotcode-debugger
+- robotcode-language-server
+- robotcode-plugin
+- robotcode-runner
+- odoo-addon-l10n-br-account
+- slush
+- letrbinr
+- sphinx-llms-txt
+- umu-commander
+- graphql-api
+- autonomi-client
+- make87
+- viral-usher
+- tigergraphx
+- ratarmountcore
+- wipac-dev-actions-testbed
+- nifty-solve
+- mcp-master
+- pmcgrab
+- sqlmesh
+- vizql-data-service-py
+- gridworks-proactor
+- jornadarpa.agentai
+- jupyterlab-firefox-launcher
+- x402
+- GameSentenceMiner
 - aquiles-rag
 - sbmlnetwork
 - imap-data-access
@@ -14,7 +68,6 @@
 - arthur-client
 - a2a-openai-agents
 - fireworks-ai
-- ecpet
 - cutflow-compare
 - mccole
 - fleet-python
@@ -29,63 +82,14 @@
 - daily-evapotranspiration-upscaling
 - yaapp
 - slimformers
-- umu-commander
 - desearch-py
 - eval-protocol
 - alertmanagermeshtastic
 - caioh-nvml-gpu-control
 - glazzbocks
-- coppersun-brass
 - run-vast
 - mnist-ae
 - pyqrack-cuda-complex128
 - pyqrack-cuda
 - omnata-plugin-runtime
 - pyqrack-cpu-complex128
-- pyqrack-cpu
-- pyqrack-complex128
-- pyqrack
-- ggx
-- jupyterlab-firefox-launcher
-- rivian-python-client
-- workos
-- wherobots-python-dbapi
-- chuk-mcp-server
-- poke-engine-doubles
-- api_24sea
-- jymkit
-- verahession
-- rgo-meta-ads-mcp
-- sagemaker-gen-ai-jupyterlab-extension
-- insurgentai-shared-utils
-- JornadaRPA.AgentAI
-- simile
-- openbench
-- altscore
-- pipecat-ai
-- feldera
-- render50
-- moviebox-api
-- OZI
-- kumoai
-- halox
-- symbiont-sdk
-- radboy
-- google-adk
-- mist-medical
-- azure-monitor-opentelemetry-exporter
-- odf.sbe
-- quati-toolkit
-- follow-up-boss
-- dymachandran
-- fyuneru
-- mcp-mesh
-- PetThermoTools
-- aditi
-- ugrc-palletjack
-- gentrace-py
-- vidsrc
-- fpl-mcp
-- fmriprep-docker
-- fmriprep
-- defopt-stubs

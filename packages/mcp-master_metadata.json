@@ -1,11 +1,11 @@
 {
   "name": "mcp-master",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A Python package for master MCP servers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_master-0.0.6.tar.gz",
-  "download_time": "2025-07-29T04:42:06.421298",
+  "download_filename": "mcp_master-0.0.7.tar.gz",
+  "download_time": "2025-07-31T23:33:17.708908",
   "package_url": "https://pypi.org/project/mcp-master/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "coppersun-brass",
-  "version": "2.3.35",
+  "version": "2.3.36",
   "summary": "Development Intelligence for AI Agents - Copper Sun Product Line",
   "author": "Copper Sun Team",
   "license": "Proprietary",
   "home_page": "https://github.com/coppersun/brass",
-  "download_filename": "coppersun_brass-2.3.35.tar.gz",
-  "download_time": "2025-07-31T23:13:02.008193",
+  "download_filename": "coppersun_brass-2.3.36.tar.gz",
+  "download_time": "2025-07-31T23:32:58.446903",
   "package_url": "https://pypi.org/project/coppersun-brass/"
 }
