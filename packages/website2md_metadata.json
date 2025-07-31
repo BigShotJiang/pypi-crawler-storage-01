@@ -1,11 +1,11 @@
 {
   "name": "website2md",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Convert websites to markdown format using crawl4ai framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "website2md-0.1.4.tar.gz",
-  "download_time": "2025-07-30T23:32:39.774545",
+  "download_filename": "website2md-0.1.6.tar.gz",
+  "download_time": "2025-07-31T03:03:09.837260",
   "package_url": "https://pypi.org/project/website2md/"
 }

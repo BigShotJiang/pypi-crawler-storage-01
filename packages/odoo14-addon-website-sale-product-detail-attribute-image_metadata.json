@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-website-sale-product-detail-attribute-image",
+  "version": "14.0.1.0.1.dev17",
+  "summary": "Display attributes images in shop product detail",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/e-commerce",
+  "download_filename": "odoo14_addon_website_sale_product_detail_attribute_image-14.0.1.0.1.dev17-py3-none-any.whl",
+  "download_time": "2025-07-31T03:03:23.211139",
+  "package_url": "https://pypi.org/project/odoo14-addon-website-sale-product-detail-attribute-image/"
+}

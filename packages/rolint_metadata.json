@@ -1,11 +1,11 @@
 {
   "name": "rolint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "RoLint - A multi-language linter for safe robotic software development (C, C++, Python)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rolint-0.1.1.tar.gz",
-  "download_time": "2025-07-30T15:37:31.725201",
+  "download_filename": "rolint-0.1.2.tar.gz",
+  "download_time": "2025-07-31T03:03:35.032082",
   "package_url": "https://pypi.org/project/rolint/"
 }

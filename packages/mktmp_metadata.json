@@ -1,11 +1,11 @@
 {
   "name": "mktmp",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "command-line tool for creating temporary directories along with symbolic links to them",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mktmp-0.1.0.tar.gz",
-  "download_time": "2025-07-30T23:32:36.089177",
+  "download_filename": "mktmp-0.2.1.tar.gz",
+  "download_time": "2025-07-31T03:03:26.286329",
   "package_url": "https://pypi.org/project/mktmp/"
 }
