@@ -1,11 +1,11 @@
 {
   "name": "rusty-todo-md",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Multi-language TODO comment extractor written in Rust.",
   "author": null,
   "license": "MIT License",
   "home_page": "https://github.com/simone-viozzi/rusty-todo-md",
-  "download_filename": "rusty_todo_md-1.2.1.tar.gz",
-  "download_time": "2025-07-31T17:36:55.456034",
+  "download_filename": "rusty_todo_md-1.2.2.tar.gz",
+  "download_time": "2025-07-31T17:53:46.810202",
   "package_url": "https://pypi.org/project/rusty-todo-md/"
 }

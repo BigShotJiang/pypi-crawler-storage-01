@@ -1,0 +1,11 @@
+{
+  "name": "dotocli",
+  "version": "0.1.0",
+  "summary": "Package Manager Utility",
+  "author": "Timur Yigit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotocli-0.1.0.tar.gz",
+  "download_time": "2025-07-31T17:53:22.632998",
+  "package_url": "https://pypi.org/project/dotocli/"
+}
