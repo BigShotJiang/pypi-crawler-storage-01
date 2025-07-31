@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1-WOFRY",
+  "version": "1.0.51",
+  "summary": "WOFRY (Wave Optics FRamework in pYthon)",
+  "author": "Manuel Sanchez del Rio, Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/OASYS-WOFRY",
+  "download_filename": "OASYS1-WOFRY-1.0.51.tar.gz",
+  "download_time": "2025-07-31T21:12:47.816588",
+  "package_url": "https://pypi.org/project/OASYS1-WOFRY/"
+}

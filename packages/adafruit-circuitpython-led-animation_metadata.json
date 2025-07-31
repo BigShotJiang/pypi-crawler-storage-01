@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-led-animation",
+  "version": "2.12.3",
+  "summary": "CircuitPython helper for LED colors and animations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_led_animation-2.12.3.tar.gz",
+  "download_time": "2025-07-31T21:12:58.178267",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-led-animation/"
+}

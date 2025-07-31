@@ -1,11 +1,11 @@
 {
   "name": "anncsu-sdk",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "summary": "ANNCSU Software Development Kit for API consumption",
   "author": "Francesco Bartoli",
   "license": null,
   "home_page": null,
-  "download_filename": "anncsu_sdk-0.1.0.tar.gz",
-  "download_time": "2025-07-31T20:54:10.998687",
+  "download_filename": "anncsu_sdk-0.0.1.tar.gz",
+  "download_time": "2025-07-31T21:12:51.908634",
   "package_url": "https://pypi.org/project/anncsu-sdk/"
 }

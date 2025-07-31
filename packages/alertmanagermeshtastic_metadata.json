@@ -1,0 +1,11 @@
+{
+  "name": "alertmanagermeshtastic",
+  "version": "2025.7.31.1",
+  "summary": "A proxy to forward messages received via HTTP to MESHTASTIC",
+  "author": "Alexander Volz",
+  "license": "MIT",
+  "home_page": "https://github.com/Apfelwurm/alertmanagermeshtastic",
+  "download_filename": "alertmanagermeshtastic-2025.7.31.1.tar.gz",
+  "download_time": "2025-07-31T21:12:41.007650",
+  "package_url": "https://pypi.org/project/alertmanagermeshtastic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ddev",
+  "version": "12.2.0",
+  "summary": "The Datadog Agent integration developer tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ddev-12.2.0.tar.gz",
+  "download_time": "2025-07-31T21:13:01.777431",
+  "package_url": "https://pypi.org/project/ddev/"
+}

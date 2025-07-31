@@ -1,0 +1,11 @@
+{
+  "name": "apier",
+  "version": "0.3.0",
+  "summary": "Turn API specs into code",
+  "author": "flusflas",
+  "license": "MIT",
+  "home_page": "https://github.com/flusflas/apier",
+  "download_filename": "apier-0.3.0.tar.gz",
+  "download_time": "2025-07-31T21:12:47.287959",
+  "package_url": "https://pypi.org/project/apier/"
+}
