@@ -1,0 +1,11 @@
+{
+  "name": "stcp-api",
+  "version": "1.1.5",
+  "summary": "Unofficial API to retrieve STCP information for public transit buses in Porto, Portugal",
+  "author": "Guilherme Borges",
+  "license": null,
+  "home_page": "https://github.com/sgtpepperpt/stcp-api",
+  "download_filename": "stcp_api-1.1.5-py3-none-any.whl",
+  "download_time": "2025-07-31T09:47:17.075726",
+  "package_url": "https://pypi.org/project/stcp-api/"
+}

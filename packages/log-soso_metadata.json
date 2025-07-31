@@ -1,0 +1,11 @@
+{
+  "name": "log-soso",
+  "version": "1.0.0",
+  "summary": "Some logging enhancements, such as log error with traceback, redirect STDOUT,",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "log_soso-1.0.0.tar.gz",
+  "download_time": "2025-07-31T09:47:07.785737",
+  "package_url": "https://pypi.org/project/log-soso/"
+}

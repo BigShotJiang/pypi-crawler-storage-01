@@ -1,11 +1,11 @@
 {
   "name": "shiyunzi",
-  "version": "3.1.26",
+  "version": "3.1.27",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shiyunzi-3.1.26.tar.gz",
-  "download_time": "2025-07-30T08:51:02.196815",
+  "download_filename": "shiyunzi-3.1.27-py2.py3-none-any.whl",
+  "download_time": "2025-07-31T09:46:57.230258",
   "package_url": "https://pypi.org/project/shiyunzi/"
 }

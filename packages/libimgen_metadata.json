@@ -1,0 +1,11 @@
+{
+  "name": "libimgen",
+  "version": "0.2.0",
+  "summary": "Image generation tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libimgen-0.2.0.tar.gz",
+  "download_time": "2025-07-31T09:46:37.564157",
+  "package_url": "https://pypi.org/project/libimgen/"
+}

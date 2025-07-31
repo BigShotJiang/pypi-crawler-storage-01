@@ -1,11 +1,11 @@
 {
   "name": "pyPreservicaFSDate",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "summary": "Python module to add local file system dates to existing Preservica assets",
   "author": "James Carr",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/carj/pyPreservicaFSDate",
-  "download_filename": "pypreservicafsdate-0.0.5.tar.gz",
-  "download_time": "2025-07-30T12:25:27.338238",
+  "download_filename": "pypreservicafsdate-0.1.0.tar.gz",
+  "download_time": "2025-07-31T09:46:45.156939",
   "package_url": "https://pypi.org/project/pyPreservicaFSDate/"
 }

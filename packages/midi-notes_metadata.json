@@ -1,0 +1,11 @@
+{
+  "name": "midi-notes",
+  "version": "1.0.2",
+  "summary": "Various tables (dicts) and functions for converting between note names, midi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midi_notes-1.0.2.tar.gz",
+  "download_time": "2025-07-31T09:47:08.808128",
+  "package_url": "https://pypi.org/project/midi-notes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kuba",
+  "version": "0.12.0",
+  "summary": "The kuba-mazing kubectl companion",
+  "author": "Hunter Gatewood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuba-0.12.0.tar.gz",
+  "download_time": "2025-07-31T09:46:52.270747",
+  "package_url": "https://pypi.org/project/kuba/"
+}
