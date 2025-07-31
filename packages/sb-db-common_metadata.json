@@ -1,11 +1,11 @@
 {
   "name": "sb-db-common",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A set of db wrappers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sb_db_common-0.0.7-py3-none-any.whl",
-  "download_time": "2025-07-31T04:12:24.781611",
+  "download_filename": "sb_db_common-0.0.8-py3-none-any.whl",
+  "download_time": "2025-07-31T04:53:30.147135",
   "package_url": "https://pypi.org/project/sb-db-common/"
 }

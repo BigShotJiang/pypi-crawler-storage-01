@@ -1,0 +1,11 @@
+{
+  "name": "Dgnpyer",
+  "version": "1.0.4",
+  "summary": "一个包含字符转换、十进制转二进制和版本信息的Python库",
+  "author": "Gtl GuoTenglong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dgnpyer-1.0.4.tar.gz",
+  "download_time": "2025-07-31T04:53:36.474321",
+  "package_url": "https://pypi.org/project/Dgnpyer/"
+}

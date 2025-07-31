@@ -1,0 +1,11 @@
+{
+  "name": "backtradingbot",
+  "version": "0.1.5",
+  "summary": "This is a back trading bot using python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "backtradingbot-0.1.5.tar.gz",
+  "download_time": "2025-07-31T04:53:34.348553",
+  "package_url": "https://pypi.org/project/backtradingbot/"
+}

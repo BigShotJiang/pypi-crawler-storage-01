@@ -1,0 +1,11 @@
+{
+  "name": "wizardcalls",
+  "version": "2.0.0",
+  "summary": "An indirect syscall code generation utility for C/C++ windows impants",
+  "author": "wizardy0ga",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wizardcalls-2.0.0.tar.gz",
+  "download_time": "2025-07-31T04:53:29.631481",
+  "package_url": "https://pypi.org/project/wizardcalls/"
+}

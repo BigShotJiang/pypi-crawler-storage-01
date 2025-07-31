@@ -1,11 +1,11 @@
 {
   "name": "tradingdate",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Manages trade dates.",
   "author": "Chitaoji",
   "license": "BSD",
   "home_page": "https://github.com/Chitaoji/tradingdate/",
-  "download_filename": "tradingdate-0.0.6-py2.py3-none-any.whl",
-  "download_time": "2025-07-30T14:41:37.224695",
+  "download_filename": "tradingdate-0.0.7-py2.py3-none-any.whl",
+  "download_time": "2025-07-31T04:53:27.466184",
   "package_url": "https://pypi.org/project/tradingdate/"
 }
