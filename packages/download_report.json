@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-07-31T11:31:56.216488",
-  "total_packages_downloaded": 82,
-  "total_size_mb": 46.88,
+  "download_time": "2025-07-31T11:44:26.557858",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 8.15,
   "packages": [
-    "code-loader",
-    "agentbeats",
-    "alitiq",
-    "wsdiff",
     "convolutional-variational-autoencoder-pytorch",
     "langchain-compass",
     "foundpy",
@@ -20,6 +16,7 @@
     "leap-model-parser",
     "translation-finder",
     "PySVBench",
+    "code-loader",
     "signxai2",
     "contact-test",
     "microimpute",
@@ -84,6 +81,10 @@
     "commit-gen-cli",
     "oscn",
     "legit-api-client",
-    "cmk-dev-site"
+    "cmk-dev-site",
+    "dbcrust",
+    "auto-folderize",
+    "xlwings-utils",
+    "cyberintegrations"
   ]
 }
