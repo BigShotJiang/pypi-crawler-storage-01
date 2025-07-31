@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-translations",
+  "version": "0.4.0",
+  "summary": "Translations for pydantic errors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_translations-0.4.0.tar.gz",
+  "download_time": "2025-07-31T07:43:29.531172",
+  "package_url": "https://pypi.org/project/pydantic-translations/"
+}

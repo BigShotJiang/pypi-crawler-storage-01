@@ -1,11 +1,11 @@
 {
   "name": "hufengguo",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "summary": "A small example package from Hufengguo, CUC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hufengguo-1.2.4.tar.gz",
-  "download_time": "2025-07-31T07:18:55.593945",
+  "download_filename": "hufengguo-1.2.6.tar.gz",
+  "download_time": "2025-07-31T07:43:39.265894",
   "package_url": "https://pypi.org/project/hufengguo/"
 }

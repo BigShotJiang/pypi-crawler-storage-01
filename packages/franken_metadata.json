@@ -1,0 +1,11 @@
+{
+  "name": "franken",
+  "version": "0.4.0",
+  "summary": "Franken fine-tuning scheme for ML potentials",
+  "author": "Giacomo Meanti, Luigi Bonati, Pedro Juan Buigues Jorro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "franken-0.4.0.tar.gz",
+  "download_time": "2025-07-31T07:43:38.247596",
+  "package_url": "https://pypi.org/project/franken/"
+}

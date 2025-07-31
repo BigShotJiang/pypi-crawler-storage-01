@@ -1,11 +1,11 @@
 {
   "name": "gxkit-dbtools",
-  "version": "0.1.2.post5",
+  "version": "0.1.2.post6",
   "summary": "Gx Company Development Toolkit - DBTools Module",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gxkit_dbtools-0.1.2.post5.tar.gz",
-  "download_time": "2025-07-30T01:00:50.995313",
+  "download_filename": "gxkit_dbtools-0.1.2.post6.tar.gz",
+  "download_time": "2025-07-31T07:43:26.977475",
   "package_url": "https://pypi.org/project/gxkit-dbtools/"
 }

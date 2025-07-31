@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-wakatime",
+  "version": "0.2.8",
+  "summary": "将代码统计嵌入 Bot 中",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_wakatime-0.2.8.tar.gz",
+  "download_time": "2025-07-31T07:43:43.959064",
+  "package_url": "https://pypi.org/project/nonebot-plugin-wakatime/"
+}

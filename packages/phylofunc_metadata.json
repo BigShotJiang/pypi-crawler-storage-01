@@ -1,0 +1,11 @@
+{
+  "name": "phylofunc",
+  "version": "1.0.9",
+  "summary": "Generate phylofunc to incorporate microbiome phylogeny to inform on metaproteomic functional distance.",
+  "author": "Luman Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phylofunc-1.0.9.tar.gz",
+  "download_time": "2025-07-31T07:43:34.138593",
+  "package_url": "https://pypi.org/project/phylofunc/"
+}
