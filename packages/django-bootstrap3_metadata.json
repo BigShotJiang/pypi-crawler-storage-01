@@ -1,0 +1,11 @@
+{
+  "name": "django-bootstrap3",
+  "version": "25.2",
+  "summary": "Bootstrap 3 for Django",
+  "author": "Dylan Verheul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_bootstrap3-25.2.tar.gz",
+  "download_time": "2025-07-31T06:55:18.530370",
+  "package_url": "https://pypi.org/project/django-bootstrap3/"
+}

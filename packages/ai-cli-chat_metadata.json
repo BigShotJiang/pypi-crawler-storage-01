@@ -1,11 +1,11 @@
 {
   "name": "ai-cli-chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Multi-model AI Chat at the CLI featuring round-table discussions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_cli_chat-1.0.0.tar.gz",
-  "download_time": "2025-07-30T07:55:04.386459",
+  "download_filename": "ai_cli_chat-1.0.1.tar.gz",
+  "download_time": "2025-07-31T06:55:21.472434",
   "package_url": "https://pypi.org/project/ai-cli-chat/"
 }

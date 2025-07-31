@@ -1,0 +1,11 @@
+{
+  "name": "agents-manager",
+  "version": "1.4.6",
+  "summary": "A lightweight Python package for managing multi-agent orchestration. Easily define agents with custom instructions, tools, containers, and models, and orchestrate their interactions seamlessly. Perfect for building modular, collaborative AI systems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agents_manager-1.4.6.tar.gz",
+  "download_time": "2025-07-31T06:55:43.723517",
+  "package_url": "https://pypi.org/project/agents-manager/"
+}
