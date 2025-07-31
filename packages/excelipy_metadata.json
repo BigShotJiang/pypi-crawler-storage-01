@@ -1,11 +1,11 @@
 {
   "name": "excelipy",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Wrapper around xlsxwriter to improve usability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "excelipy-0.1.12.tar.gz",
-  "download_time": "2025-07-29T20:13:44.102474",
+  "download_filename": "excelipy-0.1.13.tar.gz",
+  "download_time": "2025-07-31T16:17:23.280718",
   "package_url": "https://pypi.org/project/excelipy/"
 }

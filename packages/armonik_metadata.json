@@ -1,0 +1,11 @@
+{
+  "name": "armonik",
+  "version": "3.26.1",
+  "summary": "GRPC python binding for the ArmoniK orchestrator API",
+  "author": null,
+  "license": "Apache v2.0 LICENSE",
+  "home_page": null,
+  "download_filename": "armonik-3.26.1.tar.gz",
+  "download_time": "2025-07-31T16:17:23.805898",
+  "package_url": "https://pypi.org/project/armonik/"
+}

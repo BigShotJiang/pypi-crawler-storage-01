@@ -1,0 +1,11 @@
+{
+  "name": "enigmatui",
+  "version": "1.2.0",
+  "summary": "Enigma TUI is a Terminal User Interface for Enigma machines, allowing you to simulate different Enigma machine models from the terminal",
+  "author": "Denis Maggiorotto",
+  "license": null,
+  "home_page": "https://github.com/denismaggior8/enigma-tui",
+  "download_filename": "enigmatui-1.2.0.tar.gz",
+  "download_time": "2025-07-31T16:17:26.976249",
+  "package_url": "https://pypi.org/project/enigmatui/"
+}
