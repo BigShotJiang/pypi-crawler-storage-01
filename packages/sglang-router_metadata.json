@@ -1,0 +1,11 @@
+{
+  "name": "sglang-router",
+  "version": "0.1.7",
+  "summary": "High-performance Rust-based load balancer for SGLang with multiple routing algorithms and prefill-decode disaggregation support",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sglang_router-0.1.7.tar.gz",
+  "download_time": "2025-07-31T18:54:03.405302",
+  "package_url": "https://pypi.org/project/sglang-router/"
+}

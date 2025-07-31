@@ -1,0 +1,11 @@
+{
+  "name": "invenio-alma",
+  "version": "0.13.4",
+  "summary": "\"Provides API for Alma.\"",
+  "author": "Graz University of Technology.",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-alma",
+  "download_filename": "invenio_alma-0.13.4.tar.gz",
+  "download_time": "2025-07-31T18:53:52.490359",
+  "package_url": "https://pypi.org/project/invenio-alma/"
+}

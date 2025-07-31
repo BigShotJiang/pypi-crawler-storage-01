@@ -1,11 +1,11 @@
 {
   "name": "harzcoin",
-  "version": "3.1.5",
+  "version": "3.1.7",
   "summary": "Totally better currency frfr (now it's decentralised!?)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harzcoin-3.1.5.tar.gz",
-  "download_time": "2025-07-31T17:37:23.230854",
+  "download_filename": "harzcoin-3.1.7.tar.gz",
+  "download_time": "2025-07-31T18:53:42.381239",
   "package_url": "https://pypi.org/project/harzcoin/"
 }

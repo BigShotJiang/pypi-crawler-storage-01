@@ -1,11 +1,11 @@
 {
   "name": "girder-import-tracker",
-  "version": "5.0.0a9",
+  "version": "5.0.0a10.dev2",
   "summary": "A Girder plugin for data import tracking",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/girder/girder/tree/master/plugins/import_tracker",
-  "download_filename": "girder_import_tracker-5.0.0a9.tar.gz",
-  "download_time": "2025-07-31T16:50:52.811954",
+  "download_filename": "girder_import_tracker-5.0.0a10.dev2.tar.gz",
+  "download_time": "2025-07-31T18:53:36.055103",
   "package_url": "https://pypi.org/project/girder-import-tracker/"
 }

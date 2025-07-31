@@ -1,0 +1,11 @@
+{
+  "name": "checarplaca",
+  "version": "0.1.0",
+  "summary": "Consulta dados de IPVA a partir da placa do veículo.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "checarplaca-0.1.0.tar.gz",
+  "download_time": "2025-07-31T18:53:50.428994",
+  "package_url": "https://pypi.org/project/checarplaca/"
+}
