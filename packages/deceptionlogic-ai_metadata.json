@@ -1,0 +1,11 @@
+{
+  "name": "deceptionlogic-ai",
+  "version": "0.1.0",
+  "summary": "Deception Logic AI Interface with Deception Logic MCP",
+  "author": "Deception Logic, Inc.",
+  "license": "MIT",
+  "home_page": "https://deceptionlogic.com",
+  "download_filename": "deceptionlogic_ai-0.1.0-py3-none-any.whl",
+  "download_time": "2025-07-31T21:33:21.275064",
+  "package_url": "https://pypi.org/project/deceptionlogic-ai/"
+}
