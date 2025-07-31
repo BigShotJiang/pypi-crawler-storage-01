@@ -1,11 +1,11 @@
 {
   "name": "uproot-custom",
-  "version": "1.0.0a5",
+  "version": "1.0.0a6",
   "summary": "uproot extension for reading custom classes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uproot_custom-1.0.0a5.tar.gz",
-  "download_time": "2025-07-30T15:37:31.204076",
+  "download_filename": "uproot_custom-1.0.0a6.tar.gz",
+  "download_time": "2025-07-31T19:14:31.125110",
   "package_url": "https://pypi.org/project/uproot-custom/"
 }

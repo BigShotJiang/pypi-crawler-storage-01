@@ -1,11 +1,11 @@
 {
   "name": "graph-games-proto",
-  "version": "0.3.1017",
+  "version": "0.3.1020",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graph_games_proto-0.3.1017-py3-none-any.whl",
-  "download_time": "2025-07-31T17:37:20.627838",
+  "download_filename": "graph_games_proto-0.3.1020-py3-none-any.whl",
+  "download_time": "2025-07-31T19:14:09.245858",
   "package_url": "https://pypi.org/project/graph-games-proto/"
 }

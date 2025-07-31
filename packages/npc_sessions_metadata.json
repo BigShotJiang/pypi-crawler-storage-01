@@ -1,11 +1,11 @@
 {
   "name": "npc_sessions",
-  "version": "0.0.271",
+  "version": "0.0.272",
   "summary": "NWB-conversion for behavior and epyhys sessions from the Mindscope Neuropixels team, in the cloud.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "npc_sessions-0.0.271.tar.gz",
-  "download_time": "2025-07-30T21:51:30.827325",
+  "download_filename": "npc_sessions-0.0.272.tar.gz",
+  "download_time": "2025-07-31T19:14:33.357616",
   "package_url": "https://pypi.org/project/npc_sessions/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "neuralgcm",
+  "version": "1.2.2",
+  "summary": "Neural General Circulation Models for Weather and Climate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuralgcm-1.2.2.tar.gz",
+  "download_time": "2025-07-31T19:14:11.966434",
+  "package_url": "https://pypi.org/project/neuralgcm/"
+}
