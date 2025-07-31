@@ -1,0 +1,11 @@
+{
+  "name": "cli-calculator",
+  "version": "0.0.2.post1",
+  "summary": "A simple terminal calculator supporting basic arithmetic operations.",
+  "author": "Robson",
+  "license": "MIT",
+  "home_page": "https://github.com/robson-k/cli-calculator",
+  "download_filename": "cli_calculator-0.0.2.post1-py3-none-any.whl",
+  "download_time": "2025-07-31T01:00:45.393836",
+  "package_url": "https://pypi.org/project/cli-calculator/"
+}

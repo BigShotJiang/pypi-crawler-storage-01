@@ -1,0 +1,11 @@
+{
+  "name": "bashimu",
+  "version": "1.2.0",
+  "summary": "A command-line tool to interact with LLMs for bash and Linux questions",
+  "author": "Wiktor Lukasik",
+  "license": "MIT",
+  "home_page": "https://github.com/wiktorjl/bashimu",
+  "download_filename": "bashimu-1.2.0.tar.gz",
+  "download_time": "2025-07-31T01:00:50.704257",
+  "package_url": "https://pypi.org/project/bashimu/"
+}

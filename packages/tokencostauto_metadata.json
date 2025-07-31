@@ -1,11 +1,11 @@
 {
   "name": "tokencostauto",
-  "version": "0.1.158",
+  "version": "0.1.159",
   "summary": "To calculate token and translated USD cost of string and message calls to OpenAI, for example when used by AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokencostauto-0.1.158.tar.gz",
-  "download_time": "2025-07-30T01:01:06.239457",
+  "download_filename": "tokencostauto-0.1.159.tar.gz",
+  "download_time": "2025-07-31T01:01:05.825479",
   "package_url": "https://pypi.org/project/tokencostauto/"
 }

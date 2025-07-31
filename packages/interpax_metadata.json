@@ -1,0 +1,11 @@
+{
+  "name": "interpax",
+  "version": "0.3.10",
+  "summary": "Interpolation and function approximation with JAX",
+  "author": "Rory Conlin",
+  "license": "MIT",
+  "home_page": "https://github.com/f0uriest/interpax",
+  "download_filename": "interpax-0.3.10.tar.gz",
+  "download_time": "2025-07-31T01:01:19.268352",
+  "package_url": "https://pypi.org/project/interpax/"
+}

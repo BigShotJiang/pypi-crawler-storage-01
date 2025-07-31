@@ -1,0 +1,11 @@
+{
+  "name": "bigraph-schema",
+  "version": "0.0.64",
+  "summary": "A serializable type schema for compositional systems biology",
+  "author": "Eran Agmon, Ryan Spangler",
+  "license": null,
+  "home_page": "https://github.com/vivarium-collective/bigraph-schema",
+  "download_filename": "bigraph-schema-0.0.64.tar.gz",
+  "download_time": "2025-07-31T01:01:17.726485",
+  "package_url": "https://pypi.org/project/bigraph-schema/"
+}

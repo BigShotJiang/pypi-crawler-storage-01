@@ -1,11 +1,11 @@
 {
   "name": "tfds-nightly",
-  "version": "4.9.9.dev202507300045",
+  "version": "4.9.9.dev202507310045",
   "summary": "tensorflow/datasets is a library of datasets ready to use with TensorFlow.",
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/tensorflow/datasets",
-  "download_filename": "tfds_nightly-4.9.9.dev202507300045.tar.gz",
-  "download_time": "2025-07-30T01:00:41.968686",
+  "download_filename": "tfds_nightly-4.9.9.dev202507310045.tar.gz",
+  "download_time": "2025-07-31T01:00:43.830793",
   "package_url": "https://pypi.org/project/tfds-nightly/"
 }

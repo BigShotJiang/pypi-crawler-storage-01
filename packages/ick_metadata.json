@@ -1,0 +1,11 @@
+{
+  "name": "ick",
+  "version": "0.3.3",
+  "summary": "Applier of fine source code fixes since 2025",
+  "author": "Tim Hatch",
+  "license": "MIT",
+  "home_page": "https://github.com/advice-animal/ick/",
+  "download_filename": "ick-0.3.3.tar.gz",
+  "download_time": "2025-07-31T01:01:12.058995",
+  "package_url": "https://pypi.org/project/ick/"
+}
