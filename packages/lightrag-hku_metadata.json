@@ -1,0 +1,11 @@
+{
+  "name": "lightrag-hku",
+  "version": "1.4.5",
+  "summary": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+  "author": "Zirui Guo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightrag_hku-1.4.5.tar.gz",
+  "download_time": "2025-07-31T10:44:10.438643",
+  "package_url": "https://pypi.org/project/lightrag-hku/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "morgoth",
+  "version": "1.4",
+  "summary": "Interpretable and reliable multivariate random forest for simultaneous classification and regression",
+  "author": "Lisa-Marie Rolli",
+  "license": null,
+  "home_page": "https://github.com/volkamerlab/MORGOTH.git",
+  "download_filename": "morgoth-1.4.tar.gz",
+  "download_time": "2025-07-31T10:43:48.706479",
+  "package_url": "https://pypi.org/project/morgoth/"
+}

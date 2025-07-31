@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-calendar",
+  "version": "1.1.0",
+  "summary": "calendar component for the CubicWeb framework",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "http://www.cubicweb.org/project/cubicweb-calendar",
+  "download_filename": "cubicweb_calendar-1.1.0.tar.gz",
+  "download_time": "2025-07-31T10:44:06.828842",
+  "package_url": "https://pypi.org/project/cubicweb-calendar/"
+}

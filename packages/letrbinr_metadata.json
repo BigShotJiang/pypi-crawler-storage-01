@@ -1,11 +1,11 @@
 {
   "name": "letrbinr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A toy esoteric language",
   "author": "Vitek",
   "license": "MIT",
   "home_page": "https://github.com/Viktor640266/letrbinr",
-  "download_filename": "letrbinr-0.1.1.tar.gz",
-  "download_time": "2025-07-30T23:01:28.870447",
+  "download_filename": "letrbinr-0.1.2.tar.gz",
+  "download_time": "2025-07-31T10:43:59.015477",
   "package_url": "https://pypi.org/project/letrbinr/"
 }

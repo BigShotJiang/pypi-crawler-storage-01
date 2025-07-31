@@ -1,0 +1,11 @@
+{
+  "name": "data-flow-s3-import",
+  "version": "0.0.9",
+  "summary": "Helps Python and Django projects import data exposed by Data Flow into a S3 bucket",
+  "author": "Alsen Aligullu",
+  "license": "MIT",
+  "home_page": "https://github.com/uktrade/data-flow-s3-import",
+  "download_filename": "data_flow_s3_import-0.0.9.tar.gz",
+  "download_time": "2025-07-31T10:43:56.959777",
+  "package_url": "https://pypi.org/project/data-flow-s3-import/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pynetcom",
+  "version": "0.1.5",
+  "summary": "Library for Huawei, Nokia network device API interactions",
+  "author": "Dmitriy Kozlov",
+  "license": null,
+  "home_page": "https://github.com/ddarth/pynetcom",
+  "download_filename": "pynetcom-0.1.5.tar.gz",
+  "download_time": "2025-07-31T10:44:00.040807",
+  "package_url": "https://pypi.org/project/pynetcom/"
+}

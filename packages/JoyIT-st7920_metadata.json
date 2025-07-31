@@ -1,0 +1,11 @@
+{
+  "name": "JoyIT-st7920",
+  "version": "1.0.1",
+  "summary": "Library to use the SBC-LCD128x64 with the Raspberry Pi",
+  "author": "Joy-IT",
+  "license": null,
+  "home_page": "https://github.com/joy-it/JoyIT_st7920",
+  "download_filename": "joyit_st7920-1.0.1.tar.gz",
+  "download_time": "2025-07-31T10:44:01.591355",
+  "package_url": "https://pypi.org/project/JoyIT-st7920/"
+}
