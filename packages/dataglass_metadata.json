@@ -1,0 +1,11 @@
+{
+  "name": "dataglass",
+  "version": "0.8.0",
+  "summary": "dataglass is a Python library for data preprocessing, exploratory data analysis (EDA), and machine learning. It includes modules for handling missing values, detecting and resolving duplicates, managing outliers, feature encoding, type conversion, scaling, and pipeline integration. With its latest update, dataglass introduces intelligent automation which dynamically adapting preprocessing steps based on dataset characteristics, minimizing manual configuration and accelerating your workflow.",
+  "author": "Saman Teymouri",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dataglass-0.8.0.tar.gz",
+  "download_time": "2025-07-31T15:17:32.056334",
+  "package_url": "https://pypi.org/project/dataglass/"
+}

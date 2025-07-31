@@ -1,0 +1,11 @@
+{
+  "name": "django-advance-thumbnail",
+  "version": "1.1.2",
+  "summary": "A Django app that automates thumbnail creation for image fields.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_advance_thumbnail-1.1.2.tar.gz",
+  "download_time": "2025-07-31T15:17:44.228525",
+  "package_url": "https://pypi.org/project/django-advance-thumbnail/"
+}

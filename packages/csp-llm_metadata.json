@@ -1,0 +1,11 @@
+{
+  "name": "csp-llm",
+  "version": "0.2.2",
+  "summary": "Python app using llm via MCP for modeling and solving a csp problem in pycsp3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csp_llm-0.2.2-py3-none-any.whl",
+  "download_time": "2025-07-31T15:17:33.622660",
+  "package_url": "https://pypi.org/project/csp-llm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "twr-draft",
+  "version": "0.2.0",
+  "summary": "一个功能完整的草稿管理MCP服务器，支持创建、读取、更新、删除和搜索草稿。专为单次对话设计，使用内存存储。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twr_draft-0.2.0.tar.gz",
+  "download_time": "2025-07-31T15:17:29.942168",
+  "package_url": "https://pypi.org/project/twr-draft/"
+}

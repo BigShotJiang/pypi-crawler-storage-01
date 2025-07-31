@@ -1,11 +1,11 @@
 {
   "name": "quantpunc",
-  "version": "0.0.1",
+  "version": "0.0.1.post1",
   "summary": "A Napari plugin for puncta analysis and quantification in 2D microscopy images.",
   "author": "tehahn",
   "license": null,
   "home_page": null,
-  "download_filename": "quantpunc-0.0.1.tar.gz",
-  "download_time": "2025-07-30T12:25:06.490795",
+  "download_filename": "quantpunc-0.0.1.post1.tar.gz",
+  "download_time": "2025-07-31T15:17:45.801653",
   "package_url": "https://pypi.org/project/quantpunc/"
 }

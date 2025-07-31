@@ -1,0 +1,11 @@
+{
+  "name": "py-gpmf-parser",
+  "version": "0.1.0",
+  "summary": "Python bindings for the gpmf-parser library using pybind",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_gpmf_parser-0.1.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-07-31T15:17:34.156535",
+  "package_url": "https://pypi.org/project/py-gpmf-parser/"
+}

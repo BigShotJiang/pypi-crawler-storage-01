@@ -1,11 +1,11 @@
 {
   "name": "ajwt",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Add your description here",
   "author": "wmymz",
   "license": null,
   "home_page": null,
-  "download_filename": "ajwt-0.1.1.tar.gz",
-  "download_time": "2025-07-31T14:57:46.382833",
+  "download_filename": "ajwt-0.2.0.tar.gz",
+  "download_time": "2025-07-31T15:17:33.099332",
   "package_url": "https://pypi.org/project/ajwt/"
 }

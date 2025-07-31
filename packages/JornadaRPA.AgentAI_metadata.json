@@ -1,11 +1,11 @@
 {
   "name": "JornadaRPA.AgentAI",
-  "version": "0.1.0",
-  "summary": "Simple and powerful local AI Agent with memory and tools.",
+  "version": "0.1.1",
+  "summary": "Simple and powerful AI Agent with memory and tools.",
   "author": "Alex Diogo",
   "license": null,
-  "home_page": "https://github.com/JornadaRPA/JornadaRPA.AgentAI",
-  "download_filename": "jornadarpa_agentai-0.1.0.tar.gz",
-  "download_time": "2025-07-31T14:58:02.401886",
+  "home_page": null,
+  "download_filename": "jornadarpa_agentai-0.1.1.tar.gz",
+  "download_time": "2025-07-31T15:17:42.124703",
   "package_url": "https://pypi.org/project/JornadaRPA.AgentAI/"
 }
