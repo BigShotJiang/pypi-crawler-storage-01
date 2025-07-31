@@ -1,0 +1,11 @@
+{
+  "name": "pyfastchem",
+  "version": "3.1.3",
+  "summary": "FastChem, an ultra-fast equilibrium chemistry",
+  "author": "Daniel Kitzmann, Joachim Stock, Brett Morris",
+  "license": "GPL 3.0",
+  "home_page": "https://github.com/NewStrangeWorlds/FastChem",
+  "download_filename": "pyfastchem-3.1.3.tar.gz",
+  "download_time": "2025-07-31T11:52:02.975690",
+  "package_url": "https://pypi.org/project/pyfastchem/"
+}

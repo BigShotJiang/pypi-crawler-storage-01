@@ -1,0 +1,11 @@
+{
+  "name": "APIConnect",
+  "version": "2.0.9",
+  "summary": "APIs to trade from Nuvama",
+  "author": "Nuvama",
+  "license": "MIT",
+  "home_page": "https://nuvamawealth.com/",
+  "download_filename": "APIConnect-2.0.9.tar.gz",
+  "download_time": "2025-07-31T11:52:00.843497",
+  "package_url": "https://pypi.org/project/APIConnect/"
+}

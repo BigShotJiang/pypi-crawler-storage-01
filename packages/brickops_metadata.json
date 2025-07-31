@@ -1,0 +1,11 @@
+{
+  "name": "brickops",
+  "version": "0.3.18",
+  "summary": "Knowit's dataops library - simplifying building data pipelines in Databricks, for both testing and production use cases. The package enables a workflow where users write their code in notebooks, and then deploy them to a Databricks workspace without stepping on each other's toes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brickops-0.3.18.tar.gz",
+  "download_time": "2025-07-31T11:51:47.736537",
+  "package_url": "https://pypi.org/project/brickops/"
+}

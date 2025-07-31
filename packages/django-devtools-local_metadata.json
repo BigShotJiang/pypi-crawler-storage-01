@@ -1,11 +1,11 @@
 {
   "name": "django-devtools-local",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Django development tools for database exploration and code execution",
   "author": "Django DevTools",
   "license": null,
   "home_page": "https://github.com/Prince-devC/django-devtools",
-  "download_filename": "django_devtools_local-1.0.0.tar.gz",
-  "download_time": "2025-07-31T10:44:00.553531",
+  "download_filename": "django_devtools_local-1.1.0.tar.gz",
+  "download_time": "2025-07-31T11:51:46.181278",
   "package_url": "https://pypi.org/project/django-devtools-local/"
 }

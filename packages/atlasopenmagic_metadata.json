@@ -1,0 +1,11 @@
+{
+  "name": "atlasopenmagic",
+  "version": "1.2.0",
+  "summary": "A utility package for retrieving ATLAS open data URLs and metadata.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlasopenmagic-1.2.0.tar.gz",
+  "download_time": "2025-07-31T11:52:15.473888",
+  "package_url": "https://pypi.org/project/atlasopenmagic/"
+}

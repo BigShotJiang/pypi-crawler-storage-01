@@ -1,0 +1,11 @@
+{
+  "name": "edf-reader",
+  "version": "0.1.1",
+  "summary": "Lightweight EDF file reader, which can handle discontinuities.",
+  "author": "Vojtech Travnicek",
+  "license": "BSD-3-Clause",
+  "home_page": "https://gitlab.com/bbeer_group/development/epycom/edf_reader",
+  "download_filename": "edf_reader-0.1.1.tar.gz",
+  "download_time": "2025-07-31T11:52:01.879409",
+  "package_url": "https://pypi.org/project/edf-reader/"
+}

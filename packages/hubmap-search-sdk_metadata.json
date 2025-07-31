@@ -1,0 +1,11 @@
+{
+  "name": "hubmap-search-sdk",
+  "version": "1.0.0a22",
+  "summary": "The official Python library for the hubmap-search-sdk API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hubmap_search_sdk-1.0.0a22.tar.gz",
+  "download_time": "2025-07-31T11:51:59.261071",
+  "package_url": "https://pypi.org/project/hubmap-search-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bx-py-utils",
+  "version": "110",
+  "summary": "Various Python utility functions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bx_py_utils-110.tar.gz",
+  "download_time": "2025-07-31T11:52:12.308611",
+  "package_url": "https://pypi.org/project/bx-py-utils/"
+}
