@@ -1,0 +1,11 @@
+{
+  "name": "diff-reviewer",
+  "version": "0.1.1",
+  "summary": "AI-based local code diff reviewer that runs on every git commit.",
+  "author": "Vatsalya Bajpai",
+  "license": null,
+  "home_page": "https://github.com/ChargedMonk/DiffReviewer",
+  "download_filename": "diff-reviewer-0.1.1.tar.gz",
+  "download_time": "2025-07-31T13:11:35.644277",
+  "package_url": "https://pypi.org/project/diff-reviewer/"
+}
