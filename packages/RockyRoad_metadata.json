@@ -1,11 +1,11 @@
 {
   "name": "RockyRoad",
-  "version": "0.0.552",
+  "version": "0.0.554",
   "summary": "Python wrapper for the RockyRoad API",
   "author": null,
   "license": null,
   "home_page": "https://github.com/pypa/sampleproject",
-  "download_filename": "rockyroad-0.0.552-py3-none-any.whl",
-  "download_time": "2025-07-31T17:15:08.400128",
+  "download_filename": "rockyroad-0.0.554-py3-none-any.whl",
+  "download_time": "2025-07-31T17:36:58.919359",
   "package_url": "https://pypi.org/project/RockyRoad/"
 }

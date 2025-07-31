@@ -1,11 +1,11 @@
 {
   "name": "aind-clabe",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A library for a minimal framework that can be used to build experimental interfaces.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aind_clabe-0.6.0.tar.gz",
-  "download_time": "2025-07-31T04:12:56.154600",
+  "download_filename": "aind_clabe-0.6.1.tar.gz",
+  "download_time": "2025-07-31T17:37:35.558164",
   "package_url": "https://pypi.org/project/aind-clabe/"
 }

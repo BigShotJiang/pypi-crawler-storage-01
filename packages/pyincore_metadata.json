@@ -1,0 +1,11 @@
+{
+  "name": "pyincore",
+  "version": "1.22.0",
+  "summary": "IN-CORE analysis tool python package",
+  "author": null,
+  "license": "Mozilla Public License v2.0",
+  "home_page": "https://tools.in-core.org",
+  "download_filename": "pyincore-1.22.0.tar.gz",
+  "download_time": "2025-07-31T17:37:18.573369",
+  "package_url": "https://pypi.org/project/pyincore/"
+}

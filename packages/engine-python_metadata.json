@@ -1,0 +1,11 @@
+{
+  "name": "engine-python",
+  "version": "1.5.0",
+  "summary": "An intelligent, asynchronous search engine library for Python",
+  "author": "stone",
+  "license": null,
+  "home_page": "https://github.com/kissmeBro/engine-python",
+  "download_filename": "engine_python-1.5.0.tar.gz",
+  "download_time": "2025-07-31T17:37:14.977843",
+  "package_url": "https://pypi.org/project/engine-python/"
+}

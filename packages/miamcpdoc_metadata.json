@@ -1,11 +1,11 @@
 {
   "name": "miamcpdoc",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Mia's Server llms-txt documentation over MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "miamcpdoc-0.0.12.tar.gz",
-  "download_time": "2025-07-31T17:14:50.842444",
+  "download_filename": "miamcpdoc-0.0.14.tar.gz",
+  "download_time": "2025-07-31T17:37:20.109928",
   "package_url": "https://pypi.org/project/miamcpdoc/"
 }

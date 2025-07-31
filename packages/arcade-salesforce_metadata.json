@@ -1,0 +1,11 @@
+{
+  "name": "arcade-salesforce",
+  "version": "2.0.0",
+  "summary": "Arcade tools designed for LLMs to interact with Salesforce",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_salesforce-2.0.0-py3-none-any.whl",
+  "download_time": "2025-07-31T17:37:28.366560",
+  "package_url": "https://pypi.org/project/arcade-salesforce/"
+}
