@@ -1,0 +1,11 @@
+{
+  "name": "threepanewindows",
+  "version": "1.2.0",
+  "summary": "Professional three-pane window layouts for Tkinter applications with docking, theming, and advanced UI components",
+  "author": "Stan Griffiths",
+  "license": "MIT",
+  "home_page": "https://github.com/stntg/threepanewindows",
+  "download_filename": "threepanewindows-1.2.0.tar.gz",
+  "download_time": "2025-07-31T20:14:43.509802",
+  "package_url": "https://pypi.org/project/threepanewindows/"
+}

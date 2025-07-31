@@ -1,11 +1,11 @@
 {
   "name": "pykrait",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python Calcium Recording Analysis and Inference Toolbox",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pykrait-0.2.0.tar.gz",
-  "download_time": "2025-07-31T17:37:05.212942",
+  "download_filename": "pykrait-0.2.1.tar.gz",
+  "download_time": "2025-07-31T20:14:41.429706",
   "package_url": "https://pypi.org/project/pykrait/"
 }
