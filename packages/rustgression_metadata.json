@@ -1,11 +1,11 @@
 {
   "name": "rustgression",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Fast OLS and TLS and regression using Rust backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rustgression-0.2.1-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-07-31T07:19:00.287403",
+  "download_filename": "rustgression-0.2.2-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-31T08:51:31.432398",
   "package_url": "https://pypi.org/project/rustgression/"
 }

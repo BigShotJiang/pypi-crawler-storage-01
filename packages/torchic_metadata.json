@@ -1,11 +1,11 @@
 {
   "name": "torchic",
-  "version": "0.5.27",
+  "version": "0.5.28",
   "summary": "A Python library for data analysis in python and ROOT (tailored for high energy physics)",
   "author": "Giorgio Alberto Lucia, Roberta Ferioli",
   "license": null,
   "home_page": "https://github.com/GiorgioAlbertoLucia/torchic",
-  "download_filename": "torchic-0.5.27.tar.gz",
-  "download_time": "2025-07-30T15:14:17.415311",
+  "download_filename": "torchic-0.5.28.tar.gz",
+  "download_time": "2025-07-31T08:51:36.234819",
   "package_url": "https://pypi.org/project/torchic/"
 }

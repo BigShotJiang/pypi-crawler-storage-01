@@ -1,11 +1,11 @@
 {
   "name": "collibra-connector",
-  "version": "1.0.5",
-  "summary": "A standard Python connector for the Collibra Data Governance Center API.",
+  "version": "1.0.7",
+  "summary": "An UNOFICIAL standard Python connector for the Collibra Data Governance Center API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "collibra_connector-1.0.5.tar.gz",
-  "download_time": "2025-07-30T13:51:41.318801",
+  "download_filename": "collibra_connector-1.0.7.tar.gz",
+  "download_time": "2025-07-31T08:51:01.129121",
   "package_url": "https://pypi.org/project/collibra-connector/"
 }

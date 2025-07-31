@@ -1,11 +1,11 @@
 {
   "name": "django-sti-models",
-  "version": "0.1.19",
+  "version": "0.1.23",
   "summary": "Improved Django Single Table Inheritance (STI) models with admin integration and advanced utilities",
   "author": "Konrad Beck",
   "license": null,
   "home_page": null,
-  "download_filename": "django_sti_models-0.1.19.tar.gz",
-  "download_time": "2025-07-31T07:52:33.714849",
+  "download_filename": "django_sti_models-0.1.23.tar.gz",
+  "download_time": "2025-07-31T08:50:59.985368",
   "package_url": "https://pypi.org/project/django-sti-models/"
 }

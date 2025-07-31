@@ -1,11 +1,11 @@
 {
   "name": "ratio1",
-  "version": "3.4.50",
+  "version": "3.4.51",
   "summary": "`ratio1` or Ration1 SDK is the Python SDK required for client app development for the Ratio1 ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ratio1-3.4.50.tar.gz",
-  "download_time": "2025-07-30T13:51:36.624984",
+  "download_filename": "ratio1-3.4.51.tar.gz",
+  "download_time": "2025-07-31T08:51:38.282992",
   "package_url": "https://pypi.org/project/ratio1/"
 }

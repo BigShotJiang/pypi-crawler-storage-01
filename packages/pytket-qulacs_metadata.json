@@ -1,0 +1,11 @@
+{
+  "name": "pytket-qulacs",
+  "version": "0.41.0",
+  "summary": "Extension for pytket, providing access to the Qulacs Simulator",
+  "author": "TKET development team",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "pytket_qulacs-0.41.0-py3-none-any.whl",
+  "download_time": "2025-07-31T08:50:59.325811",
+  "package_url": "https://pypi.org/project/pytket-qulacs/"
+}
