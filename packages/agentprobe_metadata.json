@@ -1,0 +1,11 @@
+{
+  "name": "agentprobe",
+  "version": "0.1.1",
+  "summary": "Test how well AI agents interact with CLI tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentprobe-0.1.1.tar.gz",
+  "download_time": "2025-07-31T15:57:01.235858",
+  "package_url": "https://pypi.org/project/agentprobe/"
+}

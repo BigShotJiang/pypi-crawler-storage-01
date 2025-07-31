@@ -1,0 +1,11 @@
+{
+  "name": "vessim",
+  "version": "0.12.0",
+  "summary": "A simulator for carbon-aware applications and systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vessim-0.12.0.tar.gz",
+  "download_time": "2025-07-31T15:57:19.473551",
+  "package_url": "https://pypi.org/project/vessim/"
+}

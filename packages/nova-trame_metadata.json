@@ -1,0 +1,11 @@
+{
+  "name": "nova-trame",
+  "version": "0.25.2",
+  "summary": "A Python Package for injecting curated themes and custom components into Trame applications",
+  "author": "John Duggan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nova_trame-0.25.2-py3-none-any.whl",
+  "download_time": "2025-07-31T15:57:08.809458",
+  "package_url": "https://pypi.org/project/nova-trame/"
+}

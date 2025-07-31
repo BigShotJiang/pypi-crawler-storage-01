@@ -1,0 +1,11 @@
+{
+  "name": "datadog",
+  "version": "0.52.1",
+  "summary": "The Datadog Python library",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "datadog-0.52.1.tar.gz",
+  "download_time": "2025-07-31T15:57:12.884499",
+  "package_url": "https://pypi.org/project/datadog/"
+}

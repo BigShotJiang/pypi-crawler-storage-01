@@ -1,0 +1,11 @@
+{
+  "name": "brnldist",
+  "version": "1.0.0",
+  "summary": "Generate Bernoulli distributed values using Linear Congruential Generator (LCG)",
+  "author": "Rohit Kumar Behera",
+  "license": "MIT",
+  "home_page": "https://github.com/muinrohit/infoeqv",
+  "download_filename": "brnldist-1.0.0.tar.gz",
+  "download_time": "2025-07-31T15:57:35.817320",
+  "package_url": "https://pypi.org/project/brnldist/"
+}

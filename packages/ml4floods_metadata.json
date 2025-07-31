@@ -1,0 +1,11 @@
+{
+  "name": "ml4floods",
+  "version": "1.1.1",
+  "summary": "Machine learning models for end-to-end flood extent segmentation.",
+  "author": "SpaceML-org",
+  "license": null,
+  "home_page": "https://github.com/spaceml-org/ml4floods",
+  "download_filename": "ml4floods-1.1.1.tar.gz",
+  "download_time": "2025-07-31T15:57:09.384469",
+  "package_url": "https://pypi.org/project/ml4floods/"
+}

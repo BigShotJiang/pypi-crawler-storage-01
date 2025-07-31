@@ -1,0 +1,11 @@
+{
+  "name": "docx-generator",
+  "version": "0.1.0",
+  "summary": "Generate Word documents with centered KaiTi font",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docx_generator-0.1.0.tar.gz",
+  "download_time": "2025-07-31T15:57:33.452151",
+  "package_url": "https://pypi.org/project/docx-generator/"
+}

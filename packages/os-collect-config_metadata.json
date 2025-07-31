@@ -1,0 +1,11 @@
+{
+  "name": "os-collect-config",
+  "version": "14.0.1",
+  "summary": "Collect and cache metadata, run hooks on changes.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://opendev.org/openstack/os-collect-config",
+  "download_filename": "os_collect_config-14.0.1.tar.gz",
+  "download_time": "2025-07-31T15:57:14.620780",
+  "package_url": "https://pypi.org/project/os-collect-config/"
+}

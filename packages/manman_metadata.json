@@ -1,0 +1,11 @@
+{
+  "name": "manman",
+  "version": "1.1.1",
+  "summary": "GUI for deployment and monitoring of servers and applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "manman-1.1.1.tar.gz",
+  "download_time": "2025-07-31T15:57:22.369095",
+  "package_url": "https://pypi.org/project/manman/"
+}

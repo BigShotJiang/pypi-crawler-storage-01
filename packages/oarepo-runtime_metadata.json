@@ -1,11 +1,11 @@
 {
   "name": "oarepo-runtime",
-  "version": "1.9.4",
+  "version": "1.10.0",
   "summary": "A set of runtime extensions of Invenio repository",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oarepo_runtime-1.9.4.tar.gz",
-  "download_time": "2025-07-30T07:44:45.336341",
+  "download_filename": "oarepo_runtime-1.10.0.tar.gz",
+  "download_time": "2025-07-31T15:57:12.299228",
   "package_url": "https://pypi.org/project/oarepo-runtime/"
 }
