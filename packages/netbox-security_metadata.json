@@ -1,11 +1,11 @@
 {
   "name": "netbox-security",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "summary": "A Netbox plugin for tracking Security and NAT related objects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_security-1.2.13.tar.gz",
-  "download_time": "2025-07-29T05:50:02.846148",
+  "download_filename": "netbox_security-1.2.14.tar.gz",
+  "download_time": "2025-07-31T07:18:59.248182",
   "package_url": "https://pypi.org/project/netbox-security/"
 }

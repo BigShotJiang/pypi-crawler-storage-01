@@ -1,11 +1,11 @@
 {
   "name": "mplstyles-seaborn",
-  "version": "0.1.0",
+  "version": "0.2.5",
   "summary": "Matplotlib style sheets based on seaborn-v0_8-dark theme with combinable palettes and contexts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mplstyles_seaborn-0.1.0.tar.gz",
-  "download_time": "2025-07-31T06:55:30.800210",
+  "download_filename": "mplstyles_seaborn-0.2.5-py3-none-any.whl",
+  "download_time": "2025-07-31T07:18:29.868139",
   "package_url": "https://pypi.org/project/mplstyles-seaborn/"
 }

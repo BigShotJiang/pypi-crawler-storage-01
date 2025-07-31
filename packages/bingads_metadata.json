@@ -1,0 +1,11 @@
+{
+  "name": "bingads",
+  "version": "13.0.25.2",
+  "summary": "A library to make working with the Bing Ads APIs and bulk services easy",
+  "author": "Bing Ads SDK Team",
+  "license": "MIT",
+  "home_page": "https://github.com/BingAds/BingAds-Python-SDK",
+  "download_filename": "bingads-13.0.25.2.tar.gz",
+  "download_time": "2025-07-31T07:18:44.642788",
+  "package_url": "https://pypi.org/project/bingads/"
+}

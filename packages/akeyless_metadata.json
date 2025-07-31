@@ -1,0 +1,11 @@
+{
+  "name": "akeyless",
+  "version": "5.0.6",
+  "summary": "Akeyless API",
+  "author": "Akeyless",
+  "license": null,
+  "home_page": "https://www.akeyless.io/",
+  "download_filename": "akeyless-5.0.6.tar.gz",
+  "download_time": "2025-07-31T07:18:44.121770",
+  "package_url": "https://pypi.org/project/akeyless/"
+}
