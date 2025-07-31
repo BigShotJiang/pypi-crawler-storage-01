@@ -1,11 +1,11 @@
 {
   "name": "lazyscan",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A lazy way to find what's eating your disk space - by TheLazyIndianTechie",
   "author": "TheLazyIndianTechie",
   "license": null,
   "home_page": "https://github.com/TheLazyIndianTechie/lazyscan",
-  "download_filename": "lazyscan-0.3.1.tar.gz",
-  "download_time": "2025-07-30T12:25:29.954103",
+  "download_filename": "lazyscan-0.4.0.tar.gz",
+  "download_time": "2025-07-31T05:20:59.350846",
   "package_url": "https://pypi.org/project/lazyscan/"
 }
