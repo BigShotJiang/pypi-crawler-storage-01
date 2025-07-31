@@ -1,20 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T22:37:33.119987
-- **Total Packages**: 83
-- **Total Size**: 41.78 MB
+- **Download Time**: 2025-07-31T22:54:47.748867
+- **Total Packages**: 81
+- **Total Size**: 12.74 MB
 
 ## Packages List
+- rivian-python-client
+- workos
+- yaapp
+- wherobots-python-dbapi
+- chuk-mcp-server
+- poke-engine-doubles
+- api_24sea
+- jymkit
+- verahession
+- rgo-meta-ads-mcp
+- sagemaker-gen-ai-jupyterlab-extension
+- insurgentai-shared-utils
+- JornadaRPA.AgentAI
+- simile
+- ggx
+- openbench
+- altscore
+- pipecat-ai
+- jupyterlab-firefox-launcher
+- feldera
+- render50
+- moviebox-api
+- OZI
+- kumoai
+- halox
+- symbiont-sdk
+- radboy
+- google-adk
+- mist-medical
+- ecpet
+- azure-monitor-opentelemetry-exporter
+- odf.sbe
+- quati-toolkit
 - follow-up-boss
 - dymachandran
 - fyuneru
 - mcp-mesh
 - PetThermoTools
-- jupyterlab-firefox-launcher
 - aditi
 - ugrc-palletjack
-- api_24sea
 - gentrace-py
 - vidsrc
 - fpl-mcp
@@ -32,7 +63,6 @@
 - lask
 - azure-table-utils
 - gensay
-- ggx
 - raglight
 - oeissequences
 - setup-selenium-testing
@@ -42,7 +72,6 @@
 - instrumentman
 - hapla
 - ssmdevices
-- kumoai
 - restack_ai
 - qcengine
 - acryl-datahub-dagster-plugin
@@ -58,34 +87,3 @@
 - agent-eval
 - optimus-chem
 - muerte32crypt
-- gnucash-uk-vat
-- slide-lsst
-- comfyui-frontend-package
-- lucidx
-- dk-azure-services-dataknow
-- keras
-- pymammotion
-- restream.io
-- regula-documentreader-webclient
-- modelsearch
-- proxy-provider
-- consolio
-- quati-toolkit
-- labbench
-- freeplay
-- datajoint
-- yaml-to-backend
-- neurax-ai
-- keepercommander
-- aimon
-- behavex
-- plain.observer
-- aiwand
-- fastpluggy-scheduled-query
-- slim-bindings
-- nixt
-- fast-agent-mcp
-- pm-remez
-- nixbot
-- climax-rfglab
-- mlrl-util

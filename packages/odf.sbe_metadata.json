@@ -1,0 +1,11 @@
+{
+  "name": "odf.sbe",
+  "version": "0.2.1",
+  "summary": "A tool for converting SeaBird .HEX data to engineering units",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odf_sbe-0.2.1.tar.gz",
+  "download_time": "2025-07-31T22:54:17.309308",
+  "package_url": "https://pypi.org/project/odf.sbe/"
+}

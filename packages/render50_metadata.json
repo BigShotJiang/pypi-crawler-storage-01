@@ -1,0 +1,11 @@
+{
+  "name": "render50",
+  "version": "9.2.10",
+  "summary": "This is render50, with which you can render source code as PDFs.",
+  "author": "CS50",
+  "license": "GPLv3",
+  "home_page": "https://github.com/cs50/render50",
+  "download_filename": "render50-9.2.10.tar.gz",
+  "download_time": "2025-07-31T22:54:09.679561",
+  "package_url": "https://pypi.org/project/render50/"
+}

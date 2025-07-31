@@ -1,11 +1,11 @@
 {
   "name": "JornadaRPA.AgentAI",
-  "version": "0.1.2",
-  "summary": "Simple and powerful AI Agent with memory and tools.",
-  "author": "Alex Diogo",
+  "version": "0.1.3",
+  "summary": "Agent AI for RPA using multiple LLM providers",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jornadarpa_agentai-0.1.2.tar.gz",
-  "download_time": "2025-07-31T15:44:47.968775",
+  "download_filename": "jornadarpa_agentai-0.1.3.tar.gz",
+  "download_time": "2025-07-31T22:54:03.682990",
   "package_url": "https://pypi.org/project/JornadaRPA.AgentAI/"
 }
