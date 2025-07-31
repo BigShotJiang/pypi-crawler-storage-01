@@ -1,0 +1,11 @@
+{
+  "name": "threadman",
+  "version": "0.1.0",
+  "summary": "A simple thread manager for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "threadman-0.1.0.tar.gz",
+  "download_time": "2025-07-31T16:51:09.978626",
+  "package_url": "https://pypi.org/project/threadman/"
+}

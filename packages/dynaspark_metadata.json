@@ -1,0 +1,11 @@
+{
+  "name": "dynaspark",
+  "version": "1.2.2.3",
+  "summary": "A Python client for the DynaSpark API - Free AI text generation, text-to-speech, and image generation",
+  "author": "Th3-C0der",
+  "license": "MIT",
+  "home_page": "https://github.com/Th3-C0der/DynaSpark",
+  "download_filename": "dynaspark-1.2.2.3.tar.gz",
+  "download_time": "2025-07-31T16:51:03.189067",
+  "package_url": "https://pypi.org/project/dynaspark/"
+}

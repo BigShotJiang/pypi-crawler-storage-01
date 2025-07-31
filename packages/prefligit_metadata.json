@@ -1,11 +1,11 @@
 {
   "name": "prefligit",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "pre-commit reimplemented in Rust",
   "author": null,
   "license": null,
   "home_page": "https://github.com/j178/prefligit",
-  "download_filename": "prefligit-0.0.12.tar.gz",
-  "download_time": "2025-07-29T02:24:49.155481",
+  "download_filename": "prefligit-0.0.13.tar.gz",
+  "download_time": "2025-07-31T16:50:53.925421",
   "package_url": "https://pypi.org/project/prefligit/"
 }

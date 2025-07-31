@@ -1,0 +1,11 @@
+{
+  "name": "pysal",
+  "version": "25.7",
+  "summary": "Meta Package for PySAL - A library of spatial analysis functions",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "pysal-25.7.tar.gz",
+  "download_time": "2025-07-31T16:50:51.172697",
+  "package_url": "https://pypi.org/project/pysal/"
+}

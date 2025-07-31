@@ -1,0 +1,11 @@
+{
+  "name": "avalan",
+  "version": "1.2.15",
+  "summary": "Multi-backend, multi-modal framework for seamless AI agent development, orchestration, and deployment",
+  "author": "The Avalan Team",
+  "license": "MIT",
+  "home_page": "https://avalan.ai",
+  "download_filename": "avalan-1.2.15.tar.gz",
+  "download_time": "2025-07-31T16:51:00.088976",
+  "package_url": "https://pypi.org/project/avalan/"
+}
