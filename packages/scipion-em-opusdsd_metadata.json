@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-opusdsd",
+  "version": "3.1.0",
+  "summary": "Plugin to use Opusdsd programs within the Scipion framework",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em_opusdsd-3.1.0.tar.gz",
+  "download_time": "2025-07-31T14:42:59.536156",
+  "package_url": "https://pypi.org/project/scipion-em-opusdsd/"
+}

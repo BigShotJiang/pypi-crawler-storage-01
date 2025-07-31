@@ -1,11 +1,11 @@
 {
   "name": "frinZ",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "fringe search for Yamaguchi Interferometer and Japanese VLBI Network",
   "author": "Masanori AKIMOTO",
   "license": "MIT",
   "home_page": "https://github.com/M-AKIMOTOO/frinZ.py",
-  "download_filename": "frinz-2.1.0.tar.gz",
-  "download_time": "2025-07-31T14:15:56.000652",
+  "download_filename": "frinz-2.1.1.tar.gz",
+  "download_time": "2025-07-31T14:43:25.266697",
   "package_url": "https://pypi.org/project/frinZ/"
 }

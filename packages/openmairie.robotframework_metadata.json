@@ -1,0 +1,11 @@
+{
+  "name": "openmairie.robotframework",
+  "version": "4.11.10006",
+  "summary": "RobotFramework Library for functional testing openMairie Framework based apps",
+  "author": "openMairie",
+  "license": "GPL",
+  "home_page": "http://www.openmairie.org/framework",
+  "download_filename": "openmairie_robotframework-4.11.10006.tar.gz",
+  "download_time": "2025-07-31T14:43:26.291264",
+  "package_url": "https://pypi.org/project/openmairie.robotframework/"
+}

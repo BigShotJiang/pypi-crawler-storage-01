@@ -1,0 +1,11 @@
+{
+  "name": "gitopenlib",
+  "version": "0.2.29.32",
+  "summary": "A library containing some useful functions. Powered by GitOPEN.",
+  "author": "gitopen",
+  "license": "MIT",
+  "home_page": "https://github.com/opengit/gitopenlib.git",
+  "download_filename": "gitopenlib-0.2.29.32.tar.gz",
+  "download_time": "2025-07-31T14:43:03.135331",
+  "package_url": "https://pypi.org/project/gitopenlib/"
+}

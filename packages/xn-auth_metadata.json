@@ -1,0 +1,11 @@
+{
+  "name": "xn-auth",
+  "version": "0.2.39",
+  "summary": "Auth adapter for XN-Api framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xn_auth-0.2.39.tar.gz",
+  "download_time": "2025-07-31T14:43:13.568455",
+  "package_url": "https://pypi.org/project/xn-auth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "conehull",
-  "version": "1.0.0.post1",
+  "version": "1.0.0.post2",
   "summary": "2D convex hull algorithm with directional cone constraints and visualization tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "conehull-1.0.0.post1.tar.gz",
-  "download_time": "2025-07-30T14:41:57.366849",
+  "download_filename": "conehull-1.0.0.post2.tar.gz",
+  "download_time": "2025-07-31T14:43:01.072828",
   "package_url": "https://pypi.org/project/conehull/"
 }

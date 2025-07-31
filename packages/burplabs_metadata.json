@@ -1,11 +1,11 @@
 {
   "name": "burplabs",
-  "version": "0.2.4",
+  "version": "0.3.2",
   "summary": "PortSwigger Lab Automation Tool",
   "author": "Sneh",
   "license": null,
   "home_page": null,
-  "download_filename": "burplabs-0.2.4.tar.gz",
-  "download_time": "2025-07-31T14:15:41.269190",
+  "download_filename": "burplabs-0.3.2.tar.gz",
+  "download_time": "2025-07-31T14:42:53.791926",
   "package_url": "https://pypi.org/project/burplabs/"
 }

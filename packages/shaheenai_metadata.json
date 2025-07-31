@@ -1,11 +1,11 @@
 {
   "name": "shaheenai",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "A flexible, multi-LLM, agent-oriented Python library with self-reflection capabilities",
   "author": "Hamza - AI Engineer, Python Developer, Machine Learning, Agentic AI, Data Science, Node, Express, Typescript, NextJS",
   "license": null,
   "home_page": null,
-  "download_filename": "shaheenai-0.1.2.tar.gz",
-  "download_time": "2025-07-31T13:50:52.423647",
+  "download_filename": "shaheenai-0.2.1.tar.gz",
+  "download_time": "2025-07-31T14:42:52.767979",
   "package_url": "https://pypi.org/project/shaheenai/"
 }
