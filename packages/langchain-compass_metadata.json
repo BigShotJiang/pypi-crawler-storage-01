@@ -1,11 +1,11 @@
 {
   "name": "langchain-compass",
-  "version": "0.3.50",
+  "version": "0.3.52",
   "summary": "Providing the Compass API to langchain agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_compass-0.3.50.tar.gz",
-  "download_time": "2025-07-30T13:12:48.065225",
+  "download_filename": "langchain_compass-0.3.52.tar.gz",
+  "download_time": "2025-07-31T10:57:17.593574",
   "package_url": "https://pypi.org/project/langchain-compass/"
 }

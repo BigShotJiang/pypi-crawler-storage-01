@@ -1,0 +1,11 @@
+{
+  "name": "cymru",
+  "version": "0.1.0",
+  "summary": "Cymru API wrapper for Python",
+  "author": "Fernando Domínguez",
+  "license": "GNU GPL v3",
+  "home_page": "https://github.com/FernandoDoming/cymru",
+  "download_filename": "cymru-0.1.0.tar.gz",
+  "download_time": "2025-07-31T10:57:25.685348",
+  "package_url": "https://pypi.org/project/cymru/"
+}

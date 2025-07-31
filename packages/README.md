@@ -1,13 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T10:44:19.713524
-- **Total Packages**: 78
-- **Total Size**: 24.77 MB
+- **Download Time**: 2025-07-31T10:57:55.676990
+- **Total Packages**: 75
+- **Total Size**: 12.94 MB
 
 ## Packages List
-- wikimedia-spicerack
+- oresmen
+- libreflow
+- pywcmp
+- sdv-installer
+- gitlabcis
+- mksync
 - contact-test
+- supervisely
+- mrmuscle
+- code-loader
+- odoo-addon-l10n-it-ateco
+- konduktor-nightly
+- langchain-compass
+- abs-nosql-charts-core
+- smpldta
+- shraga-common
+- genome-uploader
+- trainy-policy-nightly
+- in-dbt-spark
+- libentry
+- undine
+- pypomes-sob
+- signxai2
+- lhcb-rex
+- scc-firewall-manager-sdk
+- RsMxo
+- cymru
+- ecomus
+- tp-helper
+- pybrv
+- morgoth
+- villog
+- letta-nightly
+- micropytest
+- amsdal_data
+- arkparse
+- wikimedia-spicerack
 - discord-ext-track-edits
 - peprock
 - jaaql-middleware-python
@@ -17,24 +52,19 @@
 - datatrees
 - zfb3-1
 - tai-sql
-- scc-firewall-manager-sdk
 - pygamefwk
 - dlrm
 - data_process_task_dispatcher_v1
 - deterministic-zip-go
 - restack_ai
-- smpldta
 - FermaCongress
-- villog
 - raganything
-- morgoth
 - mx-rmq
 - qrisp
 - odoo-addon-stock-move-line-qty-picked
 - flake8-vedro
 - agi-med-common
 - pyfastnet
-- code-loader
 - numba-cuda
 - hik-robot-cam
 - diffonnx
@@ -51,36 +81,3 @@
 - python-adjudicator
 - pynetcom
 - django-devtools-local
-- pylimer-tools
-- JoyIT-st7920
-- pybotx
-- apis-core-rdf
-- signalrcore1
-- luffa-bot-python-sdk
-- commit-gen-cli
-- aiverify-moonshot
-- cubicweb-calendar
-- aquatlantis-ori
-- nornir-collection
-- biomdp
-- google-cloud-mcp
-- gima
-- netmind-mcp-stampit
-- lightrag-hku
-- rasa-pro
-- EXtra-redu
-- edetek-words
-- alida-apis
-- solvency2-data
-- extremecloudiq-api
-- PVNet
-- browseruse-web-ui
-- tgit
-- pycroner
-- graph-json-generator
-- graph-data-source
-- graph-database-loader
-- isar
-- microimpute
-- agrigee-lite
-- pyCryptoPayAPI

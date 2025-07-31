@@ -1,11 +1,11 @@
 {
   "name": "letta-nightly",
-  "version": "0.9.1.dev20250730104458",
+  "version": "0.9.1.dev20250731104458",
   "summary": "Create LLM agents with long-term memory and custom tools",
   "author": "Letta Team",
   "license": "Apache License",
   "home_page": null,
-  "download_filename": "letta_nightly-0.9.1.dev20250730104458.tar.gz",
-  "download_time": "2025-07-30T11:13:14.685257",
+  "download_filename": "letta_nightly-0.9.1.dev20250731104458.tar.gz",
+  "download_time": "2025-07-31T10:57:29.247248",
   "package_url": "https://pypi.org/project/letta-nightly/"
 }
