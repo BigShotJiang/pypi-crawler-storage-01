@@ -1,11 +1,11 @@
 {
   "name": "trulens-hotspots",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Library and command-line tool to list features lowering your evaluation score.",
   "author": "Snowflake Inc.",
   "license": "MIT",
   "home_page": "https://trulens.org/",
-  "download_filename": "trulens_hotspots-2.1.1.tar.gz",
-  "download_time": "2025-07-29T23:32:19.819012",
+  "download_filename": "trulens_hotspots-2.1.2.tar.gz",
+  "download_time": "2025-07-31T17:15:10.150655",
   "package_url": "https://pypi.org/project/trulens-hotspots/"
 }

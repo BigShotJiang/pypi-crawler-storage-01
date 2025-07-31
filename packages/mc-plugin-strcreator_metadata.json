@@ -1,0 +1,11 @@
+{
+  "name": "mc-plugin-strcreator",
+  "version": "0.1.2",
+  "summary": "A tool to scaffold Minecraft plugin structure with pom.xml and Main.java",
+  "author": "NotGamerPratham",
+  "license": null,
+  "home_page": "https://github.com/NotGamerPratham/mcplstrcreator",
+  "download_filename": "mc_plugin_strcreator-0.1.2.tar.gz",
+  "download_time": "2025-07-31T17:14:52.609801",
+  "package_url": "https://pypi.org/project/mc-plugin-strcreator/"
+}

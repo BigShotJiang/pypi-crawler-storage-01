@@ -1,0 +1,11 @@
+{
+  "name": "NetDes",
+  "version": "1.0.6",
+  "summary": "Network modeling based on dynamic equation simulation (NetDes)",
+  "author": "Yukai You",
+  "license": "MIT",
+  "home_page": "https://github.com/lusystemsbio/NetDes",
+  "download_filename": "netdes-1.0.6.tar.gz",
+  "download_time": "2025-07-31T17:15:21.158398",
+  "package_url": "https://pypi.org/project/NetDes/"
+}

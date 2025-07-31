@@ -1,11 +1,11 @@
 {
   "name": "font-fetcher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": null,
   "author": "Yeicor",
   "license": null,
   "home_page": null,
-  "download_filename": "font_fetcher-0.0.3.tar.gz",
-  "download_time": "2025-07-31T16:51:09.464453",
+  "download_filename": "font_fetcher-0.0.4.tar.gz",
+  "download_time": "2025-07-31T17:15:20.005107",
   "package_url": "https://pypi.org/project/font-fetcher/"
 }

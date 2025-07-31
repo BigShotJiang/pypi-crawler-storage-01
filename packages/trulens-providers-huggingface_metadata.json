@@ -1,11 +1,11 @@
 {
   "name": "trulens-providers-huggingface",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Library to systematically track and evaluate LLM based applications.",
   "author": "Snowflake Inc.",
   "license": "MIT",
   "home_page": "https://trulens.org/",
-  "download_filename": "trulens_providers_huggingface-2.1.1.tar.gz",
-  "download_time": "2025-07-29T23:32:16.905698",
+  "download_filename": "trulens_providers_huggingface-2.1.2.tar.gz",
+  "download_time": "2025-07-31T17:15:07.305234",
   "package_url": "https://pypi.org/project/trulens-providers-huggingface/"
 }

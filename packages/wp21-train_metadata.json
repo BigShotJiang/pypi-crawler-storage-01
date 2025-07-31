@@ -1,0 +1,11 @@
+{
+  "name": "wp21-train",
+  "version": "0.3.1",
+  "summary": "Framework that provides tools allowing for monitoring training of ML models with the aim to be executed in firmware developed under the ATLAS NextGen WP21 project",
+  "author": "Ioannis Xiotidis",
+  "license": null,
+  "home_page": "https://gitlab.cern.ch/atlas-nextgen-wp21/trainining_framework.git",
+  "download_filename": "wp21_train-0.3.1.tar.gz",
+  "download_time": "2025-07-31T17:15:21.739515",
+  "package_url": "https://pypi.org/project/wp21-train/"
+}
