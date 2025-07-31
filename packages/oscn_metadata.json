@@ -1,11 +1,11 @@
 {
   "name": "oscn",
-  "version": "0.0.93",
+  "version": "0.0.94",
   "summary": "Oklahoma State Courts Network case parsing utilities",
   "author": "John Dungan",
   "license": "MIT",
   "home_page": "https://github.com/codefortulsa/oscn",
-  "download_filename": "oscn-0.0.93.tar.gz",
-  "download_time": "2025-07-31T11:31:54.558551",
+  "download_filename": "oscn-0.0.94.tar.gz",
+  "download_time": "2025-07-31T14:15:51.753983",
   "package_url": "https://pypi.org/project/oscn/"
 }

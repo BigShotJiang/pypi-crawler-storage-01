@@ -1,0 +1,11 @@
+{
+  "name": "astrodynx",
+  "version": "0.9.11",
+  "summary": "A modern astrodynamics library powered by JAX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrodynx-0.9.11.tar.gz",
+  "download_time": "2025-07-31T14:16:12.331121",
+  "package_url": "https://pypi.org/project/astrodynx/"
+}

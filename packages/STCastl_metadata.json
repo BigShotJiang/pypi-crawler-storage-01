@@ -1,11 +1,11 @@
 {
   "name": "STCastl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Consensus Framework for Robust Identification of Spatially Variable Genes in Spatial Transcriptomics",
   "author": "Yiyi Yu",
   "license": null,
   "home_page": "https://github.com/TheY11/Castl",
-  "download_filename": "STCastl-0.1.0.tar.gz",
-  "download_time": "2025-07-30T16:44:54.196193",
+  "download_filename": "STCastl-0.1.1.tar.gz",
+  "download_time": "2025-07-31T14:15:48.608388",
   "package_url": "https://pypi.org/project/STCastl/"
 }

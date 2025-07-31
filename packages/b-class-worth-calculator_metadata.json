@@ -1,0 +1,11 @@
+{
+  "name": "b-class-worth-calculator",
+  "version": "1.0.2",
+  "summary": "智能工作性价比分析工具，综合评估薪资、工时、通勤等多维度因素，支持生成可视化报告",
+  "author": "TraeAI",
+  "license": null,
+  "home_page": "https://github.com/trae-ai/b-class-worth-calculator",
+  "download_filename": "b_class_worth_calculator-1.0.2.tar.gz",
+  "download_time": "2025-07-31T14:15:56.519189",
+  "package_url": "https://pypi.org/project/b-class-worth-calculator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drf-oauth2-tools",
+  "version": "1.0.1",
+  "summary": "Comprehensive Django REST Framework library for OAuth social login",
+  "author": "Vladyslav Chaliuk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_oauth2_tools-1.0.1.tar.gz",
+  "download_time": "2025-07-31T14:16:02.356465",
+  "package_url": "https://pypi.org/project/drf-oauth2-tools/"
+}
