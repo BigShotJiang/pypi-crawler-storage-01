@@ -1,11 +1,11 @@
 {
   "name": "cloudmusic-auto-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "网易云音乐 MCP 控制器 - 提供全局快捷键、搜索单曲播放、搜索歌单播放、自定义歌单管理、每日推荐和私人漫游等丰富功能",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudmusic_auto_player-1.0.1.tar.gz",
-  "download_time": "2025-07-30T13:51:56.522681",
+  "download_filename": "cloudmusic_auto_player-1.0.2.tar.gz",
+  "download_time": "2025-07-31T05:50:12.486114",
   "package_url": "https://pypi.org/project/cloudmusic-auto-player/"
 }

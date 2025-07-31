@@ -1,0 +1,11 @@
+{
+  "name": "vastgenserver-dev",
+  "version": "0.5.1",
+  "summary": "VastGenServer is a distributed server for models or others, designed to handle high concurrency and provide efficient model serving capabilities.+d3f3e3d.d20250731",
+  "author": "AIS",
+  "license": "MIT",
+  "home_page": "https://www.vastaitech.com/",
+  "download_filename": "vastgenserver_dev-0.5.1.tar.gz",
+  "download_time": "2025-07-31T05:50:02.954192",
+  "package_url": "https://pypi.org/project/vastgenserver-dev/"
+}
