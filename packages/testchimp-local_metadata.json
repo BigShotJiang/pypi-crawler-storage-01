@@ -1,0 +1,11 @@
+{
+  "name": "testchimp-local",
+  "version": "0.0.6",
+  "summary": "Autonomous exploratory testing - right from your CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testchimp_local-0.0.6.tar.gz",
+  "download_time": "2025-07-31T12:23:07.455611",
+  "package_url": "https://pypi.org/project/testchimp-local/"
+}

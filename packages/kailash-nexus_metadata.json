@@ -1,0 +1,11 @@
+{
+  "name": "kailash-nexus",
+  "version": "1.0.4",
+  "summary": "Zero-configuration multi-channel workflow orchestration platform",
+  "author": "Kailash Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kailash_nexus-1.0.4.tar.gz",
+  "download_time": "2025-07-31T12:22:47.943374",
+  "package_url": "https://pypi.org/project/kailash-nexus/"
+}

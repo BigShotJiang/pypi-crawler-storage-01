@@ -1,0 +1,11 @@
+{
+  "name": "PyGithub",
+  "version": "2.7.0",
+  "summary": "Use the full Github API v3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygithub-2.7.0.tar.gz",
+  "download_time": "2025-07-31T12:23:26.035863",
+  "package_url": "https://pypi.org/project/PyGithub/"
+}

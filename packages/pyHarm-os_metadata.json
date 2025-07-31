@@ -1,0 +1,11 @@
+{
+  "name": "pyHarm-os",
+  "version": "1.1.1",
+  "summary": "A Harmonic Balance code for mechanical vibration systems with nonlinearities.",
+  "author": "Owner pyHarm",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.com/drti/pyharm",
+  "download_filename": "pyharm_os-1.1.1.tar.gz",
+  "download_time": "2025-07-31T12:22:55.164037",
+  "package_url": "https://pypi.org/project/pyHarm-os/"
+}

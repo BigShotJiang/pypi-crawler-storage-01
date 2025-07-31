@@ -1,11 +1,11 @@
 {
   "name": "twoprompt",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "twoprompt is a python cli that allows you to prompt different LLMs",
   "author": null,
   "license": null,
   "home_page": "https://github.com/Jamcha123/twoPrompt",
-  "download_filename": "twoprompt-1.0.3.tar.gz",
-  "download_time": "2025-07-31T09:46:59.472399",
+  "download_filename": "twoprompt-1.0.5.tar.gz",
+  "download_time": "2025-07-31T12:22:58.759388",
   "package_url": "https://pypi.org/project/twoprompt/"
 }

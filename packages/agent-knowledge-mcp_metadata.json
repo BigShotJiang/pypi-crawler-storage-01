@@ -1,11 +1,11 @@
 {
   "name": "agent-knowledge-mcp",
-  "version": "2.0.7",
+  "version": "2.1.1",
   "summary": "AgentKnowledgeMCP - Advanced Knowledge Management for AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_knowledge_mcp-2.0.7.tar.gz",
-  "download_time": "2025-07-30T10:44:25.655504",
+  "download_filename": "agent_knowledge_mcp-2.1.1.tar.gz",
+  "download_time": "2025-07-31T12:23:15.168042",
   "package_url": "https://pypi.org/project/agent-knowledge-mcp/"
 }

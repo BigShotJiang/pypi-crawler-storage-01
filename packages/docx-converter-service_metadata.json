@@ -1,0 +1,11 @@
+{
+  "name": "docx-converter-service",
+  "version": "0.1.0",
+  "summary": "文本到DOCX转换服务",
+  "author": "meteor-shower-l",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docx-converter-service-0.1.0.tar.gz",
+  "download_time": "2025-07-31T12:23:15.678475",
+  "package_url": "https://pypi.org/project/docx-converter-service/"
+}

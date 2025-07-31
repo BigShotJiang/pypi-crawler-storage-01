@@ -1,0 +1,11 @@
+{
+  "name": "databricks-sdk",
+  "version": "0.61.0",
+  "summary": "Databricks SDK for Python (Beta)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_sdk-0.61.0.tar.gz",
+  "download_time": "2025-07-31T12:23:10.568696",
+  "package_url": "https://pypi.org/project/databricks-sdk/"
+}

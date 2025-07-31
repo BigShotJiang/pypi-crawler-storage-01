@@ -1,0 +1,11 @@
+{
+  "name": "openvino-model-api",
+  "version": "0.3.0.3",
+  "summary": "Model API: model wrappers and pipelines for inference with OpenVINO",
+  "author": "Intel(R) Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openvino_model_api-0.3.0.3.tar.gz",
+  "download_time": "2025-07-31T12:22:55.675598",
+  "package_url": "https://pypi.org/project/openvino-model-api/"
+}

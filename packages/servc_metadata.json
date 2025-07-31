@@ -1,0 +1,11 @@
+{
+  "name": "servc",
+  "version": "1.11.6",
+  "summary": "Server implmentation of services for python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "servc-1.11.6.tar.gz",
+  "download_time": "2025-07-31T12:23:04.390186",
+  "package_url": "https://pypi.org/project/servc/"
+}
