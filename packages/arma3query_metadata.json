@@ -1,11 +1,11 @@
 {
   "name": "arma3query",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "Small module to decode the Arma 3 rules binary response.",
   "author": "Jishnu Karri",
-  "license": "MIT License",
+  "license": "MIT",
   "home_page": "https://github.com/jishnukarri/arma3-a2s",
-  "download_filename": "arma3query-1.0.tar.gz",
-  "download_time": "2025-07-31T23:32:59.031109",
+  "download_filename": "arma3query-1.1.tar.gz",
+  "download_time": "2025-07-31T23:51:15.035265",
   "package_url": "https://pypi.org/project/arma3query/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "modelsearch",
-  "version": "1.0rc1",
+  "version": "1.0rc4",
   "summary": "A library for indexing Django models with Elasicsearch, OpenSearch or database and searching them with the Django ORM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modelsearch-1.0rc1.tar.gz",
-  "download_time": "2025-07-31T22:13:13.087326",
+  "download_filename": "modelsearch-1.0rc4.tar.gz",
+  "download_time": "2025-07-31T23:51:20.268485",
   "package_url": "https://pypi.org/project/modelsearch/"
 }

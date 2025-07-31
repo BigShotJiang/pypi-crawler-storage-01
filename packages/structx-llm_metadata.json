@@ -1,0 +1,11 @@
+{
+  "name": "structx-llm",
+  "version": "0.4.0",
+  "summary": "Structured data extraction from text using LLMs and dynamic model generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "structx_llm-0.4.0.tar.gz",
+  "download_time": "2025-07-31T23:51:16.074294",
+  "package_url": "https://pypi.org/project/structx-llm/"
+}

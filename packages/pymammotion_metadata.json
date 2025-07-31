@@ -1,11 +1,11 @@
 {
   "name": "pymammotion",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": null,
   "author": "Michael Arthur",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pymammotion-0.5.1.tar.gz",
-  "download_time": "2025-07-31T22:13:10.603519",
+  "download_filename": "pymammotion-0.5.2.tar.gz",
+  "download_time": "2025-07-31T23:51:10.677716",
   "package_url": "https://pypi.org/project/pymammotion/"
 }

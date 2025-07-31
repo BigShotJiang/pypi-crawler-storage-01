@@ -1,17 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T23:33:42.494137
-- **Total Packages**: 87
-- **Total Size**: 23.97 MB
+- **Download Time**: 2025-07-31T23:51:52.169441
+- **Total Packages**: 81
+- **Total Size**: 26.41 MB
 
 ## Packages List
-- rxfoundry.clients.p2rx-api
+- MLAMA
+- fastapi-error-map
+- pymammotion
+- policyengine-us
+- cel-bind
+- coiled
+- promptlyzer
+- azure-ai-evaluation
 - graph-games-proto
+- doublediff
+- arma3query
+- yt-dlp
+- structx-llm
+- letrbinr
+- pyghidra-mcp
+- tomcli
+- excolor
+- restack_ai
+- umu-commander
+- switchbot-actions
+- modelsearch
+- pmcgrab
+- nv-ingest-client
+- graphql-api
+- jupyterlab-firefox-launcher
+- ecpet
+- syllable-sdk
+- airbyte-cdk
+- rxfoundry.clients.p2rx-api
 - pulumi-aws
 - chaiverse
 - m24842-ml
-- ecpet
 - ovos-utterance-plugin-cancel
 - ovos-skill-date-time
 - imap-processing
@@ -19,7 +45,6 @@
 - fosslight-android
 - redis_hj3415
 - coppersun-brass
-- arma3query
 - awslabs.s3-tables-mcp-server
 - awslabs.aws-pricing-mcp-server
 - awslabs.mcp-lambda-handler
@@ -40,10 +65,7 @@
 - robotcode-runner
 - odoo-addon-l10n-br-account
 - slush
-- letrbinr
 - sphinx-llms-txt
-- umu-commander
-- graphql-api
 - autonomi-client
 - make87
 - viral-usher
@@ -52,12 +74,10 @@
 - wipac-dev-actions-testbed
 - nifty-solve
 - mcp-master
-- pmcgrab
 - sqlmesh
 - vizql-data-service-py
 - gridworks-proactor
 - jornadarpa.agentai
-- jupyterlab-firefox-launcher
 - x402
 - GameSentenceMiner
 - aquiles-rag
@@ -67,29 +87,3 @@
 - libsbmlnetwork
 - arthur-client
 - a2a-openai-agents
-- fireworks-ai
-- cutflow-compare
-- mccole
-- fleet-python
-- flwr-nightly
-- sapiopycommons
-- setup-selenium-testing
-- raglight
-- langchain-coherence
-- chiper-x
-- damb
-- litestar-granian
-- daily-evapotranspiration-upscaling
-- yaapp
-- slimformers
-- desearch-py
-- eval-protocol
-- alertmanagermeshtastic
-- caioh-nvml-gpu-control
-- glazzbocks
-- run-vast
-- mnist-ae
-- pyqrack-cuda-complex128
-- pyqrack-cuda
-- omnata-plugin-runtime
-- pyqrack-cpu-complex128
