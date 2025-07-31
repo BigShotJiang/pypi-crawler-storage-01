@@ -1,11 +1,11 @@
 {
   "name": "physicell-settings",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "User-friendly Python package for generating PhysiCell_settings.xml configuration files",
   "author": "Marco Ruscone",
   "license": null,
   "home_page": "https://github.com/mruscone/PhysiCell_Settings",
-  "download_filename": "physicell_settings-0.3.1.tar.gz",
-  "download_time": "2025-07-31T09:46:43.431693",
+  "download_filename": "physicell_settings-0.3.2.tar.gz",
+  "download_time": "2025-07-31T10:15:09.859482",
   "package_url": "https://pypi.org/project/physicell-settings/"
 }

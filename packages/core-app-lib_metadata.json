@@ -1,0 +1,11 @@
+{
+  "name": "core-app-lib",
+  "version": "1.7.0",
+  "summary": "an all in one package for building nice python application",
+  "author": "EliaOndacs",
+  "license": "license",
+  "home_page": "https://github.com/EliaOndacs/corelib",
+  "download_filename": "core_app_lib-1.7.0.tar.gz",
+  "download_time": "2025-07-31T10:14:57.964783",
+  "package_url": "https://pypi.org/project/core-app-lib/"
+}
