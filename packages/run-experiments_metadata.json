@@ -1,0 +1,11 @@
+{
+  "name": "run-experiments",
+  "version": "1.0.7",
+  "summary": "python module for running experiments",
+  "author": "Thomas Bläsius",
+  "license": "ISC",
+  "home_page": "https://github.com/thobl/run",
+  "download_filename": "run_experiments-1.0.7-py3-none-any.whl",
+  "download_time": "2025-07-31T19:30:14.009814",
+  "package_url": "https://pypi.org/project/run-experiments/"
+}

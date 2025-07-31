@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-scrape",
+  "version": "0.2.0",
+  "summary": "Advanced web automation framework with AI-powered agents, Chawan terminal browser integration, and geographic search targeting",
+  "author": "Pydantic Scrape Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_scrape-0.2.0.tar.gz",
+  "download_time": "2025-07-31T19:30:24.977580",
+  "package_url": "https://pypi.org/project/pydantic-scrape/"
+}

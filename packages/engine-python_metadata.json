@@ -1,11 +1,11 @@
 {
   "name": "engine-python",
-  "version": "1.9.0",
+  "version": "2.0.0",
   "summary": "An intelligent, asynchronous search engine library for Python",
   "author": "stone",
   "license": "MIT",
   "home_page": "https://github.com/kissmeBro/engine-python",
-  "download_filename": "engine_python-1.9.0.tar.gz",
-  "download_time": "2025-07-31T19:14:14.621905",
+  "download_filename": "engine_python-2.0.0.tar.gz",
+  "download_time": "2025-07-31T19:30:39.196333",
   "package_url": "https://pypi.org/project/engine-python/"
 }

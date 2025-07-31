@@ -1,0 +1,11 @@
+{
+  "name": "onebusaway",
+  "version": "1.15.0",
+  "summary": "The official Python library for the onebusaway-sdk API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "onebusaway-1.15.0.tar.gz",
+  "download_time": "2025-07-31T19:30:15.588759",
+  "package_url": "https://pypi.org/project/onebusaway/"
+}

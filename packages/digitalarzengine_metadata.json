@@ -1,0 +1,11 @@
+{
+  "name": "digitalarzengine",
+  "version": "0.3.4",
+  "summary": "DigitalArzEngine for GEE, raster and vector data processing",
+  "author": "Ather Ashraf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "digitalarzengine-0.3.4.tar.gz",
+  "download_time": "2025-07-31T19:30:26.540594",
+  "package_url": "https://pypi.org/project/digitalarzengine/"
+}

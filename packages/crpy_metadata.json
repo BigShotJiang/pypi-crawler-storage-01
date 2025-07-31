@@ -1,0 +1,11 @@
+{
+  "name": "crpy",
+  "version": "0.2.0",
+  "summary": "Simple and straight forward async library for interacting with container registry API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crpy-0.2.0.tar.gz",
+  "download_time": "2025-07-31T19:30:38.676338",
+  "package_url": "https://pypi.org/project/crpy/"
+}
