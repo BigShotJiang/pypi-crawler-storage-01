@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-website-sale-loyalty-suggestion-wizard-multi-gift",
-  "version": "16.0.1.0.0.1",
+  "version": "16.0.1.0.0.2",
   "summary": "Suggests promotions multi-gift and allows you to configure and apply these promotions directly from the website",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-promotion",
-  "download_filename": "odoo_addon_website_sale_loyalty_suggestion_wizard_multi_gift-16.0.1.0.0.1-py3-none-any.whl",
-  "download_time": "2025-07-30T08:17:30.204906",
+  "download_filename": "odoo_addon_website_sale_loyalty_suggestion_wizard_multi_gift-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-31T04:13:01.452476",
   "package_url": "https://pypi.org/project/odoo-addon-website-sale-loyalty-suggestion-wizard-multi-gift/"
 }

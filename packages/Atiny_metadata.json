@@ -1,0 +1,11 @@
+{
+  "name": "Atiny",
+  "version": "0.0.2",
+  "summary": "Atiny is a gradient based PyTorch optimizer. Atiny uses half of Adam's memory to achieve results that are not inferior to Adam. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atiny-0.0.2.tar.gz",
+  "download_time": "2025-07-31T04:12:48.460112",
+  "package_url": "https://pypi.org/project/Atiny/"
+}

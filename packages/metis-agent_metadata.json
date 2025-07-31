@@ -1,0 +1,11 @@
+{
+  "name": "metis-agent",
+  "version": "0.4.1",
+  "summary": "A framework for building powerful AI agents with autonomous capability expansion, blueprint opportunity detection, and intelligent memory management",
+  "author": "Metis OS Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/metisos/metisos_agentV1",
+  "download_filename": "metis_agent-0.4.1.tar.gz",
+  "download_time": "2025-07-31T04:12:23.568309",
+  "package_url": "https://pypi.org/project/metis-agent/"
+}

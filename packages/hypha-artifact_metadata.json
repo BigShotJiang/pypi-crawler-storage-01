@@ -1,11 +1,11 @@
 {
   "name": "hypha-artifact",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Hypha Artifact package, used with Hypha.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypha_artifact-0.0.14.tar.gz",
-  "download_time": "2025-07-30T08:18:09.690455",
+  "download_filename": "hypha_artifact-0.0.16.tar.gz",
+  "download_time": "2025-07-31T04:12:53.215370",
   "package_url": "https://pypi.org/project/hypha-artifact/"
 }
