@@ -1,0 +1,11 @@
+{
+  "name": "langchain-siliconflow",
+  "version": "0.1.0",
+  "summary": "An integration package connecting SiliconFlow and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_siliconflow-0.1.0.tar.gz",
+  "download_time": "2025-07-31T07:52:33.196802",
+  "package_url": "https://pypi.org/project/langchain-siliconflow/"
+}

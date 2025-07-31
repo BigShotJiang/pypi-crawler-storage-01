@@ -1,11 +1,11 @@
 {
   "name": "directus-py-sdk",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Python SDK for interacting with Directus API (colletion, items, users, files)",
   "author": "Dembrane",
   "license": "MIT",
   "home_page": "https://github.com/Dembrane/directus-py-sdk",
-  "download_filename": "directus_py_sdk-1.1.1.tar.gz",
-  "download_time": "2025-07-29T15:41:59.231780",
+  "download_filename": "directus_py_sdk-1.1.2.tar.gz",
+  "download_time": "2025-07-31T07:52:40.057303",
   "package_url": "https://pypi.org/project/directus-py-sdk/"
 }

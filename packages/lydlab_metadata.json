@@ -1,11 +1,11 @@
 {
   "name": "lydlab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "数据集下载工具",
   "author": "zhaomoqiang",
   "license": null,
   "home_page": null,
-  "download_filename": "lydlab-0.0.1-py3-none-any.whl",
-  "download_time": "2025-07-31T03:03:18.060589",
+  "download_filename": "lydlab-0.0.2-py3-none-any.whl",
+  "download_time": "2025-07-31T07:52:43.176299",
   "package_url": "https://pypi.org/project/lydlab/"
 }

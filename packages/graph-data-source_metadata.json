@@ -1,11 +1,11 @@
 {
   "name": "graph-data-source",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "summary": "An abstraction layer that ports various data into Antiqua",
   "author": "Jiaqi Liu",
   "license": "Apache-2.0",
   "home_page": "https://github.com/QubitPi/Antiqua/tree/master/graph-data-source",
-  "download_filename": "graph-data-source-0.0.50.tar.gz",
-  "download_time": "2025-07-29T05:50:18.094825",
+  "download_filename": "graph-data-source-0.0.51.tar.gz",
+  "download_time": "2025-07-31T07:52:37.476033",
   "package_url": "https://pypi.org/project/graph-data-source/"
 }

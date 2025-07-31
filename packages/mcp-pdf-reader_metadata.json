@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pdf-reader",
+  "version": "0.1.7",
+  "summary": "A PDF file reading server based on FastMCP. Supports PDF text extraction, OCR recognition, and image extraction via the MCP protocol, with a built-in web debugger for easy testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_pdf_reader-0.1.7.tar.gz",
+  "download_time": "2025-07-31T07:52:42.137854",
+  "package_url": "https://pypi.org/project/mcp-pdf-reader/"
+}

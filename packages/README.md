@@ -1,14 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T07:43:56.684514
-- **Total Packages**: 74
-- **Total Size**: 29.97 MB
+- **Download Time**: 2025-07-31T07:53:15.953972
+- **Total Packages**: 81
+- **Total Size**: 6.24 MB
 
 ## Packages List
-- zfb3-1
+- planqk-api-sdk
+- langchain-siliconflow
 - django-sti-models
+- torch-uncertainty
+- shekar
+- chatbot-tracer
+- nonebot-plugin-value
 - edetek-words
+- graph-json-generator
+- graph-data-source
+- graph-database-loader
+- morebs2
+- GenericDataSaver
+- directus-py-sdk
+- SkillLink
+- kt-ds-api
+- hbrowser
+- mcp-pdf-reader
+- takanarishimbo-rosbridge-mcp-server
+- lydlab
+- brynq-sdk-factorial
+- matrice
+- superagentx
+- zfb3-1
 - cur-rules
 - cognite-power-ops
 - vpet-abc
@@ -66,17 +87,3 @@
 - mplstyles-seaborn
 - omnata-plugin-runtime
 - regula-documentreader-webclient
-- icloudpd-web
-- localstack-ext
-- localstack
-- pythonic-fp
-- lazynwb
-- chutes
-- wujing
-- streamlit-nightly
-- phis-introducing-med
-- s2v-client
-- grepsr-cli
-- anosys-logger-4-openai-agents
-- localstack-core
-- robotframework-schemathesislibrary

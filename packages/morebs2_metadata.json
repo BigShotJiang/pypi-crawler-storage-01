@@ -1,11 +1,11 @@
 {
   "name": "morebs2",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "summary": "data structures to aid in numerical data generation and clustering",
   "author": "Richard Pham",
   "license": null,
   "home_page": "https://github.com/Changissnz/morebs",
-  "download_filename": "morebs2-0.1.36.tar.gz",
-  "download_time": "2025-07-29T10:13:41.636411",
+  "download_filename": "morebs2-0.1.37.tar.gz",
+  "download_time": "2025-07-31T07:52:38.513441",
   "package_url": "https://pypi.org/project/morebs2/"
 }

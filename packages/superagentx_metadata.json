@@ -1,11 +1,11 @@
 {
   "name": "superagentx",
-  "version": "0.1.18.14",
+  "version": "0.1.18.15",
   "summary": "The Ultimate Modular Autonomous Multi AI Agent Framework.",
   "author": "SuperAgentX AI",
   "license": "MIT",
   "home_page": "https://www.superagentx.ai/",
-  "download_filename": "superagentx-0.1.18.14.tar.gz",
-  "download_time": "2025-07-31T05:21:04.044934",
+  "download_filename": "superagentx-0.1.18.15.tar.gz",
+  "download_time": "2025-07-31T07:52:44.753460",
   "package_url": "https://pypi.org/project/superagentx/"
 }
