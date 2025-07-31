@@ -1,11 +1,11 @@
 {
   "name": "lzma-c",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "A fast LZMA compression library based on 7-Zip's C code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lzma_c-1.0.2-cp37-abi3-macosx_10_13_universal2.whl",
-  "download_time": "2025-07-30T15:37:54.083187",
+  "download_filename": "lzma_c-1.0.5-cp37-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-31T09:19:27.228659",
   "package_url": "https://pypi.org/project/lzma-c/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "adestis-netbox-domain-management",
+  "version": "1.0.6",
+  "summary": "ADESTIS Domain Management",
+  "author": "ADESTIS GmbH",
+  "license": "MIT License",
+  "home_page": "https://github.com/an-adestis/ADESTIS-Netbox-Domain-Management/tree/master",
+  "download_filename": "adestis_netbox_domain_management-1.0.6.tar.gz",
+  "download_time": "2025-07-31T09:19:18.347863",
+  "package_url": "https://pypi.org/project/adestis-netbox-domain-management/"
+}

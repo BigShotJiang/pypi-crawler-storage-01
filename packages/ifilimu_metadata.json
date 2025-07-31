@@ -1,0 +1,11 @@
+{
+  "name": "ifilimu",
+  "version": "0.1.0",
+  "summary": "Movie CLI to fetch and summarize movies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ifilimu-0.1.0.tar.gz",
+  "download_time": "2025-07-31T09:19:45.110705",
+  "package_url": "https://pypi.org/project/ifilimu/"
+}

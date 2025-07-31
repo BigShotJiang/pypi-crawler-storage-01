@@ -1,0 +1,11 @@
+{
+  "name": "ael-satellite-tools",
+  "version": "0.0.13",
+  "summary": "This module can dowinload and process satellite products",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ael_satellite_tools-0.0.13.tar.gz",
+  "download_time": "2025-07-31T09:19:49.345995",
+  "package_url": "https://pypi.org/project/ael-satellite-tools/"
+}

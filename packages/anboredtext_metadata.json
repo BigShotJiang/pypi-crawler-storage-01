@@ -1,11 +1,11 @@
 {
   "name": "anboredtext",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anboredtext-0.1.0.tar.gz",
-  "download_time": "2025-07-31T08:50:56.591966",
+  "download_filename": "anboredtext-0.2.1.tar.gz",
+  "download_time": "2025-07-31T09:19:49.865173",
   "package_url": "https://pypi.org/project/anboredtext/"
 }

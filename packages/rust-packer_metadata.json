@@ -1,11 +1,11 @@
 {
   "name": "rust-packer",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rust_packer-1.0.1-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-07-31T08:51:11.571667",
+  "download_filename": "rust_packer-1.0.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-07-31T09:19:41.464553",
   "package_url": "https://pypi.org/project/rust-packer/"
 }

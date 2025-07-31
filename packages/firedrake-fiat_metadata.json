@@ -1,0 +1,11 @@
+{
+  "name": "firedrake-fiat",
+  "version": "2025.4.1",
+  "summary": "FInite element Automatic Tabulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firedrake_fiat-2025.4.1.tar.gz",
+  "download_time": "2025-07-31T09:19:36.251469",
+  "package_url": "https://pypi.org/project/firedrake-fiat/"
+}

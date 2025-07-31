@@ -1,11 +1,11 @@
 {
   "name": "browseruse-web-ui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Web UI for Browser-Use AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "browseruse_web_ui-0.1.1.tar.gz",
-  "download_time": "2025-07-31T08:51:32.574820",
+  "download_filename": "browseruse_web_ui-0.1.2.tar.gz",
+  "download_time": "2025-07-31T09:19:42.503446",
   "package_url": "https://pypi.org/project/browseruse-web-ui/"
 }

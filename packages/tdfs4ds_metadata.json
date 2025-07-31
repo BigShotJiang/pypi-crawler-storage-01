@@ -1,11 +1,11 @@
 {
   "name": "tdfs4ds",
-  "version": "0.2.4.19",
+  "version": "0.2.4.22",
   "summary": "A python package to simplify the usage of feature store using Teradata Vantage ...",
   "author": "Denis Molin",
   "license": null,
   "home_page": null,
-  "download_filename": "tdfs4ds-0.2.4.19-py3-none-any.whl",
-  "download_time": "2025-07-30T16:45:13.042678",
+  "download_filename": "tdfs4ds-0.2.4.22-py3-none-any.whl",
+  "download_time": "2025-07-31T09:19:11.056278",
   "package_url": "https://pypi.org/project/tdfs4ds/"
 }

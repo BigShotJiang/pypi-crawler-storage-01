@@ -1,0 +1,11 @@
+{
+  "name": "batchfactory",
+  "version": "0.6.2",
+  "summary": "Composable, cache-aware batch processing pipelines for LLMs, APIs, and dataset generation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "batchfactory-0.6.2.tar.gz",
+  "download_time": "2025-07-31T09:19:24.592398",
+  "package_url": "https://pypi.org/project/batchfactory/"
+}
