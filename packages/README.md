@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T21:33:44.847206
-- **Total Packages**: 82
-- **Total Size**: 8.94 MB
+- **Download Time**: 2025-07-31T21:52:46.633799
+- **Total Packages**: 85
+- **Total Size**: 17.35 MB
 
 ## Packages List
+- opencos-eda
+- katana-openapi-client
+- sensortower-mcp
+- bloodrecon
+- aiwand
+- radboy
+- greml
+- credal
+- uproot-custom
+- openlit
+- cinchdb
+- pyrefly
+- atxp
+- datupapi
+- tfmate
+- pywinsor2
+- spx-python
+- litewave-ml-models-yield-data-analysis
+- litewave-ml-models-signature
+- enterpriseattack
+- weni-datalake-sdk
+- kaqing
+- alertmanagermeshtastic
+- beam-client
+- flexistack
+- mrx-runway
+- structifyai
+- quati-toolkit
+- ntfy-csv-reminders
+- ggx
+- methodosintscan
+- shakemap-modules
+- graphlit-client
+- spatialstudio
+- naminter
+- carbonarc
+- cacts
+- codearkt
+- tower
+- anncsu-sdk
+- ethyca-fides
+- alation-ai-agent-mcp
+- m24842-ml
+- alation-ai-agent-langchain
+- staticdash
+- py-attio
+- everysk-lib
 - kintsugi-tax-platform-sdk
 - enzyme-filtering-pipeline
 - alation-ai-agent-sdk
@@ -16,14 +63,11 @@
 - fastapi-secure-errors
 - sportsball
 - cmem-plugin-jq
-- alertmanagermeshtastic
 - schemathesis
 - consolio
-- anncsu-sdk
 - chatmap-py
 - prof-tg-dooorto-qu
 - moexapi
-- fastpluggy-scheduled-query
 - acryl-datahub-actions
 - acryl-datahub
 - samplehc
@@ -47,44 +91,3 @@
 - deceptionlogic-ai
 - llmd
 - aipyapp
-- bloodrecon
-- intervalframe
-- ggx
-- bdscore
-- posthoganalytics
-- posthog
-- animate-netcdf
-- beswarm
-- anmetal
-- InsideForest
-- great-expectations-cloud
-- sqlalchemy-ingres
-- tinycoder
-- arthur-client
-- ob-metaflow
-- saintcord
-- anatools
-- mongo-charms-single-kernel
-- pyegeria
-- a3
-- bump-deps-index
-- subtitle-tool
-- cybrid-api-bank-python
-- yaal
-- cybrid-api-id-python
-- m24842-ml
-- cybrid-api-organization-python
-- ThalamusDB
-- fast-colors
-- apier
-- OASYS1-WOFRY
-- yaapp
-- promptlyzer
-- idtap-api
-- sccross
-- hdn-research-environment
-- virtualitics-sdk
-- pyrosper
-- ripple1d
-- private-assistant-comms-satellite
-- coiled

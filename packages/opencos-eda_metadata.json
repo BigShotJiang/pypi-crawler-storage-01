@@ -1,11 +1,11 @@
 {
   "name": "opencos-eda",
-  "version": "0.2.45",
+  "version": "0.2.46",
   "summary": "A simple Python package for wrapping RTL simuliatons and synthesis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opencos_eda-0.2.45.tar.gz",
-  "download_time": "2025-07-30T17:23:59.537906",
+  "download_filename": "opencos_eda-0.2.46.tar.gz",
+  "download_time": "2025-07-31T21:52:00.469435",
   "package_url": "https://pypi.org/project/opencos-eda/"
 }

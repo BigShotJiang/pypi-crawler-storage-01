@@ -1,11 +1,11 @@
 {
   "name": "ntfy-csv-reminders",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Probabilistic daily reminders via ntfy from csv",
   "author": null,
   "license": "GPLv3",
   "home_page": "https://github.com/thiswillbeyourgithub/ntfy-csv-reminders",
-  "download_filename": "ntfy_csv_reminders-0.1.8.tar.gz",
-  "download_time": "2025-07-30T07:19:12.011456",
+  "download_filename": "ntfy_csv_reminders-0.1.9.tar.gz",
+  "download_time": "2025-07-31T21:52:15.769273",
   "package_url": "https://pypi.org/project/ntfy-csv-reminders/"
 }
