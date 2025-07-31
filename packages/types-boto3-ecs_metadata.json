@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-ecs",
+  "version": "1.40.0",
+  "summary": "Type annotations for boto3 ECS 1.40.0 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_ecs-1.40.0.tar.gz",
+  "download_time": "2025-07-31T20:38:20.161553",
+  "package_url": "https://pypi.org/project/types-boto3-ecs/"
+}

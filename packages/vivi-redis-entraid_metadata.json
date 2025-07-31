@@ -1,0 +1,11 @@
+{
+  "name": "vivi-redis-entraid",
+  "version": "1.0.0",
+  "summary": "This is a fork of the original repo redis-py-entraid with support for azure-identity~=1.21.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vivi_redis_entraid-1.0.0.tar.gz",
+  "download_time": "2025-07-31T20:37:49.043881",
+  "package_url": "https://pypi.org/project/vivi-redis-entraid/"
+}
