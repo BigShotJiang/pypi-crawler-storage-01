@@ -1,0 +1,11 @@
+{
+  "name": "ovos-openai-plugin",
+  "version": "2.0.5",
+  "summary": "A question solver plugin for ovos",
+  "author": "jarbasai",
+  "license": "MIT",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-solver-plugin-openai-persona",
+  "download_filename": "ovos-openai-plugin-2.0.5.tar.gz",
+  "download_time": "2025-07-31T15:44:11.249470",
+  "package_url": "https://pypi.org/project/ovos-openai-plugin/"
+}

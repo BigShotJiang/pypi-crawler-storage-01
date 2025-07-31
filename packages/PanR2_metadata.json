@@ -1,11 +1,11 @@
 {
   "name": "PanR2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python tool for panresistome analysis",
   "author": "Tasnimul Arabi Anik",
   "license": null,
   "home_page": "https://github.com/Tasnimul-Arabi-Anik/PanR2",
-  "download_filename": "panr2-0.1.1.tar.gz",
-  "download_time": "2025-07-31T15:17:54.374130",
+  "download_filename": "panr2-0.1.2.tar.gz",
+  "download_time": "2025-07-31T15:44:20.497009",
   "package_url": "https://pypi.org/project/PanR2/"
 }

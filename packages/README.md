@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T15:18:11.054546
-- **Total Packages**: 84
-- **Total Size**: 60.57 MB
+- **Download Time**: 2025-07-31T15:44:56.701675
+- **Total Packages**: 75
+- **Total Size**: 29.62 MB
 
 ## Packages List
+- ovos-openai-plugin
+- arxiv-export-documents
+- coiled
+- ai-commiter
+- odoo-addon-l10n-es-aeat-mod390
+- alfen-eve-modbus-tcp
+- protegrity-developer-python
+- openfl-nightly
+- torchrl-nightly
+- qlip-algorithms
+- undine
+- rapidata
+- pandasai
+- GameSentenceMiner
+- PanR2
+- graph-games-proto
+- matrice
+- onetick-py
+- ida-domain
+- pyfault
+- aphie
+- analytics-sdk-disconnected-pod
+- odoo-addon-l10n-br-account-payment-order
+- sportsball
+- yaml-to-backend
+- django-sti-models
+- pyegeria
+- lupin-sw-ut-report
+- remotion-lambda
+- code-loader
+- worqhat
+- pycti
 - corrupt
 - fastavro
 - python-zatobox
@@ -25,8 +57,6 @@
 - py-gpmf-parser
 - colordove-auto
 - arthur-client
-- code-loader
-- pyfault
 - capellambse
 - spotify-youtube-migrator
 - teslapython
@@ -51,42 +81,3 @@
 - netpicker-netbox-plugin
 - agi-med-common
 - pulumi
-- django-secux
-- symbolic
-- phylofunc
-- ua-banktools
-- unique_sdk
-- prelude-cli
-- arelle-release
-- PanR2
-- bolt-api-sdk
-- smb-zfs
-- prelude-sdk
-- subtitle-tool
-- pytest-mergify
-- graphql-http-server
-- panopticml
-- dify_plugin
-- PGram
-- umlshapes
-- django-sti-models
-- ktoolbox
-- pm-studio-mcp
-- logsentinelai
-- vcs2l
-- sentry-sdk
-- tracarbon
-- plantstar-shared
-- acryl-executor
-- beyondtrust-bips-library
-- dbt_coves
-- canonicalwebteam.store-api
-- ece4078
-- m24842-ml
-- nonebot-plugin-abs
-- magnum-capi-helm
-- foldifyai
-- invenio-rdm-records
-- contextr
-- easy-requests
-- rero-invenio-files
