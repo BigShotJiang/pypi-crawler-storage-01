@@ -1,11 +1,11 @@
 {
   "name": "depictio-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Depictio CLI to interact with the Depictio API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "depictio_cli-0.2.0.tar.gz",
-  "download_time": "2025-07-29T15:54:47.274334",
+  "download_filename": "depictio_cli-0.2.1.tar.gz",
+  "download_time": "2025-07-31T14:57:54.148611",
   "package_url": "https://pypi.org/project/depictio-cli/"
 }

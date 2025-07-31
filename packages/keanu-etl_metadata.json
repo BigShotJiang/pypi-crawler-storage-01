@@ -1,0 +1,11 @@
+{
+  "name": "keanu-etl",
+  "version": "0.16.5",
+  "summary": "ETL runner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keanu_etl-0.16.5.tar.gz",
+  "download_time": "2025-07-31T14:57:57.765306",
+  "package_url": "https://pypi.org/project/keanu-etl/"
+}

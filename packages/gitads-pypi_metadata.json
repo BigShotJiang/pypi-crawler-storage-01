@@ -1,11 +1,11 @@
 {
   "name": "gitads-pypi",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A simple Hello World PyPI package",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/gitads-pypi",
-  "download_filename": "gitads_pypi-0.1.4.tar.gz",
-  "download_time": "2025-07-31T14:43:15.662526",
+  "download_filename": "gitads_pypi-0.1.5.tar.gz",
+  "download_time": "2025-07-31T14:58:04.547720",
   "package_url": "https://pypi.org/project/gitads-pypi/"
 }

@@ -1,16 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T14:43:29.472338
-- **Total Packages**: 71
-- **Total Size**: 42.88 MB
+- **Download Time**: 2025-07-31T14:58:24.997409
+- **Total Packages**: 86
+- **Total Size**: 27.22 MB
 
 ## Packages List
+- django-secux
+- claude-code-tools
+- ai-helper-agent
+- coiled
+- mantis-authz
+- panel-material-ui
+- neptune-fetcher
+- kailash-nexus
+- zennit
+- burplabs
+- kailash-dataflow
+- agi-med-common
+- scc-firewall-manager-sdk
+- lmstrix
+- drf-oauth2-tools
+- ajwt
+- synkit
+- django-sti-models
+- llmaix
+- odoo14-addon-l10n-br-nfse-focus
+- ome-zarr-models
+- pyekv
+- supervisely
+- platform-plugin-aspects
+- prelude-cli-beta
+- matrice
+- prelude-sdk-beta
+- goofi
+- kailash
+- depictio-cli
+- oc-dms-mirror
+- linuxnet-iptables
+- collective.techevent
+- modal
+- graph-games-proto
+- vonage
+- keanu-etl
+- openaleph-procrastinate
+- frinZ
+- udata-hydra
+- toucan-connectors
+- conehull
+- finbourne-horizon-sdk
+- fnl-aws-cdk
+- JornadaRPA.AgentAI
+- cslib
+- litellm
+- spikeinterface
+- gitads-pypi
+- baidu-serp-api
+- envrihub
+- php-framework-routes-to-openapi-converter
 - sunrise6g-opensdk
 - analytics-sdk-disconnected-pod
 - shaheenai
 - semantext
-- burplabs
 - dshellInterpreter
 - design.plone.contenttypes
 - roverlib
@@ -19,15 +70,12 @@
 - ai-commiter
 - tiled-export
 - multimodars
-- django-sti-models
 - specta
 - scipion-em-opusdsd
 - pycoreux
 - ARMBR
-- conehull
 - reaction-metrics-exporter
 - pyegeria
-- ai-helper-agent
 - gitopenlib
 - bronkhorstControlbm31
 - kerchunk
@@ -44,36 +92,3 @@
 - shinybroker
 - aioesphomeapi
 - html-to-exe
-- llmbrick
-- xautomata-hive
-- girder-plugin-worker
-- xn-auth
-- solanab-jup-python-sdk
-- modal
-- verahession
-- gitads-pypi
-- django-related-field-display
-- girder-import-tracker
-- cybrid-api-bank-python
-- cybrid-api-id-python
-- ediri-stackit
-- cybrid-api-organization-python
-- gala
-- xync-bot
-- thestage-elastic-models
-- scc-firewall-manager-sdk
-- remotivelabs-cli
-- wandelbots-api-client
-- ayleea
-- bpycv
-- nkululeko
-- swatoutpy
-- django-secux
-- frinZ
-- wowool-portal
-- openmairie.robotframework
-- sabctools
-- hexgrid-cube
-- pm-rank
-- coiled
-- physicell-settings

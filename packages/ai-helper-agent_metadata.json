@@ -1,11 +1,11 @@
 {
   "name": "ai-helper-agent",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Interactive AI Helper Agent for code assistance, analysis, and bug fixing with internet access",
   "author": "AIStudent",
   "license": null,
   "home_page": "https://github.com/AIMLDev726/ai-helper-agent",
-  "download_filename": "ai_helper_agent-1.1.0.tar.gz",
-  "download_time": "2025-07-31T14:43:02.620056",
+  "download_filename": "ai_helper_agent-1.1.1.tar.gz",
+  "download_time": "2025-07-31T14:57:39.059069",
   "package_url": "https://pypi.org/project/ai-helper-agent/"
 }

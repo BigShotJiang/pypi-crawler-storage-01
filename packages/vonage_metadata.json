@@ -1,0 +1,11 @@
+{
+  "name": "vonage",
+  "version": "4.5.2",
+  "summary": "Python Server SDK for using Vonage APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vonage-4.5.2.tar.gz",
+  "download_time": "2025-07-31T14:57:57.251969",
+  "package_url": "https://pypi.org/project/vonage/"
+}

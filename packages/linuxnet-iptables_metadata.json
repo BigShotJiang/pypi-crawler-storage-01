@@ -1,11 +1,11 @@
 {
   "name": "linuxnet-iptables",
-  "version": "7.6.3",
+  "version": "7.6.5",
   "summary": "programmatic access to Linux iptables",
   "author": "Panagiotis (Panos) Tsirigotis",
   "license": "AGPLv3",
   "home_page": "https://gitlab.com/panos-tools/linuxnet-iptables",
-  "download_filename": "linuxnet_iptables-7.6.3.tar.gz",
-  "download_time": "2025-07-31T04:12:36.046218",
+  "download_filename": "linuxnet_iptables-7.6.5.tar.gz",
+  "download_time": "2025-07-31T14:57:55.173864",
   "package_url": "https://pypi.org/project/linuxnet-iptables/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "php-framework-routes-to-openapi-converter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Convert PHP framework routes to OpenAPI 3.0 specifications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "php_framework_routes_to_openapi_converter-0.1.4.tar.gz",
-  "download_time": "2025-07-30T08:17:44.039695",
+  "download_filename": "php_framework_routes_to_openapi_converter-0.1.5.tar.gz",
+  "download_time": "2025-07-31T14:58:06.087599",
   "package_url": "https://pypi.org/project/php-framework-routes-to-openapi-converter/"
 }
