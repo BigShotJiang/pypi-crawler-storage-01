@@ -1,14 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-07-31T22:54:47.748867
-- **Total Packages**: 81
-- **Total Size**: 12.74 MB
+- **Download Time**: 2025-07-31T23:13:30.098951
+- **Total Packages**: 83
+- **Total Size**: 13.54 MB
 
 ## Packages List
+- aquiles-rag
+- sbmlnetwork
+- imap-data-access
+- FernetKeyVault
+- libsbmlnetwork
+- arthur-client
+- a2a-openai-agents
+- fireworks-ai
+- ecpet
+- cutflow-compare
+- mccole
+- fleet-python
+- flwr-nightly
+- sapiopycommons
+- setup-selenium-testing
+- raglight
+- langchain-coherence
+- chiper-x
+- damb
+- litestar-granian
+- daily-evapotranspiration-upscaling
+- yaapp
+- slimformers
+- umu-commander
+- desearch-py
+- eval-protocol
+- alertmanagermeshtastic
+- caioh-nvml-gpu-control
+- glazzbocks
+- coppersun-brass
+- run-vast
+- mnist-ae
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- omnata-plugin-runtime
+- pyqrack-cpu-complex128
+- pyqrack-cpu
+- pyqrack-complex128
+- pyqrack
+- ggx
+- jupyterlab-firefox-launcher
 - rivian-python-client
 - workos
-- yaapp
 - wherobots-python-dbapi
 - chuk-mcp-server
 - poke-engine-doubles
@@ -20,11 +60,9 @@
 - insurgentai-shared-utils
 - JornadaRPA.AgentAI
 - simile
-- ggx
 - openbench
 - altscore
 - pipecat-ai
-- jupyterlab-firefox-launcher
 - feldera
 - render50
 - moviebox-api
@@ -35,7 +73,6 @@
 - radboy
 - google-adk
 - mist-medical
-- ecpet
 - azure-monitor-opentelemetry-exporter
 - odf.sbe
 - quati-toolkit
@@ -52,38 +89,3 @@
 - fmriprep-docker
 - fmriprep
 - defopt-stubs
-- tmt
-- cosmos-dms
-- aind-clabe
-- ayeto
-- vllm-spyre
-- cybrid-api-id-python
-- cybrid-api-organization-python
-- cybrid-api-bank-python
-- lask
-- azure-table-utils
-- gensay
-- raglight
-- oeissequences
-- setup-selenium-testing
-- orso
-- robo_appian
-- policyengine-us
-- instrumentman
-- hapla
-- ssmdevices
-- restack_ai
-- qcengine
-- acryl-datahub-dagster-plugin
-- prefect-datahub
-- kuzu
-- sun-angles
-- acryl-datahub-actions
-- pulumi-alicloud
-- acryl-datahub-gx-plugin
-- acryl-datahub-airflow-plugin
-- acryl-datahub
-- cyseq
-- agent-eval
-- optimus-chem
-- muerte32crypt

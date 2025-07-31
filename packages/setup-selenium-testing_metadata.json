@@ -1,11 +1,11 @@
 {
   "name": "setup-selenium-testing",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Setup Selenium for automation testing",
   "author": "Marcel Wilson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "setup_selenium_testing-1.0.4.tar.gz",
-  "download_time": "2025-07-31T22:37:03.942995",
+  "download_filename": "setup_selenium_testing-1.0.5.tar.gz",
+  "download_time": "2025-07-31T23:12:54.285933",
   "package_url": "https://pypi.org/project/setup-selenium-testing/"
 }

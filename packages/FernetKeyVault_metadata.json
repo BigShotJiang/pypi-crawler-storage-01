@@ -1,0 +1,11 @@
+{
+  "name": "FernetKeyVault",
+  "version": "1.0.0",
+  "summary": "A simple Python SQLite3-based key-value storage vault",
+  "author": "Rajarajan Veerichetty",
+  "license": null,
+  "home_page": "https://github.com/kvcrajan/FernetKeyVault",
+  "download_filename": "fernetkeyvault-1.0.0.tar.gz",
+  "download_time": "2025-07-31T23:12:48.576506",
+  "package_url": "https://pypi.org/project/FernetKeyVault/"
+}

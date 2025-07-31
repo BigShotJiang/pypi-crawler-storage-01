@@ -1,0 +1,11 @@
+{
+  "name": "desearch-py",
+  "version": "1.0.9",
+  "summary": "A Python SDK for interacting with the Desearch API service.",
+  "author": "Desearch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "desearch_py-1.0.9.tar.gz",
+  "download_time": "2025-07-31T23:12:59.437438",
+  "package_url": "https://pypi.org/project/desearch-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aquiles-rag",
-  "version": "0.2.5.4",
+  "version": "0.2.6",
   "summary": "Aquiles-RAG is a high-performance Retrieval-Augmented Generation (RAG) solution built on Redis. It offers a high-level interface through FastAPI REST APIs",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "aquiles_rag-0.2.5.4.tar.gz",
-  "download_time": "2025-07-30T01:00:43.741644",
+  "download_filename": "aquiles_rag-0.2.6.tar.gz",
+  "download_time": "2025-07-31T23:12:47.027952",
   "package_url": "https://pypi.org/project/aquiles-rag/"
 }
