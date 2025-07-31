@@ -1,0 +1,11 @@
+{
+  "name": "discord-fetch",
+  "version": "0.0.11",
+  "summary": "Fetch message history from discord for LLMs",
+  "author": "Hamel Husain",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/hamelsmu/discord_fetch",
+  "download_filename": "discord_fetch-0.0.11.tar.gz",
+  "download_time": "2025-07-31T06:19:27.833461",
+  "package_url": "https://pypi.org/project/discord-fetch/"
+}

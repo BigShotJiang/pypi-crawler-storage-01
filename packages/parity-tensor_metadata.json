@@ -1,11 +1,11 @@
 {
   "name": "parity-tensor",
-  "version": "0.0.1a10",
+  "version": "0.0.1a14",
   "summary": "A parity tensor package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parity_tensor-0.0.1a10.tar.gz",
-  "download_time": "2025-07-30T17:23:32.093466",
+  "download_filename": "parity_tensor-0.0.1a14.tar.gz",
+  "download_time": "2025-07-31T06:19:33.425901",
   "package_url": "https://pypi.org/project/parity-tensor/"
 }

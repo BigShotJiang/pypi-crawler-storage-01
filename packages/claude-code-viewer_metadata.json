@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-viewer",
+  "version": "1.1.0",
+  "summary": "Beautiful web viewer for Claude Code conversation history",
+  "author": "Claude Code Community",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/desis123/claude-code-viewer",
+  "download_filename": "claude_code_viewer-1.1.0.tar.gz",
+  "download_time": "2025-07-31T06:19:36.891998",
+  "package_url": "https://pypi.org/project/claude-code-viewer/"
+}

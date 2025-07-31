@@ -1,0 +1,11 @@
+{
+  "name": "TextArena",
+  "version": "0.7.3",
+  "summary": "A Collection of Competitive Text-Based Games for Language Model Evaluation and Reinforcement Learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textarena-0.7.3.tar.gz",
+  "download_time": "2025-07-31T06:19:48.916990",
+  "package_url": "https://pypi.org/project/TextArena/"
+}
