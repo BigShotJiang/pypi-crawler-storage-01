@@ -1,0 +1,11 @@
+{
+  "name": "cemirutils",
+  "version": "2.2.4",
+  "summary": "Pythona yeni başlayanlar ve zaten kullananların yaptıkları işlerde vakit kazanmasını sağlayacak fonksiyon, metod, kütüphane ve dekoratörler...",
+  "author": "Cem Emir Yüksektepe / Muslu Yüksektepe (musluyuksektepe@gmail.com)",
+  "license": null,
+  "home_page": "https://github.com/cememir/cemirutils",
+  "download_filename": "cemirutils-2.2.4.tar.gz",
+  "download_time": "2025-07-31T19:42:15.026726",
+  "package_url": "https://pypi.org/project/cemirutils/"
+}

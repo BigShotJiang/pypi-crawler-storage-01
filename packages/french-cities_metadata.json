@@ -1,0 +1,11 @@
+{
+  "name": "french-cities",
+  "version": "1.1.4",
+  "summary": "Toolbox on french cities: set vintage, find departments, find cities...",
+  "author": "thomas.grandjean",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/tgrandje/french-cities/",
+  "download_filename": "french_cities-1.1.4.tar.gz",
+  "download_time": "2025-07-31T19:41:40.031004",
+  "package_url": "https://pypi.org/project/french-cities/"
+}

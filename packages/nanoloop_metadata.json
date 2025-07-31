@@ -1,0 +1,11 @@
+{
+  "name": "nanoloop",
+  "version": "0.3.2",
+  "summary": "Utility tool for detecting R-loops with Nanopore data",
+  "author": "hukai916",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanoloop-0.3.2.tar.gz",
+  "download_time": "2025-07-31T19:41:50.074225",
+  "package_url": "https://pypi.org/project/nanoloop/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prefect-cloud",
+  "version": "0.1.7",
+  "summary": "Package for easily deploying to Prefect Cloud.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prefect_cloud-0.1.7.tar.gz",
+  "download_time": "2025-07-31T19:42:16.897105",
+  "package_url": "https://pypi.org/project/prefect-cloud/"
+}

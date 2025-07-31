@@ -1,0 +1,11 @@
+{
+  "name": "generichelpers",
+  "version": "1.4",
+  "summary": "Generic Helper Modules",
+  "author": "Ratnadip Adhikari",
+  "license": null,
+  "home_page": "https://gitlab.com/adhikari.ratan/generic-helpers.git",
+  "download_filename": "generichelpers-1.4.tar.gz",
+  "download_time": "2025-07-31T19:41:32.463633",
+  "package_url": "https://pypi.org/project/generichelpers/"
+}
