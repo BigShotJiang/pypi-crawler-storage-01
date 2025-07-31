@@ -1,0 +1,11 @@
+{
+  "name": "dymachandran",
+  "version": "0.0.2",
+  "summary": "ramachandran plotter for molecular dynamics",
+  "author": "Nata Nobre",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "home_page": null,
+  "download_filename": "dymachandran-0.0.2.tar.gz",
+  "download_time": "2025-07-31T22:36:48.488727",
+  "package_url": "https://pypi.org/project/dymachandran/"
+}

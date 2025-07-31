@@ -1,0 +1,11 @@
+{
+  "name": "lucidx",
+  "version": "1.0.4",
+  "summary": "AI-powered image synthesis engine using Stability AI API",
+  "author": "Alex Butler [Vritra Security Organization]",
+  "license": "MIT",
+  "home_page": "https://github.com/VritraSecz/LucidX",
+  "download_filename": "lucidx-1.0.4.tar.gz",
+  "download_time": "2025-07-31T22:37:18.245675",
+  "package_url": "https://pypi.org/project/lucidx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "optimus-chem",
+  "version": "1.0.0",
+  "summary": "Comprehensive Chemical Analysis Package for Drug Discovery",
+  "author": "Pritam Kumar Panda",
+  "license": null,
+  "home_page": "https://github.com/pritampanda15/Optimus_Chemical_Analyzer",
+  "download_filename": "optimus_chem-1.0.0.tar.gz",
+  "download_time": "2025-07-31T22:37:15.593365",
+  "package_url": "https://pypi.org/project/optimus-chem/"
+}
