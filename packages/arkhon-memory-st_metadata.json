@@ -1,11 +1,11 @@
 {
   "name": "arkhon-memory-st",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SillyTavern bridge for Arkhon memory",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "arkhon_memory_st-0.1.0.tar.gz",
-  "download_time": "2025-07-31T12:22:57.732502",
+  "download_filename": "arkhon_memory_st-0.1.1.tar.gz",
+  "download_time": "2025-07-31T13:51:36.005418",
   "package_url": "https://pypi.org/project/arkhon-memory-st/"
 }

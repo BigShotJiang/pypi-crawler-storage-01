@@ -1,11 +1,11 @@
 {
   "name": "passagemath-sws2rst",
-  "version": "10.5.48",
+  "version": "10.6.1",
   "summary": "passagemath: SageNB worksheet converter",
   "author": null,
   "license": "GNU General Public License (GPL) v3 or later",
   "home_page": null,
-  "download_filename": "passagemath_sws2rst-10.5.48.tar.gz",
-  "download_time": "2025-07-29T16:15:08.676367",
+  "download_filename": "passagemath_sws2rst-10.6.1.tar.gz",
+  "download_time": "2025-07-31T13:51:39.096039",
   "package_url": "https://pypi.org/project/passagemath-sws2rst/"
 }

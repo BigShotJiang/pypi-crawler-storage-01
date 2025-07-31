@@ -1,11 +1,11 @@
 {
   "name": "glgrpa",
-  "version": "0.0.80",
+  "version": "0.0.85",
   "summary": "Librería para automatización de tareas en RPA dentro de Grupo Los Grobo",
   "author": "Bellome, Gabriel <gabriel.bellome@losgrobo.com>",
   "license": null,
   "home_page": "https://GrupoLosGrobo@dev.azure.com/GrupoLosGrobo/GrupoLosGrobo%20RPA/_git/GrupoLosGrobo%20RPA",
-  "download_filename": "glgrpa-0.0.80.tar.gz",
-  "download_time": "2025-07-29T17:54:09.226522",
+  "download_filename": "glgrpa-0.0.85.tar.gz",
+  "download_time": "2025-07-31T13:51:18.405297",
   "package_url": "https://pypi.org/project/glgrpa/"
 }

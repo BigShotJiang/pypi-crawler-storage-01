@@ -1,11 +1,11 @@
 {
   "name": "passagemath-qepcad",
-  "version": "10.5.48",
+  "version": "10.6.1",
   "summary": "passagemath: Quantifier elimination by partial cylindrical algebraic decomposition with QEPCAD",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_qepcad-10.5.48.tar.gz",
-  "download_time": "2025-07-29T16:14:48.824455",
+  "download_filename": "passagemath_qepcad-10.6.1.tar.gz",
+  "download_time": "2025-07-31T13:51:11.747642",
   "package_url": "https://pypi.org/project/passagemath-qepcad/"
 }

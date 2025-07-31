@@ -1,11 +1,11 @@
 {
   "name": "name2gender",
-  "version": "0.0.2a0",
-  "summary": "From names in multiple languages to gender.",
+  "version": "0.0.4a0",
+  "summary": "From names in multiple languages to genders.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "name2gender-0.0.2a0.tar.gz",
-  "download_time": "2025-07-31T07:43:37.738716",
+  "download_filename": "name2gender-0.0.4a0.tar.gz",
+  "download_time": "2025-07-31T13:51:11.080393",
   "package_url": "https://pypi.org/project/name2gender/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gcp-platforms-auto",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "A brief description of your package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gcp_platforms_auto-0.6.1.tar.gz",
-  "download_time": "2025-07-30T13:12:29.557344",
+  "download_filename": "gcp_platforms_auto-0.6.3.tar.gz",
+  "download_time": "2025-07-31T13:50:57.499664",
   "package_url": "https://pypi.org/project/gcp-platforms-auto/"
 }

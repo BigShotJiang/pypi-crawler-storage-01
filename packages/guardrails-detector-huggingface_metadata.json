@@ -1,0 +1,11 @@
+{
+  "name": "guardrails-detector-huggingface",
+  "version": "0.1.1",
+  "summary": "Huggingface detector implementation for guardrails",
+  "author": "TrustyAI team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "guardrails_detector_huggingface-0.1.1.tar.gz",
+  "download_time": "2025-07-31T13:51:12.396937",
+  "package_url": "https://pypi.org/project/guardrails-detector-huggingface/"
+}

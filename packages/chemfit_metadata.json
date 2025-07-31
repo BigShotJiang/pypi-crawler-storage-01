@@ -1,0 +1,11 @@
+{
+  "name": "chemfit",
+  "version": "2.3.0",
+  "summary": "A package to support fitting the parameters potentials described by an ASE calculator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemfit-2.3.0-py3-none-any.whl",
+  "download_time": "2025-07-31T13:50:46.299095",
+  "package_url": "https://pypi.org/project/chemfit/"
+}
