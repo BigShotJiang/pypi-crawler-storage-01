@@ -1,11 +1,11 @@
 {
   "name": "shopify-data-platform-spark",
-  "version": "1.99.99",
-  "summary": "python utils for spark",
+  "version": "1.99.100",
+  "summary": "python utils for shop spark",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shopify_data_platform_spark-1.99.99.tar.gz",
-  "download_time": "2025-07-31T20:14:53.434055",
+  "download_filename": "shopify_data_platform_spark-1.99.100.tar.gz",
+  "download_time": "2025-07-31T20:54:43.041053",
   "package_url": "https://pypi.org/project/shopify-data-platform-spark/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "layeutils",
-  "version": "0.2.51",
+  "version": "0.2.52",
   "summary": "Private Utils",
   "author": "LayeWang",
   "license": null,
   "home_page": null,
-  "download_filename": "layeutils-0.2.51.tar.gz",
-  "download_time": "2025-07-30T21:50:55.758728",
+  "download_filename": "layeutils-0.2.52.tar.gz",
+  "download_time": "2025-07-31T20:54:25.712422",
   "package_url": "https://pypi.org/project/layeutils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ggx",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "API for GoodGame Empire",
   "author": "mst4ck",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ggx-0.2.8.tar.gz",
-  "download_time": "2025-07-31T20:15:18.623533",
+  "download_filename": "ggx-0.2.9.tar.gz",
+  "download_time": "2025-07-31T20:54:21.516355",
   "package_url": "https://pypi.org/project/ggx/"
 }

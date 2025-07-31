@@ -1,0 +1,11 @@
+{
+  "name": "claude-openrouter-tool",
+  "version": "0.1.0",
+  "summary": "A tool to manage OpenRouter integration with Claude Code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_openrouter_tool-0.1.0.tar.gz",
+  "download_time": "2025-07-31T20:54:35.618764",
+  "package_url": "https://pypi.org/project/claude-openrouter-tool/"
+}

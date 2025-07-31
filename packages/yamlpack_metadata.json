@@ -1,0 +1,11 @@
+{
+  "name": "yamlpack",
+  "version": "0.2.1",
+  "summary": "Package boilerplate creator using YAML schemas",
+  "author": "Colin Simon-Fellowes",
+  "license": null,
+  "home_page": "https://github.com/clntsf/yamlpack",
+  "download_filename": "yamlpack-0.2.1.tar.gz",
+  "download_time": "2025-07-31T20:54:53.976543",
+  "package_url": "https://pypi.org/project/yamlpack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "reer-rhino-mcp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Rhino MCP Server",
   "author": "REER Rhino MCP Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reer_rhino_mcp-0.1.9.tar.gz",
-  "download_time": "2025-07-31T19:49:23.546009",
+  "download_filename": "reer_rhino_mcp-0.1.10.tar.gz",
+  "download_time": "2025-07-31T20:54:55.014354",
   "package_url": "https://pypi.org/project/reer-rhino-mcp/"
 }

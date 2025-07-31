@@ -1,0 +1,11 @@
+{
+  "name": "imodelsx",
+  "version": "1.0.10",
+  "summary": "Library to explain a dataset in natural language.",
+  "author": "Chandan Singh, John X. Morris, Armin Askari, Divyanshu Aggarwal, Aliyah Hsu, Yuntian Deng",
+  "license": null,
+  "home_page": "https://github.com/csinva/imodelsX",
+  "download_filename": "imodelsx-1.0.10.tar.gz",
+  "download_time": "2025-07-31T20:54:24.155030",
+  "package_url": "https://pypi.org/project/imodelsx/"
+}

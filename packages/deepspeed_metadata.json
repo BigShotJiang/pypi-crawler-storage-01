@@ -1,0 +1,11 @@
+{
+  "name": "deepspeed",
+  "version": "0.17.4",
+  "summary": "DeepSpeed library",
+  "author": "DeepSpeed Team",
+  "license": "Apache Software License 2.0",
+  "home_page": "http://deepspeed.ai",
+  "download_filename": "deepspeed-0.17.4.tar.gz",
+  "download_time": "2025-07-31T20:54:16.258908",
+  "package_url": "https://pypi.org/project/deepspeed/"
+}

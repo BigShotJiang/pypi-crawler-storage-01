@@ -1,0 +1,11 @@
+{
+  "name": "CoverUp",
+  "version": "0.6.3",
+  "summary": "LLM-powered test coverage improver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coverup-0.6.3.tar.gz",
+  "download_time": "2025-07-31T20:54:18.349801",
+  "package_url": "https://pypi.org/project/CoverUp/"
+}
