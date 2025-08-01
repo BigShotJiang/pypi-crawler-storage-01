@@ -1,11 +1,11 @@
 {
   "name": "moderatelyai-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python SDK for Moderately AI platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moderatelyai_sdk-0.2.0.tar.gz",
-  "download_time": "2025-07-31T21:33:16.650213",
+  "download_filename": "moderatelyai_sdk-0.2.1.tar.gz",
+  "download_time": "2025-08-01T16:48:11.976266",
   "package_url": "https://pypi.org/project/moderatelyai-sdk/"
 }

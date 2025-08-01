@@ -1,11 +1,11 @@
 {
   "name": "beyonddesk-grpc-protocols",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "gRPC protocol definitions for BeyondDesk backend services",
   "author": "Maruthi",
   "license": "MIT",
   "home_page": "https://github.com/beyond-desk/beyonddesk-grpc-protocols",
-  "download_filename": "beyonddesk_grpc_protocols-0.1.4.tar.gz",
-  "download_time": "2025-08-01T15:54:22.727466",
+  "download_filename": "beyonddesk_grpc_protocols-0.1.5.tar.gz",
+  "download_time": "2025-08-01T16:48:18.765515",
   "package_url": "https://pypi.org/project/beyonddesk-grpc-protocols/"
 }

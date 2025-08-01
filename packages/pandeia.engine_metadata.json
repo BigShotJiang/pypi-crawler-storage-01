@@ -1,0 +1,11 @@
+{
+  "name": "pandeia.engine",
+  "version": "2025.7",
+  "summary": "Pandeia 3D Exposure Time Calculator compute engine",
+  "author": "Adric Riedel, Isaac Spitzer, Dharini Chittiraibalan, Chris Sontag, Oi In Tam, Ivo Busko, Craig Jones, Tim Pickering, Klaus Pontoppidan",
+  "license": null,
+  "home_page": "https://jwst.etc.stsci.edu",
+  "download_filename": "pandeia_engine-2025.7-py3-none-any.whl",
+  "download_time": "2025-08-01T16:48:03.223083",
+  "package_url": "https://pypi.org/project/pandeia.engine/"
+}

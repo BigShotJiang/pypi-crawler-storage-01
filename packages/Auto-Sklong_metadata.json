@@ -1,11 +1,11 @@
 {
   "name": "Auto-Sklong",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A package for automated machine learning based on scikit-learn and sklong to tackle the longitudinal machine learning classification tasks.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auto_sklong-0.0.8.tar.gz",
-  "download_time": "2025-08-01T11:15:00.481953",
+  "download_filename": "auto_sklong-0.0.9.tar.gz",
+  "download_time": "2025-08-01T16:47:59.878408",
   "package_url": "https://pypi.org/project/Auto-Sklong/"
 }

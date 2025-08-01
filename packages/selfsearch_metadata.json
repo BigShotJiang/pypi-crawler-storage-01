@@ -1,0 +1,11 @@
+{
+  "name": "selfsearch",
+  "version": "0.1.0",
+  "summary": "First step in AI alignment",
+  "author": "AndrewMpapalika",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "selfsearch-0.1.0.tar.gz",
+  "download_time": "2025-08-01T16:48:15.533399",
+  "package_url": "https://pypi.org/project/selfsearch/"
+}

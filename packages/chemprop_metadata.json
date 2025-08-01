@@ -1,0 +1,11 @@
+{
+  "name": "chemprop",
+  "version": "2.2.1",
+  "summary": "Molecular Property Prediction with Message Passing Neural Networks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chemprop-2.2.1.tar.gz",
+  "download_time": "2025-08-01T16:48:21.408868",
+  "package_url": "https://pypi.org/project/chemprop/"
+}
