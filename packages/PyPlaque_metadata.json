@@ -1,0 +1,11 @@
+{
+  "name": "PyPlaque",
+  "version": "0.2.2",
+  "summary": "Python package for virus plaque analysis based on Plaque2.0",
+  "author": "Plaque2.0 Team, AILS Institute, CASUS HZDR",
+  "license": "GPLv3",
+  "home_page": "https://github.com/plaque2/PyPlaque",
+  "download_filename": "pyplaque-0.2.2.tar.gz",
+  "download_time": "2025-08-01T15:14:30.470300",
+  "package_url": "https://pypi.org/project/PyPlaque/"
+}

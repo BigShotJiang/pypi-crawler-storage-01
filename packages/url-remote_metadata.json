@@ -1,11 +1,11 @@
 {
   "name": "url-remote",
-  "version": "0.0.123",
+  "version": "0.0.124",
   "summary": null,
   "author": "Circles",
   "license": null,
   "home_page": "https://github.com/circles-zone/url-remote-python-package",
-  "download_filename": "url_remote-0.0.123.tar.gz",
-  "download_time": "2025-08-01T08:18:12.049014",
+  "download_filename": "url_remote-0.0.124.tar.gz",
+  "download_time": "2025-08-01T15:14:36.955453",
   "package_url": "https://pypi.org/project/url-remote/"
 }

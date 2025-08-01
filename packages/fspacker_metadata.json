@@ -1,11 +1,11 @@
 {
   "name": "fspacker",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "summary": "Fast & Simple Packer toolset for python.",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "fspacker-0.9.9.tar.gz",
-  "download_time": "2025-08-01T14:56:36.662403",
+  "download_filename": "fspacker-0.9.10.tar.gz",
+  "download_time": "2025-08-01T15:14:39.480096",
   "package_url": "https://pypi.org/project/fspacker/"
 }

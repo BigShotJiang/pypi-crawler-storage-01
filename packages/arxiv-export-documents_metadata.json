@@ -1,11 +1,11 @@
 {
   "name": "arxiv-export-documents",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Export arxiv papers to pdf formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arxiv_export_documents-0.1.6.tar.gz",
-  "download_time": "2025-08-01T14:42:44.192885",
+  "download_filename": "arxiv_export_documents-0.1.7.tar.gz",
+  "download_time": "2025-08-01T15:15:05.697564",
   "package_url": "https://pypi.org/project/arxiv-export-documents/"
 }

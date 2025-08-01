@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T14:57:03.331975
+- **Download Time**: 2025-08-01T15:15:17.777411
 - **Total Packages**: 86
-- **Total Size**: 21.5 MB
+- **Total Size**: 14.51 MB
 
 ## Packages List
+- ttfautohint-py
+- geoml-kit
+- tmnsokol727272
+- ServerGit
+- pio-concurrent
+- nonebot-plugin-botoffline-email
+- finbourne-access-sdk
+- PyPlaque
+- agentex-sdk
+- beeai-framework
+- dapytains
+- common-util-py
+- pynanomodem
+- diffsynth-engine
+- matrice
+- tinyshare
+- ezscore
+- url-remote
+- pyfabricops
+- fspacker
+- music-dragon
+- authly
+- tterp-cores
 - C2H5OH
 - dataproc-spark-connect
 - jarvis-ai-assistant
@@ -23,12 +46,9 @@
 - deep-utils
 - aes-dfa
 - pip_and_pip_tools
-- supersafereverse
-- matrice
 - wandelbots-api-client
 - m24842-ml
 - avocavo
-- nonebot-plugin-botoffline-email
 - yardstick
 - mem0-embeddings-litellm-patch
 - snakestack
@@ -43,10 +63,8 @@
 - kernels
 - CTkScrollableDropdownPP
 - localstack-extension-tailscale
-- fspacker
 - genlm-control
 - modal
-- tmnsokol727272
 - cosmoGW
 - ragflow-sdk
 - dao-ai
@@ -74,21 +92,3 @@
 - microimpute
 - queus
 - rolfedh-doc-utils
-- deadline-cloud-for-houdini
-- python-mommy-venv
-- scepreq
-- edc-appointment-app
-- compressed-image
-- frinZrs
-- drk-odoo-mcp-server
-- py-jama-client
-- localstack-core
-- ailist
-- amsdal_cli
-- vacancycalculator
-- SANDI
-- zuffy
-- shotstars
-- Things3-MCP-server
-- openaivec
-- ctxinject
