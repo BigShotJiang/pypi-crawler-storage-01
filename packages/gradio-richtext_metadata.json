@@ -1,11 +1,11 @@
 {
   "name": "gradio-richtext",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python library for easily interacting with trained machine learning models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_richtext-0.0.3.tar.gz",
-  "download_time": "2025-07-30T22:42:30.306247",
+  "download_filename": "gradio_richtext-0.0.4.tar.gz",
+  "download_time": "2025-08-01T17:16:05.389809",
   "package_url": "https://pypi.org/project/gradio-richtext/"
 }

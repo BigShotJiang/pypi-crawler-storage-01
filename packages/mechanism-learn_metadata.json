@@ -1,0 +1,11 @@
+{
+  "name": "mechanism-learn",
+  "version": "2.2.0",
+  "summary": "Mechanism-learn is a simple method to deconfound observational data such that any appropriate machine learning model is forced to learn predictive relationships between effects and their causes, despite the potential presence of multiple unknown and unmeasured confounding. The library is compatible with most existing ML deployments. The library is compatible with most existing ML deployments such as models built with Scikit-learn and Keras.",
+  "author": "Jianqiao Mao",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JianqiaoMao/mechanism-learn",
+  "download_filename": "mechanism-learn-2.2.0.tar.gz",
+  "download_time": "2025-08-01T17:16:22.634881",
+  "package_url": "https://pypi.org/project/mechanism-learn/"
+}

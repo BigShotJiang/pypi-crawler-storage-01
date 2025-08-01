@@ -1,0 +1,11 @@
+{
+  "name": "whisperlivekit",
+  "version": "0.2.3",
+  "summary": "Real-time, Fully Local Whisper's Speech-to-Text and Speaker Diarization",
+  "author": "Quentin Fuxa",
+  "license": null,
+  "home_page": "https://github.com/QuentinFuxa/WhisperLiveKit",
+  "download_filename": "whisperlivekit-0.2.3.tar.gz",
+  "download_time": "2025-08-01T17:16:21.599221",
+  "package_url": "https://pypi.org/project/whisperlivekit/"
+}

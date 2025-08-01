@@ -1,0 +1,11 @@
+{
+  "name": "geopops",
+  "version": "0.0.2",
+  "summary": "GeoPops testing",
+  "author": "Alisa Hamilton",
+  "license": null,
+  "home_page": "https://github.com/ACCIDDA/GeoPops",
+  "download_filename": "geopops-0.0.2.tar.gz",
+  "download_time": "2025-08-01T17:16:32.585090",
+  "package_url": "https://pypi.org/project/geopops/"
+}

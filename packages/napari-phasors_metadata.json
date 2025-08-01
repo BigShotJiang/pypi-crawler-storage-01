@@ -1,0 +1,11 @@
+{
+  "name": "napari-phasors",
+  "version": "0.0.5",
+  "summary": "A simple plugin to use phasor analysis",
+  "author": "Bruno Pannunzio, Marcelo L. Zoccoler, Bruno Schuty, Leonel Malacrida",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/napari-phasors/napari-phasors",
+  "download_filename": "napari_phasors-0.0.5.tar.gz",
+  "download_time": "2025-08-01T17:16:05.907424",
+  "package_url": "https://pypi.org/project/napari-phasors/"
+}
