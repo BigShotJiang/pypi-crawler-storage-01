@@ -1,11 +1,11 @@
 {
   "name": "doxs",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Documetatio from annotations",
   "author": "Ivan Ogasawara",
   "license": "BSD 3 Clause",
   "home_page": null,
-  "download_filename": "doxs-0.4.0.tar.gz",
-  "download_time": "2025-08-01T22:54:22.185654",
+  "download_filename": "doxs-0.5.0.tar.gz",
+  "download_time": "2025-08-01T23:51:52.777912",
   "package_url": "https://pypi.org/project/doxs/"
 }

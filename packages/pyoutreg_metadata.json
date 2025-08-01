@@ -1,0 +1,11 @@
+{
+  "name": "pyoutreg",
+  "version": "0.1.0",
+  "summary": "A Python implementation of Stata's outreg2 for exporting regression results",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoutreg-0.1.0.tar.gz",
+  "download_time": "2025-08-01T23:51:37.577624",
+  "package_url": "https://pypi.org/project/pyoutreg/"
+}

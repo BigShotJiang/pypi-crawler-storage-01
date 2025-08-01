@@ -1,0 +1,11 @@
+{
+  "name": "CTkFileDialog",
+  "version": "0.2.0",
+  "summary": "Un diálogo de archivos personalizado para CTk",
+  "author": "Tu nombre",
+  "license": null,
+  "home_page": "https://github.com/FlickGMD/CTkFileDialog",
+  "download_filename": "ctkfiledialog-0.2.0.tar.gz",
+  "download_time": "2025-08-01T23:51:33.832847",
+  "package_url": "https://pypi.org/project/CTkFileDialog/"
+}

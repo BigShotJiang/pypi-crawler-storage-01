@@ -1,11 +1,11 @@
 {
   "name": "kmisc",
-  "version": "2.1.125",
+  "version": "2.1.127",
   "summary": "Enginering useful library",
   "author": "Kage Park",
   "license": "MIT",
   "home_page": "https://github.com/kagepark/kmisc",
-  "download_filename": "kmisc-2.1.125.tar.gz",
-  "download_time": "2025-08-01T23:33:24.859119",
+  "download_filename": "kmisc-2.1.127.tar.gz",
+  "download_time": "2025-08-01T23:51:37.064366",
   "package_url": "https://pypi.org/project/kmisc/"
 }

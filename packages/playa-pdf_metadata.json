@@ -1,11 +1,11 @@
 {
   "name": "playa-pdf",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "Parallel and LazY Analyzer for PDFs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "playa_pdf-0.6.5.tar.gz",
-  "download_time": "2025-08-01T16:48:04.410207",
+  "download_filename": "playa_pdf-0.6.6.tar.gz",
+  "download_time": "2025-08-01T23:51:56.905614",
   "package_url": "https://pypi.org/project/playa-pdf/"
 }
