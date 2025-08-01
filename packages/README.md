@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T21:51:47.328178
-- **Total Packages**: 78
-- **Total Size**: 16.22 MB
+- **Download Time**: 2025-08-01T22:13:44.538244
+- **Total Packages**: 69
+- **Total Size**: 34.94 MB
 
 ## Packages List
+- zenmav
+- clselove
+- spyndex
+- xtalx
+- regula-documentreader-webclient
+- browser-copilot
+- pipedream
+- deezspot-spotizerr
+- mcp-this-openapi
+- polyfeatures
+- ai-parrot
+- structifyai
+- policyengine-us
+- pyluwen
+- tecton-runtime
+- tecton
+- lirayspy
+- sun-angles
+- unit-of-time
+- dayhoff-tools
+- pystatar
+- oorb-cli
+- coinbase-agentkit-strands-agents
+- pyspark-pi
+- zha-quirks
+- openwisp-controller
+- eucal
+- chalkpy
+- flooder
+- iugu-python-sdk
+- candyfloss
+- mojiza
+- nrel.routee.compass
+- yta-video-manim
+- ambivo-mcp-server
+- celai
+- efax
+- databricks-labs-lakebridge
+- gcache
+- inference-sdk
+- uprock-sdk
+- inference-gpu
+- inference-cpu
+- inference-core
+- inference-cli
+- inference
+- spatialstudio
+- pyspark-data-sources
+- girder-plugin-worker
+- regscale-cli
+- hiten
+- datamint
 - girder-import-tracker
 - solar-apparent-time
 - pyredis-om
@@ -19,68 +71,7 @@
 - pycync
 - mura
 - koreo-core
-- pystatar
-- efax
 - rl-blox
 - pyEdge-package-name-reservation-1
 - sapiopycommons
 - tjax
-- trytond-account-stock-eu
-- cantools
-- ouroboros-gis
-- pbi-pyadomd
-- trytond-carrier-weight
-- aws-solutions-constructs.resources
-- aws-solutions-constructs.core
-- aws-solutions-constructs.aws-wafwebacl-cloudfront
-- aws-solutions-constructs.aws-wafwebacl-appsync
-- aws-solutions-constructs.aws-wafwebacl-apigateway
-- aws-solutions-constructs.aws-wafwebacl-alb
-- aws-solutions-constructs.aws-sqs-pipes-stepfunctions
-- aws-solutions-constructs.aws-sqs-lambda
-- aws-solutions-constructs.aws-sns-sqs
-- aws-solutions-constructs.aws-sns-lambda
-- aws-solutions-constructs.aws-s3-stepfunctions
-- aws-solutions-constructs.aws-s3-sqs
-- aws-solutions-constructs.aws-s3-sns
-- aws-solutions-constructs.aws-s3-lambda
-- aws-solutions-constructs.aws-route53-apigateway
-- aws-solutions-constructs.aws-route53-alb
-- aws-solutions-constructs.aws-openapigateway-lambda
-- aws-solutions-constructs.aws-lambda-stepfunctions
-- aws-solutions-constructs.aws-lambda-ssmstringparameter
-- aws-solutions-constructs.aws-lambda-sqs-lambda
-- aws-solutions-constructs.aws-lambda-sqs
-- aws-solutions-constructs.aws-lambda-sns
-- aws-solutions-constructs.aws-lambda-secretsmanager
-- aws-solutions-constructs.aws-lambda-sagemakerendpoint
-- aws-solutions-constructs.aws-lambda-s3
-- aws-solutions-constructs.aws-lambda-opensearch
-- aws-solutions-constructs.aws-lambda-kinesisfirehose
-- aws-solutions-constructs.aws-lambda-kinesis-streams
-- aws-solutions-constructs.aws-lambda-kendra
-- aws-solutions-constructs.aws-lambda-eventbridge
-- aws-solutions-constructs.aws-lambda-elasticsearch-kibana
-- aws-solutions-constructs.aws-lambda-elasticachememcached
-- aws-solutions-constructs.aws-lambda-dynamodb
-- aws-solutions-constructs.aws-lambda-bedrockinferenceprofile
-- aws-solutions-constructs.aws-kinesis-streams-lambda
-- aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3
-- aws-solutions-constructs.aws-kinesis-streams-gluejob
-- aws-solutions-constructs.aws-kinesis-firehose-s3
-- aws-solutions-constructs.aws-iot-sqs
-- aws-solutions-constructs.aws-iot-s3
-- aws-solutions-constructs.aws-iot-lambda-dynamodb
-- aws-solutions-constructs.aws-iot-lambda
-- aws-solutions-constructs.aws-iot-kinesisstreams
-- aws-solutions-constructs.aws-iot-kinesisfirehose-s3
-- aws-solutions-constructs.aws-fargate-stepfunctions
-- aws-solutions-constructs.aws-fargate-ssmstringparameter
-- aws-solutions-constructs.aws-fargate-sqs
-- aws-solutions-constructs.aws-fargate-sns
-- aws-solutions-constructs.aws-fargate-secretsmanager
-- trytond-web-shop-shopify
-- aws-solutions-constructs.aws-fargate-s3
-- aws-solutions-constructs.aws-fargate-opensearch
-- aws-solutions-constructs.aws-fargate-kinesisstreams
-- aws-solutions-constructs.aws-fargate-kinesisfirehose

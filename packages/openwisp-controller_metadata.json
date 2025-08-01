@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-controller",
+  "version": "1.1.2",
+  "summary": "OpenWISP Controller",
+  "author": "OpenWISP",
+  "license": "GPL3",
+  "home_page": "http://openwisp.org",
+  "download_filename": "openwisp_controller-1.1.2.tar.gz",
+  "download_time": "2025-08-01T22:13:20.626906",
+  "package_url": "https://pypi.org/project/openwisp-controller/"
+}
