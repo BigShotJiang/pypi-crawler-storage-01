@@ -1,11 +1,11 @@
 {
   "name": "alethic-ism-core",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "summary": "Alethic Instruction-Based State Machine (Core Python SDK)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alethic_ism_core-1.0.18.tar.gz",
-  "download_time": "2025-07-31T18:21:58.257362",
+  "download_filename": "alethic_ism_core-1.0.19.tar.gz",
+  "download_time": "2025-08-01T07:45:56.869708",
   "package_url": "https://pypi.org/project/alethic-ism-core/"
 }

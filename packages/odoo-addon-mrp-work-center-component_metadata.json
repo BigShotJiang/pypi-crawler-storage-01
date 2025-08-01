@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-work-center-component",
+  "version": "17.0.1.0.0.2",
+  "summary": "Add a Components tab in Work Center form to define needed products and quantities.",
+  "author": "Sygel",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-manufacture",
+  "download_filename": "odoo_addon_mrp_work_center_component-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-01T07:45:55.734220",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-work-center-component/"
+}

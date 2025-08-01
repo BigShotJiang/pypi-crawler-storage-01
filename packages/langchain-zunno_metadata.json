@@ -1,11 +1,11 @@
 {
   "name": "langchain-zunno",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "LangChain integration for Zunno LLM and Embeddings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_zunno-0.1.3.tar.gz",
-  "download_time": "2025-08-01T06:57:08.824097",
+  "download_filename": "langchain_zunno-0.1.4.tar.gz",
+  "download_time": "2025-08-01T07:45:57.438867",
   "package_url": "https://pypi.org/project/langchain-zunno/"
 }

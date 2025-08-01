@@ -1,11 +1,11 @@
 {
   "name": "ampgen",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A de novo generation pipeline leveraging evolutionary information for broad-spectrum antimicrobial peptide design",
   "author": "nicholexiong",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/AMPGen",
-  "download_filename": "ampgen-0.1.11.tar.gz",
-  "download_time": "2025-08-01T05:53:16.322426",
+  "download_filename": "ampgen-0.1.12.tar.gz",
+  "download_time": "2025-08-01T07:45:35.398245",
   "package_url": "https://pypi.org/project/ampgen/"
 }
