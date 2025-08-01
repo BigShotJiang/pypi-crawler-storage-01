@@ -1,11 +1,11 @@
 {
   "name": "maskllm-py",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Python SDK for MaskLLM",
   "author": "MaskLLM Developers",
   "license": null,
   "home_page": "https://github.com/mwpnava/Python-Code/tree/master/My_own_Python_package",
-  "download_filename": "maskllm_py-0.1.0.tar.gz",
-  "download_time": "2025-07-30T16:45:06.263495",
+  "download_filename": "maskllm_py-1.0.0.tar.gz",
+  "download_time": "2025-08-01T13:11:18.432957",
   "package_url": "https://pypi.org/project/maskllm-py/"
 }

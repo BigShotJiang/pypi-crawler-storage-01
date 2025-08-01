@@ -1,0 +1,11 @@
+{
+  "name": "lasio",
+  "version": "0.32",
+  "summary": "Read/write well data from Log ASCII Standard (LAS) files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lasio-0.32-py3-none-any.whl",
+  "download_time": "2025-08-01T13:11:38.018612",
+  "package_url": "https://pypi.org/project/lasio/"
+}

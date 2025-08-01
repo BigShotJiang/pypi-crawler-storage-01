@@ -1,0 +1,11 @@
+{
+  "name": "cratonapi",
+  "version": "0.1.0.22",
+  "summary": "Python support for W-Seis interprocess communication API",
+  "author": "Kirill Natalin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cratonapi-0.1.0.22.tar.gz",
+  "download_time": "2025-08-01T13:12:00.118054",
+  "package_url": "https://pypi.org/project/cratonapi/"
+}
