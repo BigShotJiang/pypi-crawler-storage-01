@@ -1,0 +1,11 @@
+{
+  "name": "sparc-curation-tools",
+  "version": "0.7.9",
+  "summary": "A collection of tools to help with curating SPARC datasets.",
+  "author": "Hugh Sorby",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/ABI-Software/sparc-curation-tools.git",
+  "download_filename": "sparc_curation_tools-0.7.9-py3-none-any.whl",
+  "download_time": "2025-08-01T04:36:59.263772",
+  "package_url": "https://pypi.org/project/sparc-curation-tools/"
+}

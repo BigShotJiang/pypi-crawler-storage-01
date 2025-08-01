@@ -1,0 +1,11 @@
+{
+  "name": "types-paramiko",
+  "version": "3.5.0.20250801",
+  "summary": "Typing stubs for paramiko",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_paramiko-3.5.0.20250801.tar.gz",
+  "download_time": "2025-08-01T04:37:23.042087",
+  "package_url": "https://pypi.org/project/types-paramiko/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "molr",
+  "version": "0.1.0",
+  "summary": "Molecular Realm for Spatial Indexed Structures - Fast spatial operations for molecular data",
+  "author": "Abhishek Tiwari",
+  "license": "MIT",
+  "home_page": "https://github.com/abhishektiwari/molr",
+  "download_filename": "molr-0.1.0.tar.gz",
+  "download_time": "2025-08-01T04:36:52.705512",
+  "package_url": "https://pypi.org/project/molr/"
+}

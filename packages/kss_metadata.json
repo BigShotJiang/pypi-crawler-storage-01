@@ -1,0 +1,11 @@
+{
+  "name": "kss",
+  "version": "6.0.5",
+  "summary": "A Toolkit for Korean sentence segmentation",
+  "author": "Hyunwoong Ko",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "home_page": "https://github.com/hyunwoongko/kss",
+  "download_filename": "kss-6.0.5.tar.gz",
+  "download_time": "2025-08-01T04:37:13.138461",
+  "package_url": "https://pypi.org/project/kss/"
+}

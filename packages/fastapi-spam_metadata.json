@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-spam",
+  "version": "0.0.4",
+  "summary": "FastAPI middleware to redirect spam requests to a random 10 hours of video",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_spam-0.0.4.tar.gz",
+  "download_time": "2025-08-01T04:37:14.864261",
+  "package_url": "https://pypi.org/project/fastapi-spam/"
+}

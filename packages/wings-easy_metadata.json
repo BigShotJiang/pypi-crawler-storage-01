@@ -1,0 +1,11 @@
+{
+  "name": "wings-easy",
+  "version": "0.7",
+  "summary": "python library for easier develop",
+  "author": "5hmlA",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/5hmlA/PyTools",
+  "download_filename": "wings_easy-0.7.tar.gz",
+  "download_time": "2025-08-01T04:37:07.163258",
+  "package_url": "https://pypi.org/project/wings-easy/"
+}
