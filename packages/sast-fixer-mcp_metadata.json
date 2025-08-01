@@ -1,0 +1,11 @@
+{
+  "name": "sast-fixer-mcp",
+  "version": "0.1.2",
+  "summary": "SAST code security vulnerability scanner and fixer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sast_fixer_mcp-0.1.2.tar.gz",
+  "download_time": "2025-08-01T08:18:47.699236",
+  "package_url": "https://pypi.org/project/sast-fixer-mcp/"
+}

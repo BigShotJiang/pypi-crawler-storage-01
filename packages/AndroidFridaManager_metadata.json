@@ -1,11 +1,11 @@
 {
   "name": "AndroidFridaManager",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "summary": "A python API in order to install and run the frida-server on an Android device.",
   "author": "Daniel Baier",
   "license": "GPL v3",
   "home_page": "https://github.com/fkie-cad/AndroidFridaManager",
-  "download_filename": "androidfridamanager-1.8.3.tar.gz",
-  "download_time": "2025-07-29T14:50:16.390987",
+  "download_filename": "androidfridamanager-1.8.4.tar.gz",
+  "download_time": "2025-08-01T08:18:23.400631",
   "package_url": "https://pypi.org/project/AndroidFridaManager/"
 }

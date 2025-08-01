@@ -1,0 +1,11 @@
+{
+  "name": "canonicalwebteam.flask-base",
+  "version": "3.0.0",
+  "summary": "Flask extension that applies common configurationsto all of webteam's flask apps.",
+  "author": "Canonical webteam",
+  "license": null,
+  "home_page": "https://github.com/canonical-web-and-design/canonicalwebteam.flask-base",
+  "download_filename": "canonicalwebteam_flask_base-3.0.0.tar.gz",
+  "download_time": "2025-08-01T08:18:59.335518",
+  "package_url": "https://pypi.org/project/canonicalwebteam.flask-base/"
+}

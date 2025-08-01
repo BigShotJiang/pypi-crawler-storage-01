@@ -1,0 +1,11 @@
+{
+  "name": "pyseg2",
+  "version": "1.4.7",
+  "summary": "Standalone package to read/write seg2 files in python",
+  "author": null,
+  "license": "GPL3",
+  "home_page": null,
+  "download_filename": "pyseg2-1.4.7-py3-none-any.whl",
+  "download_time": "2025-08-01T08:18:36.769031",
+  "package_url": "https://pypi.org/project/pyseg2/"
+}
