@@ -1,0 +1,11 @@
+{
+  "name": "gctele-iq",
+  "version": "0.1.6",
+  "summary": "一个面向运营商领域的人机测评工具，支持本地与API模型评估",
+  "author": "GuoChuang",
+  "license": "MIT",
+  "home_page": "https://github.com/zsjslab/gctele_iq",
+  "download_filename": "gctele_iq-0.1.6.tar.gz",
+  "download_time": "2025-08-01T06:21:30.539348",
+  "package_url": "https://pypi.org/project/gctele-iq/"
+}

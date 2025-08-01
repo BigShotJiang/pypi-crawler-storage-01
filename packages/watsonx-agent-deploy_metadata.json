@@ -1,11 +1,11 @@
 {
   "name": "watsonx-agent-deploy",
-  "version": "0.1.1",
-  "summary": "Deploy AI agents to WatsonX.ai with ease",
+  "version": "0.1.3",
+  "summary": "Deploy multiple AI agents to watsonx.ai at once",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "watsonx_agent_deploy-0.1.1.tar.gz",
-  "download_time": "2025-07-31T18:21:45.270313",
+  "download_filename": "watsonx_agent_deploy-0.1.3.tar.gz",
+  "download_time": "2025-08-01T06:21:20.233563",
   "package_url": "https://pypi.org/project/watsonx-agent-deploy/"
 }

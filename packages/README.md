@@ -1,19 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T05:53:46.203992
-- **Total Packages**: 82
-- **Total Size**: 19.85 MB
+- **Download Time**: 2025-08-01T06:22:02.177180
+- **Total Packages**: 85
+- **Total Size**: 34.89 MB
 
 ## Packages List
+- cdk8s-awscdk-resolver
+- cdk8s
+- frinZ
+- petal-app-manager
+- jiajia
+- watsonx-agent-deploy
+- python-byzatic-commons
+- exosphere-cli
+- langflow-nightly
 - automagik-hive
-- MultiTabReportsLib-kirill.avtonomov
+- nonebot-plugin-abs
+- odoo-addon-fieldservice-availability
+- tool_call_models
+- ai-edge-litert-nightly
+- odoo-addon-sale-order-report-product-image
+- inopyutils
+- phoney-dictate
+- ommx-python-mip-adapter
+- ommx-pyscipopt-adapter
+- ommx-openjij-adapter
+- ommx-highs-adapter
+- pyg-nightly
+- ommx
+- alibabacloud-eds-aic20230930
+- gctele-iq
+- phylogenie
+- zohencel-ai
+- rdxz2-utill
+- dashscope
+- pancham
+- matrice
+- pulumi-aws-native
+- letta-nightly
+- radboy
+- colindex2
+- twigs
+- pygpt-net
+- llm-web-kit
+- rf24-py
+- graphlit-client
+- nextbillionai
+- legend-dataflow-scripts
+- mcp-server-tapd
+- baidu-serp-api
+- djangocms-timed-publishing
+- basilisp-kernel
+- zxx
+- sera-2
 - signal-petrophysics
 - entra-scopes-finder
 - prefig
 - dmxfy
 - document-mcp
-- radboy
 - vcf-operations-networks
 - zyt-fileio-utils
 - ai-proxy-core
@@ -32,7 +77,6 @@
 - claude-code-sdk
 - benchmark-runner
 - isrpa
-- baidu-serp-api
 - ampgen
 - apache-beam
 - repo-to-text-ai
@@ -47,44 +91,3 @@
 - airfoileditor
 - ecss-chat-client
 - jack-midi-recorder
-- pipen-verbose
-- buzzerboy-platform-connectors
-- firesense
-- teslapython
-- autohack-next
-- daft-lts
-- daft
-- devstack-cli
-- mrgrain.cdk-esbuild
-- pytest-homeassistant-custom-component
-- reactivated
-- DLMS-SPODES
-- birder
-- byzh-extra
-- coppersun-brass
-- irispy2
-- metbit
-- mblt-model-zoo
-- aiagents4pharma
-- pydantic-client
-- lm-deluge
-- llama-stack-provider-trustyai-garak
-- rxfoundry.clients.p2rx-api
-- rf24-py
-- wliafe-mltools0
-- p3lib
-- huibiao-framework
-- ezpose
-- pymediawikidocker
-- moons-motor
-- qrew
-- agentops
-- aws-fsx-lifecycle-status-monitor
-- mcp-12306
-- hcom
-- agentmap
-- prefect-tool-state
-- suzaku
-- snowflake-connector-python-nightly
-- sovereign
-- zohencel-ai
