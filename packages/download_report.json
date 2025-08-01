@@ -1,14 +1,19 @@
 {
-  "download_time": "2025-08-01T07:46:13.162945",
+  "download_time": "2025-08-01T07:56:07.547949",
   "total_packages_downloaded": 80,
-  "total_size_mb": 42.28,
+  "total_size_mb": 0.85,
   "packages": [
+    "TerraLib",
+    "pmcgrab",
+    "py7zz",
+    "pybasemkit",
+    "kivy-reloader",
+    "ollama-think",
     "intellif-aihub",
     "assisted-service-client",
     "django-approval-workflow",
     "syntaxmatrix",
     "androtools",
-    "pybasemkit",
     "automagik-hive",
     "edgetpu-utils",
     "apify-shared",
@@ -48,7 +53,6 @@
     "mxcubecore",
     "dbcrust",
     "elody",
-    "pmcgrab",
     "python-easy-llm",
     "heliclockter",
     "polyagent",
@@ -78,10 +82,6 @@
     "tf-models-nightly",
     "lavajung",
     "specforge",
-    "bk-plugin-runtime",
-    "dfdatetime",
-    "kcli",
-    "zohencel-ai",
-    "invenio-app-rdm"
+    "bk-plugin-runtime"
   ]
 }
