@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T11:32:22.654176
-- **Total Packages**: 85
-- **Total Size**: 17.94 MB
+- **Download Time**: 2025-08-01T11:51:09.409763
+- **Total Packages**: 79
+- **Total Size**: 17.6 MB
 
 ## Packages List
+- MCQuantLib
+- fhirclient
+- ARParser
+- easymdm
+- messente-api
+- JetTask
+- pytpro
+- rcabench-platform
+- aviation-stack-sdk
+- rusty-tags
+- markdown-xblock
+- dexray-insight
+- dlrm
+- bullishpy
+- eses
+- canopy-tools
+- telicent-ies-tool
+- aiogram-dependency
+- cl-hubeau
+- remotivelabs-cli
+- ai4one
+- analytics-ingest
+- pynxtools-igor
+- apolo-app-types
+- cribl-control-plane
+- isoprompt
+- modelsearch
+- analyser2_hj3415
+- pyphetools
+- demiurg
+- osm-fieldwork
+- nodejs-wheel
+- knowsmore
+- shopware-api-client
+- geocompy
+- PVNet
+- python-ntfy
+- simplecalculator-mike-tyson
+- beyonddesk-grpc-protocols
+- i24
+- gbp-notifications
+- py-readonlyx
+- mcp-server-ascom
+- shiyunzi
+- besser
+- collibra-connector
 - torchx-nightly
 - bitly-api-sdk
 - gnucash-uk-vat
@@ -13,22 +59,17 @@
 - agi-med-common
 - drf-spectacular-sidecar
 - e6data-python-connector
-- dlrm
 - midas-civil
-- MCQuantLib
 - matflow-new
 - m3ter
 - d3s-nagios-plugins
-- analytics-ingest
 - yxmb-compat-engine
 - yxmb-compatlib
 - pyturso
 - chzzkpy
 - netbox-cvexplorer
-- gensvs
 - yandex-tracker-mcp
 - maxsmart
-- eses
 - semilattice
 - hibiz-any-llm
 - spl-core
@@ -44,50 +85,3 @@
 - ua-banktools
 - rdxz2-utill
 - zhipuai
-- mitol-django-olposthog
-- mxcubecore
-- claude-code-designer
-- joinly-client
-- tb-nightly
-- control-plane-cage-client
-- nautobot-app-vpn
-- passive_equipment
-- kerex
-- bitswan
-- relenv
-- birder
-- ip-stack-sdk
-- Auto-Sklong
-- demiurg
-- 153957-theme
-- nodejs-wheel
-- pyadvtools
-- air-pollution
-- aipyapp
-- elysia-ai
-- zohencel-ai
-- pab-cli
-- bitvavo-api-upgraded
-- odoo-addon-stock-move-line-qty-picked
-- projen-modules
-- synrbl
-- finlab
-- django-honeypot-admin
-- relecov-tools
-- pytest-argus-reporter
-- argus-alm
-- ong-chrome-automation
-- playmolecule
-- mccole
-- odp-sdk
-- blksprs
-- lob-api-sdk
-- pybrave
-- mailersend
-- libreflow.flows
-- Ryzenth
-- amoeba-agn
-- vgs-cli
-- phone-management-plugin
-- django-password-rotate
-- pytector

@@ -1,11 +1,11 @@
 {
   "name": "analyser2_hj3415",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "Analysing the stock data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "analyser2_hj3415-0.4.1.tar.gz",
-  "download_time": "2025-07-31T13:50:50.510766",
+  "download_filename": "analyser2_hj3415-0.4.3.tar.gz",
+  "download_time": "2025-08-01T11:50:41.410891",
   "package_url": "https://pypi.org/project/analyser2_hj3415/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "osm-fieldwork",
+  "version": "0.23.0",
+  "summary": "Processing field data from ODK to OpenStreetMap format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osm_fieldwork-0.23.0.tar.gz",
+  "download_time": "2025-08-01T11:50:43.968041",
+  "package_url": "https://pypi.org/project/osm-fieldwork/"
+}

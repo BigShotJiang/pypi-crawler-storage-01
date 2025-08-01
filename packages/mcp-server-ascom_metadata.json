@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-ascom",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "MCP server for ASCOM astronomy equipment control",
   "author": "Stellarpunk Collective",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_ascom-0.3.0-py3-none-any.whl",
-  "download_time": "2025-08-01T01:08:22.211949",
+  "download_filename": "mcp_server_ascom-0.4.0-py3-none-any.whl",
+  "download_time": "2025-08-01T11:50:50.624245",
   "package_url": "https://pypi.org/project/mcp-server-ascom/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "markdown-xblock",
+  "version": "2.2.0",
+  "summary": "Markdown XBlock provides editing course content in Markdown.",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/citynetwork/xblock-markdown",
+  "download_filename": "markdown_xblock-2.2.0.tar.gz",
+  "download_time": "2025-08-01T11:50:32.608962",
+  "package_url": "https://pypi.org/project/markdown-xblock/"
+}

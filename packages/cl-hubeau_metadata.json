@@ -1,11 +1,11 @@
 {
   "name": "cl-hubeau",
-  "version": "0.10.2",
+  "version": "0.11.0",
   "summary": "Hubeau client to collect data from the different APIs",
   "author": "Thomas Grandjean",
   "license": "GPL-3.0-or-later",
   "home_page": "https://tgrandje.github.io/cl-hubeau",
-  "download_filename": "cl_hubeau-0.10.2.tar.gz",
-  "download_time": "2025-07-29T09:46:23.864363",
+  "download_filename": "cl_hubeau-0.11.0.tar.gz",
+  "download_time": "2025-08-01T11:50:36.755693",
   "package_url": "https://pypi.org/project/cl-hubeau/"
 }
