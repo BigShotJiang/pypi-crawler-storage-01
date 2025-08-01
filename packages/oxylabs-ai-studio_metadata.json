@@ -1,11 +1,11 @@
 {
   "name": "oxylabs-ai-studio",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Oxylabs studio python sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oxylabs_ai_studio-0.2.9.tar.gz",
-  "download_time": "2025-07-29T10:56:06.045209",
+  "download_filename": "oxylabs_ai_studio-0.2.10.tar.gz",
+  "download_time": "2025-08-01T12:24:48.483228",
   "package_url": "https://pypi.org/project/oxylabs-ai-studio/"
 }

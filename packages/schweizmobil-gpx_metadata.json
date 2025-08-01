@@ -1,0 +1,11 @@
+{
+  "name": "schweizmobil-gpx",
+  "version": "0.1.0",
+  "summary": "Package to download all your saved GPX tours from schweizmobil.ch",
+  "author": null,
+  "license": "CC BY-SA 4.0",
+  "home_page": null,
+  "download_filename": "schweizmobil_gpx-0.1.0.tar.gz",
+  "download_time": "2025-08-01T12:24:46.924750",
+  "package_url": "https://pypi.org/project/schweizmobil-gpx/"
+}

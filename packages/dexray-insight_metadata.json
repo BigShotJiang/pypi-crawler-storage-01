@@ -1,11 +1,11 @@
 {
   "name": "dexray-insight",
-  "version": "0.0.9.0",
+  "version": "0.0.9.1",
   "summary": "This project is part of the dynamic Sandbox SanDroid. Its purpose is to do static analysis to grasp a basic understanding of an Android application.",
-  "author": "Jan-Niclas Hilgert, Joel Eneas Espinoza Bachmann, Jannis Finn Borg-Olivier",
+  "author": "Jan-Niclas Hilgert, Jannis Finn Borg-Olivier",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "dexray_insight-0.0.9.0.tar.gz",
-  "download_time": "2025-08-01T11:50:33.127667",
+  "download_filename": "dexray_insight-0.0.9.1.tar.gz",
+  "download_time": "2025-08-01T12:25:08.099626",
   "package_url": "https://pypi.org/project/dexray-insight/"
 }

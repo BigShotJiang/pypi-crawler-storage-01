@@ -1,11 +1,11 @@
 {
   "name": "bitmex-api",
-  "version": "0.0.78",
+  "version": "0.0.79",
   "summary": "bitmex crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitmex_api-0.0.78.tar.gz",
-  "download_time": "2025-07-30T15:54:39.037962",
+  "download_filename": "bitmex_api-0.0.79.tar.gz",
+  "download_time": "2025-08-01T12:25:15.421706",
   "package_url": "https://pypi.org/project/bitmex-api/"
 }
