@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-bookstore",
+  "version": "1.4",
+  "summary": "A library for connecting to the UW Bookstore API",
+  "author": "UW-IT T&LS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-bookstore",
+  "download_filename": "uw_restclients_bookstore-1.4.tar.gz",
+  "download_time": "2025-08-01T19:39:10.812353",
+  "package_url": "https://pypi.org/project/UW-RestClients-bookstore/"
+}

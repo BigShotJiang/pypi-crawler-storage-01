@@ -1,11 +1,11 @@
 {
   "name": "chaiverse",
-  "version": "1.23.5",
+  "version": "1.23.6",
   "summary": "Chaiverse",
   "author": "Chai Research Corp.",
   "license": "MIT",
   "home_page": "https://www.chaiverse.com",
-  "download_filename": "chaiverse-1.23.5.tar.gz",
-  "download_time": "2025-07-31T23:32:53.231606",
+  "download_filename": "chaiverse-1.23.6.tar.gz",
+  "download_time": "2025-08-01T19:39:09.217166",
   "package_url": "https://pypi.org/project/chaiverse/"
 }

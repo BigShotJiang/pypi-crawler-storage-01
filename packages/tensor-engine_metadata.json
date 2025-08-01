@@ -1,11 +1,11 @@
 {
   "name": "tensor-engine",
-  "version": "0.0.4",
-  "summary": "A really basic Terminal Game Engine built in Python.",
+  "version": "0.0.6",
+  "summary": "A Cool Terminal Game Engine built with Python.",
   "author": "MrPsyghost (Shivay)",
   "license": null,
   "home_page": null,
-  "download_filename": "tensor-engine-0.0.4.tar.gz",
-  "download_time": "2025-08-01T11:31:53.345666",
+  "download_filename": "tensor-engine-0.0.6.tar.gz",
+  "download_time": "2025-08-01T19:39:09.747695",
   "package_url": "https://pypi.org/project/tensor-engine/"
 }

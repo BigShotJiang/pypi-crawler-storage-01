@@ -1,11 +1,11 @@
 {
   "name": "python-zatobox",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": null,
   "author": "woutervanoverberghe",
   "license": null,
   "home_page": null,
-  "download_filename": "python_zatobox-0.1.10.tar.gz",
-  "download_time": "2025-07-31T19:30:36.592494",
+  "download_filename": "python_zatobox-0.1.11.tar.gz",
+  "download_time": "2025-08-01T19:39:20.769480",
   "package_url": "https://pypi.org/project/python-zatobox/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pbi-parsers",
+  "version": "0.7.12",
+  "summary": "Power BI lexer, parsers, and formatters for DAX and M (Power Query) languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbi_parsers-0.7.12.tar.gz",
+  "download_time": "2025-08-01T19:39:23.135171",
+  "package_url": "https://pypi.org/project/pbi-parsers/"
+}

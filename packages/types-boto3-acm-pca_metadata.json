@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-acm-pca",
-  "version": "1.40.0",
-  "summary": "Type annotations for boto3 ACMPCA 1.40.0 service generated with mypy-boto3-builder 8.11.0",
+  "version": "1.40.1",
+  "summary": "Type annotations for boto3 ACMPCA 1.40.1 service generated with mypy-boto3-builder 8.11.0",
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "types_boto3_acm_pca-1.40.0.tar.gz",
-  "download_time": "2025-08-01T19:29:13.444710",
+  "download_filename": "types_boto3_acm_pca-1.40.1.tar.gz",
+  "download_time": "2025-08-01T19:39:33.523395",
   "package_url": "https://pypi.org/project/types-boto3-acm-pca/"
 }
