@@ -1,0 +1,11 @@
+{
+  "name": "cryptonets-python-sdk",
+  "version": "1.3.19",
+  "summary": "Cryptonets SDK Library for Python",
+  "author": "Private Identity",
+  "license": null,
+  "home_page": "https://privateid.com/",
+  "download_filename": "cryptonets_python_sdk-1.3.19.tar.gz",
+  "download_time": "2025-08-01T20:37:21.091599",
+  "package_url": "https://pypi.org/project/cryptonets-python-sdk/"
+}

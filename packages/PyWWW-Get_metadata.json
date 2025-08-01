@@ -1,0 +1,11 @@
+{
+  "name": "PyWWW-Get",
+  "version": "2.1.2",
+  "summary": "Python libary/module to download files.",
+  "author": "Kazuki Przyborowski",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/GameMaker2k/PyWWW-Get",
+  "download_filename": "pywww_get-2.1.2.tar.gz",
+  "download_time": "2025-08-01T20:37:26.333452",
+  "package_url": "https://pypi.org/project/PyWWW-Get/"
+}

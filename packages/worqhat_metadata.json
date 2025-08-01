@@ -1,11 +1,11 @@
 {
   "name": "worqhat",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "summary": "The official Python library for the worqhat API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "worqhat-3.4.0.tar.gz",
-  "download_time": "2025-07-31T15:44:30.877069",
+  "download_filename": "worqhat-3.5.0.tar.gz",
+  "download_time": "2025-08-01T20:37:07.760110",
   "package_url": "https://pypi.org/project/worqhat/"
 }
