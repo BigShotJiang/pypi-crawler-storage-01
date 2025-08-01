@@ -1,0 +1,11 @@
+{
+  "name": "dataconf",
+  "version": "3.6.0",
+  "summary": "Simple dataclasses configuration management for Python with hocon/json/yaml/properties/env-vars/dict support.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/zifeo/dataconf",
+  "download_filename": "dataconf-3.6.0.tar.gz",
+  "download_time": "2025-08-01T14:43:09.541366",
+  "package_url": "https://pypi.org/project/dataconf/"
+}

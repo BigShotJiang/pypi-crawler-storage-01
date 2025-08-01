@@ -1,0 +1,11 @@
+{
+  "name": "ailist",
+  "version": "2.1.7",
+  "summary": "Python package for Augmented Interval List",
+  "author": "Kyle S. Smith",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/kylessmith/ailist",
+  "download_filename": "ailist-2.1.7.tar.gz",
+  "download_time": "2025-08-01T14:43:02.824462",
+  "package_url": "https://pypi.org/project/ailist/"
+}

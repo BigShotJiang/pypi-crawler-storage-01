@@ -1,0 +1,11 @@
+{
+  "name": "deadline-cloud-for-houdini",
+  "version": "0.7.8",
+  "summary": "AWS Deadline Cloud for Houdini",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline_cloud_for_houdini-0.7.8.tar.gz",
+  "download_time": "2025-08-01T14:42:58.161394",
+  "package_url": "https://pypi.org/project/deadline-cloud-for-houdini/"
+}

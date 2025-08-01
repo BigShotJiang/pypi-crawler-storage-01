@@ -1,0 +1,11 @@
+{
+  "name": "pymongo-aggregate",
+  "version": "0.0.1",
+  "summary": "MongoDB aggregate operations declared for python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymongo_aggregate-0.0.1.tar.gz",
+  "download_time": "2025-08-01T14:42:44.707658",
+  "package_url": "https://pypi.org/project/pymongo-aggregate/"
+}

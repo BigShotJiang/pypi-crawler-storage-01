@@ -1,0 +1,11 @@
+{
+  "name": "zuffy",
+  "version": "0.5",
+  "summary": "Zuffy is a sklearn compatible open source python library that uses GP to induce Fuzzy Pattern Trees",
+  "author": "PXOM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zuffy-0.5.tar.gz",
+  "download_time": "2025-08-01T14:43:04.890514",
+  "package_url": "https://pypi.org/project/zuffy/"
+}

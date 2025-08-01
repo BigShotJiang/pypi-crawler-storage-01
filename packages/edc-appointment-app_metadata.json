@@ -1,11 +1,11 @@
 {
   "name": "edc-appointment-app",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Test app of clinicedc/edc projects",
   "author": "Erik van Widenfelt",
   "license": null,
   "home_page": null,
-  "download_filename": "edc_appointment_app-0.2.0.tar.gz",
-  "download_time": "2025-08-01T14:16:18.616667",
+  "download_filename": "edc_appointment_app-0.2.3.tar.gz",
+  "download_time": "2025-08-01T14:42:59.706854",
   "package_url": "https://pypi.org/project/edc-appointment-app/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "api-to-pydantic-utils",
+  "version": "0.1.1",
+  "summary": "Utilities for JSON schema extraction and Pydantic model generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "api_to_pydantic_utils-0.1.1.tar.gz",
+  "download_time": "2025-08-01T14:42:52.473897",
+  "package_url": "https://pypi.org/project/api-to-pydantic-utils/"
+}

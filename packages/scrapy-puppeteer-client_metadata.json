@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-puppeteer-client",
+  "version": "0.4.0",
+  "summary": "A library to use Puppeteer-managed browser in Scrapy spiders",
+  "author": "MODIS @ ISP RAS",
+  "license": "BSD",
+  "home_page": "https://github.com/ispras/scrapy-puppeteer",
+  "download_filename": "scrapy_puppeteer_client-0.4.0.tar.gz",
+  "download_time": "2025-08-01T14:42:53.507837",
+  "package_url": "https://pypi.org/project/scrapy-puppeteer-client/"
+}
