@@ -1,11 +1,11 @@
 {
   "name": "nrn-beta",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "A PyTorch framework for rapidly developing Neural Reasoning Networks.",
   "author": "Anonymous",
   "license": null,
   "home_page": null,
-  "download_filename": "nrn_beta-0.1.9.tar.gz",
-  "download_time": "2025-08-01T18:53:41.710154",
+  "download_filename": "nrn_beta-0.1.10.tar.gz",
+  "download_time": "2025-08-01T19:13:30.848954",
   "package_url": "https://pypi.org/project/nrn-beta/"
 }

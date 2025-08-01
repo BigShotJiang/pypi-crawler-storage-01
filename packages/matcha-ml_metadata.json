@@ -1,0 +1,11 @@
+{
+  "name": "matcha-ml",
+  "version": "0.3.0",
+  "summary": "Matcha: An open source tool for provisioning MLOps environments to the cloud.",
+  "author": "FuzzyLabs",
+  "license": "Apache-2.0",
+  "home_page": "http://fuzzylabs.github.io/matcha",
+  "download_filename": "matcha_ml-0.3.0.tar.gz",
+  "download_time": "2025-08-01T19:13:28.786182",
+  "package_url": "https://pypi.org/project/matcha-ml/"
+}
