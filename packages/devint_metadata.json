@@ -1,0 +1,11 @@
+{
+  "name": "devint",
+  "version": "0.2.3",
+  "summary": "Unified API for Device Interface communication with support for RTU, TCP, and REST APIs",
+  "author": "Tom Sapletta",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "devint-0.2.3.tar.gz",
+  "download_time": "2025-08-01T18:53:09.557673",
+  "package_url": "https://pypi.org/project/devint/"
+}

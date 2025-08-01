@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-bpmn-js",
+  "version": "0.2.0",
+  "summary": "MkDocs plugin for embedding BPMN files via bpmn-js",
+  "author": "Christian Schuhmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_bpmn_js-0.2.0.tar.gz",
+  "download_time": "2025-08-01T18:53:38.633847",
+  "package_url": "https://pypi.org/project/mkdocs-bpmn-js/"
+}

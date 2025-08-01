@@ -1,11 +1,11 @@
 {
   "name": "pulsebus",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "General-purpose message routing framework built upon an event driven architecture, handles up to very large amounts of data transmition and channeling with concurrent consumers and producers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pulsebus-2.0.2.tar.gz",
-  "download_time": "2025-07-30T18:53:17.559809",
+  "download_filename": "pulsebus-2.0.3.tar.gz",
+  "download_time": "2025-08-01T18:53:27.162234",
   "package_url": "https://pypi.org/project/pulsebus/"
 }

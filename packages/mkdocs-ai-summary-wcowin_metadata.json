@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-ai-summary-wcowin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "AI-powered summary generation plugin for MkDocs Material",
   "author": "Wcowin",
   "license": "MIT",
   "home_page": "https://github.com/Wcowin/Mkdocs-AI-Summary-Plus",
-  "download_filename": "mkdocs-ai-summary-wcowin-1.0.3.tar.gz",
-  "download_time": "2025-08-01T17:40:32.102269",
+  "download_filename": "mkdocs-ai-summary-wcowin-1.0.4.tar.gz",
+  "download_time": "2025-08-01T18:53:46.355626",
   "package_url": "https://pypi.org/project/mkdocs-ai-summary-wcowin/"
 }

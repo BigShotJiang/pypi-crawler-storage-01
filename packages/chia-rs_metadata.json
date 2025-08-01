@@ -1,0 +1,11 @@
+{
+  "name": "chia-rs",
+  "version": "0.28.2",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Chia-Network/chia_rs",
+  "download_filename": "chia_rs-0.28.2.tar.gz",
+  "download_time": "2025-08-01T18:53:19.947881",
+  "package_url": "https://pypi.org/project/chia-rs/"
+}

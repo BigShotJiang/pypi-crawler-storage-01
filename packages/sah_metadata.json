@@ -1,0 +1,11 @@
+{
+  "name": "sah",
+  "version": "2.0.0a1",
+  "summary": "The Spectra Analyser for Hydrogenous samples, or SAH, provides comprehensive tools to analyse INS, FTIR and Raman spectra.",
+  "author": "Pablo Gila-Herranz",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "sah-2.0.0a1.tar.gz",
+  "download_time": "2025-08-01T18:53:26.139092",
+  "package_url": "https://pypi.org/project/sah/"
+}

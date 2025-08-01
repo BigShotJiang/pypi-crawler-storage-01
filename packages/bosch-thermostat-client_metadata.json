@@ -1,0 +1,11 @@
+{
+  "name": "bosch-thermostat-client",
+  "version": "0.28.2",
+  "summary": "Python API for talking to Bosch™ Heating gateway using HTTP or XMPP",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "bosch-thermostat-client-0.28.2.tar.gz",
+  "download_time": "2025-08-01T18:53:46.869266",
+  "package_url": "https://pypi.org/project/bosch-thermostat-client/"
+}

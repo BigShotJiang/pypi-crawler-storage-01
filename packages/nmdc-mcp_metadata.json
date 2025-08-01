@@ -1,0 +1,11 @@
+{
+  "name": "nmdc-mcp",
+  "version": "0.4.0",
+  "summary": "FastMCP-based tool for writing prompts against data in the NMDC (National Microbiome Data Collaborative) database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nmdc_mcp-0.4.0.tar.gz",
+  "download_time": "2025-08-01T18:53:25.111922",
+  "package_url": "https://pypi.org/project/nmdc-mcp/"
+}

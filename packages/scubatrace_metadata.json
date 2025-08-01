@@ -1,11 +1,11 @@
 {
   "name": "scubatrace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Next-generation codebase analysis toolkit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scubatrace-1.0.1.tar.gz",
-  "download_time": "2025-07-31T17:36:55.969219",
+  "download_filename": "scubatrace-1.0.2.tar.gz",
+  "download_time": "2025-08-01T18:53:10.607023",
   "package_url": "https://pypi.org/project/scubatrace/"
 }

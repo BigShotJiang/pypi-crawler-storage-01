@@ -1,0 +1,11 @@
+{
+  "name": "df2tables",
+  "version": "0.1.0",
+  "summary": "df2tables: Pandas DataFrames to Interactive DataTables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "df2tables-0.1.0.tar.gz",
+  "download_time": "2025-08-01T18:53:05.440523",
+  "package_url": "https://pypi.org/project/df2tables/"
+}
