@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T04:37:33.842984
-- **Total Packages**: 82
-- **Total Size**: 41.87 MB
+- **Download Time**: 2025-08-01T05:20:18.091120
+- **Total Packages**: 79
+- **Total Size**: 50.96 MB
 
 ## Packages List
+- jack-midi-recorder
+- firesense
+- mcp-master
+- teslapython
+- autohack-next
+- daft-lts
+- daft
+- automagik-hive
+- devstack-cli
+- mrgrain.cdk-esbuild
+- pytest-homeassistant-custom-component
+- dmxfy
+- reactivated
+- DLMS-SPODES
+- buzzerboy-platform-connectors
+- birder
+- byzh-extra
+- coppersun-brass
+- irispy2
+- metbit
+- mblt-model-zoo
+- aiagents4pharma
+- pydantic-client
+- lm-deluge
+- ai-proxy-core
+- llama-stack-provider-trustyai-garak
+- rxfoundry.clients.p2rx-api
+- rf24-py
+- wliafe-mltools0
+- p3lib
+- huibiao-framework
+- ezpose
+- pymediawikidocker
+- moons-motor
+- qrew
+- radboy
+- agentops
+- aws-fsx-lifecycle-status-monitor
+- mcp-12306
+- hcom
+- agentmap
+- prefect-tool-state
+- suzaku
 - snowflake-connector-python-nightly
 - sovereign
 - zohencel-ai
@@ -17,8 +60,6 @@
 - euriai
 - py7zz
 - kenenet
-- radboy
-- byzh-extra
 - molr
 - PyDMD
 - scaffoldmaker
@@ -41,50 +82,6 @@
 - cdktf-cdktf-provider-digitalocean
 - cmlibs.utils
 - ipyslides
-- ai-proxy-core
 - sglang
 - wings-easy
 - tobiko-cloud-pydantic
-- simple-carla
-- pina-mathlab
-- tobiko-cloud-api-client
-- tobiko-cloud-helpers
-- chromedriver-binary
-- typedmongo
-- pm-studio-mcp
-- rxfoundry.clients.p2rx-api
-- kss
-- nt-pygrambot
-- devstack-cli
-- fastapi-spam
-- nonebot-plugin-abs
-- data-handler-ela
-- astronomer-orbis
-- cdktf-cdktf-provider-newrelic
-- scmrepo
-- document-mcp
-- spheroidalwavefunctions
-- agtools
-- spatialise
-- keras-rs-nightly
-- flask-frame
-- types-JACK-Client
-- types-paramiko
-- types-PyScreeze
-- types-cffi
-- types-gevent
-- types-pyaudio
-- types-keyboard
-- types-pycurl
-- types-aiofiles
-- types-colorama
-- types-gdb
-- types-pynput
-- types-waitress
-- types-pyserial
-- types-antlr4-python3-runtime
-- types-uWSGI
-- types-RPi.GPIO
-- types-setuptools
-- GANDLF
-- types-pywin32

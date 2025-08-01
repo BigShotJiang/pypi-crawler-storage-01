@@ -1,0 +1,11 @@
+{
+  "name": "agentops",
+  "version": "0.4.19",
+  "summary": "Observability and DevTool Platform for AI Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentops-0.4.19.tar.gz",
+  "download_time": "2025-08-01T05:19:55.422794",
+  "package_url": "https://pypi.org/project/agentops/"
+}
