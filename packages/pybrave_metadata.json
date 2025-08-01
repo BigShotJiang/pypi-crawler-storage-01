@@ -1,11 +1,11 @@
 {
   "name": "pybrave",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Bioinformatics Reactive Analysis and Visualization Engine",
   "author": "WangYang",
   "license": null,
   "home_page": null,
-  "download_filename": "pybrave-0.1.6.tar.gz",
-  "download_time": "2025-08-01T10:44:41.614335",
+  "download_filename": "pybrave-0.1.7.tar.gz",
+  "download_time": "2025-08-01T11:15:18.948277",
   "package_url": "https://pypi.org/project/pybrave/"
 }

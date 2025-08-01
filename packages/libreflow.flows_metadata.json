@@ -1,11 +1,11 @@
 {
   "name": "libreflow.flows",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "summary": "A set of flows specific to projects handled by Libreflow at Les Fées Spéciales.",
   "author": "Baptiste Delos, Flavio Perez",
   "license": "LGPLv3+",
   "home_page": "https://gitlab.com/lfs.coop/libreflow/libreflow.flows",
-  "download_filename": "libreflow_flows-2.7.0.tar.gz",
-  "download_time": "2025-07-30T22:12:53.543196",
+  "download_filename": "libreflow_flows-2.7.1.tar.gz",
+  "download_time": "2025-08-01T11:15:20.131120",
   "package_url": "https://pypi.org/project/libreflow.flows/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lob-api-sdk",
+  "version": "1.0.0",
+  "summary": "The Lob API is a comprehensive direct mail and address verification service that helps developers extend their applications into the physical world through automated print and mail capabilities. It provides APIs for creating and managing addresses, verifying US and international addresses, managing bank accounts for check printing, and handling campaigns for bulk mail operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lob_api_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-01T11:15:16.603405",
+  "package_url": "https://pypi.org/project/lob-api-sdk/"
+}

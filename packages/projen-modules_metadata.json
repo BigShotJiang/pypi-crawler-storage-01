@@ -1,11 +1,11 @@
 {
   "name": "projen-modules",
-  "version": "1.0.97",
+  "version": "1.0.101",
   "summary": "A collection of projen modules",
   "author": "Dave Shepherd<dave.shepherd@endor.me.uk>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/daveshepherd/projen-modules.git",
-  "download_filename": "projen_modules-1.0.97.tar.gz",
-  "download_time": "2025-07-29T02:24:59.244764",
+  "download_filename": "projen_modules-1.0.101.tar.gz",
+  "download_time": "2025-08-01T11:15:08.977508",
   "package_url": "https://pypi.org/project/projen-modules/"
 }

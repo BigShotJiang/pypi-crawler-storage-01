@@ -1,0 +1,11 @@
+{
+  "name": "django-honeypot-admin",
+  "version": "2.0.0",
+  "summary": "A fake Django admin login screen to notify admins of attempted unauthorized access. Compatible with latest Django versions.",
+  "author": "Derek Payton",
+  "license": "MIT License",
+  "home_page": "https://github.com/Alien501/django-admin-honeypot",
+  "download_filename": "django_honeypot_admin-2.0.0.tar.gz",
+  "download_time": "2025-08-01T11:15:10.761947",
+  "package_url": "https://pypi.org/project/django-honeypot-admin/"
+}

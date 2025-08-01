@@ -1,0 +1,11 @@
+{
+  "name": "ip-stack-sdk",
+  "version": "1.0.0",
+  "summary": "IPstack API is a comprehensive IP geolocation service that provides detailed location information for IPv4 and IPv6 addresses, including country, city, coordinates, timezone, currency, and ISP data. The API offers three main endpoints: Standard IP Lookup for single addresses, Bulk IP Lookup for multiple addresses, and Requester IP Lookup to detect the requesting IP address, with support for multiple languages and output formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ip_stack_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-01T11:14:59.910681",
+  "package_url": "https://pypi.org/project/ip-stack-sdk/"
+}
