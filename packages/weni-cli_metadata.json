@@ -1,11 +1,11 @@
 {
   "name": "weni-cli",
-  "version": "3.4.2",
+  "version": "3.4.3",
   "summary": null,
   "author": "Paulo Bernardo",
   "license": null,
   "home_page": null,
-  "download_filename": "weni_cli-3.4.2.tar.gz",
-  "download_time": "2025-07-29T21:33:18.308679",
+  "download_filename": "weni_cli-3.4.3.tar.gz",
+  "download_time": "2025-08-01T21:33:52.264702",
   "package_url": "https://pypi.org/project/weni-cli/"
 }

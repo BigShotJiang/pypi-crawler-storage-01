@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T21:23:34.260366
-- **Total Packages**: 85
-- **Total Size**: 32.26 MB
+- **Download Time**: 2025-08-01T21:34:30.809199
+- **Total Packages**: 83
+- **Total Size**: 5.73 MB
 
 ## Packages List
+- daggerml
+- appyter
+- mojiza
+- fastmcp
+- daggerml-cli
+- daytona_sdk
+- daytona
+- mura
+- eucal
+- msgflux
+- weni-cli
+- build
+- clselove
+- universalinit
+- pydantic-gitlab
+- ipyslides
+- beyondtrust-bips-library
+- pymathnn
+- okareo
+- pyobas
+- entities-python
+- edc-adverse-event-app
 - codearkt
 - shwim
 - nautex
@@ -16,8 +38,6 @@
 - daytona_api_client
 - mailbagit
 - yta-general-utils
-- daytona_sdk
-- daytona
 - esi-utils-colors
 - moose-cli
 - collective.techevent
@@ -52,7 +72,6 @@
 - omdev-cli
 - omdev-cext
 - maps4fs
-- pymathnn
 - medialaxis3d
 - browser-copilot
 - PyFoxFile
@@ -70,24 +89,3 @@
 - cdk-fck-nat
 - nv-ingest-client
 - rigging
-- fsai-proto-specs
-- wds-client
-- job-defense-shield
-- sqlmesh
-- rxfoundry.clients.p2rx-api
-- tunacode-cli
-- intrinio-sdk
-- automagik-hive
-- proxy-reader
-- django-unified-response
-- lambda-cloud-cli
-- caioh-nvml-gpu-control
-- coinbase-agentkit
-- gradient-labs
-- numtypes
-- mccole
-- cudaq-qec
-- modapi
-- cudaq-solvers
-- ffpuppet
-- coppersun-brass
