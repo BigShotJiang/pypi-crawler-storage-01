@@ -1,11 +1,11 @@
 {
   "name": "fauxdantic",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "A library for generating fake Pydantic models for testing and development purposes",
   "author": "John A. Dungan",
   "license": "MIT",
   "home_page": "https://github.com/jdungan/fauxdantic",
-  "download_filename": "fauxdantic-0.1.9.tar.gz",
-  "download_time": "2025-08-01T19:39:08.701288",
+  "download_filename": "fauxdantic-0.1.10.tar.gz",
+  "download_time": "2025-08-01T20:16:27.228725",
   "package_url": "https://pypi.org/project/fauxdantic/"
 }

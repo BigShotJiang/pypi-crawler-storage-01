@@ -1,0 +1,11 @@
+{
+  "name": "rpt",
+  "version": "2.1.0",
+  "summary": "# Repetitive command line creation with your editor of choice",
+  "author": "Thomas Perl",
+  "license": "Simplified BSD License",
+  "home_page": "http://thp.io/2016/rpt/",
+  "download_filename": "rpt-2.1.0.tar.gz",
+  "download_time": "2025-08-01T20:16:08.700852",
+  "package_url": "https://pypi.org/project/rpt/"
+}

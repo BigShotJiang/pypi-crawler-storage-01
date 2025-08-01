@@ -1,12 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T19:49:35.273439
-- **Total Packages**: 91
-- **Total Size**: 5.24 MB
+- **Download Time**: 2025-08-01T20:16:44.309659
+- **Total Packages**: 86
+- **Total Size**: 10.57 MB
 
 ## Packages List
+- scloud-api
+- PyFoxFile
+- tunacode-cli
+- archetypal-stubs
+- PyCatFile
+- rolint
+- axon-pypi
+- kaggle-environments
+- pyUnfoldedCircleRemote
+- isoprompt
+- blindx
+- rubin-nublado-client
+- pyfault
+- automagik-hive
+- django-generic-notifications
+- digitalarzengine
+- tfrunner
+- kryptools
+- lambda-cloud-cli
+- eprempy
 - ai-proxy-core
+- agi-med-common
+- zammad-pgp-import
+- cantools
+- rpt
+- reflex
+- fast-select
+- qlip.core
+- vivarium-cluster-tools
+- chisel-cli
+- nrn-beta
+- Ming
+- FlopPITy
 - graph-games-proto
 - plottery
 - UVR-resources
@@ -15,13 +47,9 @@
 - darknet2any
 - vital
 - codearkt
-- chisel-cli
-- lambda-cloud-cli
 - instant-crud
 - yaapp
 - europarl
-- archetypal-stubs
-- rs-calculator
 - cudaq
 - types-eplus221
 - geci-caller
@@ -31,7 +59,6 @@
 - Trinsic-Api
 - iemm
 - videoipath-automation-tool
-- nrn-beta
 - mlektic
 - re-browser-use
 - reflexsive
@@ -59,41 +86,9 @@
 - python-zatobox
 - methodnetworkscan
 - mavsdk
-- automagik-hive
 - pbi-parsers
 - mypy-boto3-sns
 - types-boto3-sns
 - types-boto3-securityhub
 - mypy-boto3-securityhub
 - mypy-boto3-pcs
-- types-boto3-pcs
-- cerebrium
-- mypy-boto3-observabilityadmin
-- types-boto3-observabilityadmin
-- mypy-boto3-lightsail
-- types-boto3-lightsail
-- mypy-boto3-auditmanager
-- types-boto3-auditmanager
-- python-office
-- mypy-boto3-acm-pca
-- mypy-boto3-aiops
-- fsai-proto-specs
-- types-boto3-aiops
-- types-boto3-acm-pca
-- mypy-boto3-arc-region-switch
-- types-boto3-arc-region-switch
-- cemento
-- archetypal
-- bimdata-api-client
-- polidoro-pipeline
-- funputer
-- popdf
-- django-itemlist
-- iplooker
-- flow360
-- agentle
-- SplIsoFind
-- SANDI
-- m24842-ml
-- boto3
-- awscli

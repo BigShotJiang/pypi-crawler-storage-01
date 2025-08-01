@@ -1,11 +1,11 @@
 {
   "name": "chisel-cli",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "Chisel CLI - Accelerate your Python functions with cloud GPUs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chisel_cli-0.1.29.tar.gz",
-  "download_time": "2025-08-01T19:48:52.405530",
+  "download_filename": "chisel_cli-0.1.30.tar.gz",
+  "download_time": "2025-08-01T20:16:11.542868",
   "package_url": "https://pypi.org/project/chisel-cli/"
 }

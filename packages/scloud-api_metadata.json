@@ -1,11 +1,11 @@
 {
   "name": "scloud-api",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "summary": "Python module to interface with the SellerCloud API",
   "author": "Robert Evans",
   "license": null,
   "home_page": "https://github.com/rmevans1/scloud_api",
-  "download_filename": "scloud_api-0.8.5.tar.gz",
-  "download_time": "2025-07-29T18:18:08.651311",
+  "download_filename": "scloud_api-0.8.6.tar.gz",
+  "download_time": "2025-08-01T20:15:54.210357",
   "package_url": "https://pypi.org/project/scloud-api/"
 }
