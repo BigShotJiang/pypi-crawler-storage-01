@@ -1,11 +1,11 @@
 {
   "name": "modapi",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Unified API for Modbus communication with support for RTU, TCP, and REST APIs",
   "author": "Tom Sapletta",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "modapi-0.2.2.tar.gz",
-  "download_time": "2025-08-01T13:11:25.856887",
+  "download_filename": "modapi-0.2.3.tar.gz",
+  "download_time": "2025-08-01T20:54:51.094262",
   "package_url": "https://pypi.org/project/modapi/"
 }

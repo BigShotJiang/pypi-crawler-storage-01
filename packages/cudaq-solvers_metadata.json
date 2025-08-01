@@ -1,0 +1,11 @@
+{
+  "name": "cudaq-solvers",
+  "version": "0.4.0",
+  "summary": "Accelerated libraries for quantum-classical solvers built on CUDA-Q",
+  "author": "NVIDIA Corporation & Affiliates",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cudaq_solvers-0.4.0-cp310-cp310-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-08-01T20:54:51.821875",
+  "package_url": "https://pypi.org/project/cudaq-solvers/"
+}

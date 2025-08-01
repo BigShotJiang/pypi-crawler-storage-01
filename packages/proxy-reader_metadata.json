@@ -1,11 +1,11 @@
 {
   "name": "proxy-reader",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Proxy reader for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxy_reader-2.1.0.tar.gz",
-  "download_time": "2025-08-01T20:37:03.029419",
+  "download_filename": "proxy_reader-2.1.1.tar.gz",
+  "download_time": "2025-08-01T20:54:44.524622",
   "package_url": "https://pypi.org/project/proxy-reader/"
 }
