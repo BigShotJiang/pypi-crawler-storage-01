@@ -1,0 +1,11 @@
+{
+  "name": "channels",
+  "version": "4.3.1",
+  "summary": "Brings async, event-driven capabilities to Django.",
+  "author": "Django Software Foundation",
+  "license": "BSD",
+  "home_page": "http://github.com/django/channels",
+  "download_filename": "channels-4.3.1.tar.gz",
+  "download_time": "2025-08-01T13:50:40.062300",
+  "package_url": "https://pypi.org/project/channels/"
+}

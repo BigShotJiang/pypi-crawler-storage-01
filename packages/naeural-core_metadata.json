@@ -1,11 +1,11 @@
 {
   "name": "naeural-core",
-  "version": "7.7.138",
+  "version": "7.7.139",
   "summary": "Ratio1 Core is the backbone of the Ratio1 Edge Protocol.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "naeural_core-7.7.138-py3-none-any.whl",
-  "download_time": "2025-07-31T20:54:17.311246",
+  "download_filename": "naeural_core-7.7.139-py3-none-any.whl",
+  "download_time": "2025-08-01T13:51:02.542512",
   "package_url": "https://pypi.org/project/naeural-core/"
 }

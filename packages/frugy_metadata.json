@@ -1,0 +1,11 @@
+{
+  "name": "frugy",
+  "version": "0.5.1",
+  "summary": "FRU Generator YAML",
+  "author": "Patrick Huesmann",
+  "license": "BSD",
+  "home_page": "https://techlab.desy.de",
+  "download_filename": "frugy-0.5.1.tar.gz",
+  "download_time": "2025-08-01T13:50:55.665704",
+  "package_url": "https://pypi.org/project/frugy/"
+}

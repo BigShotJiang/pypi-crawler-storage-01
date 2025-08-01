@@ -1,0 +1,11 @@
+{
+  "name": "CTkScrollableDropdownPP",
+  "version": "2.0.4",
+  "summary": "Enhanced CTkScrollableDropdown with pagination, search and groups support",
+  "author": "PLauncher-Team, Akash Bora",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctkscrollabledropdownpp-2.0.4.tar.gz",
+  "download_time": "2025-08-01T13:50:54.552423",
+  "package_url": "https://pypi.org/project/CTkScrollableDropdownPP/"
+}

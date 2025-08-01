@@ -1,0 +1,11 @@
+{
+  "name": "edc-appconfig",
+  "version": "1.0.3",
+  "summary": "Custom AppConfig for main app of clinicedc/edc projects",
+  "author": "Erik van Widenfelt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edc_appconfig-1.0.3.tar.gz",
+  "download_time": "2025-08-01T13:50:23.969736",
+  "package_url": "https://pypi.org/project/edc-appconfig/"
+}

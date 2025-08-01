@@ -1,0 +1,11 @@
+{
+  "name": "zenofai",
+  "version": "0.1.1",
+  "summary": "The Zen of GenAI, printed on import",
+  "author": "Anuj Sadani",
+  "license": null,
+  "home_page": "https://github.com/anuj-sadani-infrrd/zenofai",
+  "download_filename": "zenofai-0.1.1.tar.gz",
+  "download_time": "2025-08-01T13:50:20.488008",
+  "package_url": "https://pypi.org/project/zenofai/"
+}

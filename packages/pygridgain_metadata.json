@@ -1,0 +1,11 @@
+{
+  "name": "pygridgain",
+  "version": "1.6.0",
+  "summary": "GridGain binary client Python API",
+  "author": "GridGain Systems",
+  "license": "GridGain Community Edition License",
+  "home_page": "https://github.com/gridgain/python-thin-client",
+  "download_filename": "pygridgain-1.6.0.tar.gz",
+  "download_time": "2025-08-01T13:51:01.927598",
+  "package_url": "https://pypi.org/project/pygridgain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "argvs",
+  "version": "1.1.0",
+  "summary": "A simpler way to use sys.argvs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argvs-1.1.0.tar.gz",
+  "download_time": "2025-08-01T13:50:59.657293",
+  "package_url": "https://pypi.org/project/argvs/"
+}

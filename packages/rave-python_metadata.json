@@ -1,0 +1,11 @@
+{
+  "name": "rave-python",
+  "version": "1.4.2",
+  "summary": "Python library for Flutterwave for Business (F4B) v2 APIs.",
+  "author": "Flutterwave",
+  "license": "MIT",
+  "home_page": "https://github.com/Flutterwave/rave-python",
+  "download_filename": "rave_python-1.4.2.tar.gz",
+  "download_time": "2025-08-01T13:50:37.196336",
+  "package_url": "https://pypi.org/project/rave-python/"
+}
