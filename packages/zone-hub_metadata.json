@@ -1,11 +1,11 @@
 {
   "name": "zone-hub",
-  "version": "0.1.0.dev2",
+  "version": "0.1.0.dev4",
   "summary": "Zone framework for acceptance testing ",
   "author": "Stefan Zweig",
   "license": "Apache License 2.0",
   "home_page": "http://10.133.122.70/liuhaijiang/zmclient",
-  "download_filename": "zone_hub-0.1.0.dev2-py3-none-any.whl",
-  "download_time": "2025-07-29T14:16:47.736010",
+  "download_filename": "zone_hub-0.1.0.dev4-py3-none-any.whl",
+  "download_time": "2025-08-01T08:51:39.029607",
   "package_url": "https://pypi.org/project/zone-hub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "overinstall",
+  "version": "0.1.0",
+  "summary": "Auto-installs all Python dependencies for your project",
+  "author": "xxDawid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "overinstall-0.1.0.tar.gz",
+  "download_time": "2025-08-01T08:52:12.708460",
+  "package_url": "https://pypi.org/project/overinstall/"
+}

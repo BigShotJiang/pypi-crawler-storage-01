@@ -1,0 +1,11 @@
+{
+  "name": "gladhost-tlds",
+  "version": "1.0.0",
+  "summary": "library to retrieve and validate domain's TLD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gladhost_tlds-1.0.0.tar.gz",
+  "download_time": "2025-08-01T08:52:12.198589",
+  "package_url": "https://pypi.org/project/gladhost-tlds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "modbusim",
+  "version": "0.1.2",
+  "summary": "A Modbus RTU/ASCII/TCP device simulator for testing and development",
+  "author": "Tom Sapletta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modbusim-0.1.2.tar.gz",
+  "download_time": "2025-08-01T08:51:52.633733",
+  "package_url": "https://pypi.org/project/modbusim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "noos-inv",
+  "version": "0.2.9",
+  "summary": "Shared workflows across CI/CD pipelines",
+  "author": "Noos Energy",
+  "license": "MIT",
+  "home_page": "https://github.com/noosenergy/noos-invoke",
+  "download_filename": "noos_inv-0.2.9.tar.gz",
+  "download_time": "2025-08-01T08:52:05.961474",
+  "package_url": "https://pypi.org/project/noos-inv/"
+}

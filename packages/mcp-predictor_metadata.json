@@ -1,0 +1,11 @@
+{
+  "name": "mcp-predictor",
+  "version": "1.0.0",
+  "summary": "Simple Time Series Prediction Library",
+  "author": "MCP Predictor Team",
+  "license": null,
+  "home_page": "https://github.com/your-username/mcp-predictor",
+  "download_filename": "mcp_predictor-1.0.0.tar.gz",
+  "download_time": "2025-08-01T08:52:15.675673",
+  "package_url": "https://pypi.org/project/mcp-predictor/"
+}
