@@ -1,18 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T06:57:52.820608
-- **Total Packages**: 80
-- **Total Size**: 18.91 MB
+- **Download Time**: 2025-08-01T07:22:16.632137
+- **Total Packages**: 75
+- **Total Size**: 17.33 MB
 
 ## Packages List
-- fg-mobileJoystick
-- dbgear
-- langchain-zunno
+- tdfs4ds
+- flotorch
+- bosa-server-plugins-binary
 - entities-python
+- dataverse-api
+- alibabacloud-dysmsapi20180501
+- automagik-hive
+- Disc-Hub-DIA-FDR
+- mcp-http-tool
+- kisa-utils
+- allvoicelab-mcp
+- LeafSDK
+- texttoknowledgegraph
+- IservMultiTabReportsLib
+- rqdatac-risk-model
+- leaf-framework
+- kstflow
+- textpress
+- commit-gen-cli
+- DLMS-SPODES
+- synapse-sdk
+- foundry-platform-sdk
+- tf-models-nightly
+- lavajung
+- specforge
+- bk-plugin-runtime
+- dfdatetime
+- kcli
+- zohencel-ai
+- invenio-app-rdm
+- django-approval-workflow
+- llm-optimized-inference
+- django-content-editor
+- aliyun-mns-sdk
+- aa-taxsystem
+- dbgear
+- p189sign
+- dqbot
+- ocean-contracts
+- ErisPulse
+- media-agent-mcp
+- pancham
+- fg-mobileJoystick
+- langchain-zunno
 - kash-media
 - anna_agent
-- automagik-hive
 - responses-validator
 - molass
 - molass-legacy
@@ -29,7 +68,6 @@
 - kash-shell
 - odoo14-addon-l10n-es-vat-book
 - SODALMODEL
-- pancham
 - docstrange
 - kivy-reloader
 - phrase-api
@@ -43,46 +81,3 @@
 - ibm-cos-sdk
 - ibm-cos-sdk-s3transfer
 - ibm-cos-sdk-core
-- HoloAI
-- mitol-django-common
-- max-memory
-- pybaselib
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- scc-firewall-manager-sdk
-- fbx2glb
-- wliafe-mltools0
-- IservMultiTabReportsLib
-- eschallot
-- xproject
-- lean-lsp-mcp
-- cdk8s-awscdk-resolver
-- cdk8s
-- frinZ
-- petal-app-manager
-- jiajia
-- watsonx-agent-deploy
-- python-byzatic-commons
-- exosphere-cli
-- langflow-nightly
-- nonebot-plugin-abs
-- odoo-addon-fieldservice-availability
-- tool_call_models
-- ai-edge-litert-nightly
-- odoo-addon-sale-order-report-product-image
-- inopyutils
-- phoney-dictate
-- ommx-python-mip-adapter
-- ommx-pyscipopt-adapter
-- ommx-openjij-adapter
-- ommx-highs-adapter
-- pyg-nightly
-- ommx
-- alibabacloud-eds-aic20230930
-- gctele-iq
-- phylogenie
-- zohencel-ai
-- rdxz2-utill
-- dashscope
-- pulumi-aws-native
-- letta-nightly

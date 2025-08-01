@@ -1,11 +1,11 @@
 {
   "name": "p189sign",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "189 web disk signature.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/p189client/tree/main/modules/p189sign",
-  "download_filename": "p189sign-0.0.7.tar.gz",
-  "download_time": "2025-07-31T11:13:06.158338",
+  "download_filename": "p189sign-0.0.8.tar.gz",
+  "download_time": "2025-08-01T07:21:53.771841",
   "package_url": "https://pypi.org/project/p189sign/"
 }

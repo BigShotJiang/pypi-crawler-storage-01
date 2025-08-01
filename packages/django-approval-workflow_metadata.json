@@ -1,11 +1,11 @@
 {
   "name": "django-approval-workflow",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "A powerful, flexible Django package for implementing dynamic multi-step approval workflows",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "django_approval_workflow-0.4.0.tar.gz",
-  "download_time": "2025-07-30T07:45:09.124827",
+  "download_filename": "django_approval_workflow-0.5.1.tar.gz",
+  "download_time": "2025-08-01T07:21:50.699613",
   "package_url": "https://pypi.org/project/django-approval-workflow/"
 }

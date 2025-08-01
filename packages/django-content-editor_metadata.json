@@ -1,11 +1,11 @@
 {
   "name": "django-content-editor",
-  "version": "7.4.3",
+  "version": "7.4.4",
   "summary": "Editing structured content",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "django_content_editor-7.4.3.tar.gz",
-  "download_time": "2025-07-31T16:50:45.971607",
+  "download_filename": "django_content_editor-7.4.4.tar.gz",
+  "download_time": "2025-08-01T07:21:51.726475",
   "package_url": "https://pypi.org/project/django-content-editor/"
 }
