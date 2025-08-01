@@ -1,12 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T22:54:46.823554
-- **Total Packages**: 80
-- **Total Size**: 24.32 MB
+- **Download Time**: 2025-08-01T23:14:09.889189
+- **Total Packages**: 79
+- **Total Size**: 10.66 MB
 
 ## Packages List
+- nominal-api-protos
+- nominal-api
 - pyredis-om
+- django-dynforms
+- agrigee-lite
+- acp-plugin-gamesdk
+- superoptix
+- defenders-bane
+- copyfiles-cli
+- flwr-nightly
+- quick-sentiments
+- semantic-scholar-mcp
+- loone-data-prep
+- std-py-logger
+- wavinsentio
+- dragonfly-core
+- docu-lite-kit
+- pyrecfusionsdk
+- bn-lightweight-charts
+- m24842-ml
+- rustid
+- vellum-workflow-server
+- caskade
+- frads
+- pymultio
+- memory-tools-client
+- sdv
+- django-flatpages-extra
+- pdf2llm
+- meshtastic
+- letrbinr
+- tecton-runtime
+- q-bot
+- tecton
+- conductor-py
 - obk
 - omserv
 - ommlds
@@ -26,16 +60,12 @@
 - django-cap
 - clselove
 - datasure
-- django-flatpages-extra
 - inference-perf
-- bn-lightweight-charts
 - latch
-- docu-lite-kit
 - wallaroo
 - gh-templates-linux-arm64-glibc
 - gh-templates-linux-x64-glibc
 - nrel-bird
-- m24842-ml
 - gh-templates-linux-x64-musl
 - mccole
 - ta-sites
@@ -47,7 +77,6 @@
 - stockula
 - edazer
 - openinference-instrumentation-llama-index
-- pyrecfusionsdk
 - ringfit
 - robust-python-demo
 - feu
@@ -56,33 +85,3 @@
 - iugu-python-sdk
 - reflex-enterprise
 - pydot_flow
-- arize-phoenix-evals
-- gitlab-ci-verify
-- gitlab-ci-verify-bin
-- pyradiance
-- rms-oops
-- ambivo-mcp-server
-- nominal-api-protos
-- nominal-api
-- EmpireStateRunUp
-- grafi
-- sequence
-- hypothesis
-- distclust
-- shapepy
-- amonite
-- fusio-sdk
-- zenmav
-- spyndex
-- xtalx
-- regula-documentreader-webclient
-- browser-copilot
-- pipedream
-- deezspot-spotizerr
-- mcp-this-openapi
-- polyfeatures
-- ai-parrot
-- structifyai
-- policyengine-us
-- pyluwen
-- tecton-runtime

@@ -1,11 +1,11 @@
 {
   "name": "pdf2llm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Extract PDF content optimized for Large Language Model (LLM) consumption",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdf2llm-0.1.0.tar.gz",
-  "download_time": "2025-08-01T10:57:43.220847",
+  "download_filename": "pdf2llm-0.1.1.tar.gz",
+  "download_time": "2025-08-01T23:13:42.599414",
   "package_url": "https://pypi.org/project/pdf2llm/"
 }

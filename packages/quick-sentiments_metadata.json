@@ -1,0 +1,11 @@
+{
+  "name": "quick-sentiments",
+  "version": "0.2.0",
+  "summary": "Sentiment Analysis pipeline",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "quick_sentiments-0.2.0.tar.gz",
+  "download_time": "2025-08-01T23:13:33.193001",
+  "package_url": "https://pypi.org/project/quick-sentiments/"
+}
