@@ -1,0 +1,11 @@
+{
+  "name": "curses-helper",
+  "version": "0.3.2",
+  "summary": "Curses helper stuff.",
+  "author": "taitep",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/taitep/curses_helper",
+  "download_filename": "curses_helper-0.3.2.tar.gz",
+  "download_time": "2025-08-01T14:56:22.310348",
+  "package_url": "https://pypi.org/project/curses-helper/"
+}

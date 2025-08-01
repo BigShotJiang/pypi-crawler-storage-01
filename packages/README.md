@@ -1,16 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T14:43:29.059251
+- **Download Time**: 2025-08-01T14:57:03.331975
 - **Total Packages**: 86
-- **Total Size**: 31.45 MB
+- **Total Size**: 21.5 MB
 
 ## Packages List
+- C2H5OH
+- dataproc-spark-connect
+- jarvis-ai-assistant
+- pydantic-gitlab
+- moveshelf-api
+- jorvik
+- archetypal-stubs
+- OpenTAKServer
+- getstream-plugins-fal
+- tenzir
+- pyholos
+- curses-helper
+- neurodocker
+- xztools
+- deep-utils
+- aes-dfa
+- pip_and_pip_tools
+- supersafereverse
+- matrice
+- wandelbots-api-client
+- m24842-ml
+- avocavo
+- nonebot-plugin-botoffline-email
+- yardstick
+- mem0-embeddings-litellm-patch
+- snakestack
+- zealium
+- genome_info
+- rogtk
+- myexp
+- runch
+- rusty-tags
+- acmc
+- starhtml
+- kernels
+- CTkScrollableDropdownPP
+- localstack-extension-tailscale
+- fspacker
+- genlm-control
+- modal
+- tmnsokol727272
+- cosmoGW
+- ragflow-sdk
+- dao-ai
 - mtbs
 - arxiv-export-documents
 - pymongo-aggregate
 - SoL
-- avocavo
 - strainedsmiles2xyz
 - planet
 - coaiapy
@@ -19,9 +62,7 @@
 - projectframe
 - mcp-server-for-odoo-drk
 - intervalframe
-- mem0-embeddings-litellm-patch
 - colbertfinance
-- getstream-plugins-fal
 - ma1522-linear-algebra
 - api-to-pydantic-utils
 - hyperspy-gui-traitsui
@@ -32,7 +73,6 @@
 - speechscore
 - microimpute
 - queus
-- cosmoGW
 - rolfedh-doc-utils
 - deadline-cloud-for-houdini
 - python-mommy-venv
@@ -52,43 +92,3 @@
 - Things3-MCP-server
 - openaivec
 - ctxinject
-- acmc
-- tmnsokol727272
-- mcpo
-- dataconf
-- relife
-- protenix
-- cfengine
-- cdk-serverless-clamscan
-- nautobot-prometheus-sd
-- yeller
-- castor-extractor
-- lmnr
-- temporalgraphlib
-- emerge
-- lazylinop
-- sim-tools
-- pyemoncms
-- arraylake
-- pseek
-- netiob
-- kcli
-- ltc-client
-- wandelbots-api-client
-- mqt.qcec
-- mkdocs-llmstxt-md
-- aisberg
-- nonebot_plugin_suggarchat
-- haiku.rag
-- synapso-core
-- pandas-ta-classic
-- ansys-api-sherlock
-- pystow
-- maai
-- langgraph-agent-toolkit
-- sentry-protos
-- Brevia
-- sklearn-migrator
-- holobench
-- singlestore-mcp-server
-- ramifice

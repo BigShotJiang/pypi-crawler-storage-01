@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-botoffline-email",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "QQ Bot 掉线后使用 SMTP 发送邮件提醒",
   "author": "千秋紫莹",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_botoffline_email-0.0.1.tar.gz",
-  "download_time": "2025-08-01T10:44:57.838934",
+  "download_filename": "nonebot_plugin_botoffline_email-0.0.2.tar.gz",
+  "download_time": "2025-08-01T14:56:28.597488",
   "package_url": "https://pypi.org/project/nonebot-plugin-botoffline-email/"
 }

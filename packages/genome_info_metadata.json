@@ -1,0 +1,11 @@
+{
+  "name": "genome_info",
+  "version": "1.0.8",
+  "summary": "Python package genome annotations",
+  "author": "Kyle S. Smith",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/kylessmith/genome_info",
+  "download_filename": "genome_info-1.0.8.tar.gz",
+  "download_time": "2025-08-01T14:56:31.243052",
+  "package_url": "https://pypi.org/project/genome_info/"
+}

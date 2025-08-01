@@ -1,0 +1,11 @@
+{
+  "name": "dataproc-spark-connect",
+  "version": "0.8.3",
+  "summary": "Dataproc client library for Spark Connect",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/GoogleCloudDataproc/dataproc-spark-connect-python",
+  "download_filename": "dataproc_spark_connect-0.8.3.tar.gz",
+  "download_time": "2025-08-01T14:56:17.126776",
+  "package_url": "https://pypi.org/project/dataproc-spark-connect/"
+}

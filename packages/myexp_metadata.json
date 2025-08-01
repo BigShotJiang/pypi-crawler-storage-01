@@ -1,0 +1,11 @@
+{
+  "name": "myexp",
+  "version": "0.0.0",
+  "summary": "`myexp` is a Python library that simplifies the deployment, management, and execution of research experiments. It allows researchers to easily configure, deploy, and run experiments with flexible environment management and automation.",
+  "author": "Cai Jianping",
+  "license": "MIT Licence",
+  "home_page": null,
+  "download_filename": "myexp-0.0.0.tar.gz",
+  "download_time": "2025-08-01T14:56:32.348245",
+  "package_url": "https://pypi.org/project/myexp/"
+}
