@@ -1,0 +1,11 @@
+{
+  "name": "MultiTabReportsLib-kirill.avtonomov",
+  "version": "0.0.1",
+  "summary": "Для формирования xlsx отчета из нескольких csv файлов.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multitabreportslib_kirill_avtonomov-0.0.1.tar.gz",
+  "download_time": "2025-08-01T05:53:02.082807",
+  "package_url": "https://pypi.org/project/MultiTabReportsLib-kirill.avtonomov/"
+}

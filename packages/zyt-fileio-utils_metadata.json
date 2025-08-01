@@ -1,0 +1,11 @@
+{
+  "name": "zyt-fileio-utils",
+  "version": "0.2.0",
+  "summary": "A utility package of file io for Python projects",
+  "author": "ZhangYuetao",
+  "license": null,
+  "home_page": "https://github.com/VerySeriousMan/zyt_fileio_utils",
+  "download_filename": "zyt_fileio_utils-0.2.0.tar.gz",
+  "download_time": "2025-08-01T05:53:06.414674",
+  "package_url": "https://pypi.org/project/zyt-fileio-utils/"
+}

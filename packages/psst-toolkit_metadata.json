@@ -1,11 +1,11 @@
 {
   "name": "psst-toolkit",
-  "version": "3.0.0",
+  "version": "3.2.0",
   "summary": "Prompt Symbol Standard Technology - 88.6% token reduction with perfect semantic fidelity",
   "author": "Marc Goldstein",
   "license": "MIT",
   "home_page": "https://github.com/goldsteinmarcmd/psst",
-  "download_filename": "psst_toolkit-3.0.0.tar.gz",
-  "download_time": "2025-08-01T04:37:02.337328",
+  "download_filename": "psst_toolkit-3.2.0.tar.gz",
+  "download_time": "2025-08-01T05:53:18.444471",
   "package_url": "https://pypi.org/project/psst-toolkit/"
 }
