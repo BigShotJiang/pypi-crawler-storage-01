@@ -1,15 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T08:52:29.161617
-- **Total Packages**: 86
-- **Total Size**: 42.96 MB
+- **Download Time**: 2025-08-01T09:19:17.618710
+- **Total Packages**: 79
+- **Total Size**: 14.71 MB
 
 ## Packages List
+- gmri2fem
+- zpp_flow
+- tracelet
+- nnInteractive
+- ibm-continuous-delivery
+- galaxy-release-util
+- llmcompressor
+- mxlpy
+- easy-utils-dev
+- mcreweight
+- lark-helper
+- AOT-biomaps
+- celline
+- datagrok-celery-task
+- noetl
+- policyengine-uk
+- libreflow
+- fwdi
+- tcvectordb
+- ai-bot-agent
+- odoo12-addon-account-voucher-viewer
+- bc-stark-sdk
+- django-perf-rec
+- odoo12-addon-account-report-viewer
+- odoo12-addon-purchase-stock-viewer
+- modbusim
+- beyonddesk-backend
+- trolskgen
+- rqdatac-risk-model
+- livekit-plugins-reverie
+- openai-usage
+- tock-genai-core
+- e6data-python-connector
+- odoo12-addon-purchase-report-viewer
+- odoo12-addon-sale-report-viewer
+- abs-nosql-charts-core
+- modelforge-finetuning
+- odoo12-addon-sale-stock-viewer
+- UC2-REST
+- torchic
+- amaceing-toolkit
+- nami-surf
+- bedrock-agentcore-starter-toolkit
+- audio-devices
+- mlektic
+- fastapi-rtk
+- pulumi-checkly
+- pydantic-client
+- eses
 - LeafSDK
 - zone-hub
 - concept-sentinel-data-capturer
-- lark-helper
 - cloudquery-plugin-pb
 - ankaios-sdk
 - locust
@@ -27,68 +75,13 @@
 - tfp-nightly
 - oarepo-ui
 - tardis-em
-- modbusim
 - luna-usb
 - napari-tardis-em
 - dls-dodal
 - pyprojectx
 - xztools
-- e6data-python-connector
 - manim-themes
 - pyintervals
 - nonebot-plugin-alconna
 - dpdispatcher
 - py-qj-robots
-- django-approval-workflow
-- package-zengzh-greet
-- kuzu
-- tdfs4ds
-- reaktiv
-- iqm-qaoa
-- codemie-sdk-python
-- redbrick-sdk
-- ec2-metadata
-- banguard-api
-- cribl-control-plane
-- noos-inv
-- File-To
-- ampgen
-- torch-linode
-- qis
-- husqvarna-automower-ble
-- google-news-trends-mcp
-- janito
-- gdsfactoryplus
-- fitsbolt
-- halib
-- gladhost-tlds
-- overinstall
-- kuba
-- mlektic
-- gllm-inference-binary
-- agentsphere-desktop
-- mcp-predictor
-- libreflow-launcher
-- repello-argus-client
-- agent-knowledge-mcp
-- py-agent-tools
-- waterqsvg
-- py-schedulerx
-- glasscandle
-- UnOffical-TAGO-API
-- marlo-mcp
-- s2v-client
-- instana
-- idvpackage
-- octutilsprod
-- python-byzatic-commons
-- url-remote
-- edetek-words
-- amethyst-facet
-- excel-mcp-server
-- cloe-nessy
-- mwbot
-- fmpxx
-- mcp-server-tapd
-- odoo-addon-l10n-es-vat-book
-- pchjlib

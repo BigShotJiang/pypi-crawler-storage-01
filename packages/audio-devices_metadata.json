@@ -1,0 +1,11 @@
+{
+  "name": "audio-devices",
+  "version": "0.1.0",
+  "summary": "Cross-platform audio device enumeration library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "audio_devices-0.1.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-01T09:18:58.226259",
+  "package_url": "https://pypi.org/project/audio-devices/"
+}

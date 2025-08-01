@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-account-report-viewer",
+  "version": "12.0.1.0.1.99.dev2",
+  "summary": "Access Report submenu to Viewers",
+  "author": "Akretion",
+  "license": "AGPL-3",
+  "home_page": "http://www.akretion.com",
+  "download_filename": "odoo12_addon_account_report_viewer-12.0.1.0.1.99.dev2.tar.gz",
+  "download_time": "2025-08-01T09:18:46.967723",
+  "package_url": "https://pypi.org/project/odoo12-addon-account-report-viewer/"
+}

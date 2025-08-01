@@ -1,0 +1,11 @@
+{
+  "name": "tracelet",
+  "version": "0.0.9",
+  "summary": "Tracelet is an automagic pytorch metric exporter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracelet-0.0.9.tar.gz",
+  "download_time": "2025-08-01T09:18:36.126978",
+  "package_url": "https://pypi.org/project/tracelet/"
+}
