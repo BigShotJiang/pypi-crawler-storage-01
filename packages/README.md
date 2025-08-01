@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T17:40:41.272097
-- **Total Packages**: 69
-- **Total Size**: 31.69 MB
+- **Download Time**: 2025-08-01T17:54:54.828212
+- **Total Packages**: 82
+- **Total Size**: 21.25 MB
 
 ## Packages List
+- facade-message-bot-shared-models
+- livekit-plugins-knowlithic
+- rolint
+- ErisPulse
+- avocavo
+- canonmap
+- calita
+- cuetools
+- fastapi-rtk
+- MethylVerse
+- hyperpod-pytorch-job-template
+- automagik-hive
+- seamm-ff-util
+- django-revolution
+- gem-llm
+- clselove
+- cptd
+- logsentinelai
+- gradio-richtext
+- AiologySimilarity
+- videoipath-automation-tool
+- starhtml
+- ai-tool-registry
+- copier
+- esi-utils-textformat
+- python-chi
+- trossen-ai-data-collection-ui
+- rubigram-python
+- vivarium-public-health
+- vital
+- sima-cli
+- standardbots
+- blosc2-btune
+- h5ffmpeg
+- pCloudy-mcp
+- circuitpython-jled
+- graph-games-proto
+- cites-model
+- Invenio-Theme-TUW
+- layered-config-tree
+- pyreghdfe
 - firecrest-executor
 - hack4u.lp
 - digitalarzengine
@@ -14,9 +55,7 @@
 - evduty-api
 - gbd-mapping
 - coesi
-- django-revolution
 - streaq
-- gem-llm
 - pidalu-core
 - gs-quant
 - rust-pyfunc
@@ -29,10 +68,7 @@
 - felsen-analysis
 - risk-distributions
 - matrix-cli
-- gradio-richtext
-- standardbots
 - pezin
-- automagik-hive
 - vivarium
 - codeset
 - actrisk
@@ -40,7 +76,6 @@
 - vsflip
 - structlint
 - isoprompt
-- pyreghdfe
 - vivarium-testing-utils
 - database-mysql-local
 - decay-chains
@@ -53,25 +88,3 @@
 - meta-ads-mcp
 - alibabacloud-mse20190531
 - hcom
-- alibabacloud-csas20230120
-- gc7
-- alibabacloud-paillmtrace20240311
-- girder-import-tracker
-- tiled
-- scanpy-jupyter-roi
-- bioforklift
-- mkdocs-ai-summary-wcowin
-- pyatlan
-- medialaxis3d
-- agent-handler-sdk
-- janus-core
-- livekit-plugins-knowlithic
-- pyargman
-- MethylVerse
-- localsets
-- gitflow-analytics
-- tyba-client
-- modal
-- aci-mcp
-- mcp-feet-master
-- savepip

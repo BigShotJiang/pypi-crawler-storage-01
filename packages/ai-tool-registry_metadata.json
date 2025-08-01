@@ -1,0 +1,11 @@
+{
+  "name": "ai-tool-registry",
+  "version": "0.5.2",
+  "summary": "Advanced tool registration system for Anthropic Claude integration with automatic schema generation and validation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_tool_registry-0.5.2.tar.gz",
+  "download_time": "2025-08-01T17:54:23.624569",
+  "package_url": "https://pypi.org/project/ai-tool-registry/"
+}
