@@ -1,0 +1,11 @@
+{
+  "name": "django-cap",
+  "version": "0.3.0",
+  "summary": "Django implementation of Cap.js Server for Proof of Work captcha",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "django_cap-0.3.0.tar.gz",
+  "download_time": "2025-08-01T22:54:13.782883",
+  "package_url": "https://pypi.org/project/django-cap/"
+}

@@ -1,14 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T22:38:02.203274
-- **Total Packages**: 84
-- **Total Size**: 32.4 MB
+- **Download Time**: 2025-08-01T22:54:46.823554
+- **Total Packages**: 80
+- **Total Size**: 24.32 MB
 
 ## Packages List
+- pyredis-om
+- obk
+- omserv
+- ommlds
+- omlish
+- ominfra
+- omdev
+- omdev-cli
+- omdev-cext
+- driftpy
+- vellum-ai
+- statsig-python-core
+- multiolib
+- cyandrocel
+- reproject
+- liminal-cli
 - wkrq
-- pyDemonlistAPI
+- django-cap
+- clselove
+- datasure
+- django-flatpages-extra
+- inference-perf
+- bn-lightweight-charts
 - latch
+- docu-lite-kit
+- wallaroo
+- gh-templates-linux-arm64-glibc
+- gh-templates-linux-x64-glibc
+- nrel-bird
+- m24842-ml
+- gh-templates-linux-x64-musl
+- mccole
+- ta-sites
+- doxs
+- pyDemonlistAPI
 - quantconnect-stubs
 - obstore
 - graphlit-client
@@ -17,16 +49,12 @@
 - openinference-instrumentation-llama-index
 - pyrecfusionsdk
 - ringfit
-- clselove
 - robust-python-demo
-- docu-lite-kit
 - feu
 - openwisp-monitoring
-- gh-templates-linux-x64-musl
 - prime-sdk-py
 - iugu-python-sdk
 - reflex-enterprise
-- datasure
 - pydot_flow
 - arize-phoenix-evals
 - gitlab-ci-verify
@@ -39,7 +67,6 @@
 - EmpireStateRunUp
 - grafi
 - sequence
-- driftpy
 - hypothesis
 - distclust
 - shapepy
@@ -59,34 +86,3 @@
 - policyengine-us
 - pyluwen
 - tecton-runtime
-- tecton
-- lirayspy
-- sun-angles
-- unit-of-time
-- dayhoff-tools
-- pystatar
-- oorb-cli
-- coinbase-agentkit-strands-agents
-- pyspark-pi
-- zha-quirks
-- openwisp-controller
-- eucal
-- chalkpy
-- flooder
-- candyfloss
-- mojiza
-- nrel.routee.compass
-- yta-video-manim
-- celai
-- efax
-- databricks-labs-lakebridge
-- gcache
-- inference-sdk
-- uprock-sdk
-- inference-gpu
-- inference-cpu
-- inference-core
-- inference-cli
-- inference
-- spatialstudio
-- pyspark-data-sources

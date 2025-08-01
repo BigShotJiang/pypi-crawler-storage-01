@@ -1,11 +1,11 @@
 {
   "name": "docu-lite-kit",
-  "version": "0.1.0",
-  "summary": "🧾 pybonsai: Ultra-light Python code parser with optional cli and JSON output",
+  "version": "0.2.0",
+  "summary": "🧾 docu-lite-kit: Ultra-light cli/importable Python code parser tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docu_lite_kit-0.1.0.tar.gz",
-  "download_time": "2025-08-01T22:37:23.970159",
+  "download_filename": "docu_lite_kit-0.2.0.tar.gz",
+  "download_time": "2025-08-01T22:54:17.439520",
   "package_url": "https://pypi.org/project/docu-lite-kit/"
 }

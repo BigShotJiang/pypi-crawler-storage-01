@@ -1,0 +1,11 @@
+{
+  "name": "cyandrocel",
+  "version": "1.1.6",
+  "summary": "Android Automation Framework for real devices without root access",
+  "author": "Johannes Fischer",
+  "license": "MIT",
+  "home_page": "https://github.com/hansalemaos/cyandrocel",
+  "download_filename": "cyandrocel-1.1.6.tar.gz",
+  "download_time": "2025-08-01T22:54:11.178369",
+  "package_url": "https://pypi.org/project/cyandrocel/"
+}
