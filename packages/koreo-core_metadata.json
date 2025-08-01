@@ -1,0 +1,11 @@
+{
+  "name": "koreo-core",
+  "version": "0.1.15",
+  "summary": "Type-safe and testable KRM Templates and Workflows.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "koreo_core-0.1.15.tar.gz",
+  "download_time": "2025-08-01T21:51:13.410141",
+  "package_url": "https://pypi.org/project/koreo-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aws-solutions-constructs.aws-wafwebacl-alb",
-  "version": "2.90.0",
+  "version": "2.90.1",
   "summary": "CDK constructs for defining an AWS web WAF connected to an Application Load Balancer.",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_wafwebacl_alb-2.90.0.tar.gz",
-  "download_time": "2025-07-30T20:13:34.417412",
+  "download_filename": "aws_solutions_constructs_aws_wafwebacl_alb-2.90.1.tar.gz",
+  "download_time": "2025-08-01T21:51:22.170692",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-wafwebacl-alb/"
 }

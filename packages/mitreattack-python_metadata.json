@@ -1,0 +1,11 @@
+{
+  "name": "mitreattack-python",
+  "version": "5.0.0",
+  "summary": "MITRE ATT&CK python library",
+  "author": "MITRE ATT&CK, MITRE Corporation",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mitre-attack/mitreattack-python/",
+  "download_filename": "mitreattack-python-5.0.0.tar.gz",
+  "download_time": "2025-08-01T21:51:09.290919",
+  "package_url": "https://pypi.org/project/mitreattack-python/"
+}

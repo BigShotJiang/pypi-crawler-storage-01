@@ -1,0 +1,11 @@
+{
+  "name": "pyredis-om",
+  "version": "0.3.5",
+  "summary": "Object mappings, and more, for Redis.",
+  "author": "Redis OSS",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyredis_om-0.3.5.tar.gz",
+  "download_time": "2025-08-01T21:51:07.192036",
+  "package_url": "https://pypi.org/project/pyredis-om/"
+}
