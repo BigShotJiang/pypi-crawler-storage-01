@@ -1,0 +1,11 @@
+{
+  "name": "SODALMODEL",
+  "version": "0.1.2",
+  "summary": "SODAL (Secure Object Detection and Auto-Labeling Framework): A simple yet powerful CNN wrapper for object detection, auto-labeling, training, evaluation, and model security with password protection.",
+  "author": "Yotcheb Kandolo Jean",
+  "license": "MIT",
+  "home_page": "https://github.com/YKandoloJean/SMARTVISIONCNN",
+  "download_filename": "sodalmodel-0.1.2.tar.gz",
+  "download_time": "2025-08-01T06:57:20.946955",
+  "package_url": "https://pypi.org/project/SODALMODEL/"
+}

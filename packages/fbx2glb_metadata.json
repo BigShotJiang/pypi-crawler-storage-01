@@ -1,0 +1,11 @@
+{
+  "name": "fbx2glb",
+  "version": "0.1.0",
+  "summary": "Convert FBX files to GLB format for web-based 3D applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fbx2glb-0.1.0.tar.gz",
+  "download_time": "2025-08-01T06:57:33.775773",
+  "package_url": "https://pypi.org/project/fbx2glb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ibm-cos-sdk-s3transfer",
+  "version": "2.14.3",
+  "summary": "IBM S3 Transfer Manager",
+  "author": "IBM",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/IBM/ibm-cos-sdk-python-s3transfer",
+  "download_filename": "ibm_cos_sdk_s3transfer-2.14.3.tar.gz",
+  "download_time": "2025-08-01T06:57:29.093684",
+  "package_url": "https://pypi.org/project/ibm-cos-sdk-s3transfer/"
+}
