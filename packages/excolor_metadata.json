@@ -1,11 +1,11 @@
 {
   "name": "excolor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Extended colors for python",
   "author": "Tim Pyrkov",
   "license": "MIT License",
   "home_page": "https://github.com/timpyrkov/excolor",
-  "download_filename": "excolor-0.1.0.tar.gz",
-  "download_time": "2025-07-31T23:51:18.184547",
+  "download_filename": "excolor-0.1.1.tar.gz",
+  "download_time": "2025-08-01T10:15:10.219439",
   "package_url": "https://pypi.org/project/excolor/"
 }

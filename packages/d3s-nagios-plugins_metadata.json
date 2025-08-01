@@ -1,0 +1,11 @@
+{
+  "name": "d3s-nagios-plugins",
+  "version": "1.0.3",
+  "summary": "Collection of various Nagios plugins",
+  "author": "Vojtech Horky",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/d-iii-s/d3s-nagios-plugins",
+  "download_filename": "d3s_nagios_plugins-1.0.3.tar.gz",
+  "download_time": "2025-08-01T10:15:04.393864",
+  "package_url": "https://pypi.org/project/d3s-nagios-plugins/"
+}

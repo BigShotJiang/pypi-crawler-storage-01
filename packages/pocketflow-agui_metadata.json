@@ -1,0 +1,11 @@
+{
+  "name": "pocketflow-agui",
+  "version": "0.1.0",
+  "summary": "PocketFlow的AGUI扩展版本 - 支持前端事件回调的轻量级工作流编排框架",
+  "author": "AGUI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pocketflow-agui",
+  "download_filename": "pocketflow_agui-0.1.0.tar.gz",
+  "download_time": "2025-08-01T10:15:41.996830",
+  "package_url": "https://pypi.org/project/pocketflow-agui/"
+}

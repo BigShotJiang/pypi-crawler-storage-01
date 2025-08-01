@@ -1,0 +1,11 @@
+{
+  "name": "pollenisator-gui",
+  "version": "2.7.7",
+  "summary": "Pollenisator Client GUI",
+  "author": "AlgoSecure",
+  "license": null,
+  "home_page": "https://github.com/AlgoSecure/PollenisatorGUI",
+  "download_filename": "pollenisator_gui-2.7.7.tar.gz",
+  "download_time": "2025-08-01T10:15:24.873534",
+  "package_url": "https://pypi.org/project/pollenisator-gui/"
+}

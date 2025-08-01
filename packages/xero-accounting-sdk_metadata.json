@@ -1,0 +1,11 @@
+{
+  "name": "xero-accounting-sdk",
+  "version": "1.0.0",
+  "summary": "Xero's Accounting API that contains all the endpoints for managing accounting operations including accounts, attachments, batch payments, bank transactions, and other financial data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xero_accounting_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-01T10:14:53.624996",
+  "package_url": "https://pypi.org/project/xero-accounting-sdk/"
+}

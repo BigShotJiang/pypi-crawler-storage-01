@@ -1,11 +1,11 @@
 {
   "name": "moist_thermodynamics",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Constants and functions for the treatment of moist atmospheric thermodynamics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moist_thermodynamics-0.0.3.tar.gz",
-  "download_time": "2025-07-31T19:42:13.138804",
+  "download_filename": "moist_thermodynamics-0.0.4.tar.gz",
+  "download_time": "2025-08-01T10:15:17.399990",
   "package_url": "https://pypi.org/project/moist_thermodynamics/"
 }

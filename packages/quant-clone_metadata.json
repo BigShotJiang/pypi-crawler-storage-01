@@ -1,0 +1,11 @@
+{
+  "name": "quant-clone",
+  "version": "0.1.1",
+  "summary": "Generate a llama-quantize command to copy the quantization parameters of any GGUF",
+  "author": "electroglyph",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quant_clone-0.1.1.tar.gz",
+  "download_time": "2025-08-01T10:14:52.288417",
+  "package_url": "https://pypi.org/project/quant-clone/"
+}

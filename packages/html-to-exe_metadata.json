@@ -1,11 +1,11 @@
 {
   "name": "html-to-exe",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "Html to Exe is a simple GUI application to convert HTML files into executable files.",
   "author": "Dwi Bakti N Dev",
   "license": null,
   "home_page": "https://github.com/royhtml",
-  "download_filename": "html_to_exe-1.4.3.tar.gz",
-  "download_time": "2025-07-31T17:53:45.270653",
+  "download_filename": "html_to_exe-1.4.4.tar.gz",
+  "download_time": "2025-08-01T10:15:24.230645",
   "package_url": "https://pypi.org/project/html-to-exe/"
 }
