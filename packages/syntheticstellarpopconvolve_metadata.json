@@ -1,0 +1,11 @@
+{
+  "name": "syntheticstellarpopconvolve",
+  "version": "0.4",
+  "summary": "synthetic stellar pop convolve is a python package to convolve output of stellar population synthesis codes with star formation rates.",
+  "author": "David Hendriks",
+  "license": "gpl",
+  "home_page": "https://gitlab.com/dhendriks/syntheticstellarpopconvolve",
+  "download_filename": "syntheticstellarpopconvolve-0.4.tar.gz",
+  "download_time": "2025-08-01T18:18:25.997171",
+  "package_url": "https://pypi.org/project/syntheticstellarpopconvolve/"
+}

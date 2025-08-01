@@ -1,0 +1,11 @@
+{
+  "name": "aqtp",
+  "version": "0.9.0",
+  "summary": "Accurate Quantized Training library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aqtp-0.9.0.tar.gz",
+  "download_time": "2025-08-01T18:18:32.863769",
+  "package_url": "https://pypi.org/project/aqtp/"
+}
