@@ -1,0 +1,11 @@
+{
+  "name": "FileTo-Tools",
+  "version": "0.1.1",
+  "summary": "A Python module for file and directory operations",
+  "author": "WusRainy",
+  "license": null,
+  "home_page": "https://pypi.org/project/File-To/0.1.0/",
+  "download_filename": "fileto_tools-0.1.1.tar.gz",
+  "download_time": "2025-08-01T16:17:27.494563",
+  "package_url": "https://pypi.org/project/FileTo-Tools/"
+}

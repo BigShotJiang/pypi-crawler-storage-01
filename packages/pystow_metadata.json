@@ -1,11 +1,11 @@
 {
   "name": "pystow",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Easily pick a place to store data for your Python code",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "pystow-0.7.2.tar.gz",
-  "download_time": "2025-08-01T14:15:37.888955",
+  "download_filename": "pystow-0.7.3.tar.gz",
+  "download_time": "2025-08-01T16:17:30.502790",
   "package_url": "https://pypi.org/project/pystow/"
 }

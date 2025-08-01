@@ -1,0 +1,11 @@
+{
+  "name": "astrapay",
+  "version": "0.1.0",
+  "summary": "Lightweight Python SDK for M-Pesa STK Push by Astra Softwares",
+  "author": "Ishmael Bett",
+  "license": "MIT",
+  "home_page": "https://github.com/astrasoft/astrapay",
+  "download_filename": "astrapay-0.1.0.tar.gz",
+  "download_time": "2025-08-01T16:17:28.143889",
+  "package_url": "https://pypi.org/project/astrapay/"
+}
