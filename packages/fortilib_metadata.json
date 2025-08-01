@@ -1,0 +1,11 @@
+{
+  "name": "fortilib",
+  "version": "1.0.12",
+  "summary": "fortilib - a Python Library to interact with Fortigate Firewalls",
+  "author": "Daniel Zinke",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/telekom-mms/fortilib",
+  "download_filename": "fortilib-1.0.12.tar.gz",
+  "download_time": "2025-08-01T10:45:14.318741",
+  "package_url": "https://pypi.org/project/fortilib/"
+}

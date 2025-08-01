@@ -1,0 +1,11 @@
+{
+  "name": "mbls",
+  "version": "0.0.13",
+  "summary": "Model-Based Local Search algorithm designer built on Routix",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbls-0.0.13.tar.gz",
+  "download_time": "2025-08-01T10:45:04.870019",
+  "package_url": "https://pypi.org/project/mbls/"
+}

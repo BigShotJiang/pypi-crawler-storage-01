@@ -1,11 +1,11 @@
 {
   "name": "muffin-admin",
-  "version": "10.0.1",
+  "version": "11.0.0",
   "summary": "Admin interface for Muffin Framework",
   "author": "Kirill Klenov",
   "license": "MIT",
   "home_page": "https://github.com/klen/muffin-admin",
-  "download_filename": "muffin_admin-10.0.1.tar.gz",
-  "download_time": "2025-07-31T08:51:33.673798",
+  "download_filename": "muffin_admin-11.0.0.tar.gz",
+  "download_time": "2025-08-01T10:44:50.243289",
   "package_url": "https://pypi.org/project/muffin-admin/"
 }

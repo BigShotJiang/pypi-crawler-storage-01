@@ -1,0 +1,11 @@
+{
+  "name": "td-mion-orbitrap",
+  "version": "0.4.0",
+  "summary": "CLI pipeline for TD‑MION-Orbitrap thermograms, blanks, KMD",
+  "author": "Mihai Ciobanu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "td_mion_orbitrap-0.4.0.tar.gz",
+  "download_time": "2025-08-01T10:45:00.233755",
+  "package_url": "https://pypi.org/project/td-mion-orbitrap/"
+}

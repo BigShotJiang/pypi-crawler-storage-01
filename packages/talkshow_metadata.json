@@ -1,11 +1,11 @@
 {
   "name": "talkshow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Chat History Analysis and Visualization Tool",
   "author": "TalkShow Team",
   "license": "MIT",
-  "home_page": "https://github.com/talkshow/talkshow",
-  "download_filename": "talkshow-0.1.0.tar.gz",
-  "download_time": "2025-08-01T10:14:55.490943",
+  "home_page": "https://github.com/cjhgo/talkshow",
+  "download_filename": "talkshow-0.1.1.tar.gz",
+  "download_time": "2025-08-01T10:45:19.464988",
   "package_url": "https://pypi.org/project/talkshow/"
 }
