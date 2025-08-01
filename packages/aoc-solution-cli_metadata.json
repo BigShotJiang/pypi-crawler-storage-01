@@ -1,0 +1,11 @@
+{
+  "name": "aoc-solution-cli",
+  "version": "1.0.2",
+  "summary": "CLI for handling AoC solutions",
+  "author": "taitep",
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "aoc_solution_cli-1.0.2.tar.gz",
+  "download_time": "2025-08-01T15:37:35.376965",
+  "package_url": "https://pypi.org/project/aoc-solution-cli/"
+}

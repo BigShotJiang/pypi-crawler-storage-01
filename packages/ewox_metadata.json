@@ -1,11 +1,11 @@
 {
   "name": "ewox",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "summary": null,
   "author": "Martin Leo Prüss",
   "license": null,
   "home_page": null,
-  "download_filename": "ewox-1.8.2.tar.gz",
-  "download_time": "2025-07-31T11:52:09.720742",
+  "download_filename": "ewox-1.8.3.tar.gz",
+  "download_time": "2025-08-01T15:38:06.986284",
   "package_url": "https://pypi.org/project/ewox/"
 }

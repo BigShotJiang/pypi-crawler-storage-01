@@ -1,11 +1,11 @@
 {
   "name": "Scikit-longitudinal",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "summary": "Scikit-longitudinal is an open-source Python library for longitudinal data analysis, building on Scikit-learn's foundation with tools tailored for repeated measures data.",
   "author": "Provost Simon, Alex Freitas",
   "license": "MIT",
   "home_page": "https://github.com/simonprovost/scikit-longitudinal",
-  "download_filename": "scikit_longitudinal-0.0.10-py3-none-any.whl",
-  "download_time": "2025-08-01T11:31:52.310365",
+  "download_filename": "scikit_longitudinal-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-01T15:38:10.221158",
   "package_url": "https://pypi.org/project/Scikit-longitudinal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "openfl-nightly",
-  "version": "1.9.0.dev202507310",
+  "version": "1.9.0.dev202508010",
   "summary": "Federated Learning for the Edge",
   "author": "OpenFL Team",
   "license": null,
   "home_page": "https://github.com/securefederatedai/openfl",
-  "download_filename": "openfl_nightly-1.9.0.dev202507310.tar.gz",
-  "download_time": "2025-07-31T15:44:15.497437",
+  "download_filename": "openfl_nightly-1.9.0.dev202508010.tar.gz",
+  "download_time": "2025-08-01T15:37:42.870589",
   "package_url": "https://pypi.org/project/openfl-nightly/"
 }

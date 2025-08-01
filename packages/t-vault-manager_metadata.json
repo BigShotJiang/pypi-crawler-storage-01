@@ -1,0 +1,11 @@
+{
+  "name": "t-vault-manager",
+  "version": "1.0.3",
+  "summary": "Package for seamless interaction with the Bitwarden.",
+  "author": "Thoughtful",
+  "license": null,
+  "home_page": "https://www.thoughtful.ai/",
+  "download_filename": "t_vault_manager-1.0.3.tar.gz",
+  "download_time": "2025-08-01T15:37:31.673746",
+  "package_url": "https://pypi.org/project/t-vault-manager/"
+}
