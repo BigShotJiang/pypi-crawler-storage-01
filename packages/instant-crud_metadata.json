@@ -1,0 +1,11 @@
+{
+  "name": "instant-crud",
+  "version": "0.1.1",
+  "summary": "Generate REST APIs instantly from SQLModel definitions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instant_crud-0.1.1.tar.gz",
+  "download_time": "2025-08-01T19:48:53.431795",
+  "package_url": "https://pypi.org/project/instant-crud/"
+}

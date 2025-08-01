@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T19:39:55.072694
-- **Total Packages**: 90
-- **Total Size**: 13.02 MB
+- **Download Time**: 2025-08-01T19:49:35.273439
+- **Total Packages**: 91
+- **Total Size**: 5.24 MB
 
 ## Packages List
+- ai-proxy-core
+- graph-games-proto
+- plottery
+- UVR-resources
+- git-security-scanner
+- uproot-custom
+- darknet2any
+- vital
+- codearkt
+- chisel-cli
+- lambda-cloud-cli
+- instant-crud
+- yaapp
+- europarl
+- archetypal-stubs
+- rs-calculator
+- cudaq
+- types-eplus221
+- geci-caller
+- countries-dictionary
+- crystallize-ml
+- modelswrkpi
+- Trinsic-Api
+- iemm
+- videoipath-automation-tool
 - nrn-beta
 - mlektic
 - re-browser-use
@@ -31,7 +56,6 @@
 - muerte32crypt
 - catscan-terra
 - mat3ra-api-examples
-- lambda-cloud-cli
 - python-zatobox
 - methodnetworkscan
 - mavsdk
@@ -39,7 +63,6 @@
 - pbi-parsers
 - mypy-boto3-sns
 - types-boto3-sns
-- uproot-custom
 - types-boto3-securityhub
 - mypy-boto3-securityhub
 - mypy-boto3-pcs
@@ -62,13 +85,11 @@
 - cemento
 - archetypal
 - bimdata-api-client
-- videoipath-automation-tool
 - polidoro-pipeline
 - funputer
 - popdf
 - django-itemlist
 - iplooker
-- countries-dictionary
 - flow360
 - agentle
 - SplIsoFind
@@ -76,23 +97,3 @@
 - m24842-ml
 - boto3
 - awscli
-- answerrocket-client
-- pygpt-net
-- tagoio-sdk
-- agi-med-common
-- tunacode-cli
-- ztick
-- sshreader
-- tobiko-cloud-helpers
-- git-security-scanner
-- tobiko-cloud-pydantic
-- tobiko-cloud-api-client
-- meta-ads-mcp
-- lerobot
-- annotatedyaml
-- esi-utils-time
-- tatami
-- graph-games-proto
-- regress-lm
-- stockula
-- bitbadgespy-sdk

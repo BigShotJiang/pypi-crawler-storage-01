@@ -1,0 +1,11 @@
+{
+  "name": "europarl",
+  "version": "0.1.2",
+  "summary": "A Python HTTP client for accessing and analyzing European Parliament data",
+  "author": "robincvlr",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "europarl-0.1.2.tar.gz",
+  "download_time": "2025-08-01T19:48:54.455518",
+  "package_url": "https://pypi.org/project/europarl/"
+}

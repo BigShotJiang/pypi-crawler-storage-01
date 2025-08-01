@@ -1,0 +1,11 @@
+{
+  "name": "iemm",
+  "version": "0.1.0",
+  "summary": "Iterative Evidential Mistakeness Minimization - Explainable Evidential Clustering",
+  "author": "Victor Souza",
+  "license": null,
+  "home_page": "https://github.com/victorsouza89/iemm",
+  "download_filename": "iemm-0.1.0.tar.gz",
+  "download_time": "2025-08-01T19:48:59.602287",
+  "package_url": "https://pypi.org/project/iemm/"
+}
