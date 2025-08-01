@@ -1,11 +1,11 @@
 {
   "name": "actrisk",
-  "version": "0.1.0.2",
-  "summary": "Of the Actuary, By the Actuary, For the Actuary: A Python package for actuarial risk modeling and simulation",
-  "author": "Juntao Zhang, Tingting Shi",
+  "version": "0.1.0.5",
+  "summary": "Of the Actuary, By the Actuary, For the Actuary: A ZNSTARS Python package for actuarial risk modeling and simulation",
+  "author": "Juntao Zhang",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "actrisk-0.1.0.2.tar.gz",
-  "download_time": "2025-07-31T04:53:44.378810",
+  "download_filename": "actrisk-0.1.0.5.tar.gz",
+  "download_time": "2025-08-01T17:40:15.455498",
   "package_url": "https://pypi.org/project/actrisk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "scanpy-jupyter-roi",
+  "version": "0.1.2",
+  "summary": "An interactive tool for drawing and filtering regions of interest on AnnData/ScanPy spatial data.",
+  "author": "Adam Catto",
+  "license": null,
+  "home_page": "https://github.com/adamcatto/scanpy_jupyter_roi",
+  "download_filename": "scanpy_jupyter_roi-0.1.2.tar.gz",
+  "download_time": "2025-08-01T17:40:30.831759",
+  "package_url": "https://pypi.org/project/scanpy-jupyter-roi/"
+}

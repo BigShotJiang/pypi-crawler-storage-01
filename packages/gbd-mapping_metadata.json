@@ -1,0 +1,11 @@
+{
+  "name": "gbd-mapping",
+  "version": "4.1.6",
+  "summary": "A programmatically accessible mapping of gbd entities.",
+  "author": "The vivarium developers",
+  "license": null,
+  "home_page": "https://github.com/ihmeuw/gbd_mapping",
+  "download_filename": "gbd_mapping-4.1.6.tar.gz",
+  "download_time": "2025-08-01T17:40:01.024686",
+  "package_url": "https://pypi.org/project/gbd-mapping/"
+}

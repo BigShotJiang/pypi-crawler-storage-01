@@ -1,11 +1,11 @@
 {
   "name": "gc7",
-  "version": "0.1.1",
-  "summary": "Un module avec plein d'outils utiles pour devs en PyMoX (**Py**thon - Mojo - FletX)",
+  "version": "0.1.2",
+  "summary": "Un module avec plein d'outils utiles pour devs en PyMoX (PY-thon - MO-jo - Flet-X)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gc7-0.1.1.tar.gz",
-  "download_time": "2025-08-01T16:48:11.234869",
+  "download_filename": "gc7-0.1.2.tar.gz",
+  "download_time": "2025-08-01T17:40:28.329400",
   "package_url": "https://pypi.org/project/gc7/"
 }

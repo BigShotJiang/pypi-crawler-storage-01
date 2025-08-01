@@ -1,0 +1,11 @@
+{
+  "name": "hack4u.lp",
+  "version": "0.1.1",
+  "summary": "Una biblioteca para consultar cursos de hack4u.",
+  "author": "LePiccasso",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "hack4u_lp-0.1.1.tar.gz",
+  "download_time": "2025-08-01T17:39:57.804831",
+  "package_url": "https://pypi.org/project/hack4u.lp/"
+}

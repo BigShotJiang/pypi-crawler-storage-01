@@ -1,0 +1,11 @@
+{
+  "name": "copilotkit",
+  "version": "0.1.58",
+  "summary": "CopilotKit python SDK",
+  "author": "Markus Ecker",
+  "license": "MIT",
+  "home_page": "https://copilotkit.ai",
+  "download_filename": "copilotkit-0.1.58.tar.gz",
+  "download_time": "2025-08-01T17:39:59.079717",
+  "package_url": "https://pypi.org/project/copilotkit/"
+}
