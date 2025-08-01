@@ -1,0 +1,11 @@
+{
+  "name": "annotatedyaml",
+  "version": "1.0.0",
+  "summary": "Annotated YAML that supports secrets for Python",
+  "author": "Home Assistant Devs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "annotatedyaml-1.0.0.tar.gz",
+  "download_time": "2025-08-01T19:29:31.520283",
+  "package_url": "https://pypi.org/project/annotatedyaml/"
+}

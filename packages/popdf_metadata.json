@@ -1,0 +1,11 @@
+{
+  "name": "popdf",
+  "version": "1.0.6",
+  "summary": "pip install popdf",
+  "author": "CoderWanFeng",
+  "license": "MIT",
+  "home_page": "https://www.python-office.com/",
+  "download_filename": "popdf-1.0.6.tar.gz",
+  "download_time": "2025-08-01T19:29:17.159147",
+  "package_url": "https://pypi.org/project/popdf/"
+}

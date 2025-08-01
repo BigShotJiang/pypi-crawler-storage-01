@@ -1,18 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T19:14:04.607722
+- **Download Time**: 2025-08-01T19:29:57.412657
 - **Total Packages**: 84
-- **Total Size**: 30.2 MB
+- **Total Size**: 40.09 MB
 
 ## Packages List
-- arthur-client
+- python-office
+- fsai-proto-specs
+- types-boto3-acm-pca
+- cemento
+- archetypal
+- bimdata-api-client
 - videoipath-automation-tool
-- rapids-build-backend
+- polidoro-pipeline
+- funputer
+- popdf
+- django-itemlist
+- lambda-cloud-cli
+- iplooker
+- countries-dictionary
+- flow360
+- agentle
+- SplIsoFind
+- SANDI
+- m24842-ml
+- boto3
+- awscli
+- answerrocket-client
+- pygpt-net
+- tagoio-sdk
+- agi-med-common
+- tunacode-cli
+- ztick
+- sshreader
+- tobiko-cloud-helpers
+- git-security-scanner
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- meta-ads-mcp
+- lerobot
+- annotatedyaml
+- esi-utils-time
+- tatami
+- canonmap
+- graph-games-proto
+- regress-lm
+- agentic-skill-planner
+- stockula
 - bitbadgespy-sdk
+- sdv
+- edc-appointment
+- tako-sdk
+- pycarlo
+- example-package-mohammadmgh78
+- arcade-ai
+- arcade-core
+- claude-code-cost
+- arthur-client
+- rapids-build-backend
 - apsw-sqlite3mc
 - daily-evapotranspiration-upscaling
-- lambda-cloud-cli
 - tfrunner
 - moderatelyai-sdk
 - visivo
@@ -27,7 +75,6 @@
 - matcha-ml
 - maps4fs
 - edc-appointment-app
-- pycarlo
 - nrn-beta
 - architect-py
 - stjames
@@ -35,7 +82,6 @@
 - cybrid-api-organization-python
 - cybrid-api-id-python
 - quotientai
-- agentle
 - evolutionary-policy-optimization
 - planet
 - adverse-event-app
@@ -44,49 +90,3 @@
 - SisC
 - litewave-ml-models-yield-data-analysis
 - litewave-ml-models-signature
-- gitlab_evaluate
-- c1s-slingshot-sdk-py
-- smallneuron
-- devint
-- uqbar
-- appyter
-- dyff-audit
-- diffoscope
-- agi-med-common
-- stockula
-- m24842-ml
-- pCloudy-mcp
-- django-revolution
-- simile
-- sr2t
-- rxfoundry.clients.p2rx-api
-- df2tables
-- ErisPulse
-- mailbox-org-api
-- PyCodeBox
-- silver-platter
-- tako-sdk
-- canonmap
-- pt-loop
-- dapr-agents
-- scubatrace
-- textual
-- unstructured-ingest
-- kmport
-- PM-JPL
-- taegis-sdk-python
-- scgraph
-- llama-cloud
-- biosignal-device-interface
-- logic-weave
-- bioforklift
-- t-nextgen
-- mlektic
-- tobiko-cloud-pydantic
-- pydroplet
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- chia-rs
-- reflexsive
-- google-sheets-sdk
-- atlib

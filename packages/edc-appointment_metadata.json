@@ -1,0 +1,11 @@
+{
+  "name": "edc-appointment",
+  "version": "1.1.2",
+  "summary": "Appointment module for clinicedc/edc projects",
+  "author": "Erik van Widenfelt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edc_appointment-1.1.2.tar.gz",
+  "download_time": "2025-08-01T19:29:36.781287",
+  "package_url": "https://pypi.org/project/edc-appointment/"
+}
