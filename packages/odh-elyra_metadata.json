@@ -1,0 +1,11 @@
+{
+  "name": "odh-elyra",
+  "version": "4.2.3",
+  "summary": "Elyra provides AI Centric extensions to JupyterLab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odh_elyra-4.2.3.tar.gz",
+  "download_time": "2025-08-01T11:31:53.875544",
+  "package_url": "https://pypi.org/project/odh-elyra/"
+}

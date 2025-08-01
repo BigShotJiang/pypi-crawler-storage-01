@@ -1,11 +1,11 @@
 {
   "name": "eses",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A library for sending donation requests with proxy rotation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eses-1.0.3.tar.gz",
-  "download_time": "2025-08-01T10:57:47.861128",
+  "download_filename": "eses-1.0.4.tar.gz",
+  "download_time": "2025-08-01T11:31:48.142834",
   "package_url": "https://pypi.org/project/eses/"
 }

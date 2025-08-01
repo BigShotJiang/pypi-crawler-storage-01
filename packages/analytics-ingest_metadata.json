@@ -1,11 +1,11 @@
 {
   "name": "analytics-ingest",
-  "version": "0.1.71",
+  "version": "0.1.72",
   "summary": "- ReadME updated.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "analytics_ingest-0.1.71.tar.gz",
-  "download_time": "2025-07-31T16:17:50.715918",
+  "download_filename": "analytics_ingest-0.1.72.tar.gz",
+  "download_time": "2025-08-01T11:31:43.463472",
   "package_url": "https://pypi.org/project/analytics-ingest/"
 }

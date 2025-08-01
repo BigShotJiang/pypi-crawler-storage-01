@@ -1,11 +1,11 @@
 {
   "name": "netbox-cvexplorer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "NetBox Plugin zur Anzeige und Verwaltung von CVE-Informationen",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netbox_cvexplorer-1.0.1.tar.gz",
-  "download_time": "2025-07-30T17:00:41.239085",
+  "download_filename": "netbox_cvexplorer-1.0.2.tar.gz",
+  "download_time": "2025-08-01T11:31:46.060086",
   "package_url": "https://pypi.org/project/netbox-cvexplorer/"
 }

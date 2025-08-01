@@ -1,11 +1,11 @@
 {
   "name": "dexray-intercept",
-  "version": "0.2.9.0",
+  "version": "0.2.9.3",
   "summary": "This project is part of the dynamic Sandbox Sandroid. Its purpose is to create runtime profiles to track the behavior of an Android application. This is done utilizing frida.",
   "author": "Daniel Baier, Jan-Niclas Hilgert",
   "license": "GPL v3",
   "home_page": "https://github.com/fkie-cad/Sandroid_Dexray-Intercept",
-  "download_filename": "dexray_intercept-0.2.9.0.tar.gz",
-  "download_time": "2025-07-31T11:12:51.268110",
+  "download_filename": "dexray_intercept-0.2.9.3.tar.gz",
+  "download_time": "2025-08-01T11:31:54.397081",
   "package_url": "https://pypi.org/project/dexray-intercept/"
 }

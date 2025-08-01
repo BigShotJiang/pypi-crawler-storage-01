@@ -1,11 +1,11 @@
 {
   "name": "yxmb-compat-engine",
-  "version": "2025.7.31.5",
+  "version": "2025.8.1.0",
   "summary": "宇信慢病兼容版引擎",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yxmb_compat_engine-2025.7.31.5.tar.gz",
-  "download_time": "2025-07-31T06:55:40.488626",
+  "download_filename": "yxmb_compat_engine-2025.8.1.0.tar.gz",
+  "download_time": "2025-08-01T11:31:43.981700",
   "package_url": "https://pypi.org/project/yxmb-compat-engine/"
 }

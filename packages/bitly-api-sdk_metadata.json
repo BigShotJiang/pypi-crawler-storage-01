@@ -1,0 +1,11 @@
+{
+  "name": "bitly-api-sdk",
+  "version": "1.0.0",
+  "summary": "The Bitly API provides programmatic access to URL shortening and link management services, enabling developers to create, manage, and analyze shortened links, campaigns, and organizations through authenticated REST endpoints.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitly_api_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-01T11:31:37.164820",
+  "package_url": "https://pypi.org/project/bitly-api-sdk/"
+}
