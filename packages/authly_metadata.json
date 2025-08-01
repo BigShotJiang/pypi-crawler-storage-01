@@ -1,0 +1,11 @@
+{
+  "name": "authly",
+  "version": "0.5.1",
+  "summary": "Authorization & User Token Handling Layer for You",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "authly-0.5.1.tar.gz",
+  "download_time": "2025-08-01T10:57:55.541255",
+  "package_url": "https://pypi.org/project/authly/"
+}

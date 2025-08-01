@@ -1,0 +1,11 @@
+{
+  "name": "py-readonlyx",
+  "version": "1.0.0",
+  "summary": "Lightweight Python Read-Only Property Decorator",
+  "author": "py-readonlyx",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yourusername/py-readonlyx",
+  "download_filename": "py_readonlyx-1.0.0.tar.gz",
+  "download_time": "2025-08-01T10:57:50.928700",
+  "package_url": "https://pypi.org/project/py-readonlyx/"
+}

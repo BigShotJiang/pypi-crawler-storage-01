@@ -1,11 +1,11 @@
 {
   "name": "docsray",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "Document Question-Answering System with MCP Integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docsray-1.8.0.tar.gz",
-  "download_time": "2025-07-31T04:13:09.877467",
+  "download_filename": "docsray-1.9.0.tar.gz",
+  "download_time": "2025-08-01T10:57:57.587375",
   "package_url": "https://pypi.org/project/docsray/"
 }

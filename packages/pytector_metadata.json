@@ -1,0 +1,11 @@
+{
+  "name": "pytector",
+  "version": "0.2.0",
+  "summary": "A package for detecting prompt injections in text using Open-Source LLMs.",
+  "author": "Max Melchior Lang",
+  "license": null,
+  "home_page": "https://github.com/MaxMLang/pytector",
+  "download_filename": "pytector-0.2.0.tar.gz",
+  "download_time": "2025-08-01T10:57:40.658772",
+  "package_url": "https://pypi.org/project/pytector/"
+}

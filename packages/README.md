@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T10:45:31.915333
-- **Total Packages**: 84
-- **Total Size**: 40.47 MB
+- **Download Time**: 2025-08-01T10:58:26.525377
+- **Total Packages**: 86
+- **Total Size**: 11.95 MB
 
 ## Packages List
+- django-password-rotate
+- pytector
+- ltc-client
+- panther
+- pyttman-plugin-openai
+- pdf2llm
+- dragon-ml-toolbox
+- darknet2any
+- osdatahub
+- sfzen
+- python-mommy-venv
+- konduktor-nightly
+- PyProBE-Data
+- eses
+- odoo-addon-mail-activity-team
+- odoo-addon-mail-post-defer
+- rolfedh-doc-utils
+- zfb3-1
+- hpcflow-new2
+- py-readonlyx
+- trainy-policy-nightly
+- Auto-Sklong
+- astronomer-orbis
+- pinotify
+- model-template-builder
+- jaguardb-http-client
+- cognize
+- authly
+- reyweb
+- lazy-mysql
+- traveltimepy
+- docsray
+- rcabench-platform
+- letta-nightly
+- vyomcloudbridge
+- llm-codegen-research
+- pepperize.projen-awscdk-app-ts
 - sbom2doc
 - ofwat-dqchecks
-- pinotify
 - pybrave
 - bowshockpy
 - sumtyme
@@ -28,7 +64,6 @@
 - libreflow
 - haiway
 - TypeDAL
-- eses
 - odoo-configurator
 - dapu
 - alibabacloud-websitebuild20250429
@@ -38,7 +73,6 @@
 - openepd
 - nonebot-plugin-botoffline-email
 - pytest-dsl-ui
-- hpcflow-new2
 - trello-sdk
 - td-mion-orbitrap
 - volcengine-python-sdk
@@ -46,7 +80,6 @@
 - aliyun-python-sdk-websitebuild
 - dcchbot
 - montagu-deploy
-- django-password-rotate
 - mbls
 - localcosmos-app-kit
 - dulwich
@@ -59,34 +92,3 @@
 - Geode-Implicit
 - s6r-odoo
 - cmem-cmemc
-- oskar
-- collibra-connector
-- routix
-- fortilib
-- lightman_ai
-- seam
-- Tigor
-- mozilla-django-oidc-db
-- agrigee-lite
-- pozalabs-compose
-- gov-uk-dashboards
-- talkshow
-- funpayparsers
-- idvpackage
-- pyPreservica
-- liminal-cli
-- daraja-python
-- muffin-rest
-- AOT-biomaps
-- daytona_sdk
-- daytona
-- OpenGeode-GeosciencesIO
-- daytona_api_client
-- daytona_api_client_async
-- tinybird
-- relationalai
-- invenio-checks
-- quant-clone
-- pyxetabase
-- xero-accounting-sdk
-- arthur-client
