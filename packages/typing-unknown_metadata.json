@@ -1,0 +1,11 @@
+{
+  "name": "typing-unknown",
+  "version": "0.1.1",
+  "summary": "Defines an Unknown type, more strict than `object`",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typing_unknown-0.1.1.tar.gz",
+  "download_time": "2025-08-01T21:22:55.723195",
+  "package_url": "https://pypi.org/project/typing-unknown/"
+}

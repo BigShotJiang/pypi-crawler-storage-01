@@ -1,0 +1,11 @@
+{
+  "name": "enderchest",
+  "version": "0.1.7",
+  "summary": "syncing and linking for all your Minecraft instances",
+  "author": "Gili \"OpenBagTwo\" Barlev",
+  "license": "GPL v3",
+  "home_page": "https://github.com/OpenBagTwo/EnderChest",
+  "download_filename": "enderchest-0.1.7.tar.gz",
+  "download_time": "2025-08-01T21:23:00.981207",
+  "package_url": "https://pypi.org/project/enderchest/"
+}

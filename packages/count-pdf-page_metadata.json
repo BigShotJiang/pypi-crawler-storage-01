@@ -1,0 +1,11 @@
+{
+  "name": "count-pdf-page",
+  "version": "0.1.1",
+  "summary": "A Python package for counting pages in PDF files and generating markdown reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "count_pdf_page-0.1.1.tar.gz",
+  "download_time": "2025-08-01T21:22:54.563203",
+  "package_url": "https://pypi.org/project/count-pdf-page/"
+}
