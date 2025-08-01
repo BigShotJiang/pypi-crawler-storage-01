@@ -1,11 +1,11 @@
 {
   "name": "hpe",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "summary": "Hamid Py Engine",
   "author": "Alireza Enhessari",
   "license": "Custom License",
   "home_page": null,
-  "download_filename": "hpe-1.5.0.tar.gz",
-  "download_time": "2025-08-01T13:50:42.328912",
+  "download_filename": "hpe-1.7.0.tar.gz",
+  "download_time": "2025-08-01T14:15:54.605726",
   "package_url": "https://pypi.org/project/hpe/"
 }

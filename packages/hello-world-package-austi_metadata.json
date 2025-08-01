@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-package-austi",
+  "version": "0.1.0",
+  "summary": "A simple hello world package",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hello-world-package",
+  "download_filename": "hello_world_package_austi-0.1.0.tar.gz",
+  "download_time": "2025-08-01T14:16:01.344604",
+  "package_url": "https://pypi.org/project/hello-world-package-austi/"
+}

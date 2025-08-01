@@ -1,11 +1,11 @@
 {
   "name": "methodosintscan",
-  "version": "0.0.49",
+  "version": "0.0.50",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "methodosintscan-0.0.49.tar.gz",
-  "download_time": "2025-07-31T22:13:47.386765",
+  "download_filename": "methodosintscan-0.0.50.tar.gz",
+  "download_time": "2025-08-01T14:16:19.641572",
   "package_url": "https://pypi.org/project/methodosintscan/"
 }

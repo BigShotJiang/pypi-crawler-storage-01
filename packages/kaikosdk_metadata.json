@@ -1,0 +1,11 @@
+{
+  "name": "kaikosdk",
+  "version": "1.28.0",
+  "summary": "Kaiko SDK",
+  "author": "Kaiko",
+  "license": "MIT",
+  "home_page": "https://www.kaiko.com/",
+  "download_filename": "kaikosdk-1.28.0.tar.gz",
+  "download_time": "2025-08-01T14:15:45.211209",
+  "package_url": "https://pypi.org/project/kaikosdk/"
+}

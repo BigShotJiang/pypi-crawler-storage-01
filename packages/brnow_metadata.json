@@ -1,11 +1,11 @@
 {
   "name": "brnow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "TTS BRNOW ABS-G",
   "author": "BRNOW",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brnow-0.1.1.tar.gz",
-  "download_time": "2025-08-01T13:11:42.712505",
+  "download_filename": "brnow-0.1.2.tar.gz",
+  "download_time": "2025-08-01T14:15:52.420232",
   "package_url": "https://pypi.org/project/brnow/"
 }

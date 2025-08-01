@@ -1,11 +1,11 @@
 {
   "name": "aisberg",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Aisberg SDK for Python - A simple and powerful SDK to interact with the Aisberg API",
   "author": "Free Pro",
   "license": "Private License",
   "home_page": null,
-  "download_filename": "aisberg-0.3.1.tar.gz",
-  "download_time": "2025-08-01T10:15:20.457766",
+  "download_filename": "aisberg-0.4.0.tar.gz",
+  "download_time": "2025-08-01T14:15:34.794790",
   "package_url": "https://pypi.org/project/aisberg/"
 }

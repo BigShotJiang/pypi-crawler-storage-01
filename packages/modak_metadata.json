@@ -1,0 +1,11 @@
+{
+  "name": "modak",
+  "version": "0.3.8",
+  "summary": "A simple, opinionated task manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modak-0.3.8.tar.gz",
+  "download_time": "2025-08-01T14:15:46.240607",
+  "package_url": "https://pypi.org/project/modak/"
+}

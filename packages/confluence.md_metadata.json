@@ -1,0 +1,11 @@
+{
+  "name": "confluence.md",
+  "version": "0.4.9",
+  "summary": "Markdown to Confluence - upload any .md files to your Confluence cloud page",
+  "author": "Szymon Nieradka",
+  "license": "MIT",
+  "home_page": "https://github.com/szn/confluence.md",
+  "download_filename": "confluence_md-0.4.9.tar.gz",
+  "download_time": "2025-08-01T14:16:19.128970",
+  "package_url": "https://pypi.org/project/confluence.md/"
+}

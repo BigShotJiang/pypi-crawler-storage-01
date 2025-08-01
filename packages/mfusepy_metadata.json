@@ -1,0 +1,11 @@
+{
+  "name": "mfusepy",
+  "version": "3.0.0",
+  "summary": "Ctypes bindings for the high-level API in libfuse 2 and 3",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "mfusepy-3.0.0.tar.gz",
+  "download_time": "2025-08-01T14:15:48.296849",
+  "package_url": "https://pypi.org/project/mfusepy/"
+}

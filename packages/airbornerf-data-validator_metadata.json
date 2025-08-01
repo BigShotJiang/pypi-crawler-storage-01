@@ -1,0 +1,11 @@
+{
+  "name": "airbornerf-data-validator",
+  "version": "1.1.2",
+  "summary": "Tool for verifying compliance with AirborneRF data requirements",
+  "author": "Dimetor GmbH",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "airbornerf_data_validator-1.1.2.tar.gz",
+  "download_time": "2025-08-01T14:16:20.153614",
+  "package_url": "https://pypi.org/project/airbornerf-data-validator/"
+}
