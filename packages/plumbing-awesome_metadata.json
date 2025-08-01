@@ -1,11 +1,11 @@
 {
   "name": "plumbing-awesome",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A small piping library for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plumbing_awesome-1.0.0.tar.gz",
-  "download_time": "2025-07-30T15:14:20.542928",
+  "download_filename": "plumbing_awesome-1.0.1.tar.gz",
+  "download_time": "2025-08-01T09:47:46.057915",
   "package_url": "https://pypi.org/project/plumbing-awesome/"
 }

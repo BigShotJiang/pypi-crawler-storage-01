@@ -1,11 +1,11 @@
 {
   "name": "glasscandle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glasscandle-0.1.0.tar.gz",
-  "download_time": "2025-08-01T08:52:19.282620",
+  "download_filename": "glasscandle-0.1.1.tar.gz",
+  "download_time": "2025-08-01T09:47:49.176507",
   "package_url": "https://pypi.org/project/glasscandle/"
 }

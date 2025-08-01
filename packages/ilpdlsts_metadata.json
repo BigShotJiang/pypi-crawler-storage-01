@@ -1,0 +1,11 @@
+{
+  "name": "ilpdlsts",
+  "version": "0.0.6",
+  "summary": "Python Package for Santec Insertion Loss and Polarization Dependent Loss Swept Test System",
+  "author": "Santec Holdings Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ilpdlsts-0.0.6.tar.gz",
+  "download_time": "2025-08-01T09:47:41.370831",
+  "package_url": "https://pypi.org/project/ilpdlsts/"
+}

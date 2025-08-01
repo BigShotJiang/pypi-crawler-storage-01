@@ -1,11 +1,11 @@
 {
   "name": "mlektic",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A Python ML library to use and visualize gradient descent for linear and logistic regression optimization.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlektic-1.0.5.tar.gz",
-  "download_time": "2025-08-01T09:18:58.738545",
+  "download_filename": "mlektic-1.0.6.tar.gz",
+  "download_time": "2025-08-01T09:47:53.898546",
   "package_url": "https://pypi.org/project/mlektic/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "KGATE",
-  "version": "0.2.18",
+  "version": "0.2.20",
   "summary": "Knowledge Graph Autoencoder Training Environment, bridging PyG encoders and TorchKGE decoders.",
   "author": "Benjamin Loire",
   "license": "MIT",
   "home_page": "https://github.com/BAUDOTlab/KGATE",
-  "download_filename": "kgate-0.2.18.tar.gz",
-  "download_time": "2025-07-29T13:52:25.252305",
+  "download_filename": "kgate-0.2.20.tar.gz",
+  "download_time": "2025-08-01T09:47:55.487710",
   "package_url": "https://pypi.org/project/KGATE/"
 }

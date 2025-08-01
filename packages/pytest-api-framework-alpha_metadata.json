@@ -1,11 +1,11 @@
 {
   "name": "pytest-api-framework-alpha",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": null,
   "author": "alpha",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_api_framework_alpha-0.1.8.tar.gz",
-  "download_time": "2025-07-31T06:19:36.364815",
+  "download_filename": "pytest_api_framework_alpha-0.2.0.tar.gz",
+  "download_time": "2025-08-01T09:47:35.608034",
   "package_url": "https://pypi.org/project/pytest-api-framework-alpha/"
 }

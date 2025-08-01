@@ -1,11 +1,11 @@
 {
   "name": "agentsphere-desktop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Agentsphere Desktop",
   "author": "agentsphere",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentsphere_desktop-0.1.0.tar.gz",
-  "download_time": "2025-08-01T08:52:15.166517",
+  "download_filename": "agentsphere_desktop-0.1.1.tar.gz",
+  "download_time": "2025-08-01T09:47:46.576012",
   "package_url": "https://pypi.org/project/agentsphere-desktop/"
 }
