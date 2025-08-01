@@ -1,0 +1,11 @@
+{
+  "name": "distclust",
+  "version": "0.0.1",
+  "summary": "A package for clustering distributions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "distclust-0.0.1.tar.gz",
+  "download_time": "2025-08-01T22:37:36.577764",
+  "package_url": "https://pypi.org/project/distclust/"
+}

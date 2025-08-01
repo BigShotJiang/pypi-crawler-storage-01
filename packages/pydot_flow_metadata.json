@@ -1,11 +1,11 @@
 {
   "name": "pydot_flow",
-  "version": "0.0.2",
+  "version": "0.3.0",
   "summary": "Pydot _flow_ makes it a little easier to assemble simple flowing graphs using Pydot.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydot_flow-0.0.2.tar.gz",
-  "download_time": "2025-07-30T23:52:35.459015",
+  "download_filename": "pydot_flow-0.3.0.tar.gz",
+  "download_time": "2025-08-01T22:37:28.532402",
   "package_url": "https://pypi.org/project/pydot_flow/"
 }

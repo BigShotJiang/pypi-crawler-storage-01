@@ -1,0 +1,11 @@
+{
+  "name": "pyDemonlistAPI",
+  "version": "0.1.2",
+  "summary": "A package that provides api.demonlist.org functions to python",
+  "author": "Karelskiy127 & AdderTeam",
+  "license": null,
+  "home_page": "https://github.com/CoolJayfather/pyDemonlistAPI",
+  "download_filename": "pydemonlistapi-0.1.2.tar.gz",
+  "download_time": "2025-08-01T22:37:16.652370",
+  "package_url": "https://pypi.org/project/pyDemonlistAPI/"
+}
