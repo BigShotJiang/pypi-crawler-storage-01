@@ -1,0 +1,11 @@
+{
+  "name": "denonavr",
+  "version": "1.1.2",
+  "summary": "Automation Library for Denon AVR receivers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "denonavr-1.1.2.tar.gz",
+  "download_time": "2025-08-01T23:33:39.890065",
+  "package_url": "https://pypi.org/project/denonavr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "json-equationer",
+  "version": "2.2",
+  "summary": "A package for creating json equation records and evaluating them.",
+  "author": "Aditya Savara",
+  "license": "Unlicense",
+  "home_page": "https://github.com/AdityaSavara/json_equationer",
+  "download_filename": "json_equationer-2.2.tar.gz",
+  "download_time": "2025-08-01T23:33:30.674993",
+  "package_url": "https://pypi.org/project/json-equationer/"
+}

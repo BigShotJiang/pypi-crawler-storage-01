@@ -1,31 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T23:14:09.889189
-- **Total Packages**: 79
-- **Total Size**: 10.66 MB
+- **Download Time**: 2025-08-01T23:34:13.694023
+- **Total Packages**: 86
+- **Total Size**: 21.21 MB
 
 ## Packages List
+- kanban-tui
+- querysource
+- gaussian-splatting
+- pymavlink
+- sheetwise
+- kmisc
+- automagik-hive
+- playa-pdf
+- pchjlib
+- spitch
+- python-pgsql-parser
+- django-flatpages-extra
+- auto-di-tag
+- o2o-process
+- schemathesis
+- json-equationer
+- artlib
+- agrigee-lite
+- lm-deluge
+- parsagon
+- m24842-ml
+- defenders-bane
+- lbt-dragonfly
+- hafez
+- oldaplib
+- xr-robot-teleop-server
+- azure-ai-projects
+- django-dynforms
+- rust-crate-pipeline
+- denonavr
+- pyrend
+- polyfeatures
+- geostatspy
+- dragonfly-radiance
+- dragonfly-energy
+- dragonfly-uwg
+- loone-data-prep
+- xiaozhi-sdk
 - nominal-api-protos
 - nominal-api
 - pyredis-om
-- django-dynforms
-- agrigee-lite
 - acp-plugin-gamesdk
 - superoptix
-- defenders-bane
 - copyfiles-cli
 - flwr-nightly
 - quick-sentiments
 - semantic-scholar-mcp
-- loone-data-prep
 - std-py-logger
 - wavinsentio
 - dragonfly-core
 - docu-lite-kit
 - pyrecfusionsdk
 - bn-lightweight-charts
-- m24842-ml
 - rustid
 - vellum-workflow-server
 - caskade
@@ -33,7 +66,6 @@
 - pymultio
 - memory-tools-client
 - sdv
-- django-flatpages-extra
 - pdf2llm
 - meshtastic
 - letrbinr
@@ -60,28 +92,3 @@
 - django-cap
 - clselove
 - datasure
-- inference-perf
-- latch
-- wallaroo
-- gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-glibc
-- nrel-bird
-- gh-templates-linux-x64-musl
-- mccole
-- ta-sites
-- doxs
-- pyDemonlistAPI
-- quantconnect-stubs
-- obstore
-- graphlit-client
-- stockula
-- edazer
-- openinference-instrumentation-llama-index
-- ringfit
-- robust-python-demo
-- feu
-- openwisp-monitoring
-- prime-sdk-py
-- iugu-python-sdk
-- reflex-enterprise
-- pydot_flow

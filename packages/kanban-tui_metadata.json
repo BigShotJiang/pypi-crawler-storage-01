@@ -1,0 +1,11 @@
+{
+  "name": "kanban-tui",
+  "version": "0.7.3",
+  "summary": "customizable task tui powered by textual",
+  "author": "Zaloog",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kanban_tui-0.7.3.tar.gz",
+  "download_time": "2025-08-01T23:33:20.606909",
+  "package_url": "https://pypi.org/project/kanban-tui/"
+}

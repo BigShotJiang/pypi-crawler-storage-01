@@ -1,0 +1,11 @@
+{
+  "name": "artlib",
+  "version": "0.1.6",
+  "summary": "A Python library for Adaptive Resonance Theory (ART) algorithms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "artlib-0.1.6.tar.gz",
+  "download_time": "2025-08-01T23:33:31.355763",
+  "package_url": "https://pypi.org/project/artlib/"
+}

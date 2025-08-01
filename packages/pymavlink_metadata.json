@@ -1,0 +1,11 @@
+{
+  "name": "pymavlink",
+  "version": "2.4.49",
+  "summary": "Python MAVLink code",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": "https://github.com/ArduPilot/pymavlink/",
+  "download_filename": "pymavlink-2.4.49.tar.gz",
+  "download_time": "2025-08-01T23:33:23.770953",
+  "package_url": "https://pypi.org/project/pymavlink/"
+}
