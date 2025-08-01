@@ -1,13 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-01T15:38:15.542675
-- **Total Packages**: 88
-- **Total Size**: 51.49 MB
+- **Download Time**: 2025-08-01T15:54:58.402606
+- **Total Packages**: 79
+- **Total Size**: 26.05 MB
 
 ## Packages List
-- C2H5OH
+- diffsynth-engine
+- rdxz2-utill
+- gwcelery
+- optics-framework
+- cognite-toolkit
+- krcf
+- csu
+- mkdocs-ai-summary-wcowin
+- natural-pdf
+- web-scraping-mcp-server
+- steadytext
+- automagik-hive
+- pyzsync
+- pmoired
 - ezscore
+- mem0-embeddings-litellm-patch
+- beyonddesk-grpc-protocols
+- getstream-plugins-moonshine
+- getstream-plugins-deepgram
+- getstream-plugins-common
+- multipac-testbench
+- litestar-granian
+- pnpl
+- loggerex
+- docstrange
+- ocf-data-sampler
+- bullishpy
+- nxs-analysis-tools
+- libadalina
+- octoanalytics
+- strathisla
+- langgraph-agent-toolkit
+- rsatoolbox
+- torram
+- karellen-llvm-toolchain-tools
+- karellen-llvm-lldb
+- gifnoc
+- pyUnfoldedCircleRemote
+- coiled
+- winpoll
+- wds-client
+- whl-logmap
+- C2H5OH
 - vunnel
 - py-agent-tools
 - slimformers
@@ -24,16 +65,12 @@
 - invenio-sitemap
 - oracle-data-studio
 - aoc-solution-cli
-- mem0-embeddings-litellm-patch
 - moexapi
 - pygridgain-dbapi
-- torram
 - lusid-sdk
 - gs2
-- docstrange
 - maimai-py
 - acia
-- automagik-hive
 - torchrl-nightly
 - agent-chat-api
 - openfl-nightly
@@ -42,55 +79,9 @@
 - unigram
 - isoprompt
 - haiku.rag
-- pmoired
 - moose-cli
 - mlhp
 - dnastack-client-library
 - localsets
 - deepctl-cmd-projects
 - deepctl-cmd-usage
-- deepctl
-- deepctl-cmd-debug-browser
-- deepctl-core
-- deepctl-plugin-example
-- deepctl-cmd-login
-- fspacker
-- deepctl-shared-utils
-- deepctl-cmd-update
-- deepctl-cmd-debug-network
-- deepctl-cmd-debug
-- deepctl-cmd-transcribe
-- deepctl-cmd-mcp
-- deepctl-cmd-plugin
-- deepctl-cmd-debug-audio
-- abstra
-- airfoileditor
-- llmbrick
-- volume-density-mapper
-- mxcubeweb
-- stratify
-- flexget
-- genai-processors
-- mkdocs-document-dates
-- howso-engine
-- dwdsmor
-- dataiku-scoring
-- aind-clabe
-- pageai-sdk
-- t-toolbox
-- moose-lib
-- ewox
-- ServerGit
-- robotframework-robocop
-- quantconnect-stubs
-- forteenall-kit
-- arxiv-export-documents
-- Scikit-longitudinal
-- generative-ai-toolkit
-- odoo14-addon-l10n-br-mdfe
-- pycarlo
-- pipgrip
-- ewoxservicefastapi
-- airbyte-cdk
-- splurge-tools
-- videoipath-automation-tool
