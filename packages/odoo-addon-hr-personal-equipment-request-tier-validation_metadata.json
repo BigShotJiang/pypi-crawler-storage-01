@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-personal-equipment-request-tier-validation",
+  "version": "16.0.1.0.1.2",
+  "summary": "Enables tier validation from hr.personal.equipment.request",
+  "author": "Creu Blanca,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr",
+  "download_filename": "odoo_addon_hr_personal_equipment_request_tier_validation-16.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-08-01T03:25:09.137143",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-personal-equipment-request-tier-validation/"
+}

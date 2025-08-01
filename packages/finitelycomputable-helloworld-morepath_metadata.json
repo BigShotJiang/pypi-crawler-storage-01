@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-helloworld-morepath",
+  "version": "25.7",
+  "summary": "A hello_world implementation in Morepath",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_helloworld_morepath-25.7.tar.gz",
+  "download_time": "2025-08-01T03:24:55.615557",
+  "package_url": "https://pypi.org/project/finitelycomputable-helloworld-morepath/"
+}

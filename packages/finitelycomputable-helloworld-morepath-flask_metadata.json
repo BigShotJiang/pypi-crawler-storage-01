@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-helloworld-morepath-flask",
+  "version": "25.7",
+  "summary": "hello_world in Morepath from an implementation in Flask",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_helloworld_morepath_flask-25.7.tar.gz",
+  "download_time": "2025-08-01T03:24:54.059913",
+  "package_url": "https://pypi.org/project/finitelycomputable-helloworld-morepath-flask/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dlrover",
+  "version": "0.5.1",
+  "summary": "An Automatic Distributed Deep Learning Framework",
+  "author": "Ant Group",
+  "license": null,
+  "home_page": "https://github.com/intelligent-machine-learning/dlrover",
+  "download_filename": "dlrover-0.5.1-py3-none-any.whl",
+  "download_time": "2025-08-01T03:24:43.643934",
+  "package_url": "https://pypi.org/project/dlrover/"
+}

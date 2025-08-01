@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-flask-blueprints",
+  "version": "25.7",
+  "summary": "The Flask-based wsgi app using blueprints to combine the microsites of finitelycomputable.net",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_flask_blueprints-25.7.tar.gz",
+  "download_time": "2025-08-01T03:25:04.985357",
+  "package_url": "https://pypi.org/project/finitelycomputable-flask-blueprints/"
+}

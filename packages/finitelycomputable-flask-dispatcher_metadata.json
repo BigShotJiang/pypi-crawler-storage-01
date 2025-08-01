@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-flask-dispatcher",
+  "version": "25.7",
+  "summary": "The Flask-based wsgi app using werkzeug.middleware.dispatcher to combine the microsites of finitelycomputable.net",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_flask_dispatcher-25.7.tar.gz",
+  "download_time": "2025-08-01T03:25:04.463652",
+  "package_url": "https://pypi.org/project/finitelycomputable-flask-dispatcher/"
+}

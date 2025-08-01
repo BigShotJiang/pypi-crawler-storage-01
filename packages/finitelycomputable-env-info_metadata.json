@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-env-info",
+  "version": "25.7",
+  "summary": "Common code to implement index and env_info endpoints across frameworks in the microsites of finitelycomputable.net.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_env_info-25.7.tar.gz",
+  "download_time": "2025-08-01T03:25:06.024830",
+  "package_url": "https://pypi.org/project/finitelycomputable-env-info/"
+}

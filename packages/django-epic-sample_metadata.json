@@ -1,0 +1,11 @@
+{
+  "name": "django-epic-sample",
+  "version": "0.6.7",
+  "summary": "A minimal Django project to demonstrate EPIC functionality.",
+  "author": "David Mosberger-Tang",
+  "license": "MIT License",
+  "home_page": "https://bitbucket.org/egauge/epic-sample/",
+  "download_filename": "django_epic_sample-0.6.7.tar.gz",
+  "download_time": "2025-08-01T03:24:42.598436",
+  "package_url": "https://pypi.org/project/django-epic-sample/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-helloworld-cherrypy-quart",
+  "version": "25.7",
+  "summary": "hello_world in CherryPy from an implementation in Quart",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_helloworld_cherrypy_quart-25.7.tar.gz",
+  "download_time": "2025-08-01T03:25:01.862658",
+  "package_url": "https://pypi.org/project/finitelycomputable-helloworld-cherrypy-quart/"
+}

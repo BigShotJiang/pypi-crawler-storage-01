@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-utm-medium-multi-company",
-  "version": "18.0.1.0.0.2",
+  "version": "18.0.1.0.0.4",
   "summary": "This module add multi-company management to utm medium",
   "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/multi-company",
-  "download_filename": "odoo_addon_utm_medium_multi_company-18.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2025-07-30T10:14:59.886151",
+  "download_filename": "odoo_addon_utm_medium_multi_company-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-08-01T03:24:36.785340",
   "package_url": "https://pypi.org/project/odoo-addon-utm-medium-multi-company/"
 }

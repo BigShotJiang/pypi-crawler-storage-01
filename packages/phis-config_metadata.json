@@ -1,0 +1,11 @@
+{
+  "name": "phis-config",
+  "version": "2025.8.1.0",
+  "summary": "read and parse configuration file for phis-related projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phis_config-2025.8.1.0.tar.gz",
+  "download_time": "2025-08-01T03:25:11.290544",
+  "package_url": "https://pypi.org/project/phis-config/"
+}

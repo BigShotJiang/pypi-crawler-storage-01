@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-helloworld-falcon-cherrypy",
+  "version": "25.7",
+  "summary": "hello_world in Falcon from an implementation in CherryPy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_helloworld_falcon_cherrypy-25.7.tar.gz",
+  "download_time": "2025-08-01T03:25:00.303079",
+  "package_url": "https://pypi.org/project/finitelycomputable-helloworld-falcon-cherrypy/"
+}

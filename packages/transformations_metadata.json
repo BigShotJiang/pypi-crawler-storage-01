@@ -1,0 +1,11 @@
+{
+  "name": "transformations",
+  "version": "2025.8.1",
+  "summary": "Homogeneous Transformation Matrices and Quaternions",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "transformations-2025.8.1.tar.gz",
+  "download_time": "2025-08-01T03:24:38.866178",
+  "package_url": "https://pypi.org/project/transformations/"
+}

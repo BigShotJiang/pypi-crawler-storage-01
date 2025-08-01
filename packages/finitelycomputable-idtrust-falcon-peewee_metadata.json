@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-idtrust-falcon-peewee",
+  "version": "25.7",
+  "summary": "A Falcon+peewee microsite to explore identifying game-theory strategies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_idtrust_falcon_peewee-25.7.tar.gz",
+  "download_time": "2025-08-01T03:24:48.338158",
+  "package_url": "https://pypi.org/project/finitelycomputable-idtrust-falcon-peewee/"
+}

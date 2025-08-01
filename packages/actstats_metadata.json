@@ -1,0 +1,11 @@
+{
+  "name": "actstats",
+  "version": "0.1.1.2",
+  "summary": "Of the Actuary, By the Actuary, For the Actuary: Unifying Statistical Libraries with Actuarial Conventions",
+  "author": "Juntao Zhang, Tingting Shi",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "actstats-0.1.1.2.tar.gz",
+  "download_time": "2025-08-01T03:25:11.809111",
+  "package_url": "https://pypi.org/project/actstats/"
+}

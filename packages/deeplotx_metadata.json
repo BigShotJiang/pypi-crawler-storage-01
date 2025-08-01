@@ -1,11 +1,11 @@
 {
   "name": "deeplotx",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "summary": "Easy-2-use long text NLP toolkit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deeplotx-0.8.7.tar.gz",
-  "download_time": "2025-07-31T04:12:47.853702",
+  "download_filename": "deeplotx-0.8.8.tar.gz",
+  "download_time": "2025-08-01T03:24:33.554449",
   "package_url": "https://pypi.org/project/deeplotx/"
 }

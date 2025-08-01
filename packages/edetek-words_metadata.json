@@ -1,11 +1,11 @@
 {
   "name": "edetek-words",
-  "version": "1.0.14",
+  "version": "1.0.16",
   "summary": "edetek words",
   "author": "xiaodong.li",
   "license": null,
   "home_page": "http://example.com",
-  "download_filename": "edetek_words-1.0.14.tar.gz",
-  "download_time": "2025-07-31T10:44:12.000307",
+  "download_filename": "edetek_words-1.0.16.tar.gz",
+  "download_time": "2025-08-01T03:24:40.438361",
   "package_url": "https://pypi.org/project/edetek-words/"
 }

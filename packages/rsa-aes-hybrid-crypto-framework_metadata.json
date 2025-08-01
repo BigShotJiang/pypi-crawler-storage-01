@@ -1,0 +1,11 @@
+{
+  "name": "rsa-aes-hybrid-crypto-framework",
+  "version": "1.0.0",
+  "summary": "RSA-AES混合加密框架，提供非对称加密、对称加密、数字签名等功能",
+  "author": "夏云龙",
+  "license": null,
+  "home_page": "https://github.com/xiatian/rsa-aes-hybrid-crypto-framework",
+  "download_filename": "rsa-aes-hybrid-crypto-framework-1.0.0.tar.gz",
+  "download_time": "2025-08-01T03:24:33.017160",
+  "package_url": "https://pypi.org/project/rsa-aes-hybrid-crypto-framework/"
+}

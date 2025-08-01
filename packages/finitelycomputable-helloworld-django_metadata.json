@@ -1,0 +1,11 @@
+{
+  "name": "finitelycomputable-helloworld-django",
+  "version": "25.7",
+  "summary": "description='A hello_world implementation in Django'",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finitelycomputable_helloworld_django-25.7.tar.gz",
+  "download_time": "2025-08-01T03:25:01.342602",
+  "package_url": "https://pypi.org/project/finitelycomputable-helloworld-django/"
+}

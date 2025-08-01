@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-res-partner-industry-multi-company",
-  "version": "18.0.1.0.1.2",
+  "version": "18.0.1.0.1.4",
   "summary": "This module add multi-company management to res partner industry",
   "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/multi-company",
-  "download_filename": "odoo_addon_res_partner_industry_multi_company-18.0.1.0.1.2-py3-none-any.whl",
-  "download_time": "2025-07-30T09:49:37.202516",
+  "download_filename": "odoo_addon_res_partner_industry_multi_company-18.0.1.0.1.4-py3-none-any.whl",
+  "download_time": "2025-08-01T03:24:36.266405",
   "package_url": "https://pypi.org/project/odoo-addon-res-partner-industry-multi-company/"
 }
