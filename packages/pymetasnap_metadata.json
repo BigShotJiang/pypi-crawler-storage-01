@@ -1,0 +1,11 @@
+{
+  "name": "pymetasnap",
+  "version": "0.48.0",
+  "summary": "This package allows you to scrape metadata from the Python Package Index",
+  "author": "cristian-rincon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymetasnap-0.48.0.tar.gz",
+  "download_time": "2025-08-01T01:08:14.242337",
+  "package_url": "https://pypi.org/project/pymetasnap/"
+}

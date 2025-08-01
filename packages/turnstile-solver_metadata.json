@@ -1,11 +1,11 @@
 {
   "name": "turnstile-solver",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Click and solve Cloudflare Turnstile CAPTCHA — supports both headless and GUI modes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turnstile_solver-0.1.3.tar.gz",
-  "download_time": "2025-07-29T23:51:21.902554",
+  "download_filename": "turnstile_solver-0.1.4.tar.gz",
+  "download_time": "2025-08-01T01:08:42.998188",
   "package_url": "https://pypi.org/project/turnstile-solver/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ctkmessagebox2",
+  "version": "0.3.4",
+  "summary": "The messagebox package for CustomTkinter.",
+  "author": "Lucas Hoffman",
+  "license": null,
+  "home_page": "https://github.com/hoffmanlucas/ctkmessagebox.git",
+  "download_filename": "ctkmessagebox2-0.3.4.tar.gz",
+  "download_time": "2025-08-01T01:08:34.222789",
+  "package_url": "https://pypi.org/project/ctkmessagebox2/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rms-pdstable",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Routines for reading PDS3 tables",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rms_pdstable-0.1.0.tar.gz",
-  "download_time": "2025-07-29T22:37:13.007542",
+  "download_filename": "rms_pdstable-0.1.2.tar.gz",
+  "download_time": "2025-08-01T01:08:32.647584",
   "package_url": "https://pypi.org/project/rms-pdstable/"
 }

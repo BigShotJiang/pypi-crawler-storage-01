@@ -1,11 +1,11 @@
 {
   "name": "cdklabs.cdk-hyperledger-fabric-network",
-  "version": "0.8.929",
+  "version": "0.8.930",
   "summary": "CDK construct to deploy a Hyperledger Fabric network running on Amazon Managed Blockchain",
   "author": "Amazon Web Services",
   "license": "MIT-0",
   "home_page": "https://github.com/cdklabs/cdk-hyperledger-fabric-network.git",
-  "download_filename": "cdklabs_cdk_hyperledger_fabric_network-0.8.929.tar.gz",
-  "download_time": "2025-07-31T01:01:14.131320",
+  "download_filename": "cdklabs_cdk_hyperledger_fabric_network-0.8.930.tar.gz",
+  "download_time": "2025-08-01T01:08:37.333436",
   "package_url": "https://pypi.org/project/cdklabs.cdk-hyperledger-fabric-network/"
 }

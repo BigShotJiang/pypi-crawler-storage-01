@@ -1,11 +1,11 @@
 {
   "name": "cdklabs.cdk-ethereum-node",
-  "version": "0.0.671",
+  "version": "0.0.672",
   "summary": "CDK construct to deploy an Ethereum node running on Amazon Managed Blockchain",
   "author": "Amazon Web Services",
   "license": "MIT-0",
   "home_page": "https://github.com/cdklabs/cdk-ethereum-node.git",
-  "download_filename": "cdklabs_cdk_ethereum_node-0.0.671.tar.gz",
-  "download_time": "2025-07-31T01:01:09.978366",
+  "download_filename": "cdklabs_cdk_ethereum_node-0.0.672.tar.gz",
+  "download_time": "2025-08-01T01:08:35.261012",
   "package_url": "https://pypi.org/project/cdklabs.cdk-ethereum-node/"
 }

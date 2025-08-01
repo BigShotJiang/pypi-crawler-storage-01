@@ -1,0 +1,11 @@
+{
+  "name": "cs-seq",
+  "version": "20250801",
+  "summary": "Stuff to do with counters, sequences and iterables.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cs_seq-20250801.tar.gz",
+  "download_time": "2025-08-01T01:08:39.401835",
+  "package_url": "https://pypi.org/project/cs-seq/"
+}

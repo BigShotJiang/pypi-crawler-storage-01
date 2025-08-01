@@ -1,11 +1,11 @@
 {
   "name": "cdk-serverless-clamscan",
-  "version": "2.11.88",
+  "version": "2.11.89",
   "summary": "Serverless architecture to virus scan objects in Amazon S3.",
   "author": "Amazon Web Services<donti@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/cdk-serverless-clamscan",
-  "download_filename": "cdk_serverless_clamscan-2.11.88.tar.gz",
-  "download_time": "2025-07-31T01:00:58.580476",
+  "download_filename": "cdk_serverless_clamscan-2.11.89.tar.gz",
+  "download_time": "2025-08-01T01:08:29.536290",
   "package_url": "https://pypi.org/project/cdk-serverless-clamscan/"
 }
