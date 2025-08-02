@@ -1,18 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T07:50:08.068224
-- **Total Packages**: 78
-- **Total Size**: 5.69 MB
+- **Download Time**: 2025-08-02T08:16:41.388601
+- **Total Packages**: 75
+- **Total Size**: 38.05 MB
 
 ## Packages List
+- pymanuf
+- tvara
+- syqlorix
+- gh-templates
+- gh-templates-win32-x64-msvc
+- annex4ac
+- eric-sse
+- ultranlp
+- md2hash
+- homelab_config
+- sagikoza
+- pydantic-gitlab
+- pyglove
+- prefect
+- prefect-client
+- gh-templates-linux-arm64-glibc
+- runtool
+- gh-templates-linux-x64-musl
+- gh-templates-linux-x64-glibc
+- furical
+- gh-templates-darwin-x64
+- zhmiscellany
+- gh-templates-darwin-arm64
+- mcts-simple
+- synrbl
+- room-env
+- compliance-sdk
+- funpayparsers
+- mem0-history-db-patch
+- sokrates
+- trainscanner
+- persistent-cache-decorator
+- logaid
+- logsentinelai
+- obsidiana
+- neptoon
+- sc-utility
+- countries-dictionary
+- tree-sitter-analyzer
+- dlrm
+- aws-http-auth
+- llmbrick
 - toomanysessions
 - rag-shared
 - coldpack
 - botrun-llm-ranking
 - nnInteractive
 - pymelodia
-- ultranLP
 - pybooxdrop
 - analyser2_hj3415
 - suzaku
@@ -21,66 +62,22 @@
 - alchemy1115
 - mkdocs-ultralytics-plugin
 - abs-blob-storage-manager-core
-- gh-templates
 - dynetan
-- gh-templates-win32-x64-msvc
-- compliance-sdk
 - synapse-sdk
 - liquidity
 - meshcore-cli
 - meshcore
 - oelint-data
-- gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-glibc
-- gh-templates-linux-x64-musl
-- gh-templates-darwin-x64
-- gh-templates-darwin-arm64
 - feldera
 - trcks
 - pymud
 - aiomisc
-- dlrm
 - mns-common
 - quivr-modified-milvus
 - portacode
 - nnea
-- zhmiscellany
-- mem0-history-db-patch
 - DragonLog
 - direct-deps
 - python-sdk-remote
 - unichat
 - dagster-slurm
-- pypi-query-mcp-server
-- tf-models-nightly
-- queus
-- ndvis
-- annofabcli
-- gofastapi
-- streamlit-nightly
-- wooting-mouse
-- ktoolbox-pure-py
-- django-keycloak-sso
-- yokatlas-py
-- asusrouter
-- common-util-py
-- nitro-toolkit
-- coda-code-assistant
-- robhan-cdk-lib.aws-grafana
-- ktoolbox
-- artless-template
-- py-env-studio
-- swarmflow
-- tokenx-core
-- apache-airflow-providers-zendesk
-- apache-airflow-providers-ydb
-- apache-airflow-providers-yandex
-- apache-airflow-providers-weaviate
-- apache-airflow-providers-vertica
-- apache-airflow-providers-trino
-- apache-airflow-providers-teradata
-- apache-airflow-providers-telegram
-- apache-airflow-providers-tableau
-- apache-airflow-providers-standard
-- apache-airflow-providers-ssh
-- apache-airflow-providers-sqlite

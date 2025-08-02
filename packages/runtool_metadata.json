@@ -1,0 +1,11 @@
+{
+  "name": "runtool",
+  "version": "1.0.9",
+  "summary": "Install binary from github release.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runtool-1.0.9.tar.gz",
+  "download_time": "2025-08-02T08:16:10.681629",
+  "package_url": "https://pypi.org/project/runtool/"
+}

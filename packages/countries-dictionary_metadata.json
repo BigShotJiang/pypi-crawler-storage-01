@@ -1,11 +1,11 @@
 {
   "name": "countries-dictionary",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "Provides a dictionary contains all members and observer states of the United Nations and information about them",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "countries_dictionary-2.2.1.tar.gz",
-  "download_time": "2025-08-01T19:48:57.527890",
+  "download_filename": "countries_dictionary-2.2.2.tar.gz",
+  "download_time": "2025-08-02T08:16:22.086489",
   "package_url": "https://pypi.org/project/countries-dictionary/"
 }

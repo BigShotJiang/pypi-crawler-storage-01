@@ -1,0 +1,11 @@
+{
+  "name": "md2hash",
+  "version": "1.0.0",
+  "summary": "Pure Python implementation of MD2 cryptographic hash function (RFC 1319)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md2hash-1.0.0.tar.gz",
+  "download_time": "2025-08-02T08:16:06.552077",
+  "package_url": "https://pypi.org/project/md2hash/"
+}

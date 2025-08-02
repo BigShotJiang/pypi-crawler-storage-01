@@ -1,11 +1,11 @@
 {
   "name": "gh-templates",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "summary": "GitHub Templates CLI tool - unified installer",
   "author": "Rafael John",
   "license": "Apache-2.0",
   "home_page": "https://github.com/RafaelJohn9/gh-templates",
-  "download_filename": "gh_templates-0.1.24.tar.gz",
-  "download_time": "2025-08-02T07:42:19.447288",
+  "download_filename": "gh_templates-0.1.25.tar.gz",
+  "download_time": "2025-08-02T08:16:03.950385",
   "package_url": "https://pypi.org/project/gh-templates/"
 }

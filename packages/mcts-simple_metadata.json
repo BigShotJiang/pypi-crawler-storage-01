@@ -1,0 +1,11 @@
+{
+  "name": "mcts-simple",
+  "version": "1.1.0",
+  "summary": "mcts-simple is a Python3 library that implements Monte Carlo Tree Search and its variants to solve a host of problems, most commonly for reinforcement learning.",
+  "author": "Lance Chin",
+  "license": "MIT",
+  "home_page": "https://github.com/DenseLance/mcts-simple",
+  "download_filename": "mcts_simple-1.1.0.tar.gz",
+  "download_time": "2025-08-02T08:16:14.848052",
+  "package_url": "https://pypi.org/project/mcts-simple/"
+}

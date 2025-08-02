@@ -1,11 +1,11 @@
 {
   "name": "compliance-sdk",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "summary": "e-KYC API client for BALAJI MARILINE PRIVATE LIMITED",
   "author": "BALAJI MARILINE PRIVATE LIMITED",
   "license": "Proprietary :: BALAJI MARILINE PRIVATE LIMITED",
   "home_page": "https://github.com/gautam199429/balaji-sdk",
-  "download_filename": "compliance_sdk-2.0.0.tar.gz",
-  "download_time": "2025-08-02T07:42:21.171624",
+  "download_filename": "compliance_sdk-3.0.0.tar.gz",
+  "download_time": "2025-08-02T08:16:16.420301",
   "package_url": "https://pypi.org/project/compliance-sdk/"
 }
