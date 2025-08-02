@@ -1,11 +1,11 @@
 {
   "name": "zeroeval",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "ZeroEval SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zeroeval-0.6.6.tar.gz",
-  "download_time": "2025-08-02T05:48:17.677632",
+  "download_filename": "zeroeval-0.6.7.tar.gz",
+  "download_time": "2025-08-02T06:17:41.047725",
   "package_url": "https://pypi.org/project/zeroeval/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "github-actions-ai-analyzer",
-  "version": "0.1.1",
-  "summary": "GitHub Actionsのエラーログを解析し、AIによる改善案生成を支援するライブラリ",
+  "version": "0.1.2",
+  "summary": "GitHub Actionsのエラーログを解析し、AIによる改善案生成と品質向上を支援するライブラリ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "github_actions_ai_analyzer-0.1.1.tar.gz",
-  "download_time": "2025-08-01T18:53:26.650896",
+  "download_filename": "github_actions_ai_analyzer-0.1.2.tar.gz",
+  "download_time": "2025-08-02T06:17:38.432268",
   "package_url": "https://pypi.org/project/github-actions-ai-analyzer/"
 }

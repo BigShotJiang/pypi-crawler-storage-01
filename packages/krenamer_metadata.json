@@ -1,0 +1,11 @@
+{
+  "name": "krenamer",
+  "version": "1.0.0",
+  "summary": "Korean Windows GUI file renamer tool with drag & drop functionality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "krenamer-1.0.0.tar.gz",
+  "download_time": "2025-08-02T06:17:29.946759",
+  "package_url": "https://pypi.org/project/krenamer/"
+}

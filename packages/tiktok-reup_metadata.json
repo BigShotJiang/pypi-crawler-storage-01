@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-reup",
+  "version": "2.0.0",
+  "summary": "A modular Python package for downloading and uploading TikTok videos",
+  "author": "xuancuong2006",
+  "license": "MIT",
+  "home_page": "https://github.com/xuancuong2006/tiktok-reup",
+  "download_filename": "tiktok_reup-2.0.0.tar.gz",
+  "download_time": "2025-08-02T06:17:41.568446",
+  "package_url": "https://pypi.org/project/tiktok-reup/"
+}
