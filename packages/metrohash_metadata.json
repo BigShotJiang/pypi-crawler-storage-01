@@ -5,7 +5,7 @@
   "author": "Eugene Scherba",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/escherba/python-metrohash",
-  "download_filename": "metrohash-0.4.0-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-08-02T21:44:34.390062",
+  "download_filename": "metrohash-0.4.0.tar.gz",
+  "download_time": "2025-08-02T21:52:30.606072",
   "package_url": "https://pypi.org/project/metrohash/"
 }
