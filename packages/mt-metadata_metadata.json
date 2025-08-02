@@ -1,0 +1,11 @@
+{
+  "name": "mt-metadata",
+  "version": "0.4.0",
+  "summary": "Metadata for magnetotelluric data",
+  "author": "Jared Peacock",
+  "license": "MIT license",
+  "home_page": "https://github.com/kujaku11/mt_metadata",
+  "download_filename": "mt_metadata-0.4.0.tar.gz",
+  "download_time": "2025-08-02T21:12:14.898129",
+  "package_url": "https://pypi.org/project/mt-metadata/"
+}

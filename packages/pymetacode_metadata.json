@@ -1,0 +1,11 @@
+{
+  "name": "pymetacode",
+  "version": "0.7.0",
+  "summary": "A Python package helping to write and maintain Python packages.",
+  "author": "Till Biskup",
+  "license": "BSD",
+  "home_page": "https://www.meta-co.de/",
+  "download_filename": "pymetacode-0.7.0.tar.gz",
+  "download_time": "2025-08-02T21:12:21.120845",
+  "package_url": "https://pypi.org/project/pymetacode/"
+}

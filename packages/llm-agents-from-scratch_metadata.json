@@ -1,11 +1,11 @@
 {
   "name": "llm-agents-from-scratch",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Build an LLM agent, equipped with MCP, from scratch.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_agents_from_scratch-0.0.7.tar.gz",
-  "download_time": "2025-07-29T18:54:07.424994",
+  "download_filename": "llm_agents_from_scratch-0.0.8.tar.gz",
+  "download_time": "2025-08-02T21:11:59.613618",
   "package_url": "https://pypi.org/project/llm-agents-from-scratch/"
 }

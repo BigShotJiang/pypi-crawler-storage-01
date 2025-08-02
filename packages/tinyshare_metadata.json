@@ -1,11 +1,11 @@
 {
   "name": "tinyshare",
-  "version": "0.1002.0",
-  "summary": "A lightweight wrapper for tushare financial data API (Bytecode Protected Version)",
+  "version": "0.1003.0",
+  "summary": "A lightweight wrapper for tushare financial data API",
   "author": "Your Name",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/yourusername/tinyshare",
-  "download_filename": "tinyshare-0.1002.0.tar.gz",
-  "download_time": "2025-08-01T15:14:35.760210",
+  "download_filename": "tinyshare-0.1003.0.tar.gz",
+  "download_time": "2025-08-02T21:11:58.571500",
   "package_url": "https://pypi.org/project/tinyshare/"
 }

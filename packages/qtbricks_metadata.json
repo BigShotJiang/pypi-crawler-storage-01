@@ -1,0 +1,11 @@
+{
+  "name": "qtbricks",
+  "version": "0.1.0rc3",
+  "summary": "Python Qt components: widgets and utils, focussing on scientific GUIs",
+  "author": "Till Biskup",
+  "license": "BSD",
+  "home_page": "https://pypi.org/project/qtbricks/",
+  "download_filename": "qtbricks-0.1.0rc3.tar.gz",
+  "download_time": "2025-08-02T21:12:01.706126",
+  "package_url": "https://pypi.org/project/qtbricks/"
+}
