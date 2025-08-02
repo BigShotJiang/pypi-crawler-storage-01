@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T19:27:45.393580
-- **Total Packages**: 76
-- **Total Size**: 62.65 MB
+- **Download Time**: 2025-08-02T19:37:44.231973
+- **Total Packages**: 80
+- **Total Size**: 15.51 MB
 
 ## Packages List
+- tool2openai
+- uproot-custom
+- xkeen-subscription-watcher
+- ragbits-guardrails
+- ragbits-evaluate
+- ragbits-document-search
+- ragbits-core
+- ragbits-cli
+- ragbits-chat
+- ragbits-agents
+- ragbits
+- docutools
+- mlforgex
+- luminescent
+- chaosinjector
+- gh-templates
+- gh-templates-win32-x64-msvc
+- gh-templates-win32-x86-msvc
+- fiasco
+- mlflow-oidc-auth
+- swarmflow
+- calculadorapnav
+- fal
+- tractusx-sdk
+- upstream-api-client
 - o2o-process
 - gh-templates-linux-arm64-musl
 - tofupy
@@ -26,15 +51,12 @@
 - qrew
 - hanifx
 - mythicalgebra
-- gh-templates-win32-x64-msvc
 - llmbrick
-- gh-templates-win32-x86-msvc
 - annex4review
 - hotpayments-python-sdk
 - bygod
 - tcp-port-checker
 - django-tokenauth
-- tool2openai
 - supersafepackage
 - generichelpers
 - robots-checker
@@ -64,21 +86,3 @@
 - langgate-processor
 - langgate-core
 - langgate-client
-- langgate
-- reyweb
-- reykit
-- dodopayments
-- pyrion
-- cybrid-api-organization-python
-- imageconvert
-- cybrid-api-bank-python
-- cybrid-api-id-python
-- graph-games-proto
-- sportsball
-- iwpc
-- fotolab
-- ebay-rest
-- llm-optimized-inference
-- nee
-- tkinter-layout-helpers
-- apsimNGpy

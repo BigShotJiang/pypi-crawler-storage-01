@@ -1,11 +1,11 @@
 {
   "name": "tool2openai",
-  "version": "0.1.1",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "Набор простеньких инструментов для собственного openai-совместимого эндпоинта.",
   "author": "Nehcy",
   "license": null,
   "home_page": "https://github.com/nehc/tool2openai",
-  "download_filename": "tool2openai-0.1.1.tar.gz",
-  "download_time": "2025-08-02T19:27:20.162844",
+  "download_filename": "tool2openai-0.1.2.tar.gz",
+  "download_time": "2025-08-02T19:37:01.635707",
   "package_url": "https://pypi.org/project/tool2openai/"
 }
