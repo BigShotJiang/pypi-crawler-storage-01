@@ -1,13 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T17:52:24.035398
-- **Total Packages**: 85
-- **Total Size**: 11.61 MB
+- **Download Time**: 2025-08-02T18:18:47.469288
+- **Total Packages**: 79
+- **Total Size**: 12.47 MB
 
 ## Packages List
-- Questioning-game
+- rsc
+- excel2moodle
+- lanscape
+- asynctodon
+- pycheckwatt
+- postomc
+- txt2ebook
+- pchjlib
+- streamlit-achievements
+- apprise
+- airbyte-source-gcs
+- airbyte-source-firebolt
+- pytoolbelt-psenv
+- pyfabricops
+- graph-games-proto
+- a3
+- pvevti
+- py-xml-ccda
+- scubatrace
+- valuascript-compiler
+- broprompt
+- j1939parser
 - autoclean-eeg2source
+- friendlyetl
+- clash-tools
+- yaapp
+- vietnamadminunits
+- annex4review
+- powerplanner-lib
+- datasurface
+- nimo
+- kashima
+- ai-proxy-core
+- pythonrc-manager
+- rovr
+- x-transformers-rl
+- pilotcmd
+- Questioning-game
 - PyInteno
 - docoreai
 - kcli
@@ -20,12 +56,10 @@
 - wyzeapy
 - supersafepackage
 - pycvt
-- x-transformers-rl
 - unzipall
 - finmlkit
 - tkface
 - wavinsentio
-- graph-games-proto
 - napistu
 - ppbuild
 - strawberry-graphql
@@ -39,7 +73,6 @@
 - meraki-dashboard-exporter
 - zlgcan-driver
 - bh-usa-req-ase
-- yaapp
 - config-argument-parser
 - broflow
 - pysick
@@ -51,43 +84,4 @@
 - quasarr
 - a-beta-scalekit
 - detaillogger
-- pvevti
 - pennylane-qrack-cpu
-- pennylane-qrack
-- clash-tools
-- gconnect
-- natural-pdf
-- fetchy-cli
-- pyqrack-cuda-complex128
-- pyqrack-cuda
-- pyqrack-cpu-complex128
-- brainsait-pyheart
-- pyqrack-cpu
-- nonebot-plugin-limiter
-- pyqrack-complex128
-- brainsait-pybrain
-- pyqrack
-- vtjson
-- vectorvein
-- polars-ta
-- swarmflow
-- zmk
-- requests-async
-- alibabacloud-paillmtrace20240311
-- yandex-tracker-mcp
-- m24842-ml
-- trd-utils
-- peter-cullen-burbery-python-functions
-- slafdb
-- vllm-top
-- yokatlas-py
-- caioh-nvml-gpu-control
-- broprompt
-- megarnucleusx
-- mlrl-util
-- mlrl-testbed-sklearn
-- mlrl-testbed-arff
-- mlrl-testbed
-- mlrl-seco
-- mlrl-common
-- mlrl-boomer

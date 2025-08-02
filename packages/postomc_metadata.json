@@ -1,0 +1,11 @@
+{
+  "name": "postomc",
+  "version": "0.4.0",
+  "summary": "A package to read and analyze OpenMC's `depletion_results.h5` files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "postomc-0.4.0.tar.gz",
+  "download_time": "2025-08-02T18:18:02.705965",
+  "package_url": "https://pypi.org/project/postomc/"
+}

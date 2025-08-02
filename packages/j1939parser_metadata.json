@@ -1,0 +1,11 @@
+{
+  "name": "j1939parser",
+  "version": "0.1.0",
+  "summary": "Extracts GPS positions from J1939 PGN 65267 CAN logs",
+  "author": "Jagjit Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "j1939parser-0.1.0.tar.gz",
+  "download_time": "2025-08-02T18:18:13.152787",
+  "package_url": "https://pypi.org/project/j1939parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "powerplanner-lib",
+  "version": "0.0.15",
+  "summary": "Client package to access powerplanner API",
+  "author": "Gustaf Brahme",
+  "license": null,
+  "home_page": "https://github.com/gurgelx/powerplanner_lib",
+  "download_filename": "powerplanner-lib-0.0.15.tar.gz",
+  "download_time": "2025-08-02T18:18:18.134583",
+  "package_url": "https://pypi.org/project/powerplanner-lib/"
+}

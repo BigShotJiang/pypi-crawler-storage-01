@@ -1,11 +1,11 @@
 {
   "name": "datasurface",
-  "version": "0.0.39",
+  "version": "0.0.40",
   "summary": "Automate the governance, management and movement of data within your enterprise",
   "author": "Billy Newport",
   "license": "BSL_v1.1",
   "home_page": "https://github.com/billynewport/datasurface",
-  "download_filename": "datasurface-0.0.39.tar.gz",
-  "download_time": "2025-08-02T17:14:20.522353",
+  "download_filename": "datasurface-0.0.40.tar.gz",
+  "download_time": "2025-08-02T18:18:18.732055",
   "package_url": "https://pypi.org/project/datasurface/"
 }

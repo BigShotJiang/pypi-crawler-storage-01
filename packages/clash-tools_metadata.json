@@ -1,11 +1,11 @@
 {
   "name": "clash-tools",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "clash_tools is a comprehensive collection of utilities for managing Clash proxy configurations and services.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clash_tools-2.2.0.tar.gz",
-  "download_time": "2025-08-02T17:35:26.271287",
+  "download_filename": "clash_tools-2.3.0.tar.gz",
+  "download_time": "2025-08-02T18:18:15.606260",
   "package_url": "https://pypi.org/project/clash-tools/"
 }
