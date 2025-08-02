@@ -1,11 +1,11 @@
 {
   "name": "typed-signals",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight, strongly-typed event and signal library for Python.",
   "author": "eyueldk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typed_signals-0.1.1.tar.gz",
-  "download_time": "2025-08-02T13:42:45.004544",
+  "download_filename": "typed_signals-0.1.2.tar.gz",
+  "download_time": "2025-08-02T13:54:28.739090",
   "package_url": "https://pypi.org/project/typed-signals/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "alerk-pack",
-  "version": "0.1.0",
-  "summary": "Set of mini-functions",
+  "version": "0.1.3",
+  "summary": "alerk functions and utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alerk_pack-0.1.0.tar.gz",
-  "download_time": "2025-08-02T10:13:31.040296",
+  "download_filename": "alerk_pack-0.1.3.tar.gz",
+  "download_time": "2025-08-02T13:54:20.083102",
   "package_url": "https://pypi.org/project/alerk-pack/"
 }
