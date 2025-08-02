@@ -1,0 +1,11 @@
+{
+  "name": "jsongrapher",
+  "version": "5.0",
+  "summary": "The python version of JSONGrapher with tools for creating JSONGrapher Records.",
+  "author": "Aditya Savara",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AdityaSavara/jsongrapher-py",
+  "download_filename": "jsongrapher-5.0.tar.gz",
+  "download_time": "2025-08-02T20:13:57.700162",
+  "package_url": "https://pypi.org/project/jsongrapher/"
+}

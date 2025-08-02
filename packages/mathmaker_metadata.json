@@ -1,11 +1,11 @@
 {
   "name": "mathmaker",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Mathmaker creates automatically elementary maths exercises and their (detailed) answers.",
   "author": "Nicolas Hainaux",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mathmaker-0.8.0-py3-none-any.whl",
-  "download_time": "2025-07-30T15:37:29.145032",
+  "download_filename": "mathmaker-0.8.1-py3-none-any.whl",
+  "download_time": "2025-08-02T20:13:50.007943",
   "package_url": "https://pypi.org/project/mathmaker/"
 }

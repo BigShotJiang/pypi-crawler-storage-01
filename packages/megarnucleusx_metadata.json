@@ -1,11 +1,11 @@
 {
   "name": "megarnucleusx",
-  "version": "0.0.2.5",
-  "summary": "Un micro-framework de IA autónomo con bots pre-entrenados y compatibilidad fantasma, sin dependencias externas.",
+  "version": "0.0.2.6",
+  "summary": "Un micro-framework de IA que utiliza micronumpy para el cálculo numérico.",
   "author": "luis",
   "license": null,
   "home_page": "https://github.com/TuUsuario/megarnucleusx",
-  "download_filename": "megarnucleusx-0.0.2.5.tar.gz",
-  "download_time": "2025-08-02T19:10:53.928438",
+  "download_filename": "megarnucleusx-0.0.2.6.tar.gz",
+  "download_time": "2025-08-02T20:13:51.543121",
   "package_url": "https://pypi.org/project/megarnucleusx/"
 }

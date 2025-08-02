@@ -1,11 +1,11 @@
 {
   "name": "ai-helper-agent",
-  "version": "2.0.0",
-  "summary": "Interactive AI Helper Agent for code assistance, analysis, and bug fixing with internet access",
-  "author": "AIStudent",
-  "license": null,
+  "version": "2.0.1",
+  "summary": "Advanced AI-Powered Programming Assistant with Multi-Provider Support, Internet Search, and 40+ CLI Commands",
+  "author": "Meet Solanki (AIML Student)",
+  "license": "MIT",
   "home_page": "https://github.com/AIMLDev726/ai-helper-agent",
-  "download_filename": "ai_helper_agent-2.0.0.tar.gz",
-  "download_time": "2025-08-01T14:15:56.680949",
+  "download_filename": "ai_helper_agent-2.0.1.tar.gz",
+  "download_time": "2025-08-02T20:13:56.153708",
   "package_url": "https://pypi.org/project/ai-helper-agent/"
 }
