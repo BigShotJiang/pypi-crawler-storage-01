@@ -1,11 +1,11 @@
 {
   "name": "chrome-devtools-mcp-fork",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Chrome DevTools Protocol integration for Model Context Protocol",
   "author": "withLinda13",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chrome_devtools_mcp_fork-1.0.3.tar.gz",
-  "download_time": "2025-07-31T19:30:33.971321",
+  "download_filename": "chrome_devtools_mcp_fork-1.0.5.tar.gz",
+  "download_time": "2025-08-02T09:42:30.082218",
   "package_url": "https://pypi.org/project/chrome-devtools-mcp-fork/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aiqtoolkit-s3",
-  "version": "1.2.0rc2",
+  "version": "1.2.0rc3",
   "summary": "Subpackage for S3-compatible object store integration in AIQ toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiqtoolkit_s3-1.2.0rc2-py3-none-any.whl",
-  "download_time": "2025-07-30T16:16:10.079115",
+  "download_filename": "aiqtoolkit_s3-1.2.0rc3-py3-none-any.whl",
+  "download_time": "2025-08-02T09:42:24.354388",
   "package_url": "https://pypi.org/project/aiqtoolkit-s3/"
 }

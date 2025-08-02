@@ -1,0 +1,11 @@
+{
+  "name": "pyarcgenerator",
+  "version": "0.0.1",
+  "summary": "Package permettant de generer un ensemble de fichiers et de fichier en fonction de la configuration voulu.",
+  "author": "INICODE",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyarcgenerator-0.0.1.tar.gz",
+  "download_time": "2025-08-02T09:42:38.390761",
+  "package_url": "https://pypi.org/project/pyarcgenerator/"
+}

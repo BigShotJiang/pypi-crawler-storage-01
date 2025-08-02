@@ -1,0 +1,11 @@
+{
+  "name": "finfeatures",
+  "version": "0.2.0",
+  "summary": "Advanced Financial Feature Engineering Library for Quantitative Finance and Algorithmic Trading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "finfeatures-0.2.0.tar.gz",
+  "download_time": "2025-08-02T09:42:38.948144",
+  "package_url": "https://pypi.org/project/finfeatures/"
+}

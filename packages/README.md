@@ -1,25 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T09:18:43.342837
-- **Total Packages**: 74
-- **Total Size**: 15.82 MB
+- **Download Time**: 2025-08-02T09:42:56.619267
+- **Total Packages**: 66
+- **Total Size**: 22.79 MB
 
 ## Packages List
+- shaheenviz
+- oidfed-collector
+- botrun-llm-ranking
+- aiqtoolkit-mysql
+- SANDI
+- aiqtoolkit-redis
+- aiqtoolkit-s3
+- aiqtoolkit-ragaai
+- aiqtoolkit-opentelemetry
+- pywalker
+- nebula-client
+- queus
+- agrigee-lite
+- cnpj-mcp-server
+- pyinno-setup
+- seliseblocks-genesis
+- mkdocs-ai-summary-wcowin
+- chrome-devtools-mcp-fork
+- twrapform
+- pyarcscripts
+- logsentinelai
+- bkmr
+- phylogenie
+- synapse-sdk
+- nichecompass
+- ffun
+- git-security-scanner
+- bayesnmcdm
+- sigenergy2mqtt
+- BayesMCDM
+- neoteroi-mkdocs
+- portacode
+- pyarcgenerator
+- finfeatures
 - frida-tools
 - tbp-nightly
 - mc-wiki-fetch-mcp
 - zbWidgetLib
-- pyarcscripts
 - suzaku
 - zfb3-1
-- queus
 - tasker-tasks-cli
-- pywalker
 - tokenx-core
 - ofxstatement-dutch
 - lisnTorch
-- botrun-llm-ranking
 - autogluon
 - autogluon.timeseries
 - autogluon.multimodal
@@ -31,10 +61,8 @@
 - calita
 - annex4ac
 - docsray
-- mkdocs-ai-summary-wcowin
 - infoeqv
 - wisent-guard
-- portacode
 - atio
 - gofastapi
 - homelab_config
@@ -44,39 +72,3 @@
 - broprompt
 - pymanuf
 - ont-snappy
-- mns-common
-- webull-python-sdk-trade
-- webull-python-sdk-trade-events-core
-- ComicGUISpider
-- webull-python-sdk-mdata
-- webull-python-sdk-quotes-core
-- nebula-client
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-grafana
-- webull-python-sdk-core
-- tfp-nightly
-- scematics-cli
-- pytest-yaml-fei
-- kuzu
-- ssb-sgis
-- numtypes
-- python-openhab
-- VBMicrolensing
-- media-agent-mcp
-- kcli
-- frida
-- eric-redis-queues
-- pymx
-- shaheenviz
-- robo-lib
-- acl-anthology
-- p3lib
-- log-tool
-- md2hash
-- scrapy-cffi
-- ultranlp
-- logaid
-- kanban-tui
-- typedfzf
-- tvara
-- syqlorix
