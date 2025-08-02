@@ -1,0 +1,11 @@
+{
+  "name": "elliptical-distribution-toolkit",
+  "version": "0.0.1",
+  "summary": "Toolkit related to multivariate elliptical distributions.",
+  "author": "Jay Damask",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitlab.com/elliptical-distribution-toolkit-dev/elliptical-distribution-toolkit",
+  "download_filename": "elliptical_distribution_toolkit-0.0.1.tar.gz",
+  "download_time": "2025-08-02T23:13:50.513634",
+  "package_url": "https://pypi.org/project/elliptical-distribution-toolkit/"
+}
