@@ -1,11 +1,11 @@
 {
   "name": "enzyme-filtering-pipeline",
-  "version": "0.0.38",
+  "version": "0.0.39",
   "summary": null,
   "author": "Helen Schmid",
   "license": "GPL3",
   "home_page": "https://github.com/HelenSchmid/EnzymeStructuralFiltering",
-  "download_filename": "enzyme_filtering_pipeline-0.0.38.tar.gz",
-  "download_time": "2025-08-02T22:53:40.822495",
+  "download_filename": "enzyme_filtering_pipeline-0.0.39.tar.gz",
+  "download_time": "2025-08-02T23:34:53.064740",
   "package_url": "https://pypi.org/project/enzyme-filtering-pipeline/"
 }

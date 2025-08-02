@@ -1,15 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T23:14:23.876626
-- **Total Packages**: 74
-- **Total Size**: 1.77 MB
+- **Download Time**: 2025-08-02T23:35:29.358829
+- **Total Packages**: 73
+- **Total Size**: 1.61 MB
 
 ## Packages List
+- tim-the-enchanter
+- mode-manager-mcp
+- canonmap
+- rnet
+- hatch-rs
+- qoco
+- tensorfi-sharpe
+- dazllm
+- enzyme-filtering-pipeline
+- PaLM-rlhf-pytorch
+- sway-out
+- dml-util
+- symclosestwannier
+- chuk-mcp-server
+- niemabf
+- pylockgen
+- bumpcalver
+- asyncgui
+- pytracecall
+- python-meteolux
 - nominal-api-protos
 - nominal-api
 - reaction-metrics-exporter
-- niemabf
 - buscador-de-cnpj
 - rpy2
 - annex4review
@@ -30,7 +49,6 @@
 - gendalf
 - svc-order-zxw
 - requirement-loader
-- enzyme-filtering-pipeline
 - fastapi-socketio-handler
 - shellrosetta
 - hbat
@@ -38,12 +56,10 @@
 - rhoa
 - pythonrc-manager
 - AgentToolProtocol
-- canonmap
 - modbus-mcp
 - m24842-ml
 - hcom
 - pypomes-crypto
-- pytracecall
 - j1939parser
 - pythonic-fp
 - lana1028
@@ -63,20 +79,3 @@
 - clicycle
 - poke
 - rexa
-- gpu-benchmark-tool
-- airbyte-source-surveymonkey
-- portfolio-tracker-cli
-- cybertemp
-- airbyte-source-recharge
-- sc-btr
-- aiothreads
-- chat-object
-- flow-compute
-- litellm
-- card-generator
-- kra
-- SuperGemini
-- openmock
-- astlab
-- kashima
-- tensorfi-sharpe
