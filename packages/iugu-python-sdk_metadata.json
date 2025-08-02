@@ -1,11 +1,11 @@
 {
   "name": "iugu-python-sdk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Client de comunicaçao c/ API da IUGU",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2025 Seu Nome\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
   "home_page": null,
-  "download_filename": "iugu_python_sdk-1.0.2.tar.gz",
-  "download_time": "2025-08-01T22:37:26.918568",
+  "download_filename": "iugu_python_sdk-1.0.4.tar.gz",
+  "download_time": "2025-08-02T13:42:54.855914",
   "package_url": "https://pypi.org/project/iugu-python-sdk/"
 }

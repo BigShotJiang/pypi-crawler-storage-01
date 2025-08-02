@@ -1,11 +1,11 @@
 {
   "name": "langchain-openailike-llms-adapters",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A utils to connect to all models compatible with the OpenAI style",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_openailike_llms_adapters-0.2.0.tar.gz",
-  "download_time": "2025-08-02T12:22:44.837628",
+  "download_filename": "langchain_openailike_llms_adapters-0.2.1.tar.gz",
+  "download_time": "2025-08-02T13:43:12.094271",
   "package_url": "https://pypi.org/project/langchain-openailike-llms-adapters/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "valhallabot2",
+  "version": "0.1.0",
+  "summary": "مكتبة بايثون لإرسال ملفات من مجلد معين عبر بوت تليجرام",
+  "author": "valhalla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "valhallabot2-0.1.0.tar.gz",
+  "download_time": "2025-08-02T13:42:53.121249",
+  "package_url": "https://pypi.org/project/valhallabot2/"
+}
