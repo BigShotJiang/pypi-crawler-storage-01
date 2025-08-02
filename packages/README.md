@@ -1,13 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T07:13:44.715711
-- **Total Packages**: 97
-- **Total Size**: 54.1 MB
+- **Download Time**: 2025-08-02T07:32:28.540905
+- **Total Packages**: 96
+- **Total Size**: 24.55 MB
 
 ## Packages List
-- alchemy1115
+- mem0-history-db-patch
+- DragonLog
+- direct-deps
+- python-sdk-remote
+- unichat
+- dagster-slurm
 - pypi-query-mcp-server
+- requests-async
+- alchemy1115
 - tf-models-nightly
 - queus
 - ndvis
@@ -95,11 +102,3 @@
 - apache-airflow-providers-facebook
 - apache-airflow-providers-fab
 - apache-airflow-providers-exasol
-- apache-airflow-providers-elasticsearch
-- apache-airflow-providers-edge3
-- apache-airflow-providers-docker
-- apache-airflow-providers-discord
-- apache-airflow-providers-dingding
-- apache-airflow-providers-dbt-cloud
-- apache-airflow-providers-datadog
-- apache-airflow-providers-databricks
