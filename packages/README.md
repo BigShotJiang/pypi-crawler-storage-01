@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T18:18:47.469288
-- **Total Packages**: 79
-- **Total Size**: 12.47 MB
+- **Download Time**: 2025-08-02T18:51:22.378504
+- **Total Packages**: 81
+- **Total Size**: 21.19 MB
 
 ## Packages List
+- langgate-transform
+- langgate-server
+- langgate-sdk
+- langgate-registry
+- langgate-processor
+- langgate-core
+- langgate-client
+- langgate
+- netbox-manager
+- aws-sns-verifier
+- reyweb
+- reykit
+- dodopayments
+- pyrion
+- quasarr
+- cybrid-api-organization-python
+- imageconvert
+- cybrid-api-bank-python
+- cybrid-api-id-python
+- graph-games-proto
+- sportsball
+- iwpc
+- fotolab
+- ebay-rest
+- llm-optimized-inference
+- nee
+- annex4review
+- tkinter-layout-helpers
+- apsimNGpy
+- genie-flow
+- uqbar
+- inquirer
+- circuit-synth
+- pchjlib
+- evil-winrm-py
+- o2o-process
+- strawberry-graphql
+- rosbags
+- pvevti
+- flow-diagrams
+- pear-software-devtoolkit
+- marksum
+- py-xml-ccda
+- pysui
+- insurgentai-shared-utils
+- earnings-analyzer
+- reywechat
+- pytoolbelt-psenv
+- reydb
+- ratio1
+- hxy-lib
+- chunklet
+- logsentinelai
+- PycordViews
+- supersafepackage
+- my_simple_pkg
+- stracetools
 - rsc
 - excel2moodle
 - lanscape
@@ -13,17 +70,12 @@
 - pycheckwatt
 - postomc
 - txt2ebook
-- pchjlib
 - streamlit-achievements
 - apprise
 - airbyte-source-gcs
 - airbyte-source-firebolt
-- pytoolbelt-psenv
 - pyfabricops
-- graph-games-proto
 - a3
-- pvevti
-- py-xml-ccda
 - scubatrace
 - valuascript-compiler
 - broprompt
@@ -33,55 +85,5 @@
 - clash-tools
 - yaapp
 - vietnamadminunits
-- annex4review
 - powerplanner-lib
 - datasurface
-- nimo
-- kashima
-- ai-proxy-core
-- pythonrc-manager
-- rovr
-- x-transformers-rl
-- pilotcmd
-- Questioning-game
-- PyInteno
-- docoreai
-- kcli
-- ingame
-- pybasemkit
-- nitro-toolkit
-- rumdl
-- pulsebus
-- gc7
-- wyzeapy
-- supersafepackage
-- pycvt
-- unzipall
-- finmlkit
-- tkface
-- wavinsentio
-- napistu
-- ppbuild
-- strawberry-graphql
-- unscaleai
-- sportsball
-- vidtoolz-shorts
-- bh-usa-automate-req-ase
-- ctx-miner
-- earnings-analyzer
-- xproject
-- meraki-dashboard-exporter
-- zlgcan-driver
-- bh-usa-req-ase
-- config-argument-parser
-- broflow
-- pysick
-- Navygram
-- statomata
-- xlizard
-- docutools
-- python-open-router
-- quasarr
-- a-beta-scalekit
-- detaillogger
-- pennylane-qrack-cpu

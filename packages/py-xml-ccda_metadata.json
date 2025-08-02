@@ -1,11 +1,11 @@
 {
   "name": "py-xml-ccda",
-  "version": "0.1",
+  "version": "1.0.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_xml_ccda-0.1.tar.gz",
-  "download_time": "2025-08-02T18:18:10.576277",
+  "download_filename": "py_xml_ccda-1.0.0.tar.gz",
+  "download_time": "2025-08-02T18:51:02.335524",
   "package_url": "https://pypi.org/project/py-xml-ccda/"
 }

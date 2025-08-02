@@ -1,0 +1,11 @@
+{
+  "name": "flow-diagrams",
+  "version": "0.1.0",
+  "summary": "Client library for creating Mermaid diagrams",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flow_diagrams-0.1.0.tar.gz",
+  "download_time": "2025-08-02T18:51:00.778181",
+  "package_url": "https://pypi.org/project/flow-diagrams/"
+}

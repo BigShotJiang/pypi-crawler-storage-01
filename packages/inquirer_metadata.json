@@ -1,0 +1,11 @@
+{
+  "name": "inquirer",
+  "version": "3.4.1",
+  "summary": "Collection of common interactive command line user interfaces, based on Inquirer.js",
+  "author": "Miguel Ángel García",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inquirer-3.4.1.tar.gz",
+  "download_time": "2025-08-02T18:50:56.600159",
+  "package_url": "https://pypi.org/project/inquirer/"
+}
