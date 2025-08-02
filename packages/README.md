@@ -1,20 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T08:16:41.388601
-- **Total Packages**: 75
-- **Total Size**: 38.05 MB
+- **Download Time**: 2025-08-02T08:44:09.472285
+- **Total Packages**: 78
+- **Total Size**: 18.92 MB
 
 ## Packages List
+- scematics-cli
+- pytest-yaml-fei
 - pymanuf
+- kuzu
+- ssb-sgis
+- numtypes
+- python-openhab
+- VBMicrolensing
+- media-agent-mcp
+- kcli
+- frida
+- eric-redis-queues
+- pymx
+- shaheenviz
+- robo-lib
+- botrun-llm-ranking
+- acl-anthology
+- p3lib
+- log-tool
+- md2hash
+- scrapy-cffi
+- ultranlp
+- annex4ac
+- logaid
+- kanban-tui
+- typedfzf
 - tvara
 - syqlorix
 - gh-templates
 - gh-templates-win32-x64-msvc
-- annex4ac
 - eric-sse
-- ultranlp
-- md2hash
 - homelab_config
 - sagikoza
 - pydantic-gitlab
@@ -38,7 +60,6 @@
 - sokrates
 - trainscanner
 - persistent-cache-decorator
-- logaid
 - logsentinelai
 - obsidiana
 - neptoon
@@ -51,7 +72,6 @@
 - toomanysessions
 - rag-shared
 - coldpack
-- botrun-llm-ranking
 - nnInteractive
 - pymelodia
 - pybooxdrop
@@ -64,20 +84,3 @@
 - abs-blob-storage-manager-core
 - dynetan
 - synapse-sdk
-- liquidity
-- meshcore-cli
-- meshcore
-- oelint-data
-- feldera
-- trcks
-- pymud
-- aiomisc
-- mns-common
-- quivr-modified-milvus
-- portacode
-- nnea
-- DragonLog
-- direct-deps
-- python-sdk-remote
-- unichat
-- dagster-slurm

@@ -1,0 +1,11 @@
+{
+  "name": "scematics-cli",
+  "version": "0.1.22",
+  "summary": "A CLI tool for managing file uploads",
+  "author": "scematics.io",
+  "license": null,
+  "home_page": "https://github.com/0karthickm/scematics-cli",
+  "download_filename": "scematics_cli-0.1.22.tar.gz",
+  "download_time": "2025-08-02T08:43:25.377086",
+  "package_url": "https://pypi.org/project/scematics-cli/"
+}

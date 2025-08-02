@@ -1,0 +1,11 @@
+{
+  "name": "shaheenviz",
+  "version": "0.1.0",
+  "summary": "Shaheenviz combines the analytical power of YData Profiling with the stunning visuals of Sweetviz to deliver a unified, automatic EDA solution.",
+  "author": "Hamza",
+  "license": null,
+  "home_page": "https://github.com/hamza-0987/shaheenviz",
+  "download_filename": "shaheenviz-0.1.0.tar.gz",
+  "download_time": "2025-08-02T08:43:33.333118",
+  "package_url": "https://pypi.org/project/shaheenviz/"
+}
