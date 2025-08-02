@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T11:39:49.024245
-- **Total Packages**: 79
-- **Total Size**: 9.2 MB
+- **Download Time**: 2025-08-02T11:49:42.386678
+- **Total Packages**: 76
+- **Total Size**: 5.28 MB
 
 ## Packages List
+- onelive-restream
+- bitbadgespy-sdk
+- datasetplus
+- yacv-server
+- mcp-gusantong
+- SAMBA-ilum
+- NseEod
+- django-cte-stubs
+- dagster-qcloud-cos
+- StreamingCommunity
+- pydantic-alchemy
 - PyInteno
 - pytnl
 - Navygram
@@ -17,7 +28,6 @@
 - sahi
 - special-relativity-grapher
 - mcp-imgutils
-- onelive-restream
 - torchx-nightly
 - dagster-dingtalk
 - aipmodel
@@ -34,7 +44,6 @@
 - langchain-openailike-llms-adapters
 - md-to-slack-blocks
 - yta-positioning
-- yacv-server
 - siya-yahoo-finance-mcp
 - gh-templates
 - gh-templates-win32-x86-msvc
@@ -73,15 +82,3 @@
 - pydantic-gitlab
 - konduktor-nightly
 - python-http_request
-- pgqueuer
-- uproot-custom
-- trainy-policy-nightly
-- straful-python
-- bigcodec
-- coldpack
-- pymediawikidocker
-- letta-nightly
-- ai-mesh-sdk
-- eric-sse
-- kotoba
-- digitalarzengine
