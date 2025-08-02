@@ -1,11 +1,11 @@
 {
   "name": "yaapp",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "summary": "Yet Another Python Package - A library bridging FastAPI and CLI interfaces",
   "author": "yaapp Team",
   "license": null,
   "home_page": null,
-  "download_filename": "yaapp-0.0.35.tar.gz",
-  "download_time": "2025-08-02T16:43:15.822842",
+  "download_filename": "yaapp-0.0.36.tar.gz",
+  "download_time": "2025-08-02T17:13:59.838480",
   "package_url": "https://pypi.org/project/yaapp/"
 }

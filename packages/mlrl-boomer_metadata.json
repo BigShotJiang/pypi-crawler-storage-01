@@ -1,11 +1,11 @@
 {
   "name": "mlrl-boomer",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "summary": "A scikit-learn implementation of BOOMER - an algorithm for learning gradient boosted multi-label output rules",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlrl_boomer-0.12.2-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-07-31T22:13:33.292194",
+  "download_filename": "mlrl_boomer-0.12.3-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-02T17:14:05.700855",
   "package_url": "https://pypi.org/project/mlrl-boomer/"
 }

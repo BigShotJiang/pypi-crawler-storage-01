@@ -1,11 +1,11 @@
 {
   "name": "fps-auth-jupyterhub",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "An FPS plugin for the authentication API, using JupyterHbu",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "fps_auth_jupyterhub-0.9.1.tar.gz",
-  "download_time": "2025-07-31T15:57:32.225034",
+  "download_filename": "fps_auth_jupyterhub-0.9.2.tar.gz",
+  "download_time": "2025-08-02T17:14:18.388826",
   "package_url": "https://pypi.org/project/fps-auth-jupyterhub/"
 }

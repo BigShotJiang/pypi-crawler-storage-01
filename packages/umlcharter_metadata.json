@@ -1,0 +1,11 @@
+{
+  "name": "umlcharter",
+  "version": "1.1.4",
+  "summary": "Python package for quick diagrams creation without a need to learn new DSL",
+  "author": "Mikalai Yurkin",
+  "license": null,
+  "home_page": "https://github.com/mikalaiyurkin/charter",
+  "download_filename": "umlcharter-1.1.4.tar.gz",
+  "download_time": "2025-08-02T17:14:06.721205",
+  "package_url": "https://pypi.org/project/umlcharter/"
+}

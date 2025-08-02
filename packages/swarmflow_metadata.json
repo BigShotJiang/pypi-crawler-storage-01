@@ -1,11 +1,11 @@
 {
   "name": "swarmflow",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "SwarmFlow: A distributed multi-agent orchestration framework",
   "author": "Anirudh Ramesh",
   "license": null,
   "home_page": "https://github.com/anirame128/swarmflow",
-  "download_filename": "swarmflow-0.1.5.tar.gz",
-  "download_time": "2025-08-02T16:58:15.017370",
+  "download_filename": "swarmflow-0.1.8.tar.gz",
+  "download_time": "2025-08-02T17:13:52.251520",
   "package_url": "https://pypi.org/project/swarmflow/"
 }

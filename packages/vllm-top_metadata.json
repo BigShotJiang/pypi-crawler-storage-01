@@ -1,11 +1,11 @@
 {
   "name": "vllm-top",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A monitoring tool for vLLM metrics.",
   "author": "Yeok Tatt Cheah",
   "license": "MIT",
   "home_page": "https://github.com/yeok-c/vllm-top",
-  "download_filename": "vllm_top-0.1.0.tar.gz",
-  "download_time": "2025-08-02T16:43:25.986214",
+  "download_filename": "vllm_top-0.1.1.tar.gz",
+  "download_time": "2025-08-02T17:13:57.722098",
   "package_url": "https://pypi.org/project/vllm-top/"
 }

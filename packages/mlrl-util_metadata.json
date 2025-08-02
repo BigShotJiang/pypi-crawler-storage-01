@@ -1,11 +1,11 @@
 {
   "name": "mlrl-util",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "summary": "Provides common utilities used by the mlrl-* packages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlrl_util-0.12.2-py3-none-any.whl",
-  "download_time": "2025-07-31T22:13:27.416161",
+  "download_filename": "mlrl_util-0.12.3-py3-none-any.whl",
+  "download_time": "2025-08-02T17:14:02.436159",
   "package_url": "https://pypi.org/project/mlrl-util/"
 }
