@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T07:32:28.540905
-- **Total Packages**: 96
-- **Total Size**: 24.55 MB
+- **Download Time**: 2025-08-02T07:43:00.736440
+- **Total Packages**: 79
+- **Total Size**: 1.77 MB
 
 ## Packages List
+- analyser2_hj3415
+- suzaku
+- dev-toolbox
+- requests-async
+- alchemy1115
+- mkdocs-ultralytics-plugin
+- abs-blob-storage-manager-core
+- gh-templates
+- dynetan
+- gh-templates-win32-x64-msvc
+- compliance-sdk
+- toomanysessions
+- synapse-sdk
+- liquidity
+- meshcore-cli
+- meshcore
+- oelint-data
+- gh-templates-linux-arm64-glibc
+- gh-templates-linux-x64-glibc
+- gh-templates-linux-x64-musl
+- gh-templates-darwin-x64
+- gh-templates-darwin-arm64
+- feldera
+- trcks
+- pymud
+- aiomisc
+- dlrm
+- mns-common
+- quivr-modified-milvus
+- portacode
+- nnea
+- zhmiscellany
 - mem0-history-db-patch
 - DragonLog
 - direct-deps
@@ -13,8 +45,6 @@
 - unichat
 - dagster-slurm
 - pypi-query-mcp-server
-- requests-async
-- alchemy1115
 - tf-models-nightly
 - queus
 - ndvis
@@ -23,23 +53,13 @@
 - streamlit-nightly
 - wooting-mouse
 - ktoolbox-pure-py
-- aiomisc
 - django-keycloak-sso
 - yokatlas-py
-- gh-templates
-- gh-templates-win32-x64-msvc
 - asusrouter
 - common-util-py
 - nitro-toolkit
-- portacode
-- gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-glibc
-- gh-templates-linux-x64-musl
-- gh-templates-darwin-arm64
 - coda-code-assistant
-- gh-templates-darwin-x64
 - robhan-cdk-lib.aws-grafana
-- abs-blob-storage-manager-core
 - ktoolbox
 - artless-template
 - py-env-studio
@@ -65,40 +85,3 @@
 - apache-airflow-providers-sendgrid
 - apache-airflow-providers-segment
 - apache-airflow-providers-samba
-- apache-airflow-providers-salesforce
-- apache-airflow-providers-redis
-- apache-airflow-providers-qdrant
-- apache-airflow-providers-presto
-- apache-airflow-providers-postgres
-- apache-airflow-providers-pinecone
-- apache-airflow-providers-pgvector
-- apache-airflow-providers-papermill
-- apache-airflow-providers-pagerduty
-- apache-airflow-providers-oracle
-- apache-airflow-providers-opsgenie
-- apache-airflow-providers-opensearch
-- apache-airflow-providers-openlineage
-- apache-airflow-providers-openfaas
-- apache-airflow-providers-openai
-- apache-airflow-providers-odbc
-- apache-airflow-providers-neo4j
-- apache-airflow-providers-mysql
-- apache-airflow-providers-mongo
-- apache-airflow-providers-microsoft-winrm
-- apache-airflow-providers-microsoft-psrp
-- apache-airflow-providers-microsoft-mssql
-- apache-airflow-providers-microsoft-azure
-- apache-airflow-providers-jenkins
-- apache-airflow-providers-jdbc
-- apache-airflow-providers-influxdb
-- apache-airflow-providers-imap
-- apache-airflow-providers-http
-- apache-airflow-providers-hashicorp
-- apache-airflow-providers-grpc
-- apache-airflow-providers-google
-- apache-airflow-providers-github
-- apache-airflow-providers-git
-- apache-airflow-providers-ftp
-- apache-airflow-providers-facebook
-- apache-airflow-providers-fab
-- apache-airflow-providers-exasol

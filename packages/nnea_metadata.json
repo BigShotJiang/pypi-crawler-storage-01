@@ -1,0 +1,11 @@
+{
+  "name": "nnea",
+  "version": "0.1.2",
+  "summary": "A biological inform neural network",
+  "author": "Chuwei Liu",
+  "license": null,
+  "home_page": "https://github.com/liuchuwei/nnea",
+  "download_filename": "nnea-0.1.2.tar.gz",
+  "download_time": "2025-08-02T07:42:32.749298",
+  "package_url": "https://pypi.org/project/nnea/"
+}

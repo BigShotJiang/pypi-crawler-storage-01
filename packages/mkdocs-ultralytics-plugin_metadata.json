@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-ultralytics-plugin",
+  "version": "0.1.26",
+  "summary": "An MkDocs plugin that provides Ultralytics Docs customizations at https://docs.ultralytics.com.",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "mkdocs_ultralytics_plugin-0.1.26.tar.gz",
+  "download_time": "2025-08-02T07:42:18.252912",
+  "package_url": "https://pypi.org/project/mkdocs-ultralytics-plugin/"
+}

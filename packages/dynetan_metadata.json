@@ -1,0 +1,11 @@
+{
+  "name": "dynetan",
+  "version": "2.2.2",
+  "summary": "A Python implementation for Dynamical Network Analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynetan-2.2.2-py3-none-any.whl",
+  "download_time": "2025-08-02T07:42:20.019845",
+  "package_url": "https://pypi.org/project/dynetan/"
+}

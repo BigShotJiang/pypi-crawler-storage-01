@@ -1,11 +1,11 @@
 {
   "name": "zhmiscellany",
-  "version": "5.5.1",
+  "version": "5.5.2",
   "summary": "A collection of useful/interesting python libraries made by zh.",
   "author": "zh",
   "license": null,
   "home_page": "https://discord.gg/ThBBAuueVJ",
-  "download_filename": "zhmiscellany-5.5.1-py3-none-any.whl",
-  "download_time": "2025-07-31T14:15:59.154661",
+  "download_filename": "zhmiscellany-5.5.2-py3-none-any.whl",
+  "download_time": "2025-08-02T07:42:33.337806",
   "package_url": "https://pypi.org/project/zhmiscellany/"
 }
