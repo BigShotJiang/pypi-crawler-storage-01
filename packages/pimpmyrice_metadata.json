@@ -1,11 +1,11 @@
 {
   "name": "pimpmyrice",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "The overkill theme manager",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pimpmyrice-0.4.1.tar.gz",
-  "download_time": "2025-08-02T15:51:25.882429",
+  "download_filename": "pimpmyrice-0.4.2.tar.gz",
+  "download_time": "2025-08-02T16:58:40.917761",
   "package_url": "https://pypi.org/project/pimpmyrice/"
 }

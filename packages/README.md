@@ -1,34 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T16:43:56.148707
-- **Total Packages**: 79
-- **Total Size**: 19.29 MB
+- **Download Time**: 2025-08-02T16:58:45.814236
+- **Total Packages**: 80
+- **Total Size**: 5.83 MB
 
 ## Packages List
-- extract-favicon
-- chrome-devtools-mcp-fork
-- gc7
-- friendlyetl
-- tdhook
-- Questioning-game
-- yaapp
-- megarnucleusx
-- webpys
-- clash-tools
-- py-sql-runner
-- pybird-lss
-- uproot-custom
-- m24842-ml
-- bbqr
-- brainchop
-- swarmflow
-- grapapy
-- pysqa
 - sense-table
+- gc7
 - pchjlib
 - a3
 - leafmap
+- m24842-ml
 - nano-wait
 - vllm-top
 - pandas-checks
@@ -37,6 +20,7 @@
 - fromager
 - core-mixins
 - lms-geotool
+- clash-tools
 - tunnelgraf
 - pybasemkit
 - md2pdf-advanced
@@ -47,6 +31,7 @@
 - pyhwpx
 - mode-manager-mcp
 - streamlit-social-share
+- swarmflow
 - ac-library-python-stubs
 - tkinter-layout-helpers
 - xlizard
@@ -57,6 +42,7 @@
 - psiutils
 - airbyte-source-mixpanel
 - llmq
+- yaapp
 - remeta
 - annex4review
 - brollm
@@ -85,3 +71,18 @@
 - odoo-addon-l10n-br-stock-account
 - odoo-addon-l10n-br-nfse
 - odoo-addon-l10n-br-fiscal
+- odoo-addon-l10n-br-nfe
+- odoo-addon-l10n-br-fiscal-edi
+- odoo-addon-l10n-br-purchase
+- cybrid-api-bank-python
+- superoptix
+- ostruct-cli
+- pimpmyrice
+- cybrid-api-organization-python
+- odfdo
+- vibeflow
+- cybrid-api-id-python
+- insight-proto
+- browser-use
+- grapapy
+- pyinit-cli
