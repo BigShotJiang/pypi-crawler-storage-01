@@ -1,0 +1,11 @@
+{
+  "name": "printout",
+  "version": "1.2.0",
+  "summary": "Enhanced print function with automatic logging",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "printout-1.2.0.tar.gz",
+  "download_time": "2025-08-02T20:35:26.101654",
+  "package_url": "https://pypi.org/project/printout/"
+}

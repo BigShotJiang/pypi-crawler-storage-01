@@ -1,0 +1,11 @@
+{
+  "name": "vulncheck-sdk",
+  "version": "0.0.18",
+  "summary": "VulnCheck API",
+  "author": "VulnCheck API Support",
+  "license": null,
+  "home_page": "https://github.com/vulncheck-oss/sdk-python/tree/main",
+  "download_filename": "vulncheck_sdk-0.0.18.tar.gz",
+  "download_time": "2025-08-02T20:35:23.839578",
+  "package_url": "https://pypi.org/project/vulncheck-sdk/"
+}

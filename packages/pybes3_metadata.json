@@ -1,11 +1,11 @@
 {
   "name": "pybes3",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Unofficial Python module for BES3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybes3-0.3.6.tar.gz",
-  "download_time": "2025-08-02T09:52:55.436496",
+  "download_filename": "pybes3-0.3.7.tar.gz",
+  "download_time": "2025-08-02T20:35:22.699442",
   "package_url": "https://pypi.org/project/pybes3/"
 }

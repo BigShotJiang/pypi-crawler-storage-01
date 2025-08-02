@@ -1,17 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T20:14:30.754555
-- **Total Packages**: 87
-- **Total Size**: 25.74 MB
+- **Download Time**: 2025-08-02T20:36:00.340061
+- **Total Packages**: 84
+- **Total Size**: 18.54 MB
 
 ## Packages List
+- lusid-sdk
+- sc-btr
+- graphc
+- izisat
+- pyramids-gis
+- luminescent
+- jsongrapher
+- pybridge-mrt
+- firesense
+- enzyme-filtering-pipeline
+- tinyshift
+- SplIsoFind
+- aipyapp
+- offers-check-marketplaces-mcp-2025
+- ymlmaster
+- broccoli-ml
+- mirumoji
+- pybes3
+- zenmav
+- vulncheck-sdk
+- astlab
+- fastapi-auth-oidc
+- pyogrio
+- printout
+- earningspy
+- tgext.pluggable
+- earnings-analyzer
+- bash2gitlab
 - m24842-ml
 - pytest-impacted
 - yaraast
 - multimolecule
 - supriya
-- sc-btr
 - airbyte-source-facebook-marketing
 - ssslm
 - mathmaker
@@ -29,16 +56,12 @@
 - ai-helper-agent
 - FernetKeyVault
 - kubelingo
-- jsongrapher
 - core-helpers
-- supersafepackage
 - md-server
-- enzyme-filtering-pipeline
 - hello-greetings
 - logsentinelai
 - spotpython
 - xsget
-- offers-check-marketplaces-mcp-2025
 - uproot-custom
 - Questioning-game
 - marksum
@@ -67,29 +90,3 @@
 - ragbits
 - docutools
 - mlforgex
-- luminescent
-- chaosinjector
-- gh-templates
-- gh-templates-win32-x64-msvc
-- gh-templates-win32-x86-msvc
-- fiasco
-- mlflow-oidc-auth
-- swarmflow
-- calculadorapnav
-- fal
-- tractusx-sdk
-- upstream-api-client
-- gh-templates-linux-arm64-musl
-- tofupy
-- bagel-tushare
-- ostorlab
-- gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-glibc
-- gh-templates-linux-x64-musl
-- umlshapes
-- gh-templates-linux-x86-musl
-- gh-templates-darwin-x64
-- gh-templates-darwin-arm64
-- netbox-manager
-- quasarr
-- discord-self

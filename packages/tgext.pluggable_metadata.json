@@ -1,0 +1,11 @@
+{
+  "name": "tgext.pluggable",
+  "version": "0.8.5",
+  "summary": "Plug applications and extensions in a TurboGears2 project",
+  "author": "Alessandro Molina, Jaroslav Mikulík",
+  "license": "MIT",
+  "home_page": "https://github.com/TurboGears/tgext.pluggable",
+  "download_filename": "tgext_pluggable-0.8.5.tar.gz",
+  "download_time": "2025-08-02T20:35:27.243417",
+  "package_url": "https://pypi.org/project/tgext.pluggable/"
+}
