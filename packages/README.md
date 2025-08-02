@@ -1,17 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T10:13:52.925976
+- **Download Time**: 2025-08-02T10:38:57.354179
 - **Total Packages**: 70
-- **Total Size**: 8.39 MB
+- **Total Size**: 2.95 MB
 
 ## Packages List
+- kececinumbers
+- logsentinelai
+- json-prompt-formatter
+- maths-add
+- std-py-logger
+- httpx-rate-limiter-transport
+- statkit
+- cppsage
+- openwebui-chat-client
+- pymediawikidocker
+- pylablib
+- abstractions
+- jira-confluence-mcp
+- aceflow-mcp-server
+- hud-python
+- bigcodec
+- ultranlp
+- nofex
+- grpc-init
+- sokobanpy
+- lv-binding-rust-generator
+- yta-video-manim
+- pyJianYingDraft
 - pydantic-rpc
 - chrome-devtools-mcp-fork
 - p2pshare-cli
 - pyarcscripts
 - mathcom
-- ultranlp
 - pythonrc-manager
 - jaxonmodels
 - a-beta-scalekit
@@ -54,25 +76,3 @@
 - proxy-reader
 - shaheenviz
 - oidfed-collector
-- botrun-llm-ranking
-- aiqtoolkit-mysql
-- SANDI
-- aiqtoolkit-redis
-- aiqtoolkit-s3
-- aiqtoolkit-ragaai
-- aiqtoolkit-opentelemetry
-- pywalker
-- queus
-- agrigee-lite
-- cnpj-mcp-server
-- pyinno-setup
-- seliseblocks-genesis
-- mkdocs-ai-summary-wcowin
-- twrapform
-- logsentinelai
-- bkmr
-- phylogenie
-- synapse-sdk
-- nichecompass
-- ffun
-- git-security-scanner

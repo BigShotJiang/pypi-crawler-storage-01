@@ -1,0 +1,11 @@
+{
+  "name": "json-prompt-formatter",
+  "version": "1.0.0",
+  "summary": "CLI tool for formatting prompts using JSON templates for different use cases",
+  "author": "SemTiOne",
+  "license": null,
+  "home_page": "https://github.com/SemTiOne/json_prompt_formatter",
+  "download_filename": "json_prompt_formatter-1.0.0.tar.gz",
+  "download_time": "2025-08-02T10:38:19.719643",
+  "package_url": "https://pypi.org/project/json-prompt-formatter/"
+}

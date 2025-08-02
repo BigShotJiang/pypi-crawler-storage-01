@@ -1,11 +1,11 @@
 {
   "name": "ultranlp",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Ultra-fast, comprehensive NLP preprocessing library with advanced tokenization",
-  "author": "Your Name",
+  "author": "Dushyant",
   "license": null,
-  "home_page": "https://github.com/yourusername/ultranlp",
-  "download_filename": "ultranlp-1.0.5-py3-none-any.whl",
-  "download_time": "2025-08-02T10:13:18.428101",
+  "home_page": "https://github.com/dushyantzz/UltraNLP",
+  "download_filename": "ultranlp-1.0.6.tar.gz",
+  "download_time": "2025-08-02T10:38:27.832203",
   "package_url": "https://pypi.org/project/ultranlp/"
 }
