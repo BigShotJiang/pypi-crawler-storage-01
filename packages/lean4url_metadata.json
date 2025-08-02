@@ -1,0 +1,11 @@
+{
+  "name": "lean4url",
+  "version": "0.1.0",
+  "summary": "High-performance lzstring compression library compatible with JavaScript implementation",
+  "author": "Rex Wang",
+  "license": null,
+  "home_page": "https://github.com/rexwzh/lean4url",
+  "download_filename": "lean4url-0.1.0.tar.gz",
+  "download_time": "2025-08-02T19:10:54.994913",
+  "package_url": "https://pypi.org/project/lean4url/"
+}

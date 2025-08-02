@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T18:51:22.378504
-- **Total Packages**: 81
-- **Total Size**: 21.19 MB
+- **Download Time**: 2025-08-02T19:11:23.515016
+- **Total Packages**: 82
+- **Total Size**: 39.22 MB
 
 ## Packages List
+- stockula
+- aws-sns-verifier
+- gh-templates-linux-x64-glibc
+- gh-templates-linux-arm64-glibc
+- gh-templates-darwin-x64
+- gh-templates-linux-arm64-musl
+- gh-templates-linux-x64-musl
+- gh-templates-darwin-arm64
+- mlfsm
+- bagel-tushare
+- cobib
+- jwpure
+- annex4review
+- pyairbnb
+- fftools
+- logsentinelai
+- pex
+- MLAMA
+- deckgen
+- tool2openai
+- obk
+- ipyslides
+- django-tokenauth
+- heatmap_cli
+- robots-checker
+- genie-flow
+- megarnucleusx
+- pymathnn
+- lean4url
+- SimpleLLMFunc
+- tcp-port-checker
 - langgate-transform
 - langgate-server
 - langgate-sdk
@@ -15,7 +46,6 @@
 - langgate-client
 - langgate
 - netbox-manager
-- aws-sns-verifier
 - reyweb
 - reykit
 - dodopayments
@@ -32,10 +62,8 @@
 - ebay-rest
 - llm-optimized-inference
 - nee
-- annex4review
 - tkinter-layout-helpers
 - apsimNGpy
-- genie-flow
 - uqbar
 - inquirer
 - circuit-synth
@@ -58,32 +86,5 @@
 - ratio1
 - hxy-lib
 - chunklet
-- logsentinelai
 - PycordViews
 - supersafepackage
-- my_simple_pkg
-- stracetools
-- rsc
-- excel2moodle
-- lanscape
-- asynctodon
-- pycheckwatt
-- postomc
-- txt2ebook
-- streamlit-achievements
-- apprise
-- airbyte-source-gcs
-- airbyte-source-firebolt
-- pyfabricops
-- a3
-- scubatrace
-- valuascript-compiler
-- broprompt
-- j1939parser
-- autoclean-eeg2source
-- friendlyetl
-- clash-tools
-- yaapp
-- vietnamadminunits
-- powerplanner-lib
-- datasurface
