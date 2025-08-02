@@ -1,16 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T17:36:02.882809
-- **Total Packages**: 90
-- **Total Size**: 11.77 MB
+- **Download Time**: 2025-08-02T17:52:24.035398
+- **Total Packages**: 85
+- **Total Size**: 11.61 MB
 
 ## Packages List
-- zlgcan-driver
+- Questioning-game
+- autoclean-eeg2source
+- PyInteno
+- docoreai
+- kcli
+- ingame
+- pybasemkit
+- nitro-toolkit
+- rumdl
 - pulsebus
+- gc7
+- wyzeapy
+- supersafepackage
+- pycvt
+- x-transformers-rl
+- unzipall
+- finmlkit
+- tkface
+- wavinsentio
+- graph-games-proto
+- napistu
+- ppbuild
+- strawberry-graphql
+- unscaleai
+- sportsball
+- vidtoolz-shorts
+- bh-usa-automate-req-ase
+- ctx-miner
+- earnings-analyzer
+- xproject
+- meraki-dashboard-exporter
+- zlgcan-driver
 - bh-usa-req-ase
 - yaapp
-- rsc
 - config-argument-parser
 - broflow
 - pysick
@@ -18,7 +47,6 @@
 - statomata
 - xlizard
 - docutools
-- unzipall
 - python-open-router
 - quasarr
 - a-beta-scalekit
@@ -47,7 +75,6 @@
 - requests-async
 - alibabacloud-paillmtrace20240311
 - yandex-tracker-mcp
-- graph-games-proto
 - m24842-ml
 - trd-utils
 - peter-cullen-burbery-python-functions
@@ -55,9 +82,7 @@
 - vllm-top
 - yokatlas-py
 - caioh-nvml-gpu-control
-- supersafepackage
 - broprompt
-- webpys
 - megarnucleusx
 - mlrl-util
 - mlrl-testbed-sklearn
@@ -66,33 +91,3 @@
 - mlrl-seco
 - mlrl-common
 - mlrl-boomer
-- gc7
-- umlcharter
-- printpop
-- TDXLib
-- jupyverse-api
-- jupyverse
-- fps-yjs
-- fps-webdav
-- fps-terminals
-- fps-resource-usage
-- fps-notebook
-- fps-noauth
-- fps-nbconvert
-- fps-login
-- fps-lab
-- fps-kernels
-- fps-kernel-web-worker
-- fps-kernel-subprocess
-- fps-jupyterlab
-- fps-frontend
-- fps-file-id
-- fps-contents
-- fps-auth-jupyterhub
-- fps-auth-fief
-- fps-auth
-- datasurface
-- pyexecutable-gen
-- syqlorix
-- my-common-utils
-- nbs-srednji-kurs

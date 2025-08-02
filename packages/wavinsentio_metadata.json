@@ -1,11 +1,11 @@
 {
   "name": "wavinsentio",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "API Wrapper for Wavin Sentio underfloor heating system",
   "author": "Tobias Laursen",
   "license": "MIT",
   "home_page": "https://github.com/djerik/wavinsentio",
-  "download_filename": "wavinsentio-0.5.3.tar.gz",
-  "download_time": "2025-08-02T14:52:38.754556",
+  "download_filename": "wavinsentio-0.5.4.tar.gz",
+  "download_time": "2025-08-02T17:51:49.133198",
   "package_url": "https://pypi.org/project/wavinsentio/"
 }

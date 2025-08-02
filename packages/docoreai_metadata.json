@@ -1,0 +1,11 @@
+{
+  "name": "docoreai",
+  "version": "1.0.0",
+  "summary": "DoCoreAI is an AI prompt optimization tool for developers and teams to reduce LLM cost, improve output, and analyze GPT prompt efficiency—no fine-tuning needed.",
+  "author": "Saji John Miranda",
+  "license": "CC BY-NC-ND 4.0",
+  "home_page": "https://docoreai.com",
+  "download_filename": "docoreai-1.0.0.tar.gz",
+  "download_time": "2025-08-02T17:51:41.215369",
+  "package_url": "https://pypi.org/project/docoreai/"
+}
