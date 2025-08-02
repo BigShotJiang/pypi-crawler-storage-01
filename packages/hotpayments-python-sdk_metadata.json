@@ -1,0 +1,11 @@
+{
+  "name": "hotpayments-python-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for HotPayments API - Handle payments, subscriptions, PIX transactions with a clean, async-ready interface.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hotpayments_python_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-02T19:27:18.081421",
+  "package_url": "https://pypi.org/project/hotpayments-python-sdk/"
+}

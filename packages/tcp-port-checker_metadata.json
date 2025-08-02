@@ -1,11 +1,11 @@
 {
   "name": "tcp-port-checker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A powerful network connectivity analyzer with real-time system monitoring and IPv6 support",
   "author": "iturkyilmazoglu",
   "license": null,
   "home_page": "https://github.com/ismailTrk/tcp-port-checker",
-  "download_filename": "tcp_port_checker-1.0.0.tar.gz",
-  "download_time": "2025-08-02T19:10:56.060519",
+  "download_filename": "tcp_port_checker-1.0.2.tar.gz",
+  "download_time": "2025-08-02T19:27:19.122872",
   "package_url": "https://pypi.org/project/tcp-port-checker/"
 }
