@@ -1,11 +1,11 @@
 {
   "name": "spotify-jam",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "spotify-jam is a package that allows you to manage Spotify Jams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spotify_jam-0.1.tar.gz",
-  "download_time": "2025-08-02T21:44:37.926097",
+  "download_filename": "spotify_jam-0.2-py3-none-any.whl",
+  "download_time": "2025-08-02T22:12:56.200563",
   "package_url": "https://pypi.org/project/spotify-jam/"
 }

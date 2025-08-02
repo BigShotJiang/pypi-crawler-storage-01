@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T21:53:10.881809
-- **Total Packages**: 84
-- **Total Size**: 20.33 MB
+- **Download Time**: 2025-08-02T22:13:35.283478
+- **Total Packages**: 82
+- **Total Size**: 13.69 MB
 
 ## Packages List
+- astlab
+- kashima
+- tensorfi-sharpe
+- contextgem
+- SuperGemini
+- claudette
+- tinyio
+- colibri-stateless
+- jsett
+- bhp-pro
+- peakrdl-python
+- stockula
+- spotify-jam
 - aipyapp
 - card-generator
 - litellm
@@ -15,11 +28,9 @@
 - fastapi-mvc-boilerplate
 - metrohash
 - mccole
-- SuperGemini
 - learning-paths-plugin
 - no-seu-tempo
 - rexa
-- spotify-jam
 - odoo-env
 - hyundai-kia-connect-api
 - pennylane-qrack-cpu
@@ -62,7 +73,6 @@
 - reachable
 - geo_pysearch
 - qtbricks
-- colibri-stateless
 - datamint
 - nuvo-simple
 - entities-python
@@ -78,15 +88,3 @@
 - fogis-api-client-timmyBird
 - graphc
 - zha-quirks
-- cybrid-api-bank-python
-- cybrid-api-id-python
-- cybrid-api-organization-python
-- pymitsubishi
-- enzyme-filtering-pipeline
-- Questioning-game
-- mth5
-- sidematter-format
-- mt-metadata
-- pybridge-mrt
-- core-https
-- image-cropper
