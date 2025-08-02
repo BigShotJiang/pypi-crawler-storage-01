@@ -1,11 +1,11 @@
 {
   "name": "unsloth",
-  "version": "2025.7.11",
+  "version": "2025.8.1",
   "summary": "2-5X faster LLM finetuning",
   "author": "Unsloth AI team",
   "license": null,
   "home_page": null,
-  "download_filename": "unsloth-2025.7.11.tar.gz",
-  "download_time": "2025-07-29T15:41:24.838718",
+  "download_filename": "unsloth-2025.8.1.tar.gz",
+  "download_time": "2025-08-02T11:12:21.339709",
   "package_url": "https://pypi.org/project/unsloth/"
 }

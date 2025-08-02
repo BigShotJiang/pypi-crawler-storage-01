@@ -1,11 +1,11 @@
 {
   "name": "peter-cullen-burbery-python-functions",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Utility functions by Peter Cullen Burbery, including date_time_stamp, compare_images, convert_blob_to_raw_github_url, validate_Windows_filename_with_reasons, and valid_Windows_filename",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peter_cullen_burbery_python_functions-1.0.0.tar.gz",
-  "download_time": "2025-07-30T22:42:40.286271",
+  "download_filename": "peter_cullen_burbery_python_functions-1.2.0.tar.gz",
+  "download_time": "2025-08-02T11:11:59.537521",
   "package_url": "https://pypi.org/project/peter-cullen-burbery-python-functions/"
 }

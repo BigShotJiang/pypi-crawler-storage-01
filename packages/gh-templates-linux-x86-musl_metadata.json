@@ -1,0 +1,11 @@
+{
+  "name": "gh-templates-linux-x86-musl",
+  "version": "0.1.27",
+  "summary": "GitHub Templates CLI tool",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gh_templates_linux_x86_musl-0.1.27.tar.gz",
+  "download_time": "2025-08-02T11:12:08.053636",
+  "package_url": "https://pypi.org/project/gh-templates-linux-x86-musl/"
+}

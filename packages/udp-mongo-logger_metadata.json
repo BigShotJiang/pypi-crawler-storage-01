@@ -1,0 +1,11 @@
+{
+  "name": "udp-mongo-logger",
+  "version": "1.0.2",
+  "summary": "APM and logging library with UDP integration",
+  "author": "Aleksey Rybkin, Dmitriy Sosedov",
+  "license": "MIT",
+  "home_page": "https://github.com/single-service/udp-logger.git",
+  "download_filename": "udp_mongo_logger-1.0.2.tar.gz",
+  "download_time": "2025-08-02T11:12:22.873338",
+  "package_url": "https://pypi.org/project/udp-mongo-logger/"
+}
