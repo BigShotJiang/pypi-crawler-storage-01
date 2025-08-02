@@ -1,11 +1,11 @@
 {
   "name": "pymelodia",
-  "version": "1.0.0",
-  "summary": "🎵 优雅的网易云音乐下载工具",
+  "version": "1.1.0",
+  "summary": "🎵 网易云音乐下载工具",
   "author": "yht0511",
   "license": "MIT",
   "home_page": "https://github.com/yht0511/melodia",
-  "download_filename": "pymelodia-1.0.0.tar.gz",
-  "download_time": "2025-07-31T12:22:46.394453",
+  "download_filename": "pymelodia-1.1.0.tar.gz",
+  "download_time": "2025-08-02T04:29:28.791351",
   "package_url": "https://pypi.org/project/pymelodia/"
 }

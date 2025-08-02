@@ -1,11 +1,11 @@
 {
   "name": "RinUI",
-  "version": "0.1.5.7",
+  "version": "0.1.6",
   "summary": "A Fluent Design-like UI library for Qt Quick (QML) based on PySide6",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rinui-0.1.5.7.tar.gz",
-  "download_time": "2025-08-01T20:37:27.948075",
+  "download_filename": "rinui-0.1.6.tar.gz",
+  "download_time": "2025-08-02T04:29:23.672858",
   "package_url": "https://pypi.org/project/RinUI/"
 }

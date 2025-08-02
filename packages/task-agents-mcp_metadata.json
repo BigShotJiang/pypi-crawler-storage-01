@@ -1,0 +1,11 @@
+{
+  "name": "task-agents-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server that delegates tasks to specialized AI agents using FastMCP",
+  "author": "vredrick",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/task-agents",
+  "download_filename": "task_agents_mcp-1.0.1.tar.gz",
+  "download_time": "2025-08-02T04:29:24.286319",
+  "package_url": "https://pypi.org/project/task-agents-mcp/"
+}

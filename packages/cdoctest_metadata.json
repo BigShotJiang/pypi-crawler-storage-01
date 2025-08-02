@@ -1,0 +1,11 @@
+{
+  "name": "cdoctest",
+  "version": "1.4.20",
+  "summary": "doctest for C/C++ which run tests by using clang-repl interaction comments.",
+  "author": "Yoon, Jonghyun",
+  "license": null,
+  "home_page": "https://github.com/ormastes/cdoctest",
+  "download_filename": "cdoctest-1.4.20-py3-none-any.whl",
+  "download_time": "2025-08-02T04:29:19.667200",
+  "package_url": "https://pypi.org/project/cdoctest/"
+}
