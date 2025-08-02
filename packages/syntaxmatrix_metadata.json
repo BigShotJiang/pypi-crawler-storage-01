@@ -1,11 +1,11 @@
 {
   "name": "syntaxmatrix",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "summary": "SyntaxMUI: A customizable framework for Python AI Assistant Projects.",
   "author": "Bob Nti",
   "license": null,
   "home_page": "https://github.com/bobganti/syntaxmatrix_demo",
-  "download_filename": "syntaxmatrix-1.4.5.tar.gz",
-  "download_time": "2025-08-01T07:45:27.891052",
+  "download_filename": "syntaxmatrix-1.4.6.tar.gz",
+  "download_time": "2025-08-02T11:28:40.004719",
   "package_url": "https://pypi.org/project/syntaxmatrix/"
 }

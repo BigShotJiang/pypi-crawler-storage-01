@@ -1,0 +1,11 @@
+{
+  "name": "punjabi-verb-forms",
+  "version": "0.1.0",
+  "summary": "Punjabi verb form inflection using root words and suffixes",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/punjabi-verb-forms",
+  "download_filename": "punjabi_verb_forms-0.1.0.tar.gz",
+  "download_time": "2025-08-02T11:28:40.534752",
+  "package_url": "https://pypi.org/project/punjabi-verb-forms/"
+}
