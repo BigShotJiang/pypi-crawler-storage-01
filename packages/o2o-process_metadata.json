@@ -1,11 +1,11 @@
 {
   "name": "o2o-process",
-  "version": "1.4.6",
+  "version": "1.6.10",
   "summary": "Tools for simulating and analyzing the spillover between online and offline activities",
   "author": "Youness Diouane",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "o2o_process-1.4.6.tar.gz",
-  "download_time": "2025-08-02T00:59:15.927956",
+  "download_filename": "o2o_process-1.6.10.tar.gz",
+  "download_time": "2025-08-02T02:53:19.923282",
   "package_url": "https://pypi.org/project/o2o-process/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "phoney-dictate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A voice recognition \"app\" which sends your cell phone's voice recognition input to your computer.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phoney_dictate-1.0.3.tar.gz",
-  "download_time": "2025-08-01T06:21:26.411795",
+  "download_filename": "phoney_dictate-1.0.4.tar.gz",
+  "download_time": "2025-08-02T02:53:12.547253",
   "package_url": "https://pypi.org/project/phoney-dictate/"
 }

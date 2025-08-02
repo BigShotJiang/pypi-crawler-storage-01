@@ -1,11 +1,11 @@
 {
   "name": "sssekai",
-  "version": "0.7.53",
+  "version": "0.7.55",
   "summary": "Project SEKAI Asset Utility / PJSK 资源工具",
   "author": "greats3an",
   "license": null,
   "home_page": "https://github.com/mos9527/sssekai",
-  "download_filename": "sssekai-0.7.53.tar.gz",
-  "download_time": "2025-07-30T14:14:40.228671",
+  "download_filename": "sssekai-0.7.55.tar.gz",
+  "download_time": "2025-08-02T02:53:06.971976",
   "package_url": "https://pypi.org/project/sssekai/"
 }

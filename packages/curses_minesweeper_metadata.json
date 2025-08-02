@@ -1,0 +1,11 @@
+{
+  "name": "curses_minesweeper",
+  "version": "1.0.0",
+  "summary": "(yet another) Minesweeper implementation with curses, cuz why not",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "curses_minesweeper-1.0.0.tar.gz",
+  "download_time": "2025-08-02T02:53:30.036733",
+  "package_url": "https://pypi.org/project/curses_minesweeper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "unike",
-  "version": "3.2.8",
+  "version": "3.2.11",
   "summary": "基于 OpenKE-PyTorch 开发的知识图谱嵌入工具包",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unike-3.2.8.tar.gz",
-  "download_time": "2025-07-30T14:41:16.057336",
+  "download_filename": "unike-3.2.11.tar.gz",
+  "download_time": "2025-08-02T02:53:09.616675",
   "package_url": "https://pypi.org/project/unike/"
 }
