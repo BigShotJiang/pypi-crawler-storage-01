@@ -1,11 +1,11 @@
 {
   "name": "wujing",
-  "version": "3.0.2",
+  "version": "3.2.0",
   "summary": "py-kit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wujing-3.0.2.tar.gz",
-  "download_time": "2025-07-31T07:18:37.260404",
+  "download_filename": "wujing-3.2.0.tar.gz",
+  "download_time": "2025-08-02T06:50:58.043685",
   "package_url": "https://pypi.org/project/wujing/"
 }

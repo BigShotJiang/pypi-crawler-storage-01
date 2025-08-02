@@ -1,11 +1,11 @@
 {
   "name": "nitro-toolkit",
-  "version": "2.0.8",
+  "version": "2.1.0",
   "summary": "Discord Nitro gift code generator and checker toolkit",
   "author": "HenryLok0",
   "license": "MIT",
   "home_page": "https://github.com/HenryLok0/nitro-toolkit",
-  "download_filename": "nitro_toolkit-2.0.8.tar.gz",
-  "download_time": "2025-08-02T05:19:29.125253",
+  "download_filename": "nitro_toolkit-2.1.0.tar.gz",
+  "download_time": "2025-08-02T06:50:57.000282",
   "package_url": "https://pypi.org/project/nitro-toolkit/"
 }

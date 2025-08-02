@@ -1,11 +1,11 @@
 {
   "name": "p3lib",
-  "version": "1.1.133",
+  "version": "1.1.134",
   "summary": "A group of python modules for networking, plotting data, config storage, automating boot scripts, ssh access and user input output.",
   "author": "Paul Austen",
   "license": "MIT",
   "home_page": "https://github.com/pjaos/p3lib",
-  "download_filename": "p3lib-1.1.133.tar.gz",
-  "download_time": "2025-08-01T05:19:50.686587",
+  "download_filename": "p3lib-1.1.134.tar.gz",
+  "download_time": "2025-08-02T06:50:45.485415",
   "package_url": "https://pypi.org/project/p3lib/"
 }

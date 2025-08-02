@@ -1,0 +1,11 @@
+{
+  "name": "jubilant-backports",
+  "version": "1.0.0a1",
+  "summary": "Extends Jubilant to include support for Juju 2.9",
+  "author": "The Charm Tech team at Canonical Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jubilant_backports-1.0.0a1.tar.gz",
+  "download_time": "2025-08-02T06:50:43.924827",
+  "package_url": "https://pypi.org/project/jubilant-backports/"
+}

@@ -1,36 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T06:18:05.704493
-- **Total Packages**: 71
-- **Total Size**: 47.15 MB
+- **Download Time**: 2025-08-02T06:51:21.267095
+- **Total Packages**: 76
+- **Total Size**: 36.31 MB
 
 ## Packages List
+- lusid-sdk
+- swarmflow
+- pchjlib
+- embcli-jina
+- portacode
+- jubilant-backports
+- singleton-package
+- mangoautomation
+- p3lib
+- mangotools
+- annex4ac
+- gh-templates-win32-x64-msvc
+- langextract
+- typeman
+- mlsauce
+- letta-client
+- robhan-cdk-lib.aws-aps
+- pulumi-provider-boilerplate
+- zbWidgetLib
+- pygoruut
+- gh-templates-linux-arm64-glibc
+- ms-swift
+- gh-templates-linux-x64-glibc
+- gh-templates-linux-x64-musl
+- vrin
+- gh-templates-darwin-arm64
+- gh-templates-darwin-x64
+- heliosharrison-realpython-reader
+- re-pixel
+- django-mercury-performance
+- nitro-toolkit
+- vgridpandas
+- wujing
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- git-autograder
+- mm-okx
+- rubigram-python
+- tterp-cores
+- bhp-pro
+- zeroeval
+- solite
+- pyllamaui
 - html-to-exe
 - deepeval
 - cdk8s-awscdk-resolver
 - krenamer
-- gh-templates-win32-x64-msvc
 - semantic-copycat-miner
-- rubigram-python
 - openaivec
 - pycmd2
-- git-autograder
 - memory-tools-client
 - fspacker
-- gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-musl
-- gh-templates-linux-x64-glibc
-- gh-templates-darwin-x64
-- gh-templates-darwin-arm64
 - common-util-py
 - phono3py
 - github-actions-ai-analyzer
-- singleton-package
 - pyg-nightly
 - sokobanpy
-- tterp-cores
-- zeroeval
 - tiktok-reup
 - konduktor-nightly
 - servicestack
@@ -45,35 +77,8 @@
 - gh-templates
 - enumerific
 - guildmaster-cli
-- vrin
 - embcli-gemini
 - Cemotion
 - apexbase
 - prefig
 - llmvm-cli
-- deliciousbytes
-- ramifice
-- abjax
-- velithon
-- mcp-12306
-- seam-nn
-- task-agents-mcp
-- quivr-modified-milvus
-- queus
-- lybase
-- vegomatic
-- repomix
-- pytest-plugins
-- FileTo-Tools
-- kson-lib
-- agentbeats
-- liulianmao
-- compliance-sdk
-- chinese-chess-lib
-- claude-code-goodies
-- litellm
-- mem0-history-db-patch
-- specsuite
-- naeural-core
-- nitro-toolkit
-- ratio1

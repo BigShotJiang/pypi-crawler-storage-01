@@ -1,0 +1,11 @@
+{
+  "name": "embcli-jina",
+  "version": "0.1.3",
+  "summary": "jina plugin for embcli",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "embcli_jina-0.1.3.tar.gz",
+  "download_time": "2025-08-02T06:50:42.894805",
+  "package_url": "https://pypi.org/project/embcli-jina/"
+}
