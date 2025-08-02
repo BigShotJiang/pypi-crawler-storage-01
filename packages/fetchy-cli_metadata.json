@@ -1,0 +1,11 @@
+{
+  "name": "fetchy-cli",
+  "version": "1.4",
+  "summary": "Fetch strings from your system rather than your own memory!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetchy_cli-1.4.tar.gz",
+  "download_time": "2025-08-02T17:35:27.817420",
+  "package_url": "https://pypi.org/project/fetchy-cli/"
+}

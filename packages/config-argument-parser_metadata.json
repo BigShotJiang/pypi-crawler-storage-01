@@ -1,0 +1,11 @@
+{
+  "name": "config-argument-parser",
+  "version": "1.5.1",
+  "summary": "A package to help automatically create command-line interface from configuration or code.",
+  "author": "Xiao Yuan",
+  "license": "MIT License",
+  "home_page": "https://github.com/yuanx749/config-argument-parser",
+  "download_filename": "config_argument_parser-1.5.1.tar.gz",
+  "download_time": "2025-08-02T17:35:18.522760",
+  "package_url": "https://pypi.org/project/config-argument-parser/"
+}

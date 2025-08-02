@@ -1,11 +1,11 @@
 {
   "name": "broflow",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Run your workflow with lightweight library. This is how broflow flows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "broflow-0.1.0.tar.gz",
-  "download_time": "2025-07-30T17:55:43.923642",
+  "download_filename": "broflow-0.1.2.tar.gz",
+  "download_time": "2025-08-02T17:35:19.034676",
   "package_url": "https://pypi.org/project/broflow/"
 }

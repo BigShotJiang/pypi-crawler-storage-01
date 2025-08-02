@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T17:14:35.502610
-- **Total Packages**: 81
-- **Total Size**: 9.19 MB
+- **Download Time**: 2025-08-02T17:36:02.882809
+- **Total Packages**: 90
+- **Total Size**: 11.77 MB
 
 ## Packages List
+- zlgcan-driver
+- pulsebus
+- bh-usa-req-ase
+- yaapp
+- rsc
+- config-argument-parser
+- broflow
+- pysick
+- Navygram
+- statomata
+- xlizard
+- docutools
+- unzipall
+- python-open-router
+- quasarr
+- a-beta-scalekit
+- detaillogger
+- pvevti
+- pennylane-qrack-cpu
+- pennylane-qrack
+- clash-tools
+- gconnect
+- natural-pdf
+- fetchy-cli
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- pyqrack-cpu-complex128
+- brainsait-pyheart
+- pyqrack-cpu
+- nonebot-plugin-limiter
+- pyqrack-complex128
+- brainsait-pybrain
+- pyqrack
+- vtjson
+- vectorvein
 - polars-ta
 - swarmflow
 - zmk
@@ -20,7 +55,6 @@
 - vllm-top
 - yokatlas-py
 - caioh-nvml-gpu-control
-- yaapp
 - supersafepackage
 - broprompt
 - webpys
@@ -53,7 +87,6 @@
 - fps-jupyterlab
 - fps-frontend
 - fps-file-id
-- clash-tools
 - fps-contents
 - fps-auth-jupyterhub
 - fps-auth-fief
@@ -63,27 +96,3 @@
 - syqlorix
 - my-common-utils
 - nbs-srednji-kurs
-- vibhansh
-- gammarers.aws-cdk-errors
-- pimpmyrice
-- moderndid
-- misterio
-- eric-api
-- extract-favicon
-- chrome-devtools-mcp-fork
-- friendlyetl
-- tdhook
-- py-sql-runner
-- uproot-custom
-- bbqr
-- grapapy
-- pysqa
-- sense-table
-- pchjlib
-- a3
-- leafmap
-- nano-wait
-- pandas-checks
-- safelib
-- langchain-qwen3
-- fromager
