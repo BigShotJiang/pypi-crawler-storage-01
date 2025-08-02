@@ -1,11 +1,11 @@
 {
   "name": "koinmal",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "maths integration",
   "author": "Bedirhan",
   "license": null,
   "home_page": null,
-  "download_filename": "koinmal-0.2.tar.gz",
-  "download_time": "2025-08-02T15:34:20.780939",
+  "download_filename": "koinmal-0.3.tar.gz",
+  "download_time": "2025-08-02T15:51:43.275312",
   "package_url": "https://pypi.org/project/koinmal/"
 }

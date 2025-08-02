@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.mosaic",
+  "version": "3.3.1",
+  "summary": "Plone Mosaic Site Builder and Site Layout",
+  "author": "Plone Foundation",
+  "license": null,
+  "home_page": "https://github.com/plone/plone.app.mosaic",
+  "download_filename": "plone_app_mosaic-3.3.1.tar.gz",
+  "download_time": "2025-08-02T15:51:35.263141",
+  "package_url": "https://pypi.org/project/plone.app.mosaic/"
+}

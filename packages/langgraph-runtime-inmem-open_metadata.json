@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-runtime-inmem-open",
+  "version": "0.1.0",
+  "summary": "Open-source alternative to langgraph-runtime-inmem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_runtime_inmem_open-0.1.0.tar.gz",
+  "download_time": "2025-08-02T15:51:43.796582",
+  "package_url": "https://pypi.org/project/langgraph-runtime-inmem-open/"
+}

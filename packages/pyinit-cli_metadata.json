@@ -1,11 +1,11 @@
 {
   "name": "pyinit-cli",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Interactive Python project scaffolding tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyinit_cli-0.0.2.tar.gz",
-  "download_time": "2025-08-02T14:52:45.652136",
+  "download_filename": "pyinit_cli-0.0.5.tar.gz",
+  "download_time": "2025-08-02T15:51:30.875489",
   "package_url": "https://pypi.org/project/pyinit-cli/"
 }
