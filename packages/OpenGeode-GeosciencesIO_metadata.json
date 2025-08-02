@@ -5,7 +5,7 @@
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opengeode_geosciencesio-5.7.2-cp311-cp311-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-08-02T04:29:21.340230",
+  "download_filename": "opengeode_geosciencesio-5.7.2-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-02T04:57:55.321061",
   "package_url": "https://pypi.org/project/OpenGeode-GeosciencesIO/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ssqueezepy",
+  "version": "0.6.6",
+  "summary": "Synchrosqueezing, wavelet transforms, and time-frequency analysis in Python",
+  "author": "John Muradeli",
+  "license": "MIT",
+  "home_page": "https://github.com/OverLordGoldDragon/ssqueezepy",
+  "download_filename": "ssqueezepy-0.6.6.tar.gz",
+  "download_time": "2025-08-02T04:57:48.209362",
+  "package_url": "https://pypi.org/project/ssqueezepy/"
+}
