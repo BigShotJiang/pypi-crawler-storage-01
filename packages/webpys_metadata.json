@@ -1,0 +1,11 @@
+{
+  "name": "webpys",
+  "version": "2.1",
+  "summary": "A website analysis tool with security features",
+  "author": "Pugazh@TheHacker",
+  "license": null,
+  "home_page": "https://github.com/yourusername/webpys",
+  "download_filename": "webpys-2.1.tar.gz",
+  "download_time": "2025-08-02T16:43:16.909915",
+  "package_url": "https://pypi.org/project/webpys/"
+}

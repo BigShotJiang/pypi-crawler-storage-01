@@ -1,0 +1,11 @@
+{
+  "name": "safelib",
+  "version": "0.6.1",
+  "summary": "An advanced library for safe importing and scoped imports management.",
+  "author": "Mert Sirakaya",
+  "license": null,
+  "home_page": "https://github.com/fswair/safelib",
+  "download_filename": "safelib-0.6.1.tar.gz",
+  "download_time": "2025-08-02T16:43:27.093736",
+  "package_url": "https://pypi.org/project/safelib/"
+}

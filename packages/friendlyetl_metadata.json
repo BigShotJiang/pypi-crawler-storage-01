@@ -1,0 +1,11 @@
+{
+  "name": "friendlyetl",
+  "version": "1.0.0",
+  "summary": "A user-friendly Python ETL package for transforming CSV data",
+  "author": "Divith Raju",
+  "license": null,
+  "home_page": "https://www.linkedin.com/in/divithraju",
+  "download_filename": "friendlyetl-1.0.0.tar.gz",
+  "download_time": "2025-08-02T16:43:14.161711",
+  "package_url": "https://pypi.org/project/friendlyetl/"
+}
