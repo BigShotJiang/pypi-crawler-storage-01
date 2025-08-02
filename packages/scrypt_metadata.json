@@ -1,0 +1,11 @@
+{
+  "name": "scrypt",
+  "version": "0.8.29",
+  "summary": "Bindings for the scrypt key derivation function library",
+  "author": "Magnus Hallin",
+  "license": "2-clause BSD",
+  "home_page": "https://github.com/holgern/py-scrypt",
+  "download_filename": "scrypt-0.8.29.tar.gz",
+  "download_time": "2025-08-02T09:52:24.030352",
+  "package_url": "https://pypi.org/project/scrypt/"
+}

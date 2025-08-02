@@ -1,0 +1,11 @@
+{
+  "name": "isoc-ams",
+  "version": "0.1.2",
+  "summary": "A Python 3 module to cope with ISOC-AMS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isoc_ams-0.1.2.tar.gz",
+  "download_time": "2025-08-02T09:52:22.254816",
+  "package_url": "https://pypi.org/project/isoc-ams/"
+}

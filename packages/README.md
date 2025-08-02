@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T09:42:56.619267
-- **Total Packages**: 66
-- **Total Size**: 22.79 MB
+- **Download Time**: 2025-08-02T09:52:56.542321
+- **Total Packages**: 58
+- **Total Size**: 7.54 MB
 
 ## Packages List
+- mojiza
+- airos
+- py-env-studio
+- isoc-ams
+- ticktick-mcp-v2
+- captain-arro
+- scrypt
+- aiqtoolkit-phoenix
+- proxy-reader
 - shaheenviz
 - oidfed-collector
 - botrun-llm-ranking
@@ -55,20 +64,3 @@
 - autogluon.multimodal
 - pybes3
 - autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- calita
-- annex4ac
-- docsray
-- infoeqv
-- wisent-guard
-- atio
-- gofastapi
-- homelab_config
-- plexflow
-- python-dicttools
-- ticktick-mcp-v2
-- broprompt
-- pymanuf
-- ont-snappy

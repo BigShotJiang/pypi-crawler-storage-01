@@ -1,11 +1,11 @@
 {
   "name": "ticktick-mcp-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "TickTick MCP Server - Enhanced Version with Chinese Support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ticktick_mcp_v2-1.0.0.tar.gz",
-  "download_time": "2025-08-02T09:18:21.724165",
+  "download_filename": "ticktick_mcp_v2-1.0.1.tar.gz",
+  "download_time": "2025-08-02T09:52:22.825462",
   "package_url": "https://pypi.org/project/ticktick-mcp-v2/"
 }
