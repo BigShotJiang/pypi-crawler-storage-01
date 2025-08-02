@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T19:37:44.231973
-- **Total Packages**: 80
-- **Total Size**: 15.51 MB
+- **Download Time**: 2025-08-02T19:49:30.206445
+- **Total Packages**: 82
+- **Total Size**: 3.95 MB
 
 ## Packages List
+- pyfr24
+- offers-check-marketplaces-mcp-2025
+- datamint
+- dora-utils
+- marksum
+- pchjlib
+- devapps
+- o2o-process
+- moat-micro
+- moat-util
+- moat-src
+- moat-link-server
+- moat-lib-codec
+- busline
+- enhanced-mcp-memory
+- stockula
 - tool2openai
 - uproot-custom
 - xkeen-subscription-watcher
@@ -31,7 +47,6 @@
 - fal
 - tractusx-sdk
 - upstream-api-client
-- o2o-process
 - gh-templates-linux-arm64-musl
 - tofupy
 - bagel-tushare
@@ -60,7 +75,6 @@
 - supersafepackage
 - generichelpers
 - robots-checker
-- stockula
 - aws-sns-verifier
 - mlfsm
 - cobib
@@ -74,15 +88,3 @@
 - obk
 - ipyslides
 - heatmap_cli
-- genie-flow
-- megarnucleusx
-- pymathnn
-- lean4url
-- SimpleLLMFunc
-- langgate-transform
-- langgate-server
-- langgate-sdk
-- langgate-registry
-- langgate-processor
-- langgate-core
-- langgate-client
