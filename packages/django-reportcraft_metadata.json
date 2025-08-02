@@ -1,11 +1,11 @@
 {
   "name": "django-reportcraft",
-  "version": "2025.7.10",
+  "version": "2025.7.14",
   "summary": "A Django reusable App for dynamically designing and generating reports for business intelligence.",
   "author": "Michel Fodje",
   "license": "MIT",
   "home_page": "https://github.com/michel4j/django-reportcraft",
-  "download_filename": "django_reportcraft-2025.7.10.tar.gz",
-  "download_time": "2025-08-02T02:53:32.441710",
+  "download_filename": "django_reportcraft-2025.7.14.tar.gz",
+  "download_time": "2025-08-02T05:19:38.497827",
   "package_url": "https://pypi.org/project/django-reportcraft/"
 }

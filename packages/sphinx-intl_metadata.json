@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-intl",
+  "version": "2.3.2",
+  "summary": "Sphinx utility that make it easy to translate and to apply translation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_intl-2.3.2.tar.gz",
+  "download_time": "2025-08-02T05:19:37.270363",
+  "package_url": "https://pypi.org/project/sphinx-intl/"
+}

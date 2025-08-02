@@ -1,14 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T04:58:29.827409
-- **Total Packages**: 76
-- **Total Size**: 10.54 MB
+- **Download Time**: 2025-08-02T05:20:04.514515
+- **Total Packages**: 80
+- **Total Size**: 40.45 MB
 
 ## Packages List
-- atopile
+- gh-templates-win32-x64-msvc
+- repomix
+- pytest-plugins
+- FileTo-Tools
+- kson-lib
+- agentbeats
+- liulianmao
+- gh-templates-linux-arm64-glibc
+- gh-templates-linux-x64-glibc
+- compliance-sdk
+- gh-templates-linux-x64-musl
+- chinese-chess-lib
+- gh-templates-darwin-arm64
+- gh-templates-darwin-x64
+- claude-code-goodies
+- litellm
+- mem0-history-db-patch
+- specsuite
+- queus
+- naeural-core
 - nitro-toolkit
+- ratio1
+- wowipy
+- core-mixins
+- scludam
+- vrin
+- gofastapi
+- bayesbay
+- fladoja
+- slide-space-monkey
+- slide-lye
+- gh-templates
+- common-agent-code
 - bhp-pro
+- sphinx-intl
+- zohencel-ai
+- django-reportcraft
+- abs-nosql-charts-core
+- calita
+- wizardcalls
+- macos-ui-automation-mcp
+- slide-narrator
+- atopile
 - Geode-Implicit
 - minimcp
 - remote-bash
@@ -21,7 +61,6 @@
 - OpenGeode-Inspector
 - vibe-framework
 - cdoctest
-- common-agent-code
 - broprompt
 - OpenGeode-GeosciencesIO
 - spotdl
@@ -47,38 +86,3 @@
 - req-pre-automate1
 - lambda-cloud-cli
 - dapr-agents
-- py-scgot
-- req-pre-automate
-- req-ase-automate
-- nia-mcp-server
-- chromedriver-binary
-- pulumi-newrelic
-- aenet-gpr
-- pulumi-pagerduty
-- servicestack
-- flati
-- publicsuffixlist
-- keras-nightly
-- pulumi-confluentcloud
-- scalekit-sdk-python
-- mmrelay
-- tcod
-- guan
-- odoo-addon-stock-move-line-qty-picked
-- model-checker
-- pulumi-auth0
-- pulumi-signalfx
-- maliang
-- odoo-addon-sign-oca
-- esiaccel
-- BatchalignHK
-- batchalign
-- keras-rs-nightly
-- MCQuantLib
-- GANDLF
-- rnetl
-- zeroeval
-- fastgeotoolkit
-- flekspy
-- mapFolding
-- votify

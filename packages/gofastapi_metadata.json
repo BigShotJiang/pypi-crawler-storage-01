@@ -1,11 +1,11 @@
 {
   "name": "gofastapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "The fastest Python web framework - A drop-in FastAPI replacement with 25x performance boost!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gofastapi-1.0.0.tar.gz",
-  "download_time": "2025-07-29T06:54:40.182802",
+  "download_filename": "gofastapi-1.0.1.tar.gz",
+  "download_time": "2025-08-02T05:19:32.604901",
   "package_url": "https://pypi.org/project/gofastapi/"
 }

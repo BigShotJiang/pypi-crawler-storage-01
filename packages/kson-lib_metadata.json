@@ -1,0 +1,11 @@
+{
+  "name": "kson-lib",
+  "version": "1.0.0",
+  "summary": "KSON (Kompact Structured Object Notation) - JSON with comments support",
+  "author": "dnoxie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kson-lib-1.0.0.tar.gz",
+  "download_time": "2025-08-02T05:19:19.320030",
+  "package_url": "https://pypi.org/project/kson-lib/"
+}

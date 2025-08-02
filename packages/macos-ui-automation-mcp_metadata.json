@@ -1,0 +1,11 @@
+{
+  "name": "macos-ui-automation-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for macOS UI automation with Claude Desktop/Code integration, plus Python library and CLI interfaces",
+  "author": "mochen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "macos_ui_automation_mcp-0.2.0.tar.gz",
+  "download_time": "2025-08-02T05:19:40.842676",
+  "package_url": "https://pypi.org/project/macos-ui-automation-mcp/"
+}
