@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T11:29:11.265305
-- **Total Packages**: 81
-- **Total Size**: 20.47 MB
+- **Download Time**: 2025-08-02T11:39:49.024245
+- **Total Packages**: 79
+- **Total Size**: 9.2 MB
 
 ## Packages List
+- PyInteno
+- pytnl
+- Navygram
+- kcli
+- numtypes
+- logsentinelai
+- GameBoyLearningEnvironment
+- sah
+- sahi
+- special-relativity-grapher
+- mcp-imgutils
+- onelive-restream
+- torchx-nightly
+- dagster-dingtalk
+- aipmodel
+- oiplot
 - m24842-ml
 - wisent-guard
 - pyliteinfo
@@ -18,15 +34,12 @@
 - langchain-openailike-llms-adapters
 - md-to-slack-blocks
 - yta-positioning
-- mcp-imgutils
-- onelive-restream
 - yacv-server
 - siya-yahoo-finance-mcp
 - gh-templates
 - gh-templates-win32-x86-msvc
 - gh-templates-win32-x64-msvc
 - modelx
-- sah
 - bkmr
 - syntaxmatrix
 - punjabi-verb-forms
@@ -72,18 +85,3 @@
 - eric-sse
 - kotoba
 - digitalarzengine
-- unsloth
-- langgraph-opensearch
-- cmd-ai
-- udp-mongo-logger
-- unsloth-zoo
-- p2pshare-cli
-- kececinumbers
-- logsentinelai
-- json-prompt-formatter
-- maths-add
-- std-py-logger
-- httpx-rate-limiter-transport
-- statkit
-- cppsage
-- openwebui-chat-client

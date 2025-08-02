@@ -1,11 +1,11 @@
 {
   "name": "aipmodel",
-  "version": "0.2.21",
+  "version": "0.2.24",
   "summary": "SDK for model registration, versioning, and storage",
   "author": "AIP MLOPS Team",
   "license": null,
   "home_page": "https://github.com/AIP-MLOPS/model-registry",
-  "download_filename": "aipmodel-0.2.21.tar.gz",
-  "download_time": "2025-07-29T13:12:44.956436",
+  "download_filename": "aipmodel-0.2.24.tar.gz",
+  "download_time": "2025-08-02T11:39:15.244392",
   "package_url": "https://pypi.org/project/aipmodel/"
 }

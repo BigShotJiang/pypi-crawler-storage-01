@@ -1,0 +1,11 @@
+{
+  "name": "special-relativity-grapher",
+  "version": "0.1.2",
+  "summary": "A Python library for visualizing special relativity effects",
+  "author": "Albert Han, Stephen He",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "special_relativity_grapher-0.1.2.tar.gz",
+  "download_time": "2025-08-02T11:39:12.626937",
+  "package_url": "https://pypi.org/project/special-relativity-grapher/"
+}
