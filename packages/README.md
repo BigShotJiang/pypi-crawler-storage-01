@@ -1,42 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T21:12:38.605073
-- **Total Packages**: 82
-- **Total Size**: 11.71 MB
+- **Download Time**: 2025-08-02T21:32:07.751465
+- **Total Packages**: 81
+- **Total Size**: 0.05 MB
 
 ## Packages List
-- airos
-- micronumpy
-- meridianalgo
-- hexgrid-cube
-- extract-favicon
-- tinyshare
-- printout
-- llm-agents-from-scratch
-- cityhash
-- reachable
-- geo_pysearch
-- qtbricks
-- colibri-stateless
-- datamint
-- nuvo-simple
-- entities-python
-- d1-connector
-- montepy
-- django-epic
-- izulu
-- kcli
-- rhoa
-- mode-manager-mcp
-- causaltorch
-- mirumoji
-- fogis-api-client-timmyBird
-- graphc
-- zha-quirks
-- cybrid-api-bank-python
-- cybrid-api-id-python
-- cybrid-api-organization-python
 - pymitsubishi
 - enzyme-filtering-pipeline
 - Questioning-game
@@ -52,6 +21,7 @@
 - sc-btr
 - pythonrc-manager
 - git-shield
+- kcli
 - fastapi-auth-oidc
 - roicat
 - pymetacode
@@ -59,6 +29,7 @@
 - TelegramTextApp
 - hello-greetings
 - lusid-sdk
+- graphc
 - izisat
 - pyramids-gis
 - luminescent
@@ -70,11 +41,13 @@
 - offers-check-marketplaces-mcp-2025
 - ymlmaster
 - broccoli-ml
+- mirumoji
 - pybes3
 - zenmav
 - vulncheck-sdk
 - astlab
 - pyogrio
+- printout
 - earningspy
 - tgext.pluggable
 - earnings-analyzer
@@ -88,3 +61,29 @@
 - ssslm
 - mathmaker
 - approck-aiogram-utils
+- enhanced-mcp-memory
+- megarnucleusx
+- python-opn
+- mcp-kit
+- koinmal
+- upstream-sdk
+- pySubnetSB
+- TaguchiGridSearchConverter
+- micronumpy
+- wave-attenuation-1d
+- ai-helper-agent
+- FernetKeyVault
+- kubelingo
+- core-helpers
+- md-server
+- logsentinelai
+- spotpython
+- xsget
+- uproot-custom
+- marksum
+- stockula
+- pyfr24
+- datamint
+- dora-utils
+- pchjlib
+- devapps

@@ -1,11 +1,11 @@
 {
   "name": "annex4review",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Annex IV Review: analyze PDF documents for EU AI Act compliance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "annex4review-1.1.1.tar.gz",
-  "download_time": "2025-08-02T21:12:21.639446",
+  "download_filename": "annex4review-1.1.2.tar.gz",
+  "download_time": "2025-08-02T21:31:31.978450",
   "package_url": "https://pypi.org/project/annex4review/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "megarnucleusx",
-  "version": "0.0.2.6",
-  "summary": "Un micro-framework de IA que utiliza micronumpy para el cálculo numérico.",
-  "author": "luis",
+  "version": "0.0.3.0",
+  "summary": "Un micro-framework de IA con una red neuronal profunda y autograd, impulsado por micronumpy.",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/TuUsuario/megarnucleusx",
-  "download_filename": "megarnucleusx-0.0.2.6.tar.gz",
-  "download_time": "2025-08-02T20:13:51.543121",
+  "home_page": null,
+  "download_filename": "megarnucleusx-0.0.3.0.tar.gz",
+  "download_time": "2025-08-02T21:31:53.498965",
   "package_url": "https://pypi.org/project/megarnucleusx/"
 }
