@@ -1,0 +1,11 @@
+{
+  "name": "changelogbump",
+  "version": "0.1.0",
+  "summary": "A CLI tool to manage project versioning and changelogs with Keep a Changelog compliance.",
+  "author": "Andrew Galloway",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "changelogbump-0.1.0.tar.gz",
+  "download_time": "2025-08-02T03:54:14.826141",
+  "package_url": "https://pypi.org/project/changelogbump/"
+}

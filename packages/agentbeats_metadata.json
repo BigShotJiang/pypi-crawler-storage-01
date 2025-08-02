@@ -1,11 +1,11 @@
 {
   "name": "agentbeats",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "AgentBeats SDK for building security-contest AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentbeats-1.1.1.tar.gz",
-  "download_time": "2025-08-02T02:52:58.876607",
+  "download_filename": "agentbeats-1.1.2.tar.gz",
+  "download_time": "2025-08-02T03:53:58.227746",
   "package_url": "https://pypi.org/project/agentbeats/"
 }

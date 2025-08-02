@@ -1,0 +1,11 @@
+{
+  "name": "pyspotlightarchiver",
+  "version": "1.1.0",
+  "summary": "Fetch and download Windows Spotlight images automatically. Lightweight and easy to use.",
+  "author": "yell0wsuit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyspotlightarchiver-1.1.0.tar.gz",
+  "download_time": "2025-08-02T03:54:12.740679",
+  "package_url": "https://pypi.org/project/pyspotlightarchiver/"
+}

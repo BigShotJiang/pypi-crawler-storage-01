@@ -1,11 +1,11 @@
 {
   "name": "fastgeotoolkit",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "High-performance geospatial analysis framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastgeotoolkit-0.1.6.tar.gz",
-  "download_time": "2025-08-02T02:53:01.617746",
+  "download_filename": "fastgeotoolkit-0.1.7.tar.gz",
+  "download_time": "2025-08-02T03:53:52.259729",
   "package_url": "https://pypi.org/project/fastgeotoolkit/"
 }

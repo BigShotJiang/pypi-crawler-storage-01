@@ -1,11 +1,11 @@
 {
   "name": "MCQuantLib",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "MCQuantLib is a QuantLib derivative to perform Monte Carlo pricing of options.",
   "author": "Syuya_Murakami",
   "license": null,
   "home_page": "https://mcquantlib-doc.readthedocs.io/en/latest/index.html",
-  "download_filename": "mcquantlib-0.1.25.tar.gz",
-  "download_time": "2025-08-01T11:50:26.961041",
+  "download_filename": "mcquantlib-0.1.26.tar.gz",
+  "download_time": "2025-08-02T03:53:50.126446",
   "package_url": "https://pypi.org/project/MCQuantLib/"
 }

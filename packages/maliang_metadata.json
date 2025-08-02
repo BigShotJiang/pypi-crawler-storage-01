@@ -1,0 +1,11 @@
+{
+  "name": "maliang",
+  "version": "3.1.4",
+  "summary": "A lightweight UI framework based on tkinter with all UI drawn in Canvas.",
+  "author": "Xiaokang2022",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maliang-3.1.4-py3-none-any.whl",
+  "download_time": "2025-08-02T03:53:45.412928",
+  "package_url": "https://pypi.org/project/maliang/"
+}
