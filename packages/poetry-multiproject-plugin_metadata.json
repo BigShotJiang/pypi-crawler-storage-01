@@ -1,0 +1,11 @@
+{
+  "name": "poetry-multiproject-plugin",
+  "version": "1.8.4",
+  "summary": "A Poetry plugin that makes it possible to use relative package includes.",
+  "author": "David Vujic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poetry_multiproject_plugin-1.8.4.tar.gz",
+  "download_time": "2025-08-02T14:34:37.654960",
+  "package_url": "https://pypi.org/project/poetry-multiproject-plugin/"
+}

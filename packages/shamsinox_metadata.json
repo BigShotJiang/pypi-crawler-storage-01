@@ -1,11 +1,11 @@
 {
   "name": "shamsinox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python library for working with the Persian (Jalali) calendar",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shamsinox-0.1.0.tar.gz",
-  "download_time": "2025-08-02T14:12:43.989796",
+  "download_filename": "shamsinox-0.1.1.tar.gz",
+  "download_time": "2025-08-02T14:34:26.356685",
   "package_url": "https://pypi.org/project/shamsinox/"
 }

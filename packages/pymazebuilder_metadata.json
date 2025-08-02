@@ -1,0 +1,11 @@
+{
+  "name": "pymazebuilder",
+  "version": "1.4.6",
+  "summary": "Generate mazes and dungeons for RPG games",
+  "author": "w4ffl35",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/w4ffl35/PyMazeBuilder",
+  "download_filename": "pymazebuilder-1.4.6.tar.gz",
+  "download_time": "2025-08-02T14:34:32.517833",
+  "package_url": "https://pypi.org/project/pymazebuilder/"
+}

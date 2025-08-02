@@ -1,0 +1,11 @@
+{
+  "name": "obs-switch",
+  "version": "0.0.3",
+  "summary": "OBS Studio and Nintendo Switch controller integration via Kafka",
+  "author": "Jason Jiménez Cruz",
+  "license": null,
+  "home_page": "https://github.com/Splatoon-Stronghold/obs-switch",
+  "download_filename": "obs_switch-0.0.3-py3-none-any.whl",
+  "download_time": "2025-08-02T14:34:25.331483",
+  "package_url": "https://pypi.org/project/obs-switch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lineinfile",
+  "version": "0.4.2",
+  "summary": "Add & remove lines in files by regex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lineinfile-0.4.2.tar.gz",
+  "download_time": "2025-08-02T14:34:27.377978",
+  "package_url": "https://pypi.org/project/lineinfile/"
+}
