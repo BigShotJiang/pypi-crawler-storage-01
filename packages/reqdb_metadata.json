@@ -1,11 +1,11 @@
 {
   "name": "reqdb",
-  "version": "0.10.1",
+  "version": "0.10.3",
   "summary": "Python API client for ReqDB",
   "author": "dcfSec",
   "license": null,
   "home_page": null,
-  "download_filename": "reqdb-0.10.1.tar.gz",
-  "download_time": "2025-08-02T13:54:25.330461",
+  "download_filename": "reqdb-0.10.3.tar.gz",
+  "download_time": "2025-08-02T14:12:34.958733",
   "package_url": "https://pypi.org/project/reqdb/"
 }

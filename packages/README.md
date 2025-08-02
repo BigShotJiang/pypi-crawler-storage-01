@@ -1,13 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T13:54:57.270518
-- **Total Packages**: 68
-- **Total Size**: 7.32 MB
+- **Download Time**: 2025-08-02T14:13:12.873294
+- **Total Packages**: 73
+- **Total Size**: 25.82 MB
 
 ## Packages List
-- openai-cost-calculator
+- llmbrix
+- reqdb
+- wmill-pg
+- wmill
+- windmill-api
+- aiwand
+- jwtv2
+- Prihops
+- tropycal
+- cenplot
+- sapiopycommons
+- spensireli.advanced-cdk-constructs
+- sharedpreferenceflet
+- OpenPartsLibrary
+- gitex
+- MethylVerse
+- pytemplify
+- shamsinox
+- iugu-python-sdk
 - letschatty
+- alerk
+- check-wheel-contents
+- arkitekt-next
+- tfrunner
+- candyfish
+- mlforgex
+- experiment-utils-pd
+- regex-replacer
+- simt-emlite
+- irispie
+- yaapp
+- openai-cost-calculator
 - gitscribe-mcp
 - tensordict-nightly
 - ex4nicegui
@@ -17,12 +47,9 @@
 - analyser2_hj3415
 - peter-cullen-burbery-python-functions
 - eric-redis-queues
-- spensireli.advanced-cdk-constructs
-- Prihops
 - sgtlib
 - eric-sse
 - genutility
-- reqdb
 - valuascript-compiler
 - memobase
 - fbgemm-gpu-nightly-cpu
@@ -40,7 +67,6 @@
 - valhallabot2
 - portacode
 - pyg-engine
-- iugu-python-sdk
 - uwatermelon
 - pydantic-alchemy
 - db2_hj3415
@@ -53,24 +79,3 @@
 - cursor-mcp
 - synalinks
 - tflite-micro
-- datasetplus
-- llmservice
-- aipyapp
-- github-actions-ai-analyzer
-- liblaf-grapes
-- graph-games-proto
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- eaf-base-api
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- pychop
-- a3
-- py-ai-workflows
-- langchain-openailike-llms-adapters
-- mlforgex
-- pynbody

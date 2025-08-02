@@ -1,0 +1,11 @@
+{
+  "name": "tropycal",
+  "version": "1.4",
+  "summary": "Package for retrieving and analyzing tropical cyclone data",
+  "author": "Tomer Burg, Sam Lillo",
+  "license": null,
+  "home_page": "https://github.com/tropycal/tropycal",
+  "download_filename": "tropycal-1.4.tar.gz",
+  "download_time": "2025-08-02T14:12:39.317644",
+  "package_url": "https://pypi.org/project/tropycal/"
+}
