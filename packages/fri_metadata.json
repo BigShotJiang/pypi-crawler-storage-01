@@ -1,0 +1,11 @@
+{
+  "name": "fri",
+  "version": "9.0.0",
+  "summary": "Implementation of Feature Relevance Bounds method to perform Feature Selection and further analysis.",
+  "author": "Lukas Pfannschmidt",
+  "license": "MIT",
+  "home_page": "https://fri.lpfann.me",
+  "download_filename": "fri-9.0.0.tar.gz",
+  "download_time": "2025-08-02T15:12:58.446144",
+  "package_url": "https://pypi.org/project/fri/"
+}

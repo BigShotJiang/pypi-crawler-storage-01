@@ -1,11 +1,11 @@
 {
   "name": "logaid",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "summary": "A log aid for you.",
   "author": "BreezeSun",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "logaid-1.3.4.tar.gz",
-  "download_time": "2025-08-02T10:13:25.258122",
+  "download_filename": "logaid-1.3.5.tar.gz",
+  "download_time": "2025-08-02T15:12:56.905626",
   "package_url": "https://pypi.org/project/logaid/"
 }

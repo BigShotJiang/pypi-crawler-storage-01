@@ -1,0 +1,11 @@
+{
+  "name": "pyinr",
+  "version": "0.0.2",
+  "summary": "A simple package to convert Indian Rupees to other currencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyinr-0.0.2.tar.gz",
+  "download_time": "2025-08-02T15:12:50.742779",
+  "package_url": "https://pypi.org/project/pyinr/"
+}

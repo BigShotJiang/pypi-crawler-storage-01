@@ -1,0 +1,11 @@
+{
+  "name": "trexio",
+  "version": "2.6.0",
+  "summary": "Python API of the TREXIO library",
+  "author": "TREX-CoE",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/TREX-CoE/trexio",
+  "download_filename": "trexio-2.6.0.tar.gz",
+  "download_time": "2025-08-02T15:12:49.208697",
+  "package_url": "https://pypi.org/project/trexio/"
+}
