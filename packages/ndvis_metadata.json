@@ -1,0 +1,11 @@
+{
+  "name": "ndvis",
+  "version": "0.2.5",
+  "summary": "A Python package for N-Dimensional data visualization.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ndvis-0.2.5.tar.gz",
+  "download_time": "2025-08-02T07:12:56.781630",
+  "package_url": "https://pypi.org/project/ndvis/"
+}

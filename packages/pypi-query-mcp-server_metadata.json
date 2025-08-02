@@ -1,0 +1,11 @@
+{
+  "name": "pypi-query-mcp-server",
+  "version": "0.6.4",
+  "summary": "A Model Context Protocol (MCP) server for querying PyPI package information, dependencies, and compatibility",
+  "author": "Hal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypi_query_mcp_server-0.6.4.tar.gz",
+  "download_time": "2025-08-02T07:12:55.147047",
+  "package_url": "https://pypi.org/project/pypi-query-mcp-server/"
+}
