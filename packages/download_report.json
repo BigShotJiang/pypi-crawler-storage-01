@@ -1,18 +1,8 @@
 {
-  "download_time": "2025-08-02T08:44:09.472285",
-  "total_packages_downloaded": 78,
-  "total_size_mb": 18.92,
+  "download_time": "2025-08-02T08:58:51.253845",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 0.95,
   "packages": [
-    "scematics-cli",
-    "pytest-yaml-fei",
-    "pymanuf",
-    "kuzu",
-    "ssb-sgis",
-    "numtypes",
-    "python-openhab",
-    "VBMicrolensing",
-    "media-agent-mcp",
-    "kcli",
     "frida",
     "eric-redis-queues",
     "pymx",
@@ -23,12 +13,14 @@
     "p3lib",
     "log-tool",
     "md2hash",
+    "scematics-cli",
     "scrapy-cffi",
     "ultranlp",
     "annex4ac",
     "logaid",
     "kanban-tui",
     "typedfzf",
+    "pymanuf",
     "tvara",
     "syqlorix",
     "gh-templates",
@@ -80,6 +72,10 @@
     "mkdocs-ultralytics-plugin",
     "abs-blob-storage-manager-core",
     "dynetan",
-    "synapse-sdk"
+    "synapse-sdk",
+    "liquidity",
+    "meshcore-cli",
+    "meshcore",
+    "oelint-data"
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "homelab_config",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "homelab config with consul",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "homelab_config-0.2.3.tar.gz",
-  "download_time": "2025-08-02T08:16:07.064360",
+  "download_filename": "homelab_config-0.3.0.tar.gz",
+  "download_time": "2025-08-02T08:58:22.570466",
   "package_url": "https://pypi.org/project/homelab_config/"
 }
