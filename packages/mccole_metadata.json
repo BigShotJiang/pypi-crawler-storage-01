@@ -1,11 +1,11 @@
 {
   "name": "mccole",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Simple template for static web sites",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mccole-0.5.4.tar.gz",
-  "download_time": "2025-08-01T22:54:21.149175",
+  "download_filename": "mccole-0.5.5.tar.gz",
+  "download_time": "2025-08-02T21:44:34.974117",
   "package_url": "https://pypi.org/project/mccole/"
 }

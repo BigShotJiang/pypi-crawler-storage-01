@@ -1,0 +1,11 @@
+{
+  "name": "card-generator",
+  "version": "0.1.0",
+  "summary": "A library to generate and validate credit card numbers with local BIN lookup.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "card_generator-0.1.0.tar.gz",
+  "download_time": "2025-08-02T21:44:43.481581",
+  "package_url": "https://pypi.org/project/card-generator/"
+}

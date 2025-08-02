@@ -1,0 +1,11 @@
+{
+  "name": "phiflow",
+  "version": "3.4.0",
+  "summary": "Differentiable PDE solving framework for machine learning",
+  "author": "Philipp Holl",
+  "license": "MIT",
+  "home_page": "https://github.com/tum-pbs/PhiFlow",
+  "download_filename": "phiflow-3.4.0.tar.gz",
+  "download_time": "2025-08-02T21:44:47.545347",
+  "package_url": "https://pypi.org/project/phiflow/"
+}
