@@ -1,11 +1,11 @@
 {
   "name": "narada",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Python client SDK for Narada",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "narada-0.1.9.tar.gz",
-  "download_time": "2025-07-29T02:24:51.778083",
+  "download_filename": "narada-0.1.10.tar.gz",
+  "download_time": "2025-08-02T00:59:25.948918",
   "package_url": "https://pypi.org/project/narada/"
 }

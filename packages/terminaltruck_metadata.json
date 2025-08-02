@@ -1,0 +1,11 @@
+{
+  "name": "terminaltruck",
+  "version": "0.1.5",
+  "summary": "Game about trucking",
+  "author": "Vitek",
+  "license": "MIT",
+  "home_page": "https://github.com/Viktor640266/driver",
+  "download_filename": "terminaltruck-0.1.5.tar.gz",
+  "download_time": "2025-08-02T00:59:11.797241",
+  "package_url": "https://pypi.org/project/terminaltruck/"
+}

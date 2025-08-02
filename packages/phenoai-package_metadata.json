@@ -1,0 +1,11 @@
+{
+  "name": "phenoai-package",
+  "version": "1.2.0",
+  "summary": "Automated Phenological Analysis Package for PhenoCam Data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phenoai_package-1.2.0.tar.gz",
+  "download_time": "2025-08-02T00:59:12.667642",
+  "package_url": "https://pypi.org/project/phenoai-package/"
+}

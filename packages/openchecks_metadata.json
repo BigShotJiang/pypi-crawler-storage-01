@@ -1,0 +1,11 @@
+{
+  "name": "openchecks",
+  "version": "0.2.0",
+  "summary": "A simple checks framework",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "openchecks-0.2.0.tar.gz",
+  "download_time": "2025-08-02T00:59:28.210977",
+  "package_url": "https://pypi.org/project/openchecks/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tenzir",
-  "version": "5.11.0",
+  "version": "5.11.1",
   "summary": "A security telemetry engine for detection and response",
   "author": "Tenzir",
   "license": "BSD-3-Clause",
   "home_page": "https://tenzir.com",
-  "download_filename": "tenzir-5.11.0.tar.gz",
-  "download_time": "2025-08-01T14:56:21.282666",
+  "download_filename": "tenzir-5.11.1.tar.gz",
+  "download_time": "2025-08-02T00:59:24.061882",
   "package_url": "https://pypi.org/project/tenzir/"
 }
