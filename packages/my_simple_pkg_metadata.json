@@ -1,0 +1,11 @@
+{
+  "name": "my_simple_pkg",
+  "version": "0.1.0",
+  "summary": "A simple example package",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_simple_pkg-0.1.0.tar.gz",
+  "download_time": "2025-08-02T16:15:34.352187",
+  "package_url": "https://pypi.org/project/my_simple_pkg/"
+}

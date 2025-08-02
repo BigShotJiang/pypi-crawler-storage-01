@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-l10n-br-fiscal",
-  "version": "16.0.11.0.0",
+  "version": "16.0.11.1.1",
   "summary": "Fiscal module/tax engine for Brazil",
   "author": "Akretion, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-brazil",
-  "download_filename": "odoo_addon_l10n_br_fiscal-16.0.11.0.0-py3-none-any.whl",
-  "download_time": "2025-07-31T18:54:08.558931",
+  "download_filename": "odoo_addon_l10n_br_fiscal-16.0.11.1.1-py3-none-any.whl",
+  "download_time": "2025-08-02T16:16:00.123145",
   "package_url": "https://pypi.org/project/odoo-addon-l10n-br-fiscal/"
 }

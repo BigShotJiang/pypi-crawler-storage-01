@@ -1,11 +1,11 @@
 {
   "name": "remeta",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Reverse engineering of Metacognition toolbox",
   "author": "Matthias Guggenmos",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "remeta-0.1.13.tar.gz",
-  "download_time": "2025-08-02T15:34:29.898345",
+  "download_filename": "remeta-0.1.14.tar.gz",
+  "download_time": "2025-08-02T16:15:41.213516",
   "package_url": "https://pypi.org/project/remeta/"
 }
