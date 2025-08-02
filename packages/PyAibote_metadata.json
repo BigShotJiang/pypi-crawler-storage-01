@@ -1,0 +1,11 @@
+{
+  "name": "PyAibote",
+  "version": "1.9.5",
+  "summary": "A pure code RPA office automation framework, which supports Android, Browser and Windows",
+  "author": "Riven",
+  "license": null,
+  "home_page": "https://www.pyaibote.com",
+  "download_filename": "PyAibote-1.9.5.tar.gz",
+  "download_time": "2025-08-02T13:06:49.159043",
+  "package_url": "https://pypi.org/project/PyAibote/"
+}

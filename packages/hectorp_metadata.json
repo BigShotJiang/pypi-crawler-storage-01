@@ -1,0 +1,11 @@
+{
+  "name": "hectorp",
+  "version": "0.1.11",
+  "summary": "A collection of programs to analyse geodetic time series",
+  "author": "Machiel Bos",
+  "license": null,
+  "home_page": "https://gitlab.com/machielsimonbos/hectorp",
+  "download_filename": "hectorp-0.1.11.tar.gz",
+  "download_time": "2025-08-02T13:07:02.045290",
+  "package_url": "https://pypi.org/project/hectorp/"
+}

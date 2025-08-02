@@ -1,11 +1,11 @@
 {
   "name": "qis",
-  "version": "3.2.29",
+  "version": "3.2.30",
   "summary": "Implementation of visualisation and reporting analytics for Quantitative Investment Strategies",
   "author": "Artur Sepp",
   "license": "LICENSE.txt",
   "home_page": null,
-  "download_filename": "qis-3.2.29-py3-none-any.whl",
-  "download_time": "2025-08-01T08:52:08.514130",
+  "download_filename": "qis-3.2.30-py3-none-any.whl",
+  "download_time": "2025-08-02T13:07:07.802991",
   "package_url": "https://pypi.org/project/qis/"
 }

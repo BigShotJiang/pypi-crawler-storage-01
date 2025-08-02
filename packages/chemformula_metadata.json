@@ -1,0 +1,11 @@
+{
+  "name": "chemformula",
+  "version": "1.4.1",
+  "summary": "ChemFormula is a Python class for working with chemical formulas. It allows parsing chemical formulas, generating formatted output strings and calculating formula weights.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemformula-1.4.1.tar.gz",
+  "download_time": "2025-08-02T13:07:01.533527",
+  "package_url": "https://pypi.org/project/chemformula/"
+}

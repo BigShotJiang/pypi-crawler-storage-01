@@ -1,11 +1,11 @@
 {
   "name": "requests-async",
-  "version": "0.2.0",
-  "summary": "An asynchronous HTTP request library based on httpx.",
-  "author": "taisui",
+  "version": "0.2.1",
+  "summary": "Simple async HTTP client with requests-like interface, powered by httpx",
+  "author": "requests-async contributors",
   "license": null,
-  "home_page": "https://github.com/taisuii/requests-async",
-  "download_filename": "requests_async-0.2.0.tar.gz",
-  "download_time": "2025-08-02T07:42:16.856852",
+  "home_page": null,
+  "download_filename": "requests_async-0.2.1.tar.gz",
+  "download_time": "2025-08-02T13:06:40.917074",
   "package_url": "https://pypi.org/project/requests-async/"
 }

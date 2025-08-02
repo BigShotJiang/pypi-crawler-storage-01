@@ -1,11 +1,11 @@
 {
   "name": "django-flatpages-extra",
-  "version": "0.14.0",
+  "version": "0.16.0",
   "summary": "A drop-in enhancement for Django's contrib.flatpages",
   "author": "Baptiste Mispelon",
   "license": null,
   "home_page": null,
-  "download_filename": "django_flatpages_extra-0.14.0.tar.gz",
-  "download_time": "2025-08-01T23:51:39.147983",
+  "download_filename": "django_flatpages_extra-0.16.0.tar.gz",
+  "download_time": "2025-08-02T13:07:05.716634",
   "package_url": "https://pypi.org/project/django-flatpages-extra/"
 }

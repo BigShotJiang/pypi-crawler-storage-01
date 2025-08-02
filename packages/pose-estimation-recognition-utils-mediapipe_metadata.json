@@ -1,0 +1,11 @@
+{
+  "name": "pose-estimation-recognition-utils-mediapipe",
+  "version": "0.1.0b1",
+  "summary": "Classes for AI recognition on pose estimation data",
+  "author": "Jonas David Stephan, Chanyut Boonkhamsaen, Nathalie Dollmann",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cobtras/pose-estimation-recognition-utils-mediapipe",
+  "download_filename": "pose_estimation_recognition_utils_mediapipe-0.1.0b1.tar.gz",
+  "download_time": "2025-08-02T13:06:53.795185",
+  "package_url": "https://pypi.org/project/pose-estimation-recognition-utils-mediapipe/"
+}
