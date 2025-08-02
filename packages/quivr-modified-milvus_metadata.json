@@ -1,0 +1,11 @@
+{
+  "name": "quivr-modified-milvus",
+  "version": "0.1.0",
+  "summary": "quivr and milvus",
+  "author": "feng ziyang",
+  "license": "MIT",
+  "home_page": "https://github.com/frechi9/quivr_milvus.git",
+  "download_filename": "quivr_modified_milvus-0.1.0.tar.gz",
+  "download_time": "2025-08-02T05:48:16.008728",
+  "package_url": "https://pypi.org/project/quivr-modified-milvus/"
+}

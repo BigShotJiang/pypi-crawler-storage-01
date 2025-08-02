@@ -1,0 +1,11 @@
+{
+  "name": "llmvm-cli",
+  "version": "1.5.4",
+  "summary": "Command Line LLM with client-side tools support.",
+  "author": "9600 devs",
+  "license": null,
+  "home_page": "https://github.com/9600dev/llmvm",
+  "download_filename": "llmvm_cli-1.5.4.tar.gz",
+  "download_time": "2025-08-02T05:48:07.403259",
+  "package_url": "https://pypi.org/project/llmvm-cli/"
+}

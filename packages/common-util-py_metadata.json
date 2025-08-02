@@ -1,11 +1,11 @@
 {
   "name": "common-util-py",
-  "version": "0.0.22",
-  "summary": "common python utility modules",
+  "version": "0.0.24",
+  "summary": "Common Python utility modules",
   "author": "Jason Wee",
-  "license": "Apache Software License",
+  "license": null,
   "home_page": "https://github.com/jasonwee/common-util-py",
-  "download_filename": "common_util_py-0.0.22.tar.gz",
-  "download_time": "2025-08-01T15:14:33.413401",
+  "download_filename": "common_util_py-0.0.24.tar.gz",
+  "download_time": "2025-08-02T05:48:06.291847",
   "package_url": "https://pypi.org/project/common-util-py/"
 }

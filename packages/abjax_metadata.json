@@ -1,0 +1,11 @@
+{
+  "name": "abjax",
+  "version": "0.0.1",
+  "summary": "High-performance Python library for AB testing analysis with JAX and FastAPI",
+  "author": "ABJAX Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abjax-0.0.1.tar.gz",
+  "download_time": "2025-08-02T05:48:12.820194",
+  "package_url": "https://pypi.org/project/abjax/"
+}

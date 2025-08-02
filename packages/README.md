@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T05:20:04.514515
-- **Total Packages**: 80
-- **Total Size**: 40.45 MB
+- **Download Time**: 2025-08-02T05:48:44.287888
+- **Total Packages**: 76
+- **Total Size**: 34.84 MB
 
 ## Packages List
+- guildmaster-cli
+- vrin
+- embcli-gemini
+- Cemotion
+- pycmd2
+- apexbase
+- common-util-py
+- prefig
+- llmvm-cli
+- gh-templates-linux-arm64-glibc
+- gh-templates-linux-x64-glibc
+- gh-templates-linux-x64-musl
+- gh-templates-darwin-arm64
+- gh-templates-darwin-x64
+- deliciousbytes
+- podcli
+- ramifice
+- abjax
+- velithon
+- mcp-12306
+- seam-nn
+- task-agents-mcp
+- quivr-modified-milvus
+- tterp-cores
+- fspacker
+- zeroeval
+- queus
+- lybase
+- vegomatic
 - gh-templates-win32-x64-msvc
 - repomix
 - pytest-plugins
@@ -13,31 +42,23 @@
 - kson-lib
 - agentbeats
 - liulianmao
-- gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-glibc
 - compliance-sdk
-- gh-templates-linux-x64-musl
 - chinese-chess-lib
-- gh-templates-darwin-arm64
-- gh-templates-darwin-x64
 - claude-code-goodies
 - litellm
 - mem0-history-db-patch
 - specsuite
-- queus
 - naeural-core
 - nitro-toolkit
 - ratio1
 - wowipy
 - core-mixins
 - scludam
-- vrin
 - gofastapi
 - bayesbay
 - fladoja
 - slide-space-monkey
 - slide-lye
-- gh-templates
 - common-agent-code
 - bhp-pro
 - sphinx-intl
@@ -61,28 +82,3 @@
 - OpenGeode-Inspector
 - vibe-framework
 - cdoctest
-- broprompt
-- OpenGeode-GeosciencesIO
-- spotdl
-- RinUI
-- task-agents-mcp
-- keras-nlp-nightly
-- keras-hub-nightly
-- pulumi-juniper-mist
-- llama-index-vector-stores-postgres
-- llama-index-retrievers-bm25
-- OpenGeode-IO
-- pymelodia
-- cdktf-cdktf-provider-cloudflare
-- OpenGeode-Geosciences
-- pyspotlightarchiver
-- lazylabel-gui
-- suzaku
-- gfuncpy
-- html-to-exe
-- cdktf-cdktf-provider-pagerduty
-- vegomatic
-- botrun-llm-ranking
-- req-pre-automate1
-- lambda-cloud-cli
-- dapr-agents

@@ -1,0 +1,11 @@
+{
+  "name": "Cemotion",
+  "version": "2.2.3",
+  "summary": "Cemotion 是 Python 下的中文 NLP 库，可以进行中文情感倾向分析、通用领域中文分词。",
+  "author": "Cyberbolt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cemotion-2.2.3.tar.gz",
+  "download_time": "2025-08-02T05:48:04.658892",
+  "package_url": "https://pypi.org/project/Cemotion/"
+}

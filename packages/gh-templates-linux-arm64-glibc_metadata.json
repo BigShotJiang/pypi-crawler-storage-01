@@ -1,11 +1,11 @@
 {
   "name": "gh-templates-linux-arm64-glibc",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "GitHub Templates CLI tool",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gh_templates_linux_arm64_glibc-0.1.19.tar.gz",
-  "download_time": "2025-08-02T05:19:21.099211",
+  "download_filename": "gh_templates_linux_arm64_glibc-0.1.20.tar.gz",
+  "download_time": "2025-08-02T05:48:08.062152",
   "package_url": "https://pypi.org/project/gh-templates-linux-arm64-glibc/"
 }
