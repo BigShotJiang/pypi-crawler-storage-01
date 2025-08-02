@@ -1,11 +1,11 @@
 {
   "name": "zfb3-1",
-  "version": "1.0.1",
-  "summary": "一个包含字符转换、十进制转二进制和版本信息的Python库",
-  "author": "Gtl GuoTenglong",
+  "version": "1.0.2",
+  "summary": "print(函数)",
+  "author": "Gtl",
   "license": null,
   "home_page": null,
-  "download_filename": "zfb3_1-1.0.1.tar.gz",
-  "download_time": "2025-08-02T03:53:57.683110",
+  "download_filename": "zfb3_1-1.0.2.tar.gz",
+  "download_time": "2025-08-02T09:18:06.733054",
   "package_url": "https://pypi.org/project/zfb3-1/"
 }
