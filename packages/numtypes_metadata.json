@@ -1,11 +1,11 @@
 {
   "name": "numtypes",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A small library providing utilities for better type hinting of NumPy arrays.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "numtypes-0.2.0-py3-none-any.whl",
-  "download_time": "2025-08-02T11:39:09.979414",
+  "download_filename": "numtypes-0.3.0-py3-none-any.whl",
+  "download_time": "2025-08-02T12:23:06.578748",
   "package_url": "https://pypi.org/project/numtypes/"
 }

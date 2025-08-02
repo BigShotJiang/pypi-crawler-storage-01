@@ -1,0 +1,11 @@
+{
+  "name": "ossapi",
+  "version": "5.3.2",
+  "summary": "The definitive python wrapper for the osu! api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ossapi-5.3.2.tar.gz",
+  "download_time": "2025-08-02T12:22:41.462408",
+  "package_url": "https://pypi.org/project/ossapi/"
+}

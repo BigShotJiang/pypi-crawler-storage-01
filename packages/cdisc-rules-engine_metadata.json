@@ -1,0 +1,11 @@
+{
+  "name": "cdisc-rules-engine",
+  "version": "0.12.0",
+  "summary": "Open source offering of the cdisc rules engine",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdisc_rules_engine-0.12.0.tar.gz",
+  "download_time": "2025-08-02T12:22:48.888560",
+  "package_url": "https://pypi.org/project/cdisc-rules-engine/"
+}
