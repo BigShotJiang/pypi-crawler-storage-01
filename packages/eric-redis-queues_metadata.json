@@ -1,11 +1,11 @@
 {
   "name": "eric-redis-queues",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Redis support for eric-sse",
   "author": "Luca Stretti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eric_redis_queues-1.0.2.tar.gz",
-  "download_time": "2025-08-02T08:43:32.181188",
+  "download_filename": "eric_redis_queues-1.0.3.tar.gz",
+  "download_time": "2025-08-02T10:13:31.574049",
   "package_url": "https://pypi.org/project/eric-redis-queues/"
 }

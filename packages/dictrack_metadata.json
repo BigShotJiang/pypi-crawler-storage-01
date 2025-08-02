@@ -1,0 +1,11 @@
+{
+  "name": "dictrack",
+  "version": "2.1.4",
+  "summary": "A Flexible Dictionary Data Tracker for Condition-Based Monitoring",
+  "author": "Tim Liao",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "dictrack-2.1.4-py2.py3-none-any.whl",
+  "download_time": "2025-08-02T10:13:28.440225",
+  "package_url": "https://pypi.org/project/dictrack/"
+}

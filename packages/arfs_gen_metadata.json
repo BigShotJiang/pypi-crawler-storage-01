@@ -1,0 +1,11 @@
+{
+  "name": "arfs_gen",
+  "version": "1.2.1",
+  "summary": "Library to generate toy data for machine learning experiments in the context of all-relevant feature selection.",
+  "author": "Lukas Pfannschmidt",
+  "license": "MIT",
+  "home_page": "https://github.com/lpfann/arfs_gen",
+  "download_filename": "arfs_gen-1.2.1.tar.gz",
+  "download_time": "2025-08-02T10:13:23.168654",
+  "package_url": "https://pypi.org/project/arfs_gen/"
+}

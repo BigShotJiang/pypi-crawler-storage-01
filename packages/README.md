@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T09:52:56.542321
-- **Total Packages**: 58
-- **Total Size**: 7.54 MB
+- **Download Time**: 2025-08-02T10:13:52.925976
+- **Total Packages**: 70
+- **Total Size**: 8.39 MB
 
 ## Packages List
+- pydantic-rpc
+- chrome-devtools-mcp-fork
+- p2pshare-cli
+- pyarcscripts
+- mathcom
+- ultranlp
+- pythonrc-manager
+- jaxonmodels
+- a-beta-scalekit
+- odoo-addon-mrp-attachment-mgmt
+- claudewarp
+- furical
+- PyInteno
+- gravixlayer
+- arfs_gen
+- shakenfist-agent
+- textstatslite
+- SAMBA-ilum
+- logaid
+- pi-heif
+- alphapyne
+- portacode
+- finbourne-horizon-sdk
+- pillow-heif
+- dictrack
+- nvfuser-cu126
+- ymlmaster
+- nvfuser-cu128
+- hh-applicant-tool
+- alerk-pack
+- eric-redis-queues
+- funbuild
+- nebula-client
+- syqlorix
+- pybes3
+- skypilot-nightly
+- eric-sse
 - mojiza
 - airos
 - py-env-studio
@@ -25,16 +62,13 @@
 - aiqtoolkit-ragaai
 - aiqtoolkit-opentelemetry
 - pywalker
-- nebula-client
 - queus
 - agrigee-lite
 - cnpj-mcp-server
 - pyinno-setup
 - seliseblocks-genesis
 - mkdocs-ai-summary-wcowin
-- chrome-devtools-mcp-fork
 - twrapform
-- pyarcscripts
 - logsentinelai
 - bkmr
 - phylogenie
@@ -42,25 +76,3 @@
 - nichecompass
 - ffun
 - git-security-scanner
-- bayesnmcdm
-- sigenergy2mqtt
-- BayesMCDM
-- neoteroi-mkdocs
-- portacode
-- pyarcgenerator
-- finfeatures
-- frida-tools
-- tbp-nightly
-- mc-wiki-fetch-mcp
-- zbWidgetLib
-- suzaku
-- zfb3-1
-- tasker-tasks-cli
-- tokenx-core
-- ofxstatement-dutch
-- lisnTorch
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- pybes3
-- autogluon.tabular

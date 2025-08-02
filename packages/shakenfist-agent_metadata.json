@@ -1,0 +1,11 @@
+{
+  "name": "shakenfist-agent",
+  "version": "0.9.0",
+  "summary": "An in-guest agent for instances running on Shaken Fist",
+  "author": "Michael Still",
+  "license": "Apache2",
+  "home_page": "https://madebymikal.com/shakenfist",
+  "download_filename": "shakenfist-agent-0.9.0.tar.gz",
+  "download_time": "2025-08-02T10:13:23.699813",
+  "package_url": "https://pypi.org/project/shakenfist-agent/"
+}

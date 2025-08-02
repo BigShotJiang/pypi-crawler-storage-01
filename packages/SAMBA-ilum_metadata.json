@@ -1,11 +1,11 @@
 {
   "name": "SAMBA-ilum",
-  "version": "1.0.0.539",
+  "version": "1.0.0.540",
   "summary": "...",
   "author": "Augusto de Lelis Araujo",
   "license": "Closed source",
   "home_page": null,
-  "download_filename": "samba_ilum-1.0.0.539.tar.gz",
-  "download_time": "2025-07-29T20:14:17.306737",
+  "download_filename": "samba_ilum-1.0.0.540.tar.gz",
+  "download_time": "2025-08-02T10:13:24.728632",
   "package_url": "https://pypi.org/project/SAMBA-ilum/"
 }
