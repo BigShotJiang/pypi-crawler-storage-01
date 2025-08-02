@@ -1,11 +1,11 @@
 {
   "name": "Questioning-game",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A game that asks question and award you prize on every correct answer just a question game to practice my coding skills and its does not really award you money for real. its a fake game made for fun and learning.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "questioning_game-0.2.0.tar.gz",
-  "download_time": "2025-08-02T20:14:03.359177",
+  "download_filename": "questioning_game-0.3.0.tar.gz",
+  "download_time": "2025-08-02T20:53:25.383795",
   "package_url": "https://pypi.org/project/Questioning-game/"
 }

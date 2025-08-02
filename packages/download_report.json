@@ -1,10 +1,11 @@
 {
-  "download_time": "2025-08-02T20:36:00.340061",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 18.54,
+  "download_time": "2025-08-02T20:53:39.388968",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 1.18,
   "packages": [
-    "lusid-sdk",
     "sc-btr",
+    "hello-greetings",
+    "lusid-sdk",
     "graphc",
     "izisat",
     "pyramids-gis",
@@ -55,7 +56,6 @@
     "kubelingo",
     "core-helpers",
     "md-server",
-    "hello-greetings",
     "logsentinelai",
     "spotpython",
     "xsget",
@@ -85,7 +85,6 @@
     "ragbits-chat",
     "ragbits-agents",
     "ragbits",
-    "docutools",
-    "mlforgex"
+    "docutools"
   ]
 }

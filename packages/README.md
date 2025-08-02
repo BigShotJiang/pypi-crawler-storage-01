@@ -1,13 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T20:36:00.340061
-- **Total Packages**: 84
-- **Total Size**: 18.54 MB
+- **Download Time**: 2025-08-02T20:53:39.388968
+- **Total Packages**: 83
+- **Total Size**: 1.18 MB
 
 ## Packages List
-- lusid-sdk
 - sc-btr
+- hello-greetings
+- lusid-sdk
 - graphc
 - izisat
 - pyramids-gis
@@ -58,7 +59,6 @@
 - kubelingo
 - core-helpers
 - md-server
-- hello-greetings
 - logsentinelai
 - spotpython
 - xsget
@@ -89,4 +89,3 @@
 - ragbits-agents
 - ragbits
 - docutools
-- mlforgex

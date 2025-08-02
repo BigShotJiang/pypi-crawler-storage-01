@@ -1,11 +1,11 @@
 {
   "name": "pybridge-mrt",
-  "version": "0.1",
+  "version": "1.0.0",
   "summary": "A library for sharing data between python scripts",
   "author": "Mohammad Reaza Taghdiri",
   "license": null,
   "home_page": null,
-  "download_filename": "pybridge-mrt-0.1.tar.gz",
-  "download_time": "2025-08-02T20:35:16.804570",
+  "download_filename": "pybridge-mrt-1.0.0.tar.gz",
+  "download_time": "2025-08-02T20:52:59.673273",
   "package_url": "https://pypi.org/project/pybridge-mrt/"
 }
