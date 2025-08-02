@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-08-02T07:43:00.736440",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 1.77,
+  "download_time": "2025-08-02T07:50:08.068224",
+  "total_packages_downloaded": 78,
+  "total_size_mb": 5.69,
   "packages": [
+    "toomanysessions",
+    "rag-shared",
+    "coldpack",
+    "botrun-llm-ranking",
+    "nnInteractive",
+    "pymelodia",
+    "ultranLP",
+    "pybooxdrop",
     "analyser2_hj3415",
     "suzaku",
     "dev-toolbox",
@@ -14,7 +22,6 @@
     "dynetan",
     "gh-templates-win32-x64-msvc",
     "compliance-sdk",
-    "toomanysessions",
     "synapse-sdk",
     "liquidity",
     "meshcore-cli",
@@ -73,14 +80,6 @@
     "apache-airflow-providers-tableau",
     "apache-airflow-providers-standard",
     "apache-airflow-providers-ssh",
-    "apache-airflow-providers-sqlite",
-    "apache-airflow-providers-snowflake",
-    "apache-airflow-providers-smtp",
-    "apache-airflow-providers-slack",
-    "apache-airflow-providers-singularity",
-    "apache-airflow-providers-sftp",
-    "apache-airflow-providers-sendgrid",
-    "apache-airflow-providers-segment",
-    "apache-airflow-providers-samba"
+    "apache-airflow-providers-sqlite"
   ]
 }
