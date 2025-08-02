@@ -1,11 +1,11 @@
 {
   "name": "megarnucleusx",
-  "version": "0.0.3.0",
-  "summary": "Un micro-framework de IA con una red neuronal profunda y autograd, impulsado por micronumpy.",
-  "author": null,
+  "version": "0.0.5.0",
+  "summary": "Una IA modular de alto nivel con bots pre-configurados, impulsada por sminitorch y micronumpy.",
+  "author": "TuNombre",
   "license": null,
-  "home_page": null,
-  "download_filename": "megarnucleusx-0.0.3.0.tar.gz",
-  "download_time": "2025-08-02T21:31:53.498965",
+  "home_page": "https://github.com/TuUsuario/megarnucleusx",
+  "download_filename": "megarnucleusx-0.0.5.0.tar.gz",
+  "download_time": "2025-08-02T23:54:09.321077",
   "package_url": "https://pypi.org/project/megarnucleusx/"
 }

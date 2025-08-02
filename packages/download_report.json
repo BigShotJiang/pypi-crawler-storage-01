@@ -1,11 +1,20 @@
 {
-  "download_time": "2025-08-02T23:35:29.358829",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 1.61,
+  "download_time": "2025-08-02T23:54:48.610284",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 0.89,
   "packages": [
+    "msgflux",
+    "SOM-TUI",
+    "megarnucleusx",
+    "micronumpy",
+    "canonmap",
+    "sminitorch",
+    "o2o-process",
+    "receipt-statement-linker",
+    "m24842-ml",
+    "typing-unknown",
     "tim-the-enchanter",
     "mode-manager-mcp",
-    "canonmap",
     "rnet",
     "hatch-rs",
     "qoco",
@@ -54,7 +63,6 @@
     "pythonrc-manager",
     "AgentToolProtocol",
     "modbus-mcp",
-    "m24842-ml",
     "hcom",
     "pypomes-crypto",
     "j1939parser",
@@ -69,12 +77,6 @@
     "radboy",
     "seqme",
     "core-helpers",
-    "langchain-logseq",
-    "ostruct-cli",
-    "rayforge",
-    "stockula",
-    "clicycle",
-    "poke",
-    "rexa"
+    "langchain-logseq"
   ]
 }

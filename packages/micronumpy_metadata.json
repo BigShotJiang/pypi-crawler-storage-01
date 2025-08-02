@@ -1,11 +1,11 @@
 {
   "name": "micronumpy",
-  "version": "0.1.1",
-  "summary": "Una implementación ligera y pura en Python de la API esencial de NumPy con autograd básico.",
-  "author": "TuNombre",
+  "version": "0.1.2",
+  "summary": "Una implementación ligera y pura en Python de la API de NumPy para proyectos sin dependencias pesadas.",
+  "author": "luis",
   "license": null,
   "home_page": "https://github.com/TuUsuario/micronumpy",
-  "download_filename": "micronumpy-0.1.1.tar.gz",
-  "download_time": "2025-08-02T21:11:56.464620",
+  "download_filename": "micronumpy-0.1.2.tar.gz",
+  "download_time": "2025-08-02T23:54:09.893964",
   "package_url": "https://pypi.org/project/micronumpy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "requirement-loader",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Automatically fetch and install Python dependencies from a remote server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "requirement_loader-0.0.4.tar.gz",
-  "download_time": "2025-08-02T23:13:57.428738",
+  "download_filename": "requirement_loader-0.0.7.tar.gz",
+  "download_time": "2025-08-02T23:54:36.106404",
   "package_url": "https://pypi.org/project/requirement-loader/"
 }
