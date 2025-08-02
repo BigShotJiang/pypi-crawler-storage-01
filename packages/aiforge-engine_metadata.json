@@ -1,0 +1,11 @@
+{
+  "name": "aiforge-engine",
+  "version": "0.0.1",
+  "summary": "AIForge 核心 + 可选 GUI/Web 界面支持",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiforge_engine-0.0.1.tar.gz",
+  "download_time": "2025-08-02T14:52:48.296955",
+  "package_url": "https://pypi.org/project/aiforge-engine/"
+}

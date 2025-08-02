@@ -1,19 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T14:35:04.707758
-- **Total Packages**: 82
-- **Total Size**: 3.42 MB
+- **Download Time**: 2025-08-02T14:53:16.876608
+- **Total Packages**: 85
+- **Total Size**: 11.48 MB
 
 ## Packages List
-- task-agents-mcp
-- restream.io
+- yaapp
+- ethopy
+- docker-image-pin
+- dapu
+- hhd
+- JaxNRSur
+- django-approval-workflow
+- aipmodel
+- kisti-dongmin-naver-news-crawler
+- fgo-api-types
+- m24842-ml
+- polylith-cli
+- codearkt
+- logsentinelai
+- wavinsentio
+- pdm-polylith-workspace
+- mcp-imgutils
 - python-socketio-stubs
+- hatch-polylith-bricks
+- graph-games-proto
+- pdm-polylith-bricks
+- hatch-javascript
+- eudplib
+- smartrun
+- protomorph
+- experiment-utils-pd
+- pyinit-cli
+- nexios
+- task-agents-mcp
+- basketball_reference_web_scraper
+- nonebot-plugin-abs
+- aiforge-engine
+- restream.io
 - kcode
 - robokassa
 - langlayer
 - obs-switch
-- m24842-ml
 - shamsinox
 - qypi
 - lineinfile
@@ -29,7 +58,6 @@
 - pymazebuilder
 - pyversion-info
 - nepali-num2word
-- kisti-dongmin-naver-news-crawler
 - derive-client
 - scrapy-cffi
 - nofex
@@ -63,28 +91,3 @@
 - sharedpreferenceflet
 - OpenPartsLibrary
 - gitex
-- MethylVerse
-- pytemplify
-- alerk
-- check-wheel-contents
-- arkitekt-next
-- tfrunner
-- candyfish
-- mlforgex
-- experiment-utils-pd
-- regex-replacer
-- simt-emlite
-- irispie
-- yaapp
-- openai-cost-calculator
-- gitscribe-mcp
-- tensordict-nightly
-- ex4nicegui
-- mkdocs-ai-summary-wcowin
-- alerk-pack
-- analyser2_hj3415
-- peter-cullen-burbery-python-functions
-- eric-redis-queues
-- sgtlib
-- eric-sse
-- genutility

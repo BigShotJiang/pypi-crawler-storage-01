@@ -1,0 +1,11 @@
+{
+  "name": "JaxNRSur",
+  "version": "1.0.0",
+  "summary": "Numerical relativity surrogate model for gravitational waveforms in Jax",
+  "author": "Max isi, Ethan Payne, Vijay Varma, Tousif Islam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jaxnrsur-1.0.0.tar.gz",
+  "download_time": "2025-08-02T14:52:33.941090",
+  "package_url": "https://pypi.org/project/JaxNRSur/"
+}
