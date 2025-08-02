@@ -1,0 +1,11 @@
+{
+  "name": "clicycle",
+  "version": "1.1.2",
+  "summary": "A Python CLI framework with self-spacing components and Rich theming",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clicycle-1.1.2.tar.gz",
+  "download_time": "2025-08-02T22:36:54.683268",
+  "package_url": "https://pypi.org/project/clicycle/"
+}

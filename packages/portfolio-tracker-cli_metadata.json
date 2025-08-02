@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-tracker-cli",
+  "version": "1.0.0",
+  "summary": "A professional command-line tool for tracking crypto and stock investments",
+  "author": "Yangwl356",
+  "license": null,
+  "home_page": "https://github.com/yangwl356/portfolio-tracker-cli",
+  "download_filename": "portfolio-tracker-cli-1.0.0.tar.gz",
+  "download_time": "2025-08-02T22:37:00.999045",
+  "package_url": "https://pypi.org/project/portfolio-tracker-cli/"
+}

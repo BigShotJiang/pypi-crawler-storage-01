@@ -1,0 +1,11 @@
+{
+  "name": "lana1028",
+  "version": "0.1.5.1",
+  "summary": "LANA-1028 is a custom encryption algorithm designed for high security and strong cryptographic resistance. ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lana1028-0.1.5.1.tar.gz",
+  "download_time": "2025-08-02T22:36:58.093845",
+  "package_url": "https://pypi.org/project/lana1028/"
+}

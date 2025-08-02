@@ -1,0 +1,11 @@
+{
+  "name": "openmock",
+  "version": "3.1.4",
+  "summary": "Python OpenSearch Mock for test purposes",
+  "author": "Marcos Cardoso",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openmock-3.1.4.tar.gz",
+  "download_time": "2025-08-02T22:37:07.775154",
+  "package_url": "https://pypi.org/project/openmock/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-recharge",
+  "version": "3.0.4",
+  "summary": "Source implementation for Recharge.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_recharge-3.0.4.tar.gz",
+  "download_time": "2025-08-02T22:37:02.191990",
+  "package_url": "https://pypi.org/project/airbyte-source-recharge/"
+}

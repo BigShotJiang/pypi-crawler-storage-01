@@ -1,11 +1,11 @@
 {
   "name": "chat-object",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "A simple library for creating and manipulating chat and message objects for LLM applications",
   "author": "fresh-milkshake",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "chat_object-1.0.0.tar.gz",
-  "download_time": "2025-07-29T23:51:26.625846",
+  "download_filename": "chat_object-2.0.0.tar.gz",
+  "download_time": "2025-08-02T22:37:03.906289",
   "package_url": "https://pypi.org/project/chat-object/"
 }
