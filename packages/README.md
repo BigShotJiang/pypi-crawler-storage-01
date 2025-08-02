@@ -1,26 +1,76 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-02T15:13:22.297337
-- **Total Packages**: 75
-- **Total Size**: 9.17 MB
+- **Download Time**: 2025-08-02T15:34:53.673967
+- **Total Packages**: 80
+- **Total Size**: 23.84 MB
 
 ## Packages List
+- psi-toml
+- zbq
+- BoschMiniRpa
+- logscale
+- archeo
+- pypomes-crypto
+- tphat
+- pymathnn
+- quasarr
+- taskbeacon-mcp
+- pocketbase-bin
+- lazygit-py
+- xlizard
+- docker-tool
+- qaravan
+- pypomes-core
+- sbase
+- basecase
+- legacy-puyo-tools
+- pytest-seleniumbase
+- pytest-sbase
+- greeum
+- selenium-base
+- tfrunner
+- seleniumbase
+- koinmal
+- python-hashtools
+- pyinr
+- datajunction
+- gc7
+- datajunction-reflection
+- datajunction-query
+- datajunction-server
+- torchrl-nightly
+- dj-notif
+- vizra
+- fastapi-sdk
+- soe-vinorm
+- pdd-cli
+- aimz
+- remeta
+- openfl-nightly
+- rustmodels
+- nonebot-plugin-value
+- UnOffical-TAGO-API
+- weerlive-api
+- flexget
+- replicantx
+- phonlab
+- m24842-ml
+- ktoolkits
+- unscaleai
+- spitch
+- pandas-ylt
+- rechu
 - python-FLEX
 - smartrun
 - django-flatpages-extra
-- m24842-ml
 - yaapp
 - artemis-model
-- xlizard
 - kernelmind
-- gc7
 - requirement-loader
 - msuaccalc
 - trexio
-- taskbeacon-mcp
 - tree-sitter-analyzer
-- pyinr
 - django-simple-stats
 - ratio1
 - python-socketio-stubs
@@ -28,8 +78,6 @@
 - methodnetworkscan
 - mongospec
 - nonebot-plugin-delta-helper
-- koinmal
-- nonebot-plugin-value
 - docker-image-pin
 - fastchat-mcp
 - logaid
@@ -38,46 +86,3 @@
 - fri
 - iugu-python-sdk
 - ai-creature-lang
-- devops-mcps
-- ethopy
-- dapu
-- hhd
-- JaxNRSur
-- django-approval-workflow
-- aipmodel
-- kisti-dongmin-naver-news-crawler
-- fgo-api-types
-- polylith-cli
-- codearkt
-- logsentinelai
-- wavinsentio
-- pdm-polylith-workspace
-- mcp-imgutils
-- hatch-polylith-bricks
-- graph-games-proto
-- pdm-polylith-bricks
-- hatch-javascript
-- eudplib
-- protomorph
-- experiment-utils-pd
-- pyinit-cli
-- nexios
-- task-agents-mcp
-- basketball_reference_web_scraper
-- nonebot-plugin-abs
-- aiforge-engine
-- restream.io
-- kcode
-- robokassa
-- langlayer
-- obs-switch
-- shamsinox
-- qypi
-- lineinfile
-- github-actions-ai-analyzer
-- ai-mesh-sdk
-- easymdm
-- hatch-js
-- czsc
-- letschatty
-- outgoing

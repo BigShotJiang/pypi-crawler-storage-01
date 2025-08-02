@@ -1,11 +1,11 @@
 {
   "name": "logscale",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Compute orders of magnitude",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logscale-0.1.0.tar.gz",
-  "download_time": "2025-07-30T08:50:58.511175",
+  "download_filename": "logscale-0.1.1.tar.gz",
+  "download_time": "2025-08-02T15:34:07.501650",
   "package_url": "https://pypi.org/project/logscale/"
 }

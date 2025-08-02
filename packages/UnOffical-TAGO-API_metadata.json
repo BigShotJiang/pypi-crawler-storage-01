@@ -1,11 +1,11 @@
 {
   "name": "UnOffical-TAGO-API",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "test1",
   "author": "hyuntroll",
   "license": "MIT",
   "home_page": "https://github.com/hyuntroll/TAGOBus-API",
-  "download_filename": "unoffical_tago_api-0.1.tar.gz",
-  "download_time": "2025-08-01T08:52:19.796664",
+  "download_filename": "unoffical_tago_api-0.2.tar.gz",
+  "download_time": "2025-08-02T15:34:32.246367",
   "package_url": "https://pypi.org/project/UnOffical-TAGO-API/"
 }

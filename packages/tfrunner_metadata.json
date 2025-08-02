@@ -1,11 +1,11 @@
 {
   "name": "tfrunner",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "A cli tool used to make running terraform or opentofu project simpler. Includes secret fetching and remote state management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tfrunner-0.10.0.tar.gz",
-  "download_time": "2025-08-02T14:12:47.114429",
+  "download_filename": "tfrunner-0.11.0.tar.gz",
+  "download_time": "2025-08-02T15:34:19.527220",
   "package_url": "https://pypi.org/project/tfrunner/"
 }

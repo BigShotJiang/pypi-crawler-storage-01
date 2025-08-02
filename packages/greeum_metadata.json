@@ -1,11 +1,11 @@
 {
   "name": "greeum",
-  "version": "2.0.4",
-  "summary": "Universal memory module for LLMs",
-  "author": "Greeum Team",
+  "version": "2.1.0",
+  "summary": "Universal memory module for LLMs with enhanced MCP integration",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/DryRainEnt/Greeum",
-  "download_filename": "greeum-2.0.4.tar.gz",
-  "download_time": "2025-07-30T07:45:09.702522",
+  "home_page": null,
+  "download_filename": "greeum-2.1.0-py3-none-any.whl",
+  "download_time": "2025-08-02T15:34:18.356399",
   "package_url": "https://pypi.org/project/greeum/"
 }
