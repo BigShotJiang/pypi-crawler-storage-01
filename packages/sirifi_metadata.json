@@ -1,0 +1,11 @@
+{
+  "name": "sirifi",
+  "version": "0.1.0",
+  "summary": "Streaming financial data from Alpha Vantage, Binance, and Yahoo Finance",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/sirifi",
+  "download_filename": "sirifi-0.1.0.tar.gz",
+  "download_time": "2025-08-03T11:11:56.794203",
+  "package_url": "https://pypi.org/project/sirifi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "metron-talker",
+  "version": "0.2.3",
+  "summary": "A Metron API talker for ComicTagger a cross-platform GUI/CLI app for writing metadata to comic archives",
+  "author": "ComicTagger team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/comictagger/metron_talker",
+  "download_filename": "metron_talker-0.2.3.tar.gz",
+  "download_time": "2025-08-03T11:12:01.033743",
+  "package_url": "https://pypi.org/project/metron-talker/"
+}

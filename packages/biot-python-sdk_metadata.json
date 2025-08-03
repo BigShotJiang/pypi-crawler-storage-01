@@ -1,0 +1,11 @@
+{
+  "name": "biot-python-sdk",
+  "version": "1.0.20",
+  "summary": "A python SDK that wraps Bio-T Open API",
+  "author": "Stanislav Steinberg",
+  "license": null,
+  "home_page": "https://github.com/sstbrg/biot_python_sdk",
+  "download_filename": "biot_python_sdk-1.0.20.tar.gz",
+  "download_time": "2025-08-03T11:11:49.106007",
+  "package_url": "https://pypi.org/project/biot-python-sdk/"
+}
