@@ -1,0 +1,11 @@
+{
+  "name": "pynecore-nasdaq-provider",
+  "version": "0.1.2",
+  "summary": "Nasdaq data provider plugin for PyneCore",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynecore_nasdaq_provider-0.1.2.tar.gz",
+  "download_time": "2025-08-03T13:09:33.944694",
+  "package_url": "https://pypi.org/project/pynecore-nasdaq-provider/"
+}

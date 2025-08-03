@@ -1,11 +1,11 @@
 {
   "name": "tkinter-layout-helpers",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "A library which is intended to simplify a placement of widgets with .grid() and .pack() methods",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tkinter_layout_helpers-0.4.1.tar.gz",
-  "download_time": "2025-08-02T18:50:54.477491",
+  "download_filename": "tkinter_layout_helpers-0.5.1.tar.gz",
+  "download_time": "2025-08-03T13:09:31.304043",
   "package_url": "https://pypi.org/project/tkinter-layout-helpers/"
 }

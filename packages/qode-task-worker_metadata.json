@@ -1,0 +1,11 @@
+{
+  "name": "qode-task-worker",
+  "version": "1.0.3",
+  "summary": "A Python library for task management with RabbitMQ and polling support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qode_task_worker-1.0.3.tar.gz",
+  "download_time": "2025-08-03T13:09:40.971367",
+  "package_url": "https://pypi.org/project/qode-task-worker/"
+}

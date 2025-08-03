@@ -1,11 +1,11 @@
 {
   "name": "gflake",
-  "version": "0.1.1",
-  "summary": null,
+  "version": "0.1.3",
+  "summary": "A CLI tool to automatically discover and repeatedly run Google Test (gtest) test cases to identify flaky tests.",
   "author": "Deniz Ariyan",
   "license": null,
   "home_page": "https://github.com/denizariyan/gflake",
-  "download_filename": "gflake-0.1.1.tar.gz",
-  "download_time": "2025-08-03T11:31:08.036719",
+  "download_filename": "gflake-0.1.3.tar.gz",
+  "download_time": "2025-08-03T13:09:45.229796",
   "package_url": "https://pypi.org/project/gflake/"
 }

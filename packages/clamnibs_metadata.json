@@ -1,0 +1,11 @@
+{
+  "name": "clamnibs",
+  "version": "0.1.19",
+  "summary": "Analysis of closed-loop amplitude-modulated non-invasive brain stimulation experiments",
+  "author": "David Haslacher",
+  "license": "MIT",
+  "home_page": "https://github.com/davidhaslacher/clam-nibs",
+  "download_filename": "clamnibs-0.1.19.tar.gz",
+  "download_time": "2025-08-03T13:09:50.141106",
+  "package_url": "https://pypi.org/project/clamnibs/"
+}

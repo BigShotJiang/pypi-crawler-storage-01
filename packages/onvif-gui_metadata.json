@@ -1,0 +1,11 @@
+{
+  "name": "onvif-gui",
+  "version": "3.1.10",
+  "summary": "A client gui for Onvif",
+  "author": "Stephen Rhodes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "onvif_gui-3.1.10.tar.gz",
+  "download_time": "2025-08-03T13:09:29.084488",
+  "package_url": "https://pypi.org/project/onvif-gui/"
+}

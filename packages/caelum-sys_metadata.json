@@ -1,0 +1,11 @@
+{
+  "name": "caelum-sys",
+  "version": "0.4.0",
+  "summary": "AI-enhanced system automation toolkit with HIGH-PERFORMANCE vision - 135+ commands, MSS/OpenCV/Tesseract integration, OpenAI/Anthropic/Ollama support",
+  "author": "Joshua Wells",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caelum_sys-0.4.0.tar.gz",
+  "download_time": "2025-08-03T13:09:21.771326",
+  "package_url": "https://pypi.org/project/caelum-sys/"
+}

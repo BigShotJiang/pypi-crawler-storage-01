@@ -1,0 +1,11 @@
+{
+  "name": "MethylVerseDash",
+  "version": "1.0.7",
+  "summary": "Python package for methylation data",
+  "author": "Kyle S. Smith",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/kylessmith/MethylVerse",
+  "download_filename": "methylversedash-1.0.7.tar.gz",
+  "download_time": "2025-08-03T13:09:28.543677",
+  "package_url": "https://pypi.org/project/MethylVerseDash/"
+}
