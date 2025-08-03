@@ -1,0 +1,11 @@
+{
+  "name": "AlekSIS",
+  "version": "2025.1.1",
+  "summary": "Free School Information System Distribution",
+  "author": "Dominik George",
+  "license": "EUPL-1.2-or-later",
+  "home_page": "https://aleksis.org/",
+  "download_filename": "aleksis-2025.1.1.tar.gz",
+  "download_time": "2025-08-03T12:23:14.796241",
+  "package_url": "https://pypi.org/project/AlekSIS/"
+}

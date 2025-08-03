@@ -1,0 +1,11 @@
+{
+  "name": "chaibot",
+  "version": "0.0.1",
+  "summary": "CLI chatbot using Copilot or a local LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chaibot-0.0.1.tar.gz",
+  "download_time": "2025-08-03T12:23:09.152904",
+  "package_url": "https://pypi.org/project/chaibot/"
+}

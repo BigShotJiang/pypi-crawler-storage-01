@@ -1,0 +1,11 @@
+{
+  "name": "make-argocd-fly",
+  "version": "0.3.0",
+  "summary": "A tool to generate Kubernetes manifests from templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "make_argocd_fly-0.3.0.tar.gz",
+  "download_time": "2025-08-03T12:23:02.472702",
+  "package_url": "https://pypi.org/project/make-argocd-fly/"
+}

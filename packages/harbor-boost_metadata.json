@@ -1,0 +1,11 @@
+{
+  "name": "harbor-boost",
+  "version": "0.3.19",
+  "summary": "Optimising LLM proxy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "harbor_boost-0.3.19.tar.gz",
+  "download_time": "2025-08-03T12:23:09.664438",
+  "package_url": "https://pypi.org/project/harbor-boost/"
+}

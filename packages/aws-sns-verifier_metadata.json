@@ -1,11 +1,11 @@
 {
   "name": "aws-sns-verifier",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "AWS SNS Verifier",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aws_sns_verifier-0.1.11.tar.gz",
-  "download_time": "2025-08-03T11:31:00.611792",
+  "download_filename": "aws_sns_verifier-0.1.13.tar.gz",
+  "download_time": "2025-08-03T12:23:13.760825",
   "package_url": "https://pypi.org/project/aws-sns-verifier/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nes-emulator-py",
+  "version": "9.0.0",
+  "summary": "An NES Emulator and OpenAI Gym interface",
+  "author": "Christian Kauten",
+  "license": "MIT",
+  "home_page": "https://github.com/Kautenja/nes-py",
+  "download_filename": "nes_emulator_py-9.0.0.tar.gz",
+  "download_time": "2025-08-03T12:22:54.234020",
+  "package_url": "https://pypi.org/project/nes-emulator-py/"
+}

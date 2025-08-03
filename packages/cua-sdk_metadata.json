@@ -1,0 +1,11 @@
+{
+  "name": "cua-sdk",
+  "version": "0.1.0",
+  "summary": "A reusable Python SDK for controlling a computer-using agent in a virtual desktop.",
+  "author": "Elias Tsoukatos",
+  "license": "MIT",
+  "home_page": "https://github.com/eliastsoukatos/computer_use",
+  "download_filename": "cua_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-03T12:22:59.899734",
+  "package_url": "https://pypi.org/project/cua-sdk/"
+}
