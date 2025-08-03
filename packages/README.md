@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T08:43:47.887941
-- **Total Packages**: 78
-- **Total Size**: 11.28 MB
+- **Download Time**: 2025-08-03T08:58:17.671982
+- **Total Packages**: 79
+- **Total Size**: 7.92 MB
 
 ## Packages List
+- gx-mcp-server
+- balinski-and-gomory
+- quasarr
+- betterlinkedlists
+- wisent-guard
+- libralm-mcp-server
+- rival-ai
+- awesomeversion
+- TelegramTextApp
+- coref-onnx
+- soso-qt-extras
+- streamgrid
+- qis
+- dexscreen
+- UnOffical-TAGO-API
+- chinese-chess-lib
+- novalang
+- gc7-007
+- value-object-pattern
+- dj-notify
+- gcp-platforms-auto
+- benchmark-runner
+- fireball
+- reaktion-next
+- rekuest-next
+- nt-PyTgram-bot
+- tfp-nightly
 - python-hashtools
 - llmadventure
 - snakers
@@ -16,12 +43,9 @@
 - bullishpy
 - kuzu
 - zarinpal-py-sdk
-- UnOffical-TAGO-API
 - pody
 - click-extra
 - gc7-uuu7
-- libralm-mcp-server
-- novalang
 - gc7-uuu6
 - leap-model-parser
 - eric-api
@@ -36,9 +60,7 @@
 - pyredis-om
 - arkitekt-next
 - aws-sns-verifier
-- balinski-and-gomory
 - card-generator
-- chinese-chess-lib
 - c2cgeoportal-admin
 - c2cgeoportal-geoportal
 - c2cgeoportal-commons
@@ -63,24 +85,3 @@
 - gc7-uuu4
 - comcloud-txt-manager
 - kolzchut-ragbot
-- mlarena
-- synapso-core
-- autogen-voting-extension
-- quipubase
-- aipyapp
-- pytest-exasol-slc
-- VectorCode
-- jexpand
-- maahelper
-- circuit-synth
-- dictature
-- uniplot
-- spewer
-- jtable
-- voltkit
-- access-mopper
-- jageocoder
-- pytest-yaml-fei
-- fq-hll
-- atmodeller
-- DyslexicLogLog
