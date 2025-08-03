@@ -1,11 +1,11 @@
 {
   "name": "injectipy",
-  "version": "0.2.0",
-  "summary": "A dependency injection library for Python that uses explicit scopes instead of global state",
+  "version": "0.3.0",
+  "summary": "A dependency injection library for Python with async/await support using explicit scopes instead of global state",
   "author": "Wim Onderbeke",
   "license": "MIT",
   "home_page": "https://github.com/Wimonder/injectipy",
-  "download_filename": "injectipy-0.2.0.tar.gz",
-  "download_time": "2025-08-03T13:45:21.881435",
+  "download_filename": "injectipy-0.3.0.tar.gz",
+  "download_time": "2025-08-03T15:13:31.270192",
   "package_url": "https://pypi.org/project/injectipy/"
 }

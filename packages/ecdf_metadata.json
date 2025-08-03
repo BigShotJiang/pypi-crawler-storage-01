@@ -1,11 +1,11 @@
 {
   "name": "ecdf",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Visualize dataframes with echarts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecdf-0.9.0.tar.gz",
-  "download_time": "2025-08-03T12:23:01.960215",
+  "download_filename": "ecdf-0.9.1.tar.gz",
+  "download_time": "2025-08-03T15:13:14.436492",
   "package_url": "https://pypi.org/project/ecdf/"
 }

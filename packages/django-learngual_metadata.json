@@ -1,11 +1,11 @@
 {
   "name": "django-learngual",
-  "version": "0.864",
+  "version": "0.865",
   "summary": "Learngual helper package",
   "author": "learngual",
   "license": "Proprietary Software License Agreement",
   "home_page": "https://learngual.com",
-  "download_filename": "django_learngual-0.864.tar.gz",
-  "download_time": "2025-08-03T13:09:37.213106",
+  "download_filename": "django_learngual-0.865.tar.gz",
+  "download_time": "2025-08-03T15:13:16.009061",
   "package_url": "https://pypi.org/project/django-learngual/"
 }

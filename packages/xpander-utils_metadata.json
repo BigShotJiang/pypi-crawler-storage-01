@@ -1,0 +1,11 @@
+{
+  "name": "xpander-utils",
+  "version": "0.0.126",
+  "summary": "A Python utils SDK for xpander.ai services.",
+  "author": "xpanderAI",
+  "license": null,
+  "home_page": "https://www.xpander.ai",
+  "download_filename": "xpander_utils-0.0.126.tar.gz",
+  "download_time": "2025-08-03T15:13:25.949532",
+  "package_url": "https://pypi.org/project/xpander-utils/"
+}

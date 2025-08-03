@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-kvdb",
+  "version": "0.1.0",
+  "summary": "SQLite-based key-value storage",
+  "author": "ambient@mailbox.org",
+  "license": "0BSD",
+  "home_page": null,
+  "download_filename": "sqlite_kvdb-0.1.0.tar.gz",
+  "download_time": "2025-08-03T15:13:18.623128",
+  "package_url": "https://pypi.org/project/sqlite-kvdb/"
+}

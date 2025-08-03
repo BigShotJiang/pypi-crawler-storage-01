@@ -1,30 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T14:53:21.072693
-- **Total Packages**: 77
-- **Total Size**: 32.4 MB
+- **Download Time**: 2025-08-03T15:13:54.805866
+- **Total Packages**: 75
+- **Total Size**: 34.37 MB
 
 ## Packages List
+- ecdf
+- pytest-yaml-fei
+- mcp-imgutils
+- django-learngual
+- lmstrix
+- rcabench
+- pgf
+- legit-api-client
+- sqlite-kvdb
+- bitdust
+- fyra
+- cf-auto-bypass
+- zenmoney-api
+- gh-templates-win32-x86-msvc
+- tad-mctc
+- gh-templates-win32-x64-msvc
+- zenmav
+- linalg-zero
+- pyectool
+- canary-cli
+- datasure
+- my_package_byteorium
+- xpander-utils
+- gh-templates-darwin-arm64
+- gh-templates-linux-x64-glibc
+- gh-templates-linux-arm64-musl
+- gh-templates-linux-x64-musl
+- gh-templates-darwin-x64
+- django-mercury-performance
+- hftbacktest
+- undine
+- injectipy
 - mlforgex
 - simplepycons
 - sportsball
 - quarkcircuit
 - lambapi
 - letschatty
-- gh-templates-darwin-arm64
 - gh-templates-linux-arm64-glibc
-- gh-templates-linux-x64-glibc
-- gh-templates-linux-arm64-musl
 - archeo
 - gh-templates-linux-x86-musl
 - gc7-001
-- gh-templates-darwin-x64
 - biomcp-python
 - pysfmc
 - actuarialib
 - pylint-sort-functions
-- mcp-imgutils
 - churchsong
 - hifitime
 - dbt-graph-loader
@@ -43,11 +70,9 @@
 - m24842-ml
 - agents-extensions
 - imdbinfo
-- datasure
 - bangladeshi-parcel-tracker
 - kxy-framework
 - waon
-- my_package_byteorium
 - laser-mind-client
 - quickdraws
 - irides
@@ -56,30 +81,3 @@
 - project-x-py
 - dycw-utilities
 - metadata-py
-- kiwoom-restful
-- financeager
-- tkinter-layout-helpers
-- AoE2ScenarioParser
-- aceflow-mcp-server
-- bitformat
-- arclet-letoderea
-- aimmd
-- polyagent
-- jesse
-- langchain-anchorbrowser
-- pycricinfo
-- mkdocs-print-site-plugin
-- graph-games-proto
-- github-pr-mcp-server
-- btcli
-- xlizard
-- is-instance
-- TEflow
-- autonomous-business
-- betterbib
-- workspace-mcp-http
-- FlcatBrowser
-- indo-scraper
-- annex4ac
-- scsu
-- fairical

@@ -1,0 +1,11 @@
+{
+  "name": "pgf",
+  "version": "1.1",
+  "summary": "Python bindings to the Grammatical Framework's PGF runtime",
+  "author": "Krasimir Angelov",
+  "license": "BSD",
+  "home_page": "https://www.grammaticalframework.org/",
+  "download_filename": "pgf-1.1-cp313-cp313-macosx_11_0_x86_64.whl",
+  "download_time": "2025-08-03T15:13:17.580661",
+  "package_url": "https://pypi.org/project/pgf/"
+}

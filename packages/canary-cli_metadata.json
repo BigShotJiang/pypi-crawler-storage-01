@@ -1,0 +1,11 @@
+{
+  "name": "canary-cli",
+  "version": "0.1.dev2",
+  "summary": "command line interface for canary-cd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canary_cli-0.1.dev2.tar.gz",
+  "download_time": "2025-08-03T15:13:24.387051",
+  "package_url": "https://pypi.org/project/canary-cli/"
+}
