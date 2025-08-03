@@ -1,11 +1,11 @@
 {
   "name": "apsniper0673-dataprovider",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "My dataprovider for APSniper0673",
   "author": "apsniper0673",
   "license": null,
   "home_page": null,
-  "download_filename": "apsniper0673_dataprovider-0.1.5.tar.gz",
-  "download_time": "2025-07-29T05:17:07.637408",
+  "download_filename": "apsniper0673_dataprovider-0.1.7.tar.gz",
+  "download_time": "2025-08-03T06:26:41.503374",
   "package_url": "https://pypi.org/project/apsniper0673-dataprovider/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "restream.io",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "CLI for interacting with the Restream.io API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "restream_io-0.3.0.tar.gz",
-  "download_time": "2025-08-02T14:34:22.776153",
+  "download_filename": "restream_io-0.4.0.tar.gz",
+  "download_time": "2025-08-03T06:26:36.119174",
   "package_url": "https://pypi.org/project/restream.io/"
 }

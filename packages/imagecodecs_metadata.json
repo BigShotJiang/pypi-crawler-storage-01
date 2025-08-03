@@ -1,0 +1,11 @@
+{
+  "name": "imagecodecs",
+  "version": "2025.8.2",
+  "summary": "Image transformation, compression, and decompression codecs",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "imagecodecs-2025.8.2.tar.gz",
+  "download_time": "2025-08-03T06:26:39.747387",
+  "package_url": "https://pypi.org/project/imagecodecs/"
+}
