@@ -1,0 +1,11 @@
+{
+  "name": "dillnet",
+  "version": "1.0.5",
+  "summary": "Dill custom model.",
+  "author": "Cross Nastasi",
+  "license": null,
+  "home_page": "https://github.com/dillfrescott/dillnet",
+  "download_filename": "dillnet-1.0.5.tar.gz",
+  "download_time": "2025-08-03T06:51:49.747193",
+  "package_url": "https://pypi.org/project/dillnet/"
+}

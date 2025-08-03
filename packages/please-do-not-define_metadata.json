@@ -1,11 +1,11 @@
 {
   "name": "please-do-not-define",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A Python library that prevents defining female-related names in code",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/Locked-chess-official/please_do_not_define",
-  "download_filename": "please_do_not_define-0.3.2.tar.gz",
-  "download_time": "2025-08-03T06:26:31.972858",
+  "download_filename": "please_do_not_define-0.3.3.tar.gz",
+  "download_time": "2025-08-03T06:51:54.438606",
   "package_url": "https://pypi.org/project/please-do-not-define/"
 }
