@@ -1,13 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T04:33:01.100296
-- **Total Packages**: 81
-- **Total Size**: 34.7 MB
+- **Download Time**: 2025-08-03T05:05:53.236248
+- **Total Packages**: 77
+- **Total Size**: 35.86 MB
 
 ## Packages List
-- blake2signer
+- atomic-mcp
 - SOM-TUI
+- GameSentenceMiner
+- pyzmq
+- rsacracker
+- coaiapy
+- webpys
+- pymud
+- quanestimation
+- grapapy
+- n8n-workflow-builder
+- leafmap
+- python-socketio-stubs
+- autohack-next
+- libresvip
+- libfec
+- smartrun
+- lambapi
+- git-shield
+- augint-library
+- aiida-quantumespresso
+- laserforce.py
+- opower
+- dingent
+- refs-nb
+- spyglass-ai
+- luminescent
+- exospherehost
+- spatial-reasoning
+- pyjavapoet
+- broflow
+- friendlyetl
+- aquiles-rag
+- blake2signer
 - contextq
 - keras-nlp-nightly
 - keras-hub-nightly
@@ -18,18 +50,15 @@
 - robhan-cdk-lib.aws-aps
 - auto-editor
 - valuascript-compiler
-- atomic-mcp
 - rcabench-platform
 - mapFolding
 - sportsball
 - pypdftotext
 - blacs
 - PyAthena
-- friendlyetl
 - djblue.portal
 - svc-order-zxw
 - tasker-tasks-cli
-- augint-library
 - ranjg
 - cdiam-cli
 - hbat
@@ -37,9 +66,7 @@
 - keras-nightly
 - ant-ray-cpp-nightly
 - chromedriver-binary
-- spatial-reasoning
 - comfyui-frontend-package
-- coaiapy
 - letschatty
 - xtructure
 - botrun-llama-kb
@@ -56,34 +83,3 @@
 - algebra-lineal-sheets
 - GANDLF
 - ormlet
-- pythonic-fp-singletons
-- pythonic-fp-iterables
-- pythonic-fp-fptools
-- pythonic-fp-containers
-- common-agent-code
-- vbaas-python-sdk
-- django-markdown-database
-- teslapython
-- mqttwrappr
-- retrying
-- ansible-docsmith
-- speedai
-- metis-agent
-- odoo-addon-purchase-request-cancel-confirm
-- runviewer
-- obk
-- symclosestwannier
-- secmeasure
-- leverparser
-- mtbp3cd
-- slimformers
-- odoo-addon-sale-project-task-recurrency
-- izisat
-- confkit
-- aveytense
-- aiforge-engine
-- fractvol
-- gjalla
-- kernelmind
-- pycvt
-- gfuncpy

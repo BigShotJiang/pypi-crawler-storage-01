@@ -1,0 +1,11 @@
+{
+  "name": "quanestimation",
+  "version": "0.2.8",
+  "summary": "A package for quantum parameter estimation.",
+  "author": "Jing Liu et al.",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/QuanEstimation/QuanEstimation",
+  "download_filename": "quanestimation-0.2.8.tar.gz",
+  "download_time": "2025-08-03T05:05:15.710838",
+  "package_url": "https://pypi.org/project/quanestimation/"
+}

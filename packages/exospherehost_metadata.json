@@ -1,11 +1,11 @@
 {
   "name": "exospherehost",
-  "version": "0.0.4b0",
+  "version": "0.0.5b0",
   "summary": "Official Python SDK for ExosphereHost",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exospherehost-0.0.4b0.tar.gz",
-  "download_time": "2025-07-31T12:23:21.305476",
+  "download_filename": "exospherehost-0.0.5b0.tar.gz",
+  "download_time": "2025-08-03T05:05:26.476585",
   "package_url": "https://pypi.org/project/exospherehost/"
 }
