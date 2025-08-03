@@ -1,11 +1,11 @@
 {
   "name": "jax2onnx",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "export JAX to ONNX - focus on flax nnx",
   "author": "enpasos",
   "license": null,
   "home_page": null,
-  "download_filename": "jax2onnx-0.7.3.tar.gz",
-  "download_time": "2025-07-31T10:14:50.675641",
+  "download_filename": "jax2onnx-0.7.4.tar.gz",
+  "download_time": "2025-08-03T07:14:43.914009",
   "package_url": "https://pypi.org/project/jax2onnx/"
 }

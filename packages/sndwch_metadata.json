@@ -1,0 +1,11 @@
+{
+  "name": "sndwch",
+  "version": "0.2.0",
+  "summary": "A tool for easily manipulating strings with patterns using the \"Sandwich Method\"",
+  "author": "bib_inf",
+  "license": "CC0 v1.0",
+  "home_page": "https://github.co.jp/",
+  "download_filename": "sndwch-0.2.0.tar.gz",
+  "download_time": "2025-08-03T07:14:43.183929",
+  "package_url": "https://pypi.org/project/sndwch/"
+}

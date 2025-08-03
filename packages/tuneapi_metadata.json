@@ -1,11 +1,11 @@
 {
   "name": "tuneapi",
-  "version": "8.0.20",
+  "version": "8.0.21",
   "summary": "A swiss knife python package for building application with LLMs. Very opinionated.",
   "author": "Yash Bonde",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tuneapi-8.0.20.tar.gz",
-  "download_time": "2025-08-03T06:51:43.490248",
+  "download_filename": "tuneapi-8.0.21.tar.gz",
+  "download_time": "2025-08-03T07:14:51.743192",
   "package_url": "https://pypi.org/project/tuneapi/"
 }
