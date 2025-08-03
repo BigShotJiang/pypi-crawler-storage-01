@@ -1,11 +1,11 @@
 {
   "name": "imdbinfo",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "A Python service for querying IMDb data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imdbinfo-0.3.4.tar.gz",
-  "download_time": "2025-07-31T19:30:21.841988",
+  "download_filename": "imdbinfo-0.3.5.tar.gz",
+  "download_time": "2025-08-03T14:52:59.905823",
   "package_url": "https://pypi.org/project/imdbinfo/"
 }

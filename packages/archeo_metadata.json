@@ -1,11 +1,11 @@
 {
   "name": "archeo",
-  "version": "1.6.10",
+  "version": "1.6.11",
   "summary": "Bayesian framework for inferring natal kick, ancestral masses and spins of black holes.",
   "author": "wyhwong",
   "license": "MIT",
   "home_page": "https://pypi.org/project/archeo/",
-  "download_filename": "archeo-1.6.10.tar.gz",
-  "download_time": "2025-08-03T11:31:04.898729",
+  "download_filename": "archeo-1.6.11.tar.gz",
+  "download_time": "2025-08-03T14:52:42.284101",
   "package_url": "https://pypi.org/project/archeo/"
 }

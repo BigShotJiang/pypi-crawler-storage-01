@@ -1,11 +1,11 @@
 {
   "name": "django-leaflet-admin-list",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Django Leaflet Admin List",
   "author": "Vsevolod Novikov",
   "license": "LGPL",
   "home_page": "https://github.com/nnseva/django-leaflet-admin-list",
-  "download_filename": "django-leaflet-admin-list-0.0.8.tar.gz",
-  "download_time": "2025-08-03T12:23:07.601753",
+  "download_filename": "django-leaflet-admin-list-0.0.9.tar.gz",
+  "download_time": "2025-08-03T14:52:50.590764",
   "package_url": "https://pypi.org/project/django-leaflet-admin-list/"
 }

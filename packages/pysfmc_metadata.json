@@ -1,0 +1,11 @@
+{
+  "name": "pysfmc",
+  "version": "0.1.1",
+  "summary": "Python client for Salesforce Marketing Cloud (SFMC) API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysfmc-0.1.1.tar.gz",
+  "download_time": "2025-08-03T14:52:46.008221",
+  "package_url": "https://pypi.org/project/pysfmc/"
+}
