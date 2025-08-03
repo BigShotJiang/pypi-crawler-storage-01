@@ -1,18 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T07:15:24.343607
-- **Total Packages**: 85
-- **Total Size**: 10.23 MB
+- **Download Time**: 2025-08-03T07:33:45.358427
+- **Total Packages**: 82
+- **Total Size**: 29.59 MB
 
 ## Packages List
-- p189sign
+- fq-hll
+- atmodeller
+- legit-api-client
+- DyslexicLogLog
+- aws-sns-verifier
+- dapu
+- jtable
+- smartrun
+- dingent
+- cs2tracker
+- fzf-bin
+- Invenio-Theme-TUW
+- uk_bin_collection
 - snakers
+- napari-roi-manager
+- ragscope
+- feldera
+- maahelper
+- robo_appian
+- airos
+- entrns
+- betterlinkedlists
+- aipyapp
+- lightrun
+- pluk
+- watch-run
+- leap-model-parser
+- code-loader
+- p189sign
 - starsim
 - OctoBot-Trading
 - pysick
 - vinagent
-- maahelper
 - valsai
 - streamlit-nightly
 - labtasker
@@ -21,9 +47,7 @@
 - gc7-uuu3
 - tf-models-nightly
 - entari-plugin-server
-- fq-hll
 - ml-trainer-sdk
-- DyslexicLogLog
 - snputils
 - pantheon-toolsets
 - sup
@@ -43,19 +67,16 @@
 - ssky
 - casdoor
 - cyclarity-in-vehicle-sdk
-- smartrun
 - MDTerp
 - dillnet
 - pymediawikidocker
 - ai-rulez
-- dapu
 - ncatbot
 - netbook
 - slack-mcp-server
 - MetaRagTool
 - peewee-async
 - please-do-not-define
-- entrns
 - pypomes-sob
 - annogen
 - n0struct
@@ -67,27 +88,3 @@
 - OGRePy
 - spatial-reasoning
 - logsentinelai
-- edmine
-- todo-eunho
-- cyberdesk
-- sugar-toolkit-gtk4
-- darkfield-cli
-- satori-python-server
-- satori-python-core
-- fastapi-fortify
-- satori-python-client
-- pex
-- satori-python
-- ai-edge-litert-nightly
-- object-mother-pattern
-- rcabench-platform
-- repo-scaffold
-- restream.io
-- pyg-nightly
-- trcks
-- pyomnigraph
-- GameSentenceMiner
-- django-powercrud
-- imagecodecs
-- apsniper0673-stockutil
-- apsniper0673-util

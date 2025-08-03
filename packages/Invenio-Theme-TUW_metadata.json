@@ -1,11 +1,11 @@
 {
   "name": "Invenio-Theme-TUW",
-  "version": "2025.2.0",
+  "version": "2025.2.1",
   "summary": "TU Wien corporate design for InvenioRDM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "invenio_theme_tuw-2025.2.0.tar.gz",
-  "download_time": "2025-08-01T17:54:31.899200",
+  "download_filename": "invenio_theme_tuw-2025.2.1.tar.gz",
+  "download_time": "2025-08-03T07:33:07.821494",
   "package_url": "https://pypi.org/project/Invenio-Theme-TUW/"
 }
