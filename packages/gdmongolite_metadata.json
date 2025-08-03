@@ -1,0 +1,11 @@
+{
+  "name": "gdmongolite",
+  "version": "0.1.0",
+  "summary": "gdmongolite: lightweight, auto-maintained all-in-one MongoDB toolkit by Ganeshdatta",
+  "author": "Ganeshdatta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gdmongolite-0.1.0.tar.gz",
+  "download_time": "2025-08-03T15:35:59.382265",
+  "package_url": "https://pypi.org/project/gdmongolite/"
+}

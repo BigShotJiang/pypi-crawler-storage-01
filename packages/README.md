@@ -1,13 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T15:13:54.805866
-- **Total Packages**: 75
-- **Total Size**: 34.37 MB
+- **Download Time**: 2025-08-03T15:36:37.187386
+- **Total Packages**: 80
+- **Total Size**: 23.55 MB
 
 ## Packages List
+- cryptodatapy-pandas-datareader
+- wetterdienst
+- is-instance
+- ilspy-mcp-server
+- vit-pytorch
+- json-handler-caramajau
+- indi-pylibcamera
+- pyxend
+- microbert
+- discoss
+- gdmongolite
+- UnOffical-TAGO-API
+- pyurlquerycli
+- pyrwgps
+- microgpt
+- post-archiver
+- oda-utils
+- cchooks
+- torchrl-nightly
+- cptd
+- lammps
+- excel2moodle
+- datasure
+- tree-sitter-analyzer
+- replicantx
+- openfl-nightly
+- m24842-ml
+- fromager
+- standardweb3
+- qrew
+- pydantic-gitlab
 - ecdf
-- pytest-yaml-fei
 - mcp-imgutils
 - django-learngual
 - lmstrix
@@ -26,7 +56,6 @@
 - linalg-zero
 - pyectool
 - canary-cli
-- datasure
 - my_package_byteorium
 - xpander-utils
 - gh-templates-darwin-arm64
@@ -57,27 +86,3 @@
 - dbt-graph-loader
 - django-leaflet-admin-list
 - nutaan-cli
-- mkdocs-ai-summary-wcowin
-- TISControlProtocol
-- logsentinelai
-- sparkgrep
-- ytmagic
-- py-udp-rust
-- aiforge-engine
-- teslapython
-- stracetools
-- ezKit
-- m24842-ml
-- agents-extensions
-- imdbinfo
-- bangladeshi-parcel-tracker
-- kxy-framework
-- waon
-- laser-mind-client
-- quickdraws
-- irides
-- parallel-processing
-- chatgpt-md-converter
-- project-x-py
-- dycw-utilities
-- metadata-py

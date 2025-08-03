@@ -1,0 +1,11 @@
+{
+  "name": "indi-pylibcamera",
+  "version": "3.0.0",
+  "summary": "An INDI driver for Raspberry Pi cameras supported by libcamera",
+  "author": "Ronald Schreiber",
+  "license": null,
+  "home_page": "https://github.com/scriptorron/indi_pylibcamera",
+  "download_filename": "indi_pylibcamera-3.0.0.tar.gz",
+  "download_time": "2025-08-03T15:35:57.338927",
+  "package_url": "https://pypi.org/project/indi-pylibcamera/"
+}
