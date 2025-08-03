@@ -1,11 +1,11 @@
 {
   "name": "pchjlib",
-  "version": "0.1.6",
-  "summary": "Thư viện pchjlib là một bộ công cụ đa năng…",
+  "version": "0.1.7",
+  "summary": "The pchjlib library is a versatile toolkit...",
   "author": "Joesifer",
   "license": "MIT",
   "home_page": "https://github.com/Joesifer/pchjlib",
-  "download_filename": "pchjlib-0.1.6.tar.gz",
-  "download_time": "2025-08-02T19:48:50.512921",
+  "download_filename": "pchjlib-0.1.7-py3-none-any.whl",
+  "download_time": "2025-08-03T11:30:57.005586",
   "package_url": "https://pypi.org/project/pchjlib/"
 }

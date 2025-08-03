@@ -1,11 +1,11 @@
 {
   "name": "maahelper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Interactive MaaHelper for code assistance, analysis, and bug fixing with internet access",
   "author": "AIStudent",
   "license": null,
   "home_page": "https://github.com/AIMLDev726/maahelper",
-  "download_filename": "maahelper-0.0.3.tar.gz",
-  "download_time": "2025-08-03T08:16:54.458221",
+  "download_filename": "maahelper-0.0.4.tar.gz",
+  "download_time": "2025-08-03T11:30:55.468450",
   "package_url": "https://pypi.org/project/maahelper/"
 }

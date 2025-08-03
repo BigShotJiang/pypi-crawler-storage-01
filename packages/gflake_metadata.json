@@ -1,11 +1,11 @@
 {
   "name": "gflake",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": "Deniz Ariyan",
   "license": null,
-  "home_page": null,
-  "download_filename": "gflake-0.1.0.tar.gz",
-  "download_time": "2025-08-03T11:12:01.545310",
+  "home_page": "https://github.com/denizariyan/gflake",
+  "download_filename": "gflake-0.1.1.tar.gz",
+  "download_time": "2025-08-03T11:31:08.036719",
   "package_url": "https://pypi.org/project/gflake/"
 }

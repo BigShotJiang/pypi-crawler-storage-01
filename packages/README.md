@@ -1,20 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T11:12:28.472220
-- **Total Packages**: 78
-- **Total Size**: 8.73 MB
+- **Download Time**: 2025-08-03T11:31:38.734799
+- **Total Packages**: 84
+- **Total Size**: 23.2 MB
 
 ## Packages List
+- chutes
+- maahelper
+- compose-micromanager
+- xcmap
+- pchjlib
+- onesecondtrader
+- llmadventure
+- edmine
+- python-startfile
+- leap-model-parser
+- moa-sdk
+- aws-sns-verifier
+- code-loader
+- scene-rir
+- dapu
+- pyosirix
+- bluer-ugv
+- osirixgrpc
+- personal-web-utility
+- archeo
+- ua-generator
+- legit-api-client
+- langgraph
+- mkdocs-ai-summary-wcowin
+- pywikibot-scripts
+- gflake
+- langgraph-prebuilt
+- stochvolmodels
+- aiothreads
+- pywikibot
+- tabpfn-extensions
+- tb-nightly
+- goofi
+- yaicli
+- xloft
+- fairpredictor
 - instagram-cli
 - python-socketio-stubs
 - lanscape
 - freeiam
 - biot-python-sdk
 - connectrpc
-- tabpfn-extensions
 - feedback-forensics
-- archeo
 - bhp-pro
 - logstructor
 - pwb-toolbox
@@ -28,13 +62,11 @@
 - sirifi
 - opal-client
 - opal-common
-- aws-sns-verifier
 - dsidelib
 - maxapi
 - pypsbuilder
 - CTkScrollableDropdownPP
 - metron-talker
-- gflake
 - genderapi-phone-validator
 - coda-code-assistant
 - wikiteam3
@@ -47,7 +79,6 @@
 - meltingplot.duet-simplyprint-connector
 - passport-cropper
 - konduktor-nightly
-- xloft
 - dictature
 - material-color-palette
 - mcp-fuzzer
@@ -59,28 +90,3 @@
 - dexscreen
 - ftmq
 - syntera-ai-cli
-- pttechnologies
-- sglang
-- letta-nightly
-- automower-ble
-- ptelastic
-- textual-window
-- calita
-- rawpy
-- canary-cd
-- card-generator
-- django-htmx-autoselect
-- imgw-pib
-- python-jenkins
-- legit-api-client
-- chutes
-- nepali-num2word
-- coref-onnx
-- speech2caret
-- elusion-kit
-- ipilot
-- vietnamadminunits
-- personal-web-utility
-- captcha-operation
-- Jvav
-- mlzlog
