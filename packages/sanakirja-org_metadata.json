@@ -1,0 +1,11 @@
+{
+  "name": "sanakirja-org",
+  "version": "1.1.2",
+  "summary": "An unofficial Python API and CLI tool for sanakirja.org.",
+  "author": "AceHanded",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sanakirja_org-1.1.2.tar.gz",
+  "download_time": "2025-08-03T08:16:45.114214",
+  "package_url": "https://pypi.org/project/sanakirja-org/"
+}

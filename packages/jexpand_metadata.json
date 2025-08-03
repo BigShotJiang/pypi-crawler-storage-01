@@ -1,0 +1,11 @@
+{
+  "name": "jexpand",
+  "version": "1.0.6",
+  "summary": "Enhanced file expansion using Jinja2 templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jexpand-1.0.6.tar.gz",
+  "download_time": "2025-08-03T08:16:52.895761",
+  "package_url": "https://pypi.org/project/jexpand/"
+}

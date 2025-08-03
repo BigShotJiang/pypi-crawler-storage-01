@@ -1,0 +1,11 @@
+{
+  "name": "jageocoder",
+  "version": "2.1.10",
+  "summary": "A Japanese-address geocoder for Python.",
+  "author": "Takeshi Sagara",
+  "license": "The MIT License",
+  "home_page": "https://github.com/t-sagara/jageocoder/",
+  "download_filename": "jageocoder-2.1.10.tar.gz",
+  "download_time": "2025-08-03T08:16:58.719079",
+  "package_url": "https://pypi.org/project/jageocoder/"
+}

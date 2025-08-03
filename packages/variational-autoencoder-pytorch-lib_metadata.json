@@ -1,11 +1,11 @@
 {
   "name": "variational-autoencoder-pytorch-lib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A package to simplify the implementing a variational-autoencoder model with spacial latent heads.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "variational_autoencoder_pytorch_lib-0.1.1.tar.gz",
-  "download_time": "2025-08-02T23:13:51.844475",
+  "download_filename": "variational_autoencoder_pytorch_lib-0.1.2.tar.gz",
+  "download_time": "2025-08-03T08:16:42.459121",
   "package_url": "https://pypi.org/project/variational-autoencoder-pytorch-lib/"
 }

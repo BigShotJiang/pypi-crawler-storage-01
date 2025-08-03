@@ -1,0 +1,11 @@
+{
+  "name": "voltkit",
+  "version": "1.1.0",
+  "summary": "VoltKit: A Python toolkit for electrical and electronics engineering",
+  "author": "Shobhit Bhardwaj",
+  "license": null,
+  "home_page": "https://github.com/ShobhitBhardwaj763/voltkit",
+  "download_filename": "voltkit-1.1.0.tar.gz",
+  "download_time": "2025-08-03T08:16:57.606988",
+  "package_url": "https://pypi.org/project/voltkit/"
+}
