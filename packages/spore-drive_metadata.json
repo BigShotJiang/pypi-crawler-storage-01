@@ -1,0 +1,11 @@
+{
+  "name": "spore-drive",
+  "version": "0.1.0",
+  "summary": "Python client for Spore Drive",
+  "author": "Taubyte",
+  "license": null,
+  "home_page": "https://github.com/taubyte/tau",
+  "download_filename": "spore_drive-0.1.0.tar.gz",
+  "download_time": "2025-08-03T19:28:38.922750",
+  "package_url": "https://pypi.org/project/spore-drive/"
+}

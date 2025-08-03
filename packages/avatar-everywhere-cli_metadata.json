@@ -1,11 +1,11 @@
 {
   "name": "avatar-everywhere-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Portable Sandbox Identity Toolkit - NFT verification and VRM avatar conversion",
   "author": "Abdulkareem Oyeneye/Dapps over Apps.",
   "license": "MIT",
   "home_page": "https://github.com/Supercoolkayy/avatar-everywhere-cli",
-  "download_filename": "avatar_everywhere_cli-1.0.0.tar.gz",
-  "download_time": "2025-08-03T18:51:26.077510",
+  "download_filename": "avatar_everywhere_cli-1.0.1.tar.gz",
+  "download_time": "2025-08-03T19:28:43.537985",
   "package_url": "https://pypi.org/project/avatar-everywhere-cli/"
 }
