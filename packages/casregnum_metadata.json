@@ -1,0 +1,11 @@
+{
+  "name": "casregnum",
+  "version": "1.1.0",
+  "summary": "Python class to manage, check and sort CAS Registry Numbers® (CAS RN®)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "casregnum-1.1.0.tar.gz",
+  "download_time": "2025-08-03T11:42:47.125941",
+  "package_url": "https://pypi.org/project/casregnum/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "graphc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "query graph databases via an interactive console",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graphc-0.1.2.tar.gz",
-  "download_time": "2025-08-02T21:12:09.572423",
+  "download_filename": "graphc-0.1.3.tar.gz",
+  "download_time": "2025-08-03T11:42:50.807042",
   "package_url": "https://pypi.org/project/graphc/"
 }

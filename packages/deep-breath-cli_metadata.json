@@ -1,0 +1,11 @@
+{
+  "name": "deep-breath-cli",
+  "version": "0.1.0",
+  "summary": "A command-line tool designed to help you relax from your terminal.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deep_breath_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-03T11:42:46.079460",
+  "package_url": "https://pypi.org/project/deep-breath-cli/"
+}
