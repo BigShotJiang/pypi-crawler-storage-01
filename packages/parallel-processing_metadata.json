@@ -1,11 +1,11 @@
 {
   "name": "parallel-processing",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": null,
   "author": "Louis Nguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "parallel_processing-0.1.2.tar.gz",
-  "download_time": "2025-08-03T11:51:44.039399",
+  "download_filename": "parallel_processing-0.1.3.tar.gz",
+  "download_time": "2025-08-03T14:34:22.621959",
   "package_url": "https://pypi.org/project/parallel-processing/"
 }

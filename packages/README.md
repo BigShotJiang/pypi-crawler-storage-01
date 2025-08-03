@@ -1,12 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T14:12:58.702572
-- **Total Packages**: 80
-- **Total Size**: 8.97 MB
+- **Download Time**: 2025-08-03T14:34:56.857242
+- **Total Packages**: 78
+- **Total Size**: 9.92 MB
 
 ## Packages List
 - datasure
+- gc7-001
+- mcp-imgutils
+- bangladeshi-parcel-tracker
+- teslapython
+- kxy-framework
+- waon
+- my_package_byteorium
+- laser-mind-client
+- quickdraws
+- irides
+- ezKit
+- parallel-processing
+- baekbox
+- chatgpt-md-converter
+- project-x-py
+- dycw-utilities
+- metadata-py
+- kiwoom-restful
+- financeager
+- tkinter-layout-helpers
+- AoE2ScenarioParser
+- aceflow-mcp-server
+- bitformat
+- arclet-letoderea
+- aimmd
+- polyagent
+- jesse
+- langchain-anchorbrowser
+- pycricinfo
+- mkdocs-print-site-plugin
+- graph-games-proto
+- letschatty
+- github-pr-mcp-server
 - m24842-ml
 - btcli
 - xlizard
@@ -32,8 +65,6 @@
 - tensordict-nightly
 - bhp-pro
 - cas-visualizer
-- AoE2ScenarioParser
-- my_package_byteorium
 - tplus
 - mcp-feedback-enhanced-flink
 - gk6
@@ -42,7 +73,6 @@
 - ragkitx
 - selmate
 - langextract
-- graph-games-proto
 - test-genie
 - coldpack
 - mkdocs-ai-summary-wcowin
@@ -51,38 +81,6 @@
 - nofexhack
 - slthcore
 - struct-strm
-- kiwoom-restful
 - talkpipe
 - pluk
 - pinescript-syntax-checker
-- jbssdk
-- fbgemm-gpu-nightly-cpu
-- apple-notes-parser
-- workspacex
-- quick-actions
-- trackio-mcp
-- klv-parser
-- geomltoolkits
-- surreal-mcp
-- logsentinelai
-- database-mcp-server
-- mcp-vertica
-- jtable
-- edgeimpulse-api
-- rq_geo_toolkit
-- qrpa
-- gdsfactoryplus
-- moviebox-api
-- hcube
-- prarabdha
-- nbdev-apl
-- nbdev-django
-- injectipy
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- fastfeedparser
-- nbdev-pandas
-- nbdev-numpy
-- virginia-clemm-poe
-- nbdev-stdlib

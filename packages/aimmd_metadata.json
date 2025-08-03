@@ -1,0 +1,11 @@
+{
+  "name": "aimmd",
+  "version": "0.9.3",
+  "summary": "aimmd (AI for Molecular Mechanism Discovery) autonomously steers (a large number of) molecular dynamics simulations to efficiently sampleand understand rare transition events.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aimmd-0.9.3.tar.gz",
+  "download_time": "2025-08-03T14:34:29.305047",
+  "package_url": "https://pypi.org/project/aimmd/"
+}

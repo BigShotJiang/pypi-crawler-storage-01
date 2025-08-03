@@ -1,0 +1,11 @@
+{
+  "name": "financeager",
+  "version": "1.4.6",
+  "summary": "command line tool for organizing finances",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "financeager-1.4.6.tar.gz",
+  "download_time": "2025-08-03T14:34:26.232108",
+  "package_url": "https://pypi.org/project/financeager/"
+}
