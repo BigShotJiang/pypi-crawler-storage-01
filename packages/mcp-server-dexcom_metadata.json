@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-dexcom",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server providing tools to fetch and chart Dexcom CGM data",
+  "author": "Maxwell Weinzierl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_dexcom-0.1.1.tar.gz",
+  "download_time": "2025-08-03T17:53:24.626923",
+  "package_url": "https://pypi.org/project/mcp-server-dexcom/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pymox-tools1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Un module avec plein d'outils utiles pour devs en PyMoX (PY-thon - MO-jo - Flet-X)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymox_tools1-1.0.3.tar.gz",
-  "download_time": "2025-08-03T17:35:57.211364",
+  "download_filename": "pymox_tools1-1.0.4.tar.gz",
+  "download_time": "2025-08-03T17:53:30.363082",
   "package_url": "https://pypi.org/project/pymox-tools1/"
 }
