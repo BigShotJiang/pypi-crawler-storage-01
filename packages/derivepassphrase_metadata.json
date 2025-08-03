@@ -1,0 +1,11 @@
+{
+  "name": "derivepassphrase",
+  "version": "0.5.2",
+  "summary": "An almost faithful Python reimplementation of James Coglan's vault.",
+  "author": null,
+  "license": "zlib/libpng",
+  "home_page": null,
+  "download_filename": "derivepassphrase-0.5.2.tar.gz",
+  "download_time": "2025-08-03T20:14:42.523642",
+  "package_url": "https://pypi.org/project/derivepassphrase/"
+}

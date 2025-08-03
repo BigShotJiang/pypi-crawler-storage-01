@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-repo2docker",
+  "version": "2025.8.0",
+  "summary": "Repo2docker: Turn code repositories into Jupyter enabled Docker Images",
+  "author": "Project Jupyter Contributors",
+  "license": "BSD",
+  "home_page": "https://repo2docker.readthedocs.io/en/latest/",
+  "download_filename": "jupyter_repo2docker-2025.8.0.tar.gz",
+  "download_time": "2025-08-03T20:14:40.370212",
+  "package_url": "https://pypi.org/project/jupyter-repo2docker/"
+}

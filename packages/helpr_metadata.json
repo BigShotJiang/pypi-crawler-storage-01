@@ -1,11 +1,11 @@
 {
   "name": "helpr",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "A utility package for Clinikally applications",
   "author": "Clinikally",
   "license": null,
   "home_page": "https://github.com/clinikally/helpr",
-  "download_filename": "helpr-0.2.16.tar.gz",
-  "download_time": "2025-07-31T11:31:42.534211",
+  "download_filename": "helpr-0.2.17.tar.gz",
+  "download_time": "2025-08-03T20:14:51.251117",
   "package_url": "https://pypi.org/project/helpr/"
 }
