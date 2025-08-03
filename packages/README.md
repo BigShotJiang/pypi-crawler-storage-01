@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T23:14:21.312178
-- **Total Packages**: 79
-- **Total Size**: 28.67 MB
+- **Download Time**: 2025-08-03T23:34:26.373462
+- **Total Packages**: 78
+- **Total Size**: 21.81 MB
 
 ## Packages List
+- letschatty
+- anosys-logger-4-openai-agents
+- fastapi-agent
+- ecpet
+- helpr
+- youtrack-cli
+- vellum-ai
+- pyngrok
+- trmd
+- BloodSpiderModel
+- phoonnx
+- evo-sdk
+- firesense
+- python-roborock
+- macocr
+- lerobotlab
+- thoth-dbmanager
+- ggai
+- camtasio
+- evo-sdk-common
+- marketswimmer
+- GluonixDesigner
+- evo-objects
+- celestsp
+- ai-prishtina-text2sql-ltm
+- sidematter-format
+- evo-files
+- age-mcp-server
+- irides
+- podflow
+- agefreighter
+- hbat
+- lmcache
+- radboy
+- gsc-events
+- cogent3
+- djblue.portal
+- jupytercad-mcp
+- dw-ai-x
+- optiviz
+- nusterdb
 - invocations
 - playwrightauthor
 - pjapp
@@ -13,14 +54,12 @@
 - foundry-sdk
 - sae-lens
 - siglab-py
-- nusterdb
 - graphshift-discovery
 - aicat-annotator
 - ruminant
 - xsigma
 - m24842-ml
 - subtitle-tool
-- optiviz
 - luminescent
 - mycmdb
 - AD-SearchAPI
@@ -29,17 +68,12 @@
 - easymdm
 - aiwand
 - async-cdek-api
-- gppwn
 - varphi-devkit
 - wenbi
 - textual-asciinema
-- marketswimmer
 - servicenow-mcp
 - tetra
 - colbertfinance
-- firesense
-- helpr
-- anosys-logger-4-openai-agents
 - pythonium
 - glossing
 - SOM-TUI
@@ -50,38 +84,3 @@
 - pyflexweb
 - jdata
 - soslr
-- servicenow-bulk
-- fastfeedparser
-- lino-react
-- lino-noi
-- lino-xl
-- tinyshare
-- alas-ce0-client
-- letschatty
-- golden-eagle
-- superoptix
-- jack-midi-keyboard
-- moose-cli
-- mscore3
-- node-soso
-- a3
-- pySigma-backend-sentinelone-pq
-- moose-lib
-- writhe-tools
-- buttervolume
-- customer_purchases_final
-- valuascript-compiler
-- djblue.portal
-- falyx
-- louieai
-- pymox-tools1
-- finmlkit
-- bullishpy
-- regula-documentreader-webclient
-- exotools
-- syncloud-lib
-- eric-sse
-- torii
-- edaflow
-- robots-checker
-- webu

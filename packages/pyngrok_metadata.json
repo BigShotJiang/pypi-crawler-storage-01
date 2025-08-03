@@ -1,0 +1,11 @@
+{
+  "name": "pyngrok",
+  "version": "7.2.13",
+  "summary": "A Python wrapper for ngrok",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyngrok-7.2.13.tar.gz",
+  "download_time": "2025-08-03T23:33:50.021638",
+  "package_url": "https://pypi.org/project/pyngrok/"
+}

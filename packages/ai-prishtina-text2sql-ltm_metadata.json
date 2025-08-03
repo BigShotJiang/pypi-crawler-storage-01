@@ -1,11 +1,11 @@
 {
   "name": "ai-prishtina-text2sql-ltm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "Advanced Text-to-SQL library with AI features",
   "author": "Alban Maxhuni, PhD",
   "license": "Commercial",
   "home_page": "https://github.com/albanmaxhuni/text2sql-ltm",
-  "download_filename": "ai_prishtina_text2sql_ltm-1.0.9-py3-none-any.whl",
-  "download_time": "2025-08-03T21:33:14.570199",
+  "download_filename": "ai_prishtina_text2sql_ltm-1.0.10-py3-none-any.whl",
+  "download_time": "2025-08-03T23:33:58.781710",
   "package_url": "https://pypi.org/project/ai-prishtina-text2sql-ltm/"
 }

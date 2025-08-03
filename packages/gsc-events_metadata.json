@@ -1,0 +1,11 @@
+{
+  "name": "gsc-events",
+  "version": "0.1.0",
+  "summary": "Python library for capturing and handling game events in Plutonium T6",
+  "author": "budiworld",
+  "license": null,
+  "home_page": "https://github.com/Yallamaztar/gsc-events",
+  "download_filename": "gsc_events-0.1.0.tar.gz",
+  "download_time": "2025-08-03T23:34:03.982225",
+  "package_url": "https://pypi.org/project/gsc-events/"
+}

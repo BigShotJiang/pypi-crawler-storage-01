@@ -1,0 +1,11 @@
+{
+  "name": "evo-objects",
+  "version": "0.2.1",
+  "summary": "Python SDK for using the Seequent Evo Geoscience Object API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_objects-0.2.1.tar.gz",
+  "download_time": "2025-08-03T23:33:57.755340",
+  "package_url": "https://pypi.org/project/evo-objects/"
+}
