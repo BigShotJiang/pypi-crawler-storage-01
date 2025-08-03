@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-08-03T16:58:55.432301",
-  "total_packages_downloaded": 68,
-  "total_size_mb": 12.94,
+  "download_time": "2025-08-03T17:14:37.717147",
+  "total_packages_downloaded": 69,
+  "total_size_mb": 0.79,
   "packages": [
+    "shipsim-cli",
+    "vllm-top",
+    "elusion-kit",
+    "zbq",
+    "Live-rocket",
     "cryptodatapy",
     "graph-games-proto",
     "shooortcuts",
@@ -66,10 +71,6 @@
     "napari-noise2vst",
     "crossroad-cli",
     "superpandas",
-    "zenmoney-api",
-    "arclet-letoderea",
-    "cursus",
-    "ErisPulse",
-    "dpncy"
+    "zenmoney-api"
   ]
 }

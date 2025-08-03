@@ -1,11 +1,11 @@
 {
   "name": "nesrs",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "NES (Nintendo Entertainment System) emulator written in Rust with Python bindings",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nesrs-0.1.0-cp38-abi3-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-08-03T16:58:18.345890",
+  "download_filename": "nesrs-0.1.1.tar.gz",
+  "download_time": "2025-08-03T17:14:04.497060",
   "package_url": "https://pypi.org/project/nesrs/"
 }

@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T16:58:55.432301
-- **Total Packages**: 68
-- **Total Size**: 12.94 MB
+- **Download Time**: 2025-08-03T17:14:37.717147
+- **Total Packages**: 69
+- **Total Size**: 0.79 MB
 
 ## Packages List
+- shipsim-cli
+- vllm-top
+- elusion-kit
+- zbq
+- Live-rocket
 - cryptodatapy
 - graph-games-proto
 - shooortcuts
@@ -70,7 +75,3 @@
 - crossroad-cli
 - superpandas
 - zenmoney-api
-- arclet-letoderea
-- cursus
-- ErisPulse
-- dpncy
