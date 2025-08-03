@@ -1,11 +1,11 @@
 {
   "name": "lirayspy",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python client library for LiRAYS API - Fiber Network Design",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lirayspy-0.0.3.tar.gz",
-  "download_time": "2025-08-01T22:13:16.011316",
+  "download_filename": "lirayspy-0.0.4.tar.gz",
+  "download_time": "2025-08-03T01:08:00.135094",
   "package_url": "https://pypi.org/project/lirayspy/"
 }

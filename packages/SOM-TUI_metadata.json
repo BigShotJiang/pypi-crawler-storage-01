@@ -1,11 +1,11 @@
 {
   "name": "SOM-TUI",
-  "version": "0.3",
+  "version": "0.5",
   "summary": "A TUI that lets you vote on SOM project through the terminal!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "som_tui-0.3.tar.gz",
-  "download_time": "2025-08-02T23:54:08.752323",
+  "download_filename": "som_tui-0.5.tar.gz",
+  "download_time": "2025-08-03T01:08:10.722121",
   "package_url": "https://pypi.org/project/SOM-TUI/"
 }

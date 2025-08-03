@@ -1,11 +1,11 @@
 {
   "name": "pytracecall",
-  "version": "2.0.0",
+  "version": "3.0.2",
   "summary": "pytracecall: A debugging module with sync and async decorators (CallTracer and aCallTracer) for tracing function calls, and a function (stack) for logging the current call stack",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytracecall-2.0.0.tar.gz",
-  "download_time": "2025-08-02T23:34:58.732062",
+  "download_filename": "pytracecall-3.0.2.tar.gz",
+  "download_time": "2025-08-03T01:08:09.113500",
   "package_url": "https://pypi.org/project/pytracecall/"
 }

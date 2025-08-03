@@ -1,11 +1,11 @@
 {
   "name": "m24842-ml",
-  "version": "1.4.58",
+  "version": "1.4.67",
   "summary": "Collection of ML models and benchmarking tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "m24842_ml-1.4.58.tar.gz",
-  "download_time": "2025-08-02T23:35:17.619424",
+  "download_filename": "m24842_ml-1.4.67.tar.gz",
+  "download_time": "2025-08-03T01:07:55.929096",
   "package_url": "https://pypi.org/project/m24842-ml/"
 }

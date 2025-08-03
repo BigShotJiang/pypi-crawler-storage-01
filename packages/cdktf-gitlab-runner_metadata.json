@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-gitlab-runner",
+  "version": "0.0.1345",
+  "summary": "The CDK for Terraform Construct for Gitlab Runner on GCP",
+  "author": "Neil Kuan<guan840912@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/neilkuan/cdktf-gitlab-runner.git",
+  "download_filename": "cdktf_gitlab_runner-0.0.1345.tar.gz",
+  "download_time": "2025-08-03T01:08:20.262841",
+  "package_url": "https://pypi.org/project/cdktf-gitlab-runner/"
+}

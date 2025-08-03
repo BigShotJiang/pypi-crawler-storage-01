@@ -1,0 +1,11 @@
+{
+  "name": "cmdmark",
+  "version": "0.0.6",
+  "summary": "A CLI tool for managing commands like bookmarks",
+  "author": "Po-wei Huang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmdmark-0.0.6.tar.gz",
+  "download_time": "2025-08-03T01:08:18.650417",
+  "package_url": "https://pypi.org/project/cmdmark/"
+}

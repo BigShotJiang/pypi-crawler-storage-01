@@ -1,11 +1,11 @@
 {
   "name": "easymdm",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "easymdm is an open source mdm system, usefull for user data consolidation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easymdm-0.0.6-py3-none-any.whl",
-  "download_time": "2025-08-02T14:34:28.915455",
+  "download_filename": "easymdm-0.0.8-py3-none-any.whl",
+  "download_time": "2025-08-03T01:08:25.604967",
   "package_url": "https://pypi.org/project/easymdm/"
 }

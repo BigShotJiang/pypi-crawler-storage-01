@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-versionizer",
+  "version": "4.0.2",
+  "summary": "API versionizer for FastAPI web applications",
+  "author": "Alex Schimpf",
+  "license": null,
+  "home_page": "https://github.com/alexschimpf/fastapi-versionizer",
+  "download_filename": "fastapi_versionizer-4.0.2.tar.gz",
+  "download_time": "2025-08-03T01:08:14.916477",
+  "package_url": "https://pypi.org/project/fastapi-versionizer/"
+}

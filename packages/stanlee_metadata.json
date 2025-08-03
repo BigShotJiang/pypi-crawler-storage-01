@@ -1,0 +1,11 @@
+{
+  "name": "stanlee",
+  "version": "0.0.1",
+  "summary": "AI agent framework with tool execution capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stanlee-0.0.1.tar.gz",
+  "download_time": "2025-08-03T01:08:24.008395",
+  "package_url": "https://pypi.org/project/stanlee/"
+}
