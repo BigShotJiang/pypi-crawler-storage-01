@@ -1,21 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T05:05:53.236248
-- **Total Packages**: 77
-- **Total Size**: 35.86 MB
+- **Download Time**: 2025-08-03T05:44:54.213990
+- **Total Packages**: 73
+- **Total Size**: 19.46 MB
 
 ## Packages List
-- atomic-mcp
+- litellm-proxy-extras
+- webpys
+- fq-hll
+- maths-add
+- DyslexicLogLog
+- dbgear
+- nice-errors
+- airavata-python-sdk
+- MDTerp
+- quanta-thread
+- Atiny
+- libcachesim
+- latexdl
+- algebra-lineal-sheets
+- koatl
+- grapapy
+- light-captcha
+- hypha
+- lsp-types
+- Topsis-Abhiraj-Singh-Jhajj-102217094
+- refs-nb
+- KalturaApiClient
+- molr
 - SOM-TUI
+- opencv-stubs
+- coaiapy
+- atomic-mcp
 - GameSentenceMiner
 - pyzmq
 - rsacracker
-- coaiapy
-- webpys
 - pymud
 - quanestimation
-- grapapy
 - n8n-workflow-builder
 - leafmap
 - python-socketio-stubs
@@ -30,7 +52,6 @@
 - laserforce.py
 - opower
 - dingent
-- refs-nb
 - spyglass-ai
 - luminescent
 - exospherehost
@@ -44,7 +65,6 @@
 - keras-nlp-nightly
 - keras-hub-nightly
 - koatl-kernel
-- koatl
 - frameon
 - benchmark-runner
 - robhan-cdk-lib.aws-aps
@@ -59,27 +79,3 @@
 - djblue.portal
 - svc-order-zxw
 - tasker-tasks-cli
-- ranjg
-- cdiam-cli
-- hbat
-- pydot_flow
-- keras-nightly
-- ant-ray-cpp-nightly
-- chromedriver-binary
-- comfyui-frontend-package
-- letschatty
-- xtructure
-- botrun-llama-kb
-- parquet-to-excel
-- data-handler-ela
-- odoo-addon-stock-move-line-qty-picked
-- test-evaluator
-- django-revolution
-- archeo
-- DashingTurtle
-- keras-rs-nightly
-- sandboxed-python
-- pythonic-fp-splitends
-- algebra-lineal-sheets
-- GANDLF
-- ormlet

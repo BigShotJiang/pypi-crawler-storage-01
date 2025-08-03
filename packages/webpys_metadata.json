@@ -1,11 +1,11 @@
 {
   "name": "webpys",
-  "version": "4.5.0",
+  "version": "4.6.0",
   "summary": "A web passive scanner and recon tool",
   "author": "Pugazh@TheHacker",
   "license": null,
   "home_page": "https://github.com/Pugazh2006/Webpys",
-  "download_filename": "webpys-4.5.0.tar.gz",
-  "download_time": "2025-08-03T05:05:14.499832",
+  "download_filename": "webpys-4.6.0.tar.gz",
+  "download_time": "2025-08-03T05:44:16.041427",
   "package_url": "https://pypi.org/project/webpys/"
 }
