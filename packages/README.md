@@ -1,18 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T11:43:30.797033
-- **Total Packages**: 88
-- **Total Size**: 10.24 MB
+- **Download Time**: 2025-08-03T11:52:32.460944
+- **Total Packages**: 87
+- **Total Size**: 0.51 MB
 
 ## Packages List
+- buscador-de-cnpj
+- qps-limit
+- passport-cropper
+- vanilla-option-pricers
+- parallel-processing
+- asusrouter
+- deknp
+- bullfinch
+- gc7-009
+- wiki_tool_python
+- dapu
+- django-powercrud
 - kececinumbers
 - material-color-palette
 - deep-breath-cli
-- RubigramClient
 - casregnum
 - dash-ai-chat
-- buscador-de-cnpj
 - dlrm
 - fastapi-socketio-handler
 - multienginesearch
@@ -41,7 +51,6 @@
 - aws-sns-verifier
 - code-loader
 - scene-rir
-- dapu
 - pyosirix
 - bluer-ugv
 - osirixgrpc
@@ -84,13 +93,3 @@
 - opal-common
 - dsidelib
 - maxapi
-- pypsbuilder
-- CTkScrollableDropdownPP
-- metron-talker
-- genderapi-phone-validator
-- coda-code-assistant
-- wikiteam3
-- ls-api-clients
-- dpdata
-- nanofts
-- ebird-pages

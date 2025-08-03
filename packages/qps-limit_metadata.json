@@ -1,0 +1,11 @@
+{
+  "name": "qps-limit",
+  "version": "1.2.7",
+  "summary": "Run functions under any limited rate",
+  "author": "tt",
+  "license": "GPLv2",
+  "home_page": "https://github.com/antct/qps-limit",
+  "download_filename": "qps_limit-1.2.7.tar.gz",
+  "download_time": "2025-08-03T11:51:42.229973",
+  "package_url": "https://pypi.org/project/qps-limit/"
+}
