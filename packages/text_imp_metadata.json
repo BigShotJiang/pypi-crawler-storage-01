@@ -1,11 +1,11 @@
 {
   "name": "text_imp",
-  "version": "0.2.0",
+  "version": "0.2.0.1",
   "summary": "Python bindings for iMessage and Contacts database access",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "text_imp-0.2.0.tar.gz",
-  "download_time": "2025-08-02T03:53:54.955494",
+  "download_filename": "text_imp-0.2.0.1.tar.gz",
+  "download_time": "2025-08-03T19:12:25.372707",
   "package_url": "https://pypi.org/project/text_imp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "maps4fs",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "summary": "Generate map templates for Farming Simulator from real places.",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "maps4fs-2.1.4.tar.gz",
-  "download_time": "2025-08-01T21:23:12.200911",
+  "download_filename": "maps4fs-2.1.5.tar.gz",
+  "download_time": "2025-08-03T19:12:42.822849",
   "package_url": "https://pypi.org/project/maps4fs/"
 }

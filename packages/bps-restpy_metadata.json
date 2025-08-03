@@ -1,0 +1,11 @@
+{
+  "name": "bps-restpy",
+  "version": "11.0.0",
+  "summary": "BreakingPoint REST API Python Wraper",
+  "author": "Keysight ISG BreakingPoint Team",
+  "license": "MIT",
+  "home_page": "https://github.com/OpenIxia/bps_restpy",
+  "download_filename": "bps_restpy-11.0.0.tar.gz",
+  "download_time": "2025-08-03T19:12:41.232988",
+  "package_url": "https://pypi.org/project/bps-restpy/"
+}

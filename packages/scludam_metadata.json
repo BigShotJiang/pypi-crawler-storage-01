@@ -1,11 +1,11 @@
 {
   "name": "scludam",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "Star cluster detection and membership estimation based on GAIA data.",
   "author": "Simón Pedro González",
   "license": "GPL-3",
   "home_page": "http://packages.python.org/scludam",
-  "download_filename": "scludam-1.0.9-py3-none-any.whl",
-  "download_time": "2025-08-02T05:19:31.436924",
+  "download_filename": "scludam-1.0.10-py3-none-any.whl",
+  "download_time": "2025-08-03T19:12:41.748553",
   "package_url": "https://pypi.org/project/scludam/"
 }

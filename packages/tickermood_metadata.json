@@ -1,11 +1,11 @@
 {
   "name": "tickermood",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": null,
   "author": "aan",
   "license": null,
   "home_page": null,
-  "download_filename": "tickermood-0.5.0.tar.gz",
-  "download_time": "2025-08-03T08:43:24.816767",
+  "download_filename": "tickermood-0.6.0.tar.gz",
+  "download_time": "2025-08-03T19:12:34.425159",
   "package_url": "https://pypi.org/project/tickermood/"
 }
