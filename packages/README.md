@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T10:14:23.476081
+- **Download Time**: 2025-08-03T10:39:26.813963
 - **Total Packages**: 65
-- **Total Size**: 14.88 MB
+- **Total Size**: 15.92 MB
 
 ## Packages List
+- django-htmx-autoselect
+- imgw-pib
+- dsidelib
+- python-jenkins
+- syntera-ai-cli
+- legit-api-client
+- chutes
+- nepali-num2word
+- coref-onnx
+- speech2caret
+- django-bulk-hooks
+- elusion-kit
+- ipilot
+- vietnamadminunits
+- dexscreen
+- personal-web-utility
+- captcha-operation
+- Jvav
+- mlzlog
+- mkdocs-ai-summary-wcowin
+- workframe
+- breadcrumb-addressbar
+- vkmax
+- waldiez-studio
+- mathcom
+- lightbinpack
+- minix
+- kpi.data.drift.detector
+- coda-code-assistant
+- linkpreview
+- biox-sdk
+- code-doc-gen
+- record-list
+- dapu
+- pyapm
 - optimalportfolios
 - Punjabi-inflections
 - xloft
@@ -17,7 +52,6 @@
 - pyvlm
 - tpysui
 - byzh-extra
-- minix
 - jaxns
 - genie-flow
 - fgo-api-types
@@ -28,7 +62,6 @@
 - color-cli
 - pyrustor
 - aiqtoolkit-phoenix
-- dapu
 - aiqtoolkit-mysql
 - bounded-models
 - pygeom
@@ -38,36 +71,3 @@
 - nonebot-plugin-value
 - aiqtoolkit-ragaai
 - aiqtoolkit-opentelemetry
-- nofex-hack
-- wisent-guard
-- simple-json-server
-- parallel-processing
-- lollms-client
-- autovix
-- waldiez
-- ezpubsub
-- ghweekly
-- django-audit-library
-- qis
-- task-agents-mcp
-- ai-commiter
-- foreblocks
-- hike
-- curl-cffi
-- tvmux
-- leap-model-parser
-- code-loader
-- syntera-ai-cli
-- llmadventure
-- snsr
-- pdfalyzer
-- tumblrbot
-- UnOffical-TAGO-API
-- quanta-thread
-- markdown-to-data
-- pystdatm
-- coref-onnx
-- aiomealie
-- matrice
-- agix
-- nonebot-plugin-delta-helper

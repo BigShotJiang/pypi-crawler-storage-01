@@ -1,0 +1,11 @@
+{
+  "name": "Jvav",
+  "version": "2.5.5",
+  "summary": "[NSFW] Useful tools for crawling study resources.",
+  "author": "akynazh",
+  "license": "GPLv3",
+  "home_page": "https://github.com/akynazh/jvav",
+  "download_filename": "jvav-2.5.5.tar.gz",
+  "download_time": "2025-08-03T10:38:59.725966",
+  "package_url": "https://pypi.org/project/Jvav/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlzlog",
+  "version": "0.5.0",
+  "summary": "Useful common logging functionality by MLZ",
+  "author": "Georg Brandl <g.brandl@fz-juelich.de>, Alexander Lenz <alexander.lenz@frm2.tum.de>",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "mlzlog-0.5.0.tar.gz",
+  "download_time": "2025-08-03T10:39:00.744025",
+  "package_url": "https://pypi.org/project/mlzlog/"
+}

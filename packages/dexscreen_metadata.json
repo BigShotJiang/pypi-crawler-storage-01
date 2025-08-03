@@ -1,11 +1,11 @@
 {
   "name": "dexscreen",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Python wrapper for Dexscreener API with stable HTTP support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dexscreen-0.0.5.tar.gz",
-  "download_time": "2025-08-03T09:14:00.918898",
+  "download_filename": "dexscreen-0.0.6.tar.gz",
+  "download_time": "2025-08-03T10:38:58.146062",
   "package_url": "https://pypi.org/project/dexscreen/"
 }

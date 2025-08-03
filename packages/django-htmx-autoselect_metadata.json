@@ -1,0 +1,11 @@
+{
+  "name": "django-htmx-autoselect",
+  "version": "0.1.2",
+  "summary": "A reusable Django app to display notifications.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/dw-liedji/django-htmx-autoselect",
+  "download_filename": "django_htmx_autoselect-0.1.2.tar.gz",
+  "download_time": "2025-08-03T10:38:50.264151",
+  "package_url": "https://pypi.org/project/django-htmx-autoselect/"
+}

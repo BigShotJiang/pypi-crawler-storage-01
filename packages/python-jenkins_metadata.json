@@ -1,0 +1,11 @@
+{
+  "name": "python-jenkins",
+  "version": "1.8.3",
+  "summary": "Python bindings for the remote Jenkins API",
+  "author": "Ken Conley",
+  "license": "BSD",
+  "home_page": "https://opendev.org/jjb/python-jenkins",
+  "download_filename": "python_jenkins-1.8.3.tar.gz",
+  "download_time": "2025-08-03T10:38:52.363339",
+  "package_url": "https://pypi.org/project/python-jenkins/"
+}

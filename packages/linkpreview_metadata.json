@@ -1,0 +1,11 @@
+{
+  "name": "linkpreview",
+  "version": "0.12.0",
+  "summary": "Get link (URL) preview",
+  "author": "MeyT",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linkpreview-0.12.0.tar.gz",
+  "download_time": "2025-08-03T10:39:06.504692",
+  "package_url": "https://pypi.org/project/linkpreview/"
+}
