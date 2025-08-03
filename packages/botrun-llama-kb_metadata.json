@@ -1,11 +1,11 @@
 {
   "name": "botrun-llama-kb",
-  "version": "5.8.22",
+  "version": "5.8.31",
   "summary": null,
   "author": "sebastian-hsu",
   "license": null,
   "home_page": null,
-  "download_filename": "botrun_llama_kb-5.8.22.tar.gz",
-  "download_time": "2025-08-02T02:52:58.263220",
+  "download_filename": "botrun_llama_kb-5.8.31.tar.gz",
+  "download_time": "2025-08-03T04:32:37.284616",
   "package_url": "https://pypi.org/project/botrun-llama-kb/"
 }

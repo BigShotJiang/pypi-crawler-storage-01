@@ -1,0 +1,11 @@
+{
+  "name": "retrying",
+  "version": "1.4.2",
+  "summary": "Retrying",
+  "author": "Alex Kuang, Anthony McClosky, Cyrus Durgin, Daniel Nephin, Dougal Matthews, Greg Roodt, Haïkel Guémar, Hugo Klepsch, J Derek Wilson, James Page, Jason Dunkelberger, Job Evers, Jonathan Herriott, Josh Marshall, Joshua Harlow, Justin Turner Arthur, Maxym Shalenyi, Monty Taylor, Pierre-Yves Chibon, Ray Holder, Rees Dooley, Saul Shanabrook, Simon Dollé, Simeon Visser, Thomas Goirand",
+  "license": null,
+  "home_page": null,
+  "download_filename": "retrying-1.4.2.tar.gz",
+  "download_time": "2025-08-03T04:32:49.736421",
+  "package_url": "https://pypi.org/project/retrying/"
+}

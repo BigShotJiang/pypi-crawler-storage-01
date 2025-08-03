@@ -1,0 +1,11 @@
+{
+  "name": "parquet-to-excel",
+  "version": "0.7.0",
+  "summary": "a crate to convert parquet file(s) to an/a excel/csv file with constant memory in rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parquet_to_excel-0.7.0.tar.gz",
+  "download_time": "2025-08-03T04:32:37.795852",
+  "package_url": "https://pypi.org/project/parquet-to-excel/"
+}

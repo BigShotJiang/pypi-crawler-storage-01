@@ -1,0 +1,11 @@
+{
+  "name": "fractvol",
+  "version": "0.1.0",
+  "summary": "Fractal Volatility Signatures for detecting market regimes using multifractal analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fractvol-0.1.0.tar.gz",
+  "download_time": "2025-08-03T04:32:58.571584",
+  "package_url": "https://pypi.org/project/fractvol/"
+}

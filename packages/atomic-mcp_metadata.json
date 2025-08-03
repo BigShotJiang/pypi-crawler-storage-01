@@ -1,11 +1,11 @@
 {
   "name": "atomic-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A framework for building MCP Servers using Atomic Agents and FastMCP",
   "author": "jon fox",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "atomic_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-03T03:23:05.297491",
+  "download_filename": "atomic_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-03T04:32:23.345356",
   "package_url": "https://pypi.org/project/atomic-mcp/"
 }

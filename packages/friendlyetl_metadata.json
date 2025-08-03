@@ -1,11 +1,11 @@
 {
   "name": "friendlyetl",
-  "version": "1.0.2",
-  "summary": "A simple and lightweight ETL package for data pipelines",
+  "version": "1.0.3",
+  "summary": "A simple and lightweight ETL package for data pipelines using Python, Pandas, PySpark, and Hadoop",
   "author": "Divith Raju",
   "license": null,
   "home_page": null,
-  "download_filename": "friendlyetl-1.0.2.tar.gz",
-  "download_time": "2025-08-03T03:23:02.717595",
+  "download_filename": "friendlyetl-1.0.3.tar.gz",
+  "download_time": "2025-08-03T04:32:27.651700",
   "package_url": "https://pypi.org/project/friendlyetl/"
 }

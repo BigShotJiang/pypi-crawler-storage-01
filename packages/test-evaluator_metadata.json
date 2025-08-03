@@ -1,11 +1,11 @@
 {
   "name": "test-evaluator",
-  "version": "0.1.0",
-  "summary": "Simple library to evaluate test cases using input-output dictionaries",
-  "author": "Your Name",
+  "version": "0.1.2.dev2",
+  "summary": "Evaluate test cases using input/output dictionaries",
+  "author": "Devashish Varanasi",
   "license": null,
-  "home_page": "https://github.com/yourusername/test-evaluator",
-  "download_filename": "test_evaluator-0.1.0.tar.gz",
-  "download_time": "2025-08-03T03:23:04.260678",
+  "home_page": "https://github.com/Devashish-Varanasi/test-evaluator",
+  "download_filename": "test_evaluator-0.1.2.dev2.tar.gz",
+  "download_time": "2025-08-03T04:32:39.382619",
   "package_url": "https://pypi.org/project/test-evaluator/"
 }

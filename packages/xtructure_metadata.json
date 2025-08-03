@@ -1,0 +1,11 @@
+{
+  "name": "xtructure",
+  "version": "0.0.20",
+  "summary": "JAX-optimized data structures",
+  "author": "tinker495",
+  "license": null,
+  "home_page": "https://github.com/tinker495/Xtructure",
+  "download_filename": "xtructure-0.0.20.tar.gz",
+  "download_time": "2025-08-03T04:32:36.766870",
+  "package_url": "https://pypi.org/project/xtructure/"
+}
