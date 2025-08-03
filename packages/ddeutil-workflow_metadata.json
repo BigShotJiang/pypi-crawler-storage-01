@@ -1,11 +1,11 @@
 {
   "name": "ddeutil-workflow",
-  "version": "0.0.84",
+  "version": "0.0.85",
   "summary": "Lightweight workflow orchestration with YAML template",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ddeutil_workflow-0.0.84.tar.gz",
-  "download_time": "2025-07-30T15:54:58.889920",
+  "download_filename": "ddeutil_workflow-0.0.85.tar.gz",
+  "download_time": "2025-08-03T16:43:45.132638",
   "package_url": "https://pypi.org/project/ddeutil-workflow/"
 }

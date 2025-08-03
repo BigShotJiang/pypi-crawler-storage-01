@@ -1,11 +1,11 @@
 {
   "name": "getignore3",
-  "version": "3.4.3",
-  "summary": "Get gitignore files without bothering yourself",
+  "version": "3.5.1",
+  "summary": "A tool to fetch and manage `.gitignore` templates from GitHub with minimal effort",
   "author": "ashkanfeyzollahi@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "getignore3-3.4.3.tar.gz",
-  "download_time": "2025-07-29T19:32:36.152384",
+  "download_filename": "getignore3-3.5.1.tar.gz",
+  "download_time": "2025-08-03T16:43:25.808525",
   "package_url": "https://pypi.org/project/getignore3/"
 }

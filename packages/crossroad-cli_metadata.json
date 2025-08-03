@@ -1,0 +1,11 @@
+{
+  "name": "crossroad-cli",
+  "version": "0.3.4",
+  "summary": "A tool for analyzing SSRs in genomic data",
+  "author": "Pranjal Pruthi, Preeti Agarwal",
+  "license": "MIT",
+  "home_page": "https://github.com/BioinformaticsOnLine/croSSRoadd",
+  "download_filename": "crossroad_cli-0.3.4.tar.gz",
+  "download_time": "2025-08-03T16:43:47.750682",
+  "package_url": "https://pypi.org/project/crossroad-cli/"
+}
