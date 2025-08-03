@@ -1,0 +1,11 @@
+{
+  "name": "graphshift-discovery",
+  "version": "1.0.0",
+  "summary": "AI-Augmented Java Migration Assistant - Open Source Edition",
+  "author": "GraphShift Team",
+  "license": null,
+  "home_page": "https://github.com/graphshift-dev/discovery",
+  "download_filename": "graphshift_discovery-1.0.0.tar.gz",
+  "download_time": "2025-08-03T23:13:40.829782",
+  "package_url": "https://pypi.org/project/graphshift-discovery/"
+}

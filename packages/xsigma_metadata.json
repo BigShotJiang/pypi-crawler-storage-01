@@ -1,0 +1,11 @@
+{
+  "name": "xsigma",
+  "version": "1.1.4.dev0",
+  "summary": "XSIGMA pricing library",
+  "author": "XSIGMA developers",
+  "license": "BSD",
+  "home_page": "https://xsigma.org",
+  "download_filename": "xsigma-1.1.4.dev0-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-08-03T23:13:42.977684",
+  "package_url": "https://pypi.org/project/xsigma/"
+}
