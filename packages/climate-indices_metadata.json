@@ -1,0 +1,11 @@
+{
+  "name": "climate-indices",
+  "version": "2.2.0",
+  "summary": "Reference implementations of various climate indices typically used for drought monitoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "climate_indices-2.2.0.tar.gz",
+  "download_time": "2025-08-03T22:13:40.764645",
+  "package_url": "https://pypi.org/project/climate-indices/"
+}

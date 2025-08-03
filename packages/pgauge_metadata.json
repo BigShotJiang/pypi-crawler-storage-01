@@ -1,11 +1,11 @@
 {
   "name": "pgauge",
-  "version": "0.6",
+  "version": "0.7",
   "summary": "A command-line utility for monitoring CPU and GPU power usage on macOS.",
   "author": "Aleksandr Karpinskii",
   "license": null,
   "home_page": "https://github.com/homm/gauge",
-  "download_filename": "pgauge-0.6-py3-none-any.whl",
-  "download_time": "2025-08-03T19:12:30.696349",
+  "download_filename": "pgauge-0.7-py3-none-any.whl",
+  "download_time": "2025-08-03T22:13:29.379097",
   "package_url": "https://pypi.org/project/pgauge/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-ppi-arg",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Python connector for PortfolioPersonals's Rest APIs.",
   "author": "Martin Basualdo",
   "license": null,
   "home_page": "https://github.com/MartinBasualdo0/pyPPI",
-  "download_filename": "py_ppi_arg-0.1.9.tar.gz",
-  "download_time": "2025-08-03T21:33:18.109827",
+  "download_filename": "py_ppi_arg-0.1.10.tar.gz",
+  "download_time": "2025-08-03T22:13:33.989683",
   "package_url": "https://pypi.org/project/py-ppi-arg/"
 }

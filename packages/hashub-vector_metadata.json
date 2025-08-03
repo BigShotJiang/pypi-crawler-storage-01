@@ -1,0 +1,11 @@
+{
+  "name": "hashub-vector",
+  "version": "1.0.0",
+  "summary": "Python SDK for Hashub Vector API - High-quality multilingual text embeddings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hashub_vector-1.0.0.tar.gz",
+  "download_time": "2025-08-03T22:13:30.404595",
+  "package_url": "https://pypi.org/project/hashub-vector/"
+}

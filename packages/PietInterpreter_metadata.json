@@ -1,0 +1,11 @@
+{
+  "name": "PietInterpreter",
+  "version": "1.0.9",
+  "summary": "PietInterpreter is an interpreter for Piet-programs.",
+  "author": "Marius Göcke",
+  "license": null,
+  "home_page": "https://github.com/anionDev/PietInterpreter",
+  "download_filename": "pietinterpreter-1.0.9-py3-none-any.whl",
+  "download_time": "2025-08-03T22:13:33.478461",
+  "package_url": "https://pypi.org/project/PietInterpreter/"
+}

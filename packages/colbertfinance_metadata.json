@@ -1,11 +1,11 @@
 {
   "name": "colbertfinance",
-  "version": "0.1.2",
-  "summary": "Librería para descargar precios de cierre diarios desde Yahoo Finance",
-  "author": "Jesús Colbert",
+  "version": "0.1.6",
+  "summary": "Librería educativa de análisis financiero (Markowitz simplificado)",
+  "author": "Jesus Colbert",
   "license": null,
   "home_page": null,
-  "download_filename": "colbertfinance-0.1.2.tar.gz",
-  "download_time": "2025-08-01T14:42:50.937396",
+  "download_filename": "colbertfinance-0.1.6.tar.gz",
+  "download_time": "2025-08-03T22:13:24.759188",
   "package_url": "https://pypi.org/project/colbertfinance/"
 }
