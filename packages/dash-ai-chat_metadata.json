@@ -1,11 +1,11 @@
 {
   "name": "dash-ai-chat",
-  "version": "0.0.2",
-  "summary": "Add your description here",
+  "version": "0.0.3",
+  "summary": "A customizable LLM chat UI framework built on Plotly Dash",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dash_ai_chat-0.0.2.tar.gz",
-  "download_time": "2025-08-03T11:42:47.643959",
+  "download_filename": "dash_ai_chat-0.0.3.tar.gz",
+  "download_time": "2025-08-03T21:33:22.313719",
   "package_url": "https://pypi.org/project/dash-ai-chat/"
 }

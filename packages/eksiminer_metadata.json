@@ -1,0 +1,11 @@
+{
+  "name": "eksiminer",
+  "version": "0.0.2",
+  "summary": "eksiminer is a Python package for scraping entries, topics, authors, and daily highlights from eksisozluk.com",
+  "author": "Okan Yenigün",
+  "license": "MIT",
+  "home_page": "https://github.com/okanyenigun/eksi-scrap",
+  "download_filename": "eksiminer-0.0.2.tar.gz",
+  "download_time": "2025-08-03T21:33:17.530459",
+  "package_url": "https://pypi.org/project/eksiminer/"
+}
