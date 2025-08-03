@@ -1,11 +1,11 @@
 {
   "name": "shmlock",
-  "version": "4.2.0",
+  "version": "4.2.4",
   "summary": "This module provides an inter-process lock implementation, eliminating the need to pass around objects for synchronization. Under the hood, the module leverages the shared_memory module.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shmlock-4.2.0.tar.gz",
-  "download_time": "2025-08-03T01:08:16.514407",
+  "download_filename": "shmlock-4.2.4.tar.gz",
+  "download_time": "2025-08-03T21:13:44.279318",
   "package_url": "https://pypi.org/project/shmlock/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyegeria",
-  "version": "5.4.0.15",
+  "version": "5.4.0.16",
   "summary": "A python client for Egeria",
   "author": "Dan Wolfson",
   "license": "Apache 2.0",
   "home_page": "https://github.com/odpi/egeria-python",
-  "download_filename": "pyegeria-5.4.0.15.tar.gz",
-  "download_time": "2025-08-03T16:43:55.532544",
+  "download_filename": "pyegeria-5.4.0.16.tar.gz",
+  "download_time": "2025-08-03T21:13:04.379960",
   "package_url": "https://pypi.org/project/pyegeria/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "MapLine",
+  "version": "2.0.0",
+  "summary": "A Python implementation of the 3D emission line fitting code",
+  "author": "hjibarram",
+  "license": "MIT",
+  "home_page": "https://github.com/hjibarram/Map_line",
+  "download_filename": "mapline-2.0.0.tar.gz",
+  "download_time": "2025-08-03T21:12:58.016372",
+  "package_url": "https://pypi.org/project/MapLine/"
+}

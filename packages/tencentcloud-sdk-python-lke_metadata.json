@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-lke",
-  "version": "3.0.1433",
+  "version": "3.0.1437",
   "summary": "Tencent Cloud Lke SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-lke-3.0.1433.tar.gz",
-  "download_time": "2025-07-29T20:54:22.274123",
+  "download_filename": "tencentcloud-sdk-python-lke-3.0.1437.tar.gz",
+  "download_time": "2025-08-03T21:13:39.014101",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-lke/"
 }
