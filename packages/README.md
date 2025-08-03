@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T19:39:15.119899
-- **Total Packages**: 72
-- **Total Size**: 4.41 MB
+- **Download Time**: 2025-08-03T19:50:11.899355
+- **Total Packages**: 70
+- **Total Size**: 11.82 MB
 
 ## Packages List
+- machine-sdk
+- pypformat
+- lanscape
+- napistu
+- short-git
+- iugu-python-sdk
+- finlight-client
+- deprecated-checker
+- lukhed-basic-utils
+- Mopidy-Cranberry
+- mat3ra-api-examples
+- phoonnx
+- avatar-everywhere-cli
+- datasure
+- Pairip
+- asaas-python-sdk
+- s3-datakit
+- oxen-orm
+- eksi
 - pjapp
 - telesto
 - narvi
@@ -14,7 +33,6 @@
 - edaflow
 - lt-utils
 - agentle
-- deprecated-checker
 - pchjlib
 - rexa
 - louieai
@@ -40,11 +58,8 @@
 - xlwings-utils
 - minitonu
 - aiosmsactivate
-- avatar-everywhere-cli
-- phoonnx
 - pygent
 - socialmapper
-- asaas-python-sdk
 - zeroeval
 - pdbfixer-wheel
 - xinference-client
@@ -60,21 +75,4 @@
 - itptest
 - GreenWorks
 - pgauge
-- iugu-python-sdk
 - cumulusci-plus
-- pallma-guard
-- tickermood
-- pycupra
-- sparkden
-- p189client
-- frontmatter-format
-- django-learngual
-- segmentation-robustness-framework
-- lukhed-basic-utils
-- python-cookietools
-- local-ai-infra-generation
-- totallysafe
-- bps-restpy
-- scludam
-- shooortcuts
-- maps4fs

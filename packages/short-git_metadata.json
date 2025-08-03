@@ -1,0 +1,11 @@
+{
+  "name": "short-git",
+  "version": "1.0.0",
+  "summary": "CLI commands to help using git more convenient.",
+  "author": "David Zhang",
+  "license": null,
+  "home_page": "https://github.com/hansololz/git-buddy",
+  "download_filename": "short_git-1.0.0.tar.gz",
+  "download_time": "2025-08-03T19:49:37.764174",
+  "package_url": "https://pypi.org/project/short-git/"
+}
