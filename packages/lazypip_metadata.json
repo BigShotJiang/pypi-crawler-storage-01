@@ -1,0 +1,11 @@
+{
+  "name": "lazypip",
+  "version": "0.1.1",
+  "summary": "A lazygit-style TUI for Python package management using pip",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "lazypip-0.1.1.tar.gz",
+  "download_time": "2025-08-03T18:51:21.980690",
+  "package_url": "https://pypi.org/project/lazypip/"
+}

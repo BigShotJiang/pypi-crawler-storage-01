@@ -1,11 +1,11 @@
 {
   "name": "entities-python",
-  "version": "0.1.0a13",
+  "version": "0.1.0a14",
   "summary": "The official Python library for the entities API",
   "author": "Entities",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "entities_python-0.1.0a13.tar.gz",
-  "download_time": "2025-08-02T21:12:03.784390",
+  "download_filename": "entities_python-0.1.0a14.tar.gz",
+  "download_time": "2025-08-03T18:51:41.502441",
   "package_url": "https://pypi.org/project/entities-python/"
 }

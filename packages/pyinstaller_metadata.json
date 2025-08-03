@@ -1,0 +1,11 @@
+{
+  "name": "pyinstaller",
+  "version": "6.15.0",
+  "summary": "PyInstaller bundles a Python application and all its dependencies into a single package.",
+  "author": "Hartmut Goebel, Giovanni Bajo, David Vierra, David Cortesi, Martin Zibricky",
+  "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+  "home_page": "https://www.pyinstaller.org/",
+  "download_filename": "pyinstaller-6.15.0.tar.gz",
+  "download_time": "2025-08-03T18:51:38.942903",
+  "package_url": "https://pypi.org/project/pyinstaller/"
+}

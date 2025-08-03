@@ -1,0 +1,11 @@
+{
+  "name": "wxcompose",
+  "version": "1.0.0",
+  "summary": "Declarative UI style and view model binding for wxPython",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxcompose-1.0.0.tar.gz",
+  "download_time": "2025-08-03T18:51:35.849781",
+  "package_url": "https://pypi.org/project/wxcompose/"
+}

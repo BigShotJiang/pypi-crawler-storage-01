@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-orm-ext",
+  "version": "0.1.0",
+  "summary": "FastAPI ORM Extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_orm_ext-0.1.0.tar.gz",
+  "download_time": "2025-08-03T18:51:44.572395",
+  "package_url": "https://pypi.org/project/fastapi-orm-ext/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "receipt-statement-linker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Link receipts to bank statement transactions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "receipt_statement_linker-0.2.0.tar.gz",
-  "download_time": "2025-08-02T23:54:12.310677",
+  "download_filename": "receipt_statement_linker-0.2.1.tar.gz",
+  "download_time": "2025-08-03T18:51:33.782066",
   "package_url": "https://pypi.org/project/receipt-statement-linker/"
 }

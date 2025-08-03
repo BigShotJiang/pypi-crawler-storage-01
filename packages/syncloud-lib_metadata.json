@@ -1,0 +1,11 @@
+{
+  "name": "syncloud-lib",
+  "version": "341",
+  "summary": "Syncloud common library",
+  "author": "Syncloud",
+  "license": "GPLv3",
+  "home_page": "https://github.com/syncloud/lib",
+  "download_filename": "syncloud_lib-341.tar.gz",
+  "download_time": "2025-08-03T18:51:34.298677",
+  "package_url": "https://pypi.org/project/syncloud-lib/"
+}

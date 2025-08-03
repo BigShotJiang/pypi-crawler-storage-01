@@ -1,11 +1,11 @@
 {
   "name": "hanifx",
-  "version": "15.0.0",
-  "summary": "OSINT phone number info tool without APIs and permission",
+  "version": "16.0.1",
+  "summary": "A future-proof encryption module with advanced features",
   "author": "Hanif",
   "license": null,
   "home_page": null,
-  "download_filename": "hanifx-15.0.0.tar.gz",
-  "download_time": "2025-08-02T19:27:14.923965",
+  "download_filename": "hanifx-16.0.1.tar.gz",
+  "download_time": "2025-08-03T18:51:27.618499",
   "package_url": "https://pypi.org/project/hanifx/"
 }

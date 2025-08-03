@@ -1,0 +1,11 @@
+{
+  "name": "sensing_garden_client",
+  "version": "0.0.13.post1",
+  "summary": "Sensing Garden Client for API interaction",
+  "author": "Deniz Aydemir",
+  "license": null,
+  "home_page": "https://github.com/daydemir/sensing-garden-client",
+  "download_filename": "sensing_garden_client-0.0.13.post1.tar.gz",
+  "download_time": "2025-08-03T18:51:36.870689",
+  "package_url": "https://pypi.org/project/sensing_garden_client/"
+}
