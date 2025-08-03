@@ -1,0 +1,11 @@
+{
+  "name": "crawlbyte-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Crawlbyte – create tasks, poll results, and integrate data scraping into your Python applications.",
+  "author": "Crawlbyte",
+  "license": "MIT",
+  "home_page": "https://crawlbyte.ai",
+  "download_filename": "crawlbyte_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-03T20:54:38.250232",
+  "package_url": "https://pypi.org/project/crawlbyte-sdk/"
+}

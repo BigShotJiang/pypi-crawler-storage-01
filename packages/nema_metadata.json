@@ -1,0 +1,11 @@
+{
+  "name": "nema",
+  "version": "0.1.14",
+  "summary": "Interact with the Nema data collaboration platform",
+  "author": "Max Opgenoord",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nema-0.1.14.tar.gz",
+  "download_time": "2025-08-03T20:54:28.516160",
+  "package_url": "https://pypi.org/project/nema/"
+}

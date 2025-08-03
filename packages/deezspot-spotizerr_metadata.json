@@ -1,11 +1,11 @@
 {
   "name": "deezspot-spotizerr",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "Downloads songs, albums or playlists from deezer and spotify (clone from deezloader)",
   "author": "jakiepari",
   "license": "GNU Affero General Public License v3",
   "home_page": "https://github.com/jakiepari/deezspot",
-  "download_filename": "deezspot_spotizerr-2.2.0.tar.gz",
-  "download_time": "2025-08-02T02:53:38.381229",
+  "download_filename": "deezspot_spotizerr-2.2.2.tar.gz",
+  "download_time": "2025-08-03T20:54:34.822088",
   "package_url": "https://pypi.org/project/deezspot-spotizerr/"
 }
