@@ -1,0 +1,11 @@
+{
+  "name": "TCPLib",
+  "version": "2.0.0",
+  "summary": "A basic library for implementing a TCP client/server",
+  "author": "Joshua Kitchen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcplib-2.0.0.tar.gz",
+  "download_time": "2025-08-03T18:18:04.725964",
+  "package_url": "https://pypi.org/project/TCPLib/"
+}

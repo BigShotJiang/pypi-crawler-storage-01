@@ -1,24 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T17:53:56.800958
-- **Total Packages**: 74
-- **Total Size**: 17.41 MB
+- **Download Time**: 2025-08-03T18:18:34.808953
+- **Total Packages**: 73
+- **Total Size**: 11.45 MB
 
 ## Packages List
+- deprecated-checker
+- git-bob
+- pygoruut
+- ytmagic
+- optimesh
+- micro-graph
+- epijats
+- django-learngual
+- unittest-parallel
+- nester-mike
+- rapidhrv
+- sparkden
+- tarumba
+- lightrag-hku
+- reqdbcontentcreator
+- epubcrush
+- agentic-cli-coder
+- pyptv
+- experiment-utils-pd
+- TCPLib
+- recce-nightly
+- aniworld
+- recallio
+- mcp-imgutils
 - tool2openai
+- reqdb
+- fngen
+- cyberdesk
+- vietnamadminunits
+- lctime
+- project-x-py
+- chaturbate-poller
+- torram
+- PyEfficiency
+- lammps
+- reyweb
+- rust-pyo3-timeseries
+- phenoai-package
+- ai-proxy-core
+- wixok.txtfile
+- marketswimmer
+- py-sarvcrm-api
+- tree-sitter-analyzer
+- ayu
+- scopper
 - swarmflow
-- dsodelib
 - nutaan-cli
 - irouter
-- deprecated-checker
 - pyltover
 - notion-to-llms-txt
 - ap-mcp-server
 - otpme
 - pbreflect
 - mcp-server-dexcom
-- marketswimmer
 - eric-redis-queues
 - xni
 - ai-prishtina-text2sql-ltm
@@ -27,7 +68,6 @@
 - kiwoom
 - personal-web-utility
 - chitram
-- celux
 - pymox-tools1
 - pypiactl
 - bia-bob
@@ -35,48 +75,7 @@
 - agentle
 - gammarers.aws-secure-log-bucket
 - ldap-ui
-- ai-proxy-core
 - cocotb2-migrator
 - sqlite3-to-mysql
 - cursus
 - PySide6-to-apk
-- sphinxext-opengraph
-- sqlalchemy-helper-tool
-- SOM-TUI
-- micoo
-- meal-generator
-- no-seu-tempo
-- alerk-pack
-- tad-dftd3
-- holospooky
-- dziplib
-- autohack-next
-- xpander-sdk
-- nyt-connections
-- langextract
-- louieai
-- llmswap
-- authentik-client
-- BS-RoFormer
-- git-clone-stats
-- tree-sitter-analyzer
-- m24842-ml
-- funcs-for-pfs
-- fixtures
-- django-generic-notifications
-- rusty-todo-md
-- ansi-image
-- gpu-benchmark-tool
-- letschatty
-- sparkden
-- ramifice
-- syrics
-- inspect-viz
-- endstone-welcome-message
-- GTkinter
-- alibabacloud-sysom20231230
-- nobubo
-- page-encryptor
-- luv
-- aidesk
-- pynesys-pynecore

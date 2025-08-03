@@ -1,0 +1,11 @@
+{
+  "name": "unittest-parallel",
+  "version": "1.7.5",
+  "summary": "Parallel unit test runner with coverage support",
+  "author": "Craig A. Hobbs",
+  "license": "MIT",
+  "home_page": "https://github.com/craigahobbs/unittest-parallel",
+  "download_filename": "unittest_parallel-1.7.5.tar.gz",
+  "download_time": "2025-08-03T18:17:58.843013",
+  "package_url": "https://pypi.org/project/unittest-parallel/"
+}

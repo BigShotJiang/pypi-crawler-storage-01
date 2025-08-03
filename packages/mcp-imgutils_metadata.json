@@ -1,11 +1,11 @@
 {
   "name": "mcp-imgutils",
-  "version": "3.4.0",
+  "version": "5.0.0",
   "summary": "MCP服务：将本地图片和网络图片发送给LLM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_imgutils-3.4.0.tar.gz",
-  "download_time": "2025-08-03T15:13:15.479438",
+  "download_filename": "mcp_imgutils-5.0.0.tar.gz",
+  "download_time": "2025-08-03T18:18:06.903107",
   "package_url": "https://pypi.org/project/mcp-imgutils/"
 }

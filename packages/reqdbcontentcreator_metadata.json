@@ -1,11 +1,11 @@
 {
   "name": "reqdbcontentcreator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": null,
   "author": "Fischer, Daniel-MGB",
   "license": null,
   "home_page": null,
-  "download_filename": "reqdbcontentcreator-0.2.0.tar.gz",
-  "download_time": "2025-08-02T14:34:32.007600",
+  "download_filename": "reqdbcontentcreator-0.3.0.tar.gz",
+  "download_time": "2025-08-03T18:18:02.063794",
   "package_url": "https://pypi.org/project/reqdbcontentcreator/"
 }
