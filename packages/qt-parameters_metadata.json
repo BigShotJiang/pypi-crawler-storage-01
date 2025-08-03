@@ -1,0 +1,11 @@
+{
+  "name": "qt-parameters",
+  "version": "1.2.0",
+  "summary": "Qt parameter widgets and forms for Python.",
+  "author": "Beat Reichenbach",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qt_parameters-1.2.0.tar.gz",
+  "download_time": "2025-08-03T23:53:06.582694",
+  "package_url": "https://pypi.org/project/qt-parameters/"
+}

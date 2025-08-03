@@ -1,0 +1,11 @@
+{
+  "name": "pictex",
+  "version": "0.3.1",
+  "summary": "A library to generate stylized text images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pictex-0.3.1.tar.gz",
+  "download_time": "2025-08-03T23:53:16.544151",
+  "package_url": "https://pypi.org/project/pictex/"
+}

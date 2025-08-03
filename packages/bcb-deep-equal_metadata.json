@@ -1,0 +1,11 @@
+{
+  "name": "bcb-deep-equal",
+  "version": "0.1.0",
+  "summary": "Floating-point tolerant comparison for BigCodeBench",
+  "author": "Aaron Sandoval",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bcb_deep_equal-0.1.0.tar.gz",
+  "download_time": "2025-08-03T23:53:15.426433",
+  "package_url": "https://pypi.org/project/bcb-deep-equal/"
+}

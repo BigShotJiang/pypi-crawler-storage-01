@@ -1,0 +1,11 @@
+{
+  "name": "pyscreeningfs",
+  "version": "0.1.0",
+  "summary": "This is a Python implementation by the authors of the paper 'Online Feature Screening for Data Streams With Concept Drift' from Dr. Mingyuan Wang and Dr. Adrian Barbu. Contain various feature selection methods.",
+  "author": "Mingyuan Wang",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/tbonewmy/Online-Feature-Screening-for-Datastream-with-Sparsity-Concept-Drifting",
+  "download_filename": "pyscreeningfs-0.1.0.tar.gz",
+  "download_time": "2025-08-03T23:53:19.286864",
+  "package_url": "https://pypi.org/project/pyscreeningfs/"
+}

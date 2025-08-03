@@ -1,11 +1,11 @@
 {
   "name": "hvac-stability",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.1",
+  "summary": "A Python CLI tool for monitoring and managing HVAC device settings using the Kumo cloud API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hvac_stability-0.1.0.tar.gz",
-  "download_time": "2025-08-03T18:51:39.456758",
+  "download_filename": "hvac_stability-0.1.1.tar.gz",
+  "download_time": "2025-08-03T23:53:10.520488",
   "package_url": "https://pypi.org/project/hvac-stability/"
 }
