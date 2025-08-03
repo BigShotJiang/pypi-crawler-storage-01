@@ -1,0 +1,11 @@
+{
+  "name": "pythonium",
+  "version": "0.1.5",
+  "summary": "A modular MCP (Model Context Protocol) server for AI agents with plugin-based architecture",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonium-0.1.5.tar.gz",
+  "download_time": "2025-08-03T22:54:59.149888",
+  "package_url": "https://pypi.org/project/pythonium/"
+}

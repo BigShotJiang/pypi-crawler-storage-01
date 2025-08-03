@@ -1,0 +1,11 @@
+{
+  "name": "async-cdek-api",
+  "version": "0.1.1",
+  "summary": "An asynchronous Python client library for the CDEK API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_cdek_api-0.1.1.tar.gz",
+  "download_time": "2025-08-03T22:54:51.283932",
+  "package_url": "https://pypi.org/project/async-cdek-api/"
+}

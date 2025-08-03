@@ -1,11 +1,11 @@
 {
   "name": "luminescent",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "summary": "A description of your package",
   "author": "Paul Shen",
   "license": null,
   "home_page": null,
-  "download_filename": "luminescent-1.0.46.tar.gz",
-  "download_time": "2025-08-03T05:05:25.902953",
+  "download_filename": "luminescent-1.0.47.tar.gz",
+  "download_time": "2025-08-03T22:54:47.626482",
   "package_url": "https://pypi.org/project/luminescent/"
 }
