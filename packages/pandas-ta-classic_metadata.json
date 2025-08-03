@@ -1,11 +1,11 @@
 {
   "name": "pandas-ta-classic",
-  "version": "0.3.14b1",
+  "version": "0.3.14b2",
   "summary": "An easy to use Python 3 Pandas Extension with 130+ Technical Analysis Indicators. Can be called from a Pandas DataFrame or standalone like TA-Lib. Correlation tested with TA-Lib. This is the classic/community maintained version.",
   "author": "xgboosted",
-  "license": "The MIT License (MIT)",
-  "home_page": "https://github.com/xgboosted/pandas-ta-classic",
-  "download_filename": "pandas_ta_classic-0.3.14b1.tar.gz",
-  "download_time": "2025-08-01T14:15:36.863941",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandas_ta_classic-0.3.14b2-py3-none-any.whl",
+  "download_time": "2025-08-03T10:54:21.582018",
   "package_url": "https://pypi.org/project/pandas-ta-classic/"
 }

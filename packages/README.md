@@ -1,32 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T10:39:26.813963
-- **Total Packages**: 65
-- **Total Size**: 15.92 MB
+- **Download Time**: 2025-08-03T10:54:56.582647
+- **Total Packages**: 76
+- **Total Size**: 11.3 MB
 
 ## Packages List
+- genderapi-phone-validator
+- nanofts
+- ebird-pages
+- dsidelib
+- pfd_toolkit
+- workframe
+- meltingplot.duet-simplyprint-connector
+- passport-cropper
+- konduktor-nightly
+- xloft
+- dictature
+- material-color-palette
+- mcp-fuzzer
+- pandas-ta-classic
+- openaleph-procrastinate
+- trainy-policy-nightly
+- waldiez-runner
+- iolite
+- dexscreen
+- ftmq
+- syntera-ai-cli
+- pttechnologies
+- sglang
+- letta-nightly
+- django-bulk-hooks
+- automower-ble
+- ptelastic
+- lanscape
+- textual-window
+- calita
+- rawpy
+- canary-cd
+- card-generator
 - django-htmx-autoselect
 - imgw-pib
-- dsidelib
 - python-jenkins
-- syntera-ai-cli
 - legit-api-client
 - chutes
 - nepali-num2word
 - coref-onnx
 - speech2caret
-- django-bulk-hooks
 - elusion-kit
 - ipilot
 - vietnamadminunits
-- dexscreen
 - personal-web-utility
 - captcha-operation
 - Jvav
 - mlzlog
 - mkdocs-ai-summary-wcowin
-- workframe
 - breadcrumb-addressbar
 - vkmax
 - waldiez-studio
@@ -43,7 +71,6 @@
 - pyapm
 - optimalportfolios
 - Punjabi-inflections
-- xloft
 - rhoa
 - geo_pysearch
 - numpyimage
@@ -55,19 +82,3 @@
 - jaxns
 - genie-flow
 - fgo-api-types
-- waldiez-jupyter
-- peopledatalabs
-- pysectprop
-- praicing
-- color-cli
-- pyrustor
-- aiqtoolkit-phoenix
-- aiqtoolkit-mysql
-- bounded-models
-- pygeom
-- upsies
-- aiqtoolkit-redis
-- aiqtoolkit-s3
-- nonebot-plugin-value
-- aiqtoolkit-ragaai
-- aiqtoolkit-opentelemetry
