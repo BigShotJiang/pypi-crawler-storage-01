@@ -1,11 +1,11 @@
 {
   "name": "ragkitx",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Modular RAG toolkit",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ragkitx-0.1.1.tar.gz",
-  "download_time": "2025-08-03T13:45:26.637826",
+  "download_filename": "ragkitx-0.1.5.tar.gz",
+  "download_time": "2025-08-03T13:56:09.932924",
   "package_url": "https://pypi.org/project/ragkitx/"
 }

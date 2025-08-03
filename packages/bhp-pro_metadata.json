@@ -1,11 +1,11 @@
 {
   "name": "bhp-pro",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "Web Enumeration Tool",
   "author": "ssskingsss12",
   "license": null,
   "home_page": null,
-  "download_filename": "bhp_pro-0.5.1.tar.gz",
-  "download_time": "2025-08-03T13:45:18.251998",
+  "download_filename": "bhp_pro-0.5.3.tar.gz",
+  "download_time": "2025-08-03T13:56:04.617195",
   "package_url": "https://pypi.org/project/bhp-pro/"
 }
