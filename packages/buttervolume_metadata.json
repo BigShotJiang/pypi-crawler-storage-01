@@ -1,0 +1,11 @@
+{
+  "name": "buttervolume",
+  "version": "3.13",
+  "summary": "Docker plugin to manage Docker Volumes as BTRFS subvolumes",
+  "author": "Christophe Combelles",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/ccomb/buttervolume",
+  "download_filename": "buttervolume-3.13-py3-none-any.whl",
+  "download_time": "2025-08-03T22:37:40.024716",
+  "package_url": "https://pypi.org/project/buttervolume/"
+}

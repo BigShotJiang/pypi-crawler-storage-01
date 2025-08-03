@@ -1,0 +1,11 @@
+{
+  "name": "pySigma-backend-sentinelone-pq",
+  "version": "0.1.5",
+  "summary": "pySigma SentinelOne PowerQuery backend",
+  "author": "Cori Smith",
+  "license": "MIT",
+  "home_page": "https://github.com/7RedViolin/pySigma-backend-sentinelone-pq",
+  "download_filename": "pysigma_backend_sentinelone_pq-0.1.5.tar.gz",
+  "download_time": "2025-08-03T22:37:38.416814",
+  "package_url": "https://pypi.org/project/pySigma-backend-sentinelone-pq/"
+}
