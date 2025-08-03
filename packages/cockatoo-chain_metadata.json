@@ -1,0 +1,11 @@
+{
+  "name": "cockatoo-chain",
+  "version": "0.1.2",
+  "summary": "The package is intended for STT, LLM and TSS models chaining.",
+  "author": "John Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cockatoo_chain-0.1.2.tar.gz",
+  "download_time": "2025-08-03T03:23:29.517948",
+  "package_url": "https://pypi.org/project/cockatoo-chain/"
+}

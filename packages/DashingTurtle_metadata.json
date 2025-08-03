@@ -1,0 +1,11 @@
+{
+  "name": "DashingTurtle",
+  "version": "0.1.7",
+  "summary": "An applicaton for building structural landscapes of RNA sequence modifications with Nanopore data.",
+  "author": "J. White Bear",
+  "license": null,
+  "home_page": "https://github.com/jwbear/Dashing_Turtle.git",
+  "download_filename": "dashingturtle-0.1.7-py3-none-any.whl",
+  "download_time": "2025-08-03T03:23:20.261531",
+  "package_url": "https://pypi.org/project/DashingTurtle/"
+}

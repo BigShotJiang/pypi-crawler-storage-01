@@ -1,0 +1,11 @@
+{
+  "name": "algebra-lineal-sheets",
+  "version": "1.0.0",
+  "summary": "Álgebra lineal simplificada con integración a Google Sheets para estudiantes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "algebra_lineal_sheets-1.0.0.tar.gz",
+  "download_time": "2025-08-03T03:23:29.006862",
+  "package_url": "https://pypi.org/project/algebra-lineal-sheets/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gfuncpy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": "beginnerSC",
   "license": null,
   "home_page": null,
-  "download_filename": "gfuncpy-0.1.4.tar.gz",
-  "download_time": "2025-08-02T04:29:32.877991",
+  "download_filename": "gfuncpy-0.1.5.tar.gz",
+  "download_time": "2025-08-03T03:22:57.071979",
   "package_url": "https://pypi.org/project/gfuncpy/"
 }
