@@ -1,11 +1,11 @@
 {
   "name": "legend-dataflow-scripts",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python package for the processing scripts for LEGEND-200 data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "legend_dataflow_scripts-0.1.6.tar.gz",
-  "download_time": "2025-08-01T06:21:39.342916",
+  "download_filename": "legend_dataflow_scripts-0.1.7.tar.gz",
+  "download_time": "2025-08-03T05:58:57.255547",
   "package_url": "https://pypi.org/project/legend-dataflow-scripts/"
 }

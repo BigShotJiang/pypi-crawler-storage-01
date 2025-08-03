@@ -1,11 +1,11 @@
 {
   "name": "airavata-python-sdk",
-  "version": "2.2.2.post3",
+  "version": "2.2.3",
   "summary": "Apache Airavata Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airavata_python_sdk-2.2.2.post3.tar.gz",
-  "download_time": "2025-08-03T05:44:19.179716",
+  "download_filename": "airavata_python_sdk-2.2.3.tar.gz",
+  "download_time": "2025-08-03T05:58:59.703442",
   "package_url": "https://pypi.org/project/airavata-python-sdk/"
 }

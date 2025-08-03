@@ -1,11 +1,11 @@
 {
   "name": "light-captcha",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A lightweight CAPTCHA generator for Persian and English digits",
   "author": "Alireza Esameilzadeh",
   "license": null,
   "home_page": "https://github.com/COD332/light-captcha",
-  "download_filename": "light_captcha-0.0.2.tar.gz",
-  "download_time": "2025-08-03T05:44:24.011156",
+  "download_filename": "light_captcha-0.0.3.tar.gz",
+  "download_time": "2025-08-03T05:58:58.483446",
   "package_url": "https://pypi.org/project/light-captcha/"
 }
