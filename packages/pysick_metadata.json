@@ -1,11 +1,11 @@
 {
   "name": "pysick",
-  "version": "2.56",
+  "version": "2.58",
   "summary": "An Bypass for learning Graphics Development",
   "author": "CowZik",
   "license": "MIT",
   "home_page": "https://github.com/COWZIIK/pysick",
-  "download_filename": "pysick-2.56.tar.gz",
-  "download_time": "2025-08-03T07:33:18.211835",
+  "download_filename": "pysick-2.58.tar.gz",
+  "download_time": "2025-08-03T16:15:49.187918",
   "package_url": "https://pypi.org/project/pysick/"
 }

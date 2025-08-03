@@ -1,11 +1,11 @@
 {
   "name": "dsidelib",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "summary": "Simple example library with run function",
   "author": "fuqasha",
   "license": null,
   "home_page": null,
-  "download_filename": "dsidelib-0.4.0.tar.gz",
-  "download_time": "2025-08-03T11:11:58.843012",
+  "download_filename": "dsidelib-1.0.0.tar.gz",
+  "download_time": "2025-08-03T16:15:43.677003",
   "package_url": "https://pypi.org/project/dsidelib/"
 }

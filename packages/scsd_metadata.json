@@ -1,0 +1,11 @@
+{
+  "name": "scsd",
+  "version": "0.0.84",
+  "summary": "Steam Cloud Save Downloader",
+  "author": "hchsu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scsd-0.0.84.tar.gz",
+  "download_time": "2025-08-03T16:15:27.752132",
+  "package_url": "https://pypi.org/project/scsd/"
+}

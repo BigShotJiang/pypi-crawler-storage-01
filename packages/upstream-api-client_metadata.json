@@ -1,11 +1,11 @@
 {
   "name": "upstream-api-client",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Upstream Sensor Storage",
   "author": "Will Mobley",
   "license": null,
   "home_page": "https://github.com/In-For-Disaster-Analytics/upstream-python-api-client",
-  "download_filename": "upstream_api_client-0.1.8.tar.gz",
-  "download_time": "2025-08-02T19:37:15.221481",
+  "download_filename": "upstream_api_client-0.1.9.tar.gz",
+  "download_time": "2025-08-03T16:15:30.034299",
   "package_url": "https://pypi.org/project/upstream-api-client/"
 }

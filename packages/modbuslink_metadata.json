@@ -1,0 +1,11 @@
+{
+  "name": "modbuslink",
+  "version": "0.1.5",
+  "summary": "现代化、功能强大、开发者友好且高度可扩展的Python Modbus库 | Modern, powerful, developer-friendly and highly scalable Python Modbus library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modbuslink-0.1.5.tar.gz",
+  "download_time": "2025-08-03T16:15:46.418994",
+  "package_url": "https://pypi.org/project/modbuslink/"
+}
