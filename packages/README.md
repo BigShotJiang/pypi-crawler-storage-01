@@ -1,19 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T16:44:00.727056
-- **Total Packages**: 70
-- **Total Size**: 26.87 MB
+- **Download Time**: 2025-08-03T16:58:55.432301
+- **Total Packages**: 68
+- **Total Size**: 12.94 MB
 
 ## Packages List
+- cryptodatapy
+- graph-games-proto
+- shooortcuts
+- dadi-cli
+- nesrs
+- archeo
+- flexfloat
+- meal-generator
+- pymox-tools1
+- letschatty
+- augint-library
+- xpander-sdk
+- vietnamadminunits
+- nemo-toolkit
+- getlicense
+- meshage
+- apicall
+- NeMo-Export-Deploy
+- pyxend
+- getignore3
+- xloft
 - marketswimmer
 - datajunction-server
 - gammarers.aws-secure-bucket
-- graph-games-proto
-- getignore3
-- Live-rocket
 - jsonschema-rs
-- dsidelib
 - ormbee
 - liman-core
 - sysinfo-collector
@@ -26,7 +43,6 @@
 - contract-schema
 - CrossRename
 - nonebot-plugin-maimaidx
-- pymox-tools1
 - clselove
 - pybooxdrop
 - airflow-ai-sdk
@@ -42,7 +58,6 @@
 - scope-timer
 - pyrwgps
 - jsonlitedb
-- meal-generator
 - cryptoservice
 - claude-switch
 - not1mm
@@ -59,20 +74,3 @@
 - cursus
 - ErisPulse
 - dpncy
-- pyxlsbwriter
-- containerizedcodeexecutermcp
-- yaapp-core
-- keprompt
-- hundredandten
-- Qwael
-- holospooky
-- eric-redis-queues
-- pyegeria
-- wixok.txttoolkit
-- aiobale
-- chainlit-aki
-- pydagoras
-- makedb
-- devapps
-- celux
-- cognitora
