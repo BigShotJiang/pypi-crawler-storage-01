@@ -1,0 +1,11 @@
+{
+  "name": "scsu",
+  "version": "1.1.1",
+  "summary": "Standard Compression Scheme for Unicode",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scsu-1.1.1.tar.gz",
+  "download_time": "2025-08-03T14:12:18.406544",
+  "package_url": "https://pypi.org/project/scsu/"
+}

@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T13:56:45.498249
-- **Total Packages**: 76
-- **Total Size**: 10.86 MB
+- **Download Time**: 2025-08-03T14:12:58.702572
+- **Total Packages**: 80
+- **Total Size**: 8.97 MB
 
 ## Packages List
+- datasure
+- m24842-ml
+- btcli
+- xlizard
+- is-instance
+- TEflow
+- autonomous-business
+- betterbib
+- workspace-mcp-http
+- FlcatBrowser
+- indo-scraper
+- annex4ac
+- scsu
+- fairical
+- Flask-SSM
+- goofi
+- ncatbot
+- lambapi
+- maze-generator-for-algorithm
+- fairpredictor
+- atlas-rag
+- lnhistoryclient
+- arjan
 - tensordict-nightly
 - bhp-pro
 - cas-visualizer
@@ -46,12 +69,10 @@
 - mcp-vertica
 - jtable
 - edgeimpulse-api
-- github-pr-mcp-server
 - rq_geo_toolkit
 - qrpa
 - gdsfactoryplus
 - moviebox-api
-- autonomousbusiness
 - hcube
 - prarabdha
 - nbdev-apl
@@ -65,20 +86,3 @@
 - nbdev-numpy
 - virginia-clemm-poe
 - nbdev-stdlib
-- lazy-mysql
-- qode-task-worker
-- MetaRagTool
-- pinterest-dl
-- sportsball
-- aio-straico
-- abu-color
-- prarabdha-cache
-- pydot_flow
-- ipyslides
-- pyalab
-- bitformat
-- waldiez-studio
-- fast-agent-mcp
-- freeiam
-- caelum-sys
-- legit-api-client

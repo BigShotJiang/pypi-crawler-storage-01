@@ -1,0 +1,11 @@
+{
+  "name": "indo-scraper",
+  "version": "1.0.0",
+  "summary": "Library Python untuk scraping website Indonesia dengan mudah",
+  "author": "ADE PRATAMA",
+  "license": null,
+  "home_page": "https://github.com/adepratama840/indo-scraper",
+  "download_filename": "indo_scraper-1.0.0.tar.gz",
+  "download_time": "2025-08-03T14:12:17.248514",
+  "package_url": "https://pypi.org/project/indo-scraper/"
+}

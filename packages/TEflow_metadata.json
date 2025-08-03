@@ -1,0 +1,11 @@
+{
+  "name": "TEflow",
+  "version": "0.4.6",
+  "summary": "A python3 package for thermoelectric output performance calculations",
+  "author": "Jianbo ZHU",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/JianboHIT/TEflow",
+  "download_filename": "teflow-0.4.6.tar.gz",
+  "download_time": "2025-08-03T14:12:14.279628",
+  "package_url": "https://pypi.org/project/TEflow/"
+}
