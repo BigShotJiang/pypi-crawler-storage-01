@@ -1,0 +1,11 @@
+{
+  "name": "authentik-client",
+  "version": "2025.6.4.post1754241895",
+  "summary": "authentik",
+  "author": "authentik Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "authentik_client-2025.6.4.post1754241895.tar.gz",
+  "download_time": "2025-08-03T17:35:55.651103",
+  "package_url": "https://pypi.org/project/authentik-client/"
+}

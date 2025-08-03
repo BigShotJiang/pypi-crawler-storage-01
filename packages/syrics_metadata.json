@@ -1,0 +1,11 @@
+{
+  "name": "syrics",
+  "version": "0.1.2.4",
+  "summary": "A command line tool to fetch lyrics from spotify and save it to lrc file. It can fetch both synced and unsynced lyrics from spotify. ",
+  "author": "Akash R Chandran",
+  "license": null,
+  "home_page": "https://github.com/akashrchandran/syrics",
+  "download_filename": "syrics-0.1.2.4.tar.gz",
+  "download_time": "2025-08-03T17:36:03.980259",
+  "package_url": "https://pypi.org/project/syrics/"
+}

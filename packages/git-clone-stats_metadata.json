@@ -1,0 +1,11 @@
+{
+  "name": "git-clone-stats",
+  "version": "1.0.6",
+  "summary": "GitHub repository clone statistics tracker with web dashboard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_clone_stats-1.0.6.tar.gz",
+  "download_time": "2025-08-03T17:35:56.693480",
+  "package_url": "https://pypi.org/project/git-clone-stats/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PySide6-to-apk",
+  "version": "1.0.0",
+  "summary": "Effortlessly build and package your PySide6 apps for Linux and Android apks — no command-line struggles, just a beautiful GUI!",
+  "author": "Nishant Pratap Savita",
+  "license": "MIT",
+  "home_page": "https://github.com/Nishant2009/PySide6-to-apk",
+  "download_filename": "pyside6_to_apk-1.0.0.tar.gz",
+  "download_time": "2025-08-03T17:35:45.650328",
+  "package_url": "https://pypi.org/project/PySide6-to-apk/"
+}

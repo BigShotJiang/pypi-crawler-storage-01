@@ -1,0 +1,11 @@
+{
+  "name": "nobubo",
+  "version": "1.6.0",
+  "summary": "Nobubo assembles a digital pdf sewing pattern and cuts it up into a desired output print size. A specialized n-up tool also suited for non-sewing purposes.",
+  "author": "bytinbit",
+  "license": "AGPL v3.0",
+  "home_page": null,
+  "download_filename": "nobubo-1.6.0.tar.gz",
+  "download_time": "2025-08-03T17:36:06.576056",
+  "package_url": "https://pypi.org/project/nobubo/"
+}

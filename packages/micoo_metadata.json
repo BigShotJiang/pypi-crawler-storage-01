@@ -1,0 +1,11 @@
+{
+  "name": "micoo",
+  "version": "0.4.0",
+  "summary": "micoo is a command-line tool for easily accessing mise cookbooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "micoo-0.4.0.tar.gz",
+  "download_time": "2025-08-03T17:35:48.265152",
+  "package_url": "https://pypi.org/project/micoo/"
+}
