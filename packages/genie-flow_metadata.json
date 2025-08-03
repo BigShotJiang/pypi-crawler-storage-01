@@ -1,11 +1,11 @@
 {
   "name": "genie-flow",
-  "version": "0.9.0a2",
+  "version": "0.9.0a4",
   "summary": "Core classes for Genie Flow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genie_flow-0.9.0a2.tar.gz",
-  "download_time": "2025-08-02T19:10:53.414687",
+  "download_filename": "genie_flow-0.9.0a4.tar.gz",
+  "download_time": "2025-08-03T08:43:16.490967",
   "package_url": "https://pypi.org/project/genie-flow/"
 }

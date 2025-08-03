@@ -1,11 +1,11 @@
 {
   "name": "pyredis-om",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A true `redis-om` alternative, built out of frustration.",
   "author": "Redis OSS",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pyredis_om-0.3.7.tar.gz",
-  "download_time": "2025-08-01T23:13:28.993760",
+  "download_filename": "pyredis_om-0.3.8.tar.gz",
+  "download_time": "2025-08-03T08:43:20.127271",
   "package_url": "https://pypi.org/project/pyredis-om/"
 }

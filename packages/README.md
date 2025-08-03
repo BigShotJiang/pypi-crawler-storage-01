@@ -1,16 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-03T08:17:21.483763
-- **Total Packages**: 80
-- **Total Size**: 11.85 MB
+- **Download Time**: 2025-08-03T08:43:47.887941
+- **Total Packages**: 78
+- **Total Size**: 11.28 MB
 
 ## Packages List
+- python-hashtools
+- llmadventure
+- snakers
+- legit-api-client
+- elusion-kit
+- workspace-mcp-http
+- xiangxinai
+- bullishpy
+- kuzu
+- zarinpal-py-sdk
+- UnOffical-TAGO-API
+- pody
+- click-extra
+- gc7-uuu7
+- libralm-mcp-server
+- novalang
+- gc7-uuu6
+- leap-model-parser
+- eric-api
+- code-loader
+- genie-flow
+- dapu
+- cdk-opinionated-constructs
+- gc7-uuu5
+- unitypredict
+- unitypredict-engines
+- ncatbot
+- pyredis-om
+- arkitekt-next
+- aws-sns-verifier
+- balinski-and-gomory
+- card-generator
+- chinese-chess-lib
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- tickermood
+- kabinet
+- shgpt
+- gguf-connector
 - ufcscraper
 - synapso-cli
 - league-tools
 - funpayparsers
-- card-generator
 - pyglove
 - virtualenv
 - djelm
@@ -25,7 +64,6 @@
 - comcloud-txt-manager
 - kolzchut-ragbot
 - mlarena
-- bullishpy
 - synapso-core
 - autogen-voting-extension
 - quipubase
@@ -33,8 +71,6 @@
 - pytest-exasol-slc
 - VectorCode
 - jexpand
-- aws-sns-verifier
-- workspace-mcp-http
 - maahelper
 - circuit-synth
 - dictature
@@ -47,42 +83,4 @@
 - pytest-yaml-fei
 - fq-hll
 - atmodeller
-- legit-api-client
 - DyslexicLogLog
-- dapu
-- dingent
-- cs2tracker
-- fzf-bin
-- Invenio-Theme-TUW
-- uk_bin_collection
-- snakers
-- napari-roi-manager
-- ragscope
-- feldera
-- robo_appian
-- airos
-- entrns
-- betterlinkedlists
-- lightrun
-- pluk
-- watch-run
-- leap-model-parser
-- code-loader
-- p189sign
-- starsim
-- OctoBot-Trading
-- pysick
-- vinagent
-- valsai
-- streamlit-nightly
-- labtasker
-- sndwch
-- jax2onnx
-- gc7-uuu3
-- tf-models-nightly
-- entari-plugin-server
-- ml-trainer-sdk
-- snputils
-- pantheon-toolsets
-- sup
-- shakenfist-client

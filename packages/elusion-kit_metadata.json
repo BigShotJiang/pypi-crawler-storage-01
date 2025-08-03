@@ -1,0 +1,11 @@
+{
+  "name": "elusion-kit",
+  "version": "0.0.2",
+  "summary": "A Python framework for building high-quality, type-safe API SDKs with comprehensive error handling and retry logic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elusion_kit-0.0.2.tar.gz",
+  "download_time": "2025-08-03T08:43:08.148133",
+  "package_url": "https://pypi.org/project/elusion-kit/"
+}

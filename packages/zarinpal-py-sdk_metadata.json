@@ -1,0 +1,11 @@
+{
+  "name": "zarinpal-py-sdk",
+  "version": "0.1.4",
+  "summary": "A Python SDK for Zarinpal Payment Gateway",
+  "author": "Iman Attary",
+  "license": null,
+  "home_page": "https://github.com/ImanAttary/zarinpal_py_sdk",
+  "download_filename": "zarinpal_py_sdk-0.1.4.tar.gz",
+  "download_time": "2025-08-03T08:43:10.747302",
+  "package_url": "https://pypi.org/project/zarinpal-py-sdk/"
+}

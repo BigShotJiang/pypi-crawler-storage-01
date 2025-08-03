@@ -1,0 +1,11 @@
+{
+  "name": "pody",
+  "version": "0.3.2",
+  "summary": "Pod manager for docker, give limited access to docker for clients.",
+  "author": "Li, Mengxun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pody-0.3.2.tar.gz",
+  "download_time": "2025-08-03T08:43:11.783553",
+  "package_url": "https://pypi.org/project/pody/"
+}
