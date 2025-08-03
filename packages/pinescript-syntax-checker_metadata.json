@@ -1,0 +1,11 @@
+{
+  "name": "pinescript-syntax-checker",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server for checking PineScript syntax using TradingView's API",
+  "author": "erevus-cn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pinescript_syntax_checker-0.1.0.tar.gz",
+  "download_time": "2025-08-03T13:45:06.361093",
+  "package_url": "https://pypi.org/project/pinescript-syntax-checker/"
+}

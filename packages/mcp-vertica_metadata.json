@@ -1,0 +1,11 @@
+{
+  "name": "mcp-vertica",
+  "version": "0.1.4",
+  "summary": "Vertica MCP using Fast MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_vertica-0.1.4.tar.gz",
+  "download_time": "2025-08-03T13:45:14.097491",
+  "package_url": "https://pypi.org/project/mcp-vertica/"
+}

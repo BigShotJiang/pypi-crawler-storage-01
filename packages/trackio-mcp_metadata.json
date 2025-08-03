@@ -1,11 +1,11 @@
 {
   "name": "trackio-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "MCP (Model Context Protocol) server support for trackio experiment tracking",
   "author": "Fatih Akyon",
   "license": null,
   "home_page": null,
-  "download_filename": "trackio_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-03T13:09:37.736481",
+  "download_filename": "trackio_mcp-0.2.0.tar.gz",
+  "download_time": "2025-08-03T13:45:10.496254",
   "package_url": "https://pypi.org/project/trackio-mcp/"
 }

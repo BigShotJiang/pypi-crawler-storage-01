@@ -1,0 +1,11 @@
+{
+  "name": "gk6",
+  "version": "2.0.11",
+  "summary": "Postman to k6 converter",
+  "author": "Gopi Krishna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gk6-2.0.11.tar.gz",
+  "download_time": "2025-08-03T13:45:14.608985",
+  "package_url": "https://pypi.org/project/gk6/"
+}
