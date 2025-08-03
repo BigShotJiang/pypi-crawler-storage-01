@@ -1,0 +1,11 @@
+{
+  "name": "w9-pathfinding",
+  "version": "0.1.2",
+  "summary": "Implementation of some pathfinding algorithms",
+  "author": "w9PcJLyb",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/w9PcJLyb/w9-pathfinding",
+  "download_filename": "w9_pathfinding-0.1.2.tar.gz",
+  "download_time": "2025-08-03T09:14:07.682546",
+  "package_url": "https://pypi.org/project/w9-pathfinding/"
+}

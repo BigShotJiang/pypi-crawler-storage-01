@@ -1,0 +1,11 @@
+{
+  "name": "mcp-nixos",
+  "version": "1.0.1",
+  "summary": "Model Context Protocol server for NixOS, Home Manager, and nix-darwin resources",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_nixos-1.0.1.tar.gz",
+  "download_time": "2025-08-03T09:14:01.945373",
+  "package_url": "https://pypi.org/project/mcp-nixos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llmadventure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "🎮 AI-Powered CLI Text Adventure Game - Create infinite stories with LLM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmadventure-1.0.0.tar.gz",
-  "download_time": "2025-08-03T08:43:06.580942",
+  "download_filename": "llmadventure-1.0.1.tar.gz",
+  "download_time": "2025-08-03T09:13:52.450254",
   "package_url": "https://pypi.org/project/llmadventure/"
 }

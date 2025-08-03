@@ -1,0 +1,11 @@
+{
+  "name": "nhonga-api",
+  "version": "1.0.0",
+  "summary": "Biblioteca Python para integração com a API Nhonga.net",
+  "author": "Nhonga API Library",
+  "license": null,
+  "home_page": "https://github.com/mucamba/nhonga-api-python",
+  "download_filename": "nhonga_api-1.0.0.tar.gz",
+  "download_time": "2025-08-03T09:14:06.637326",
+  "package_url": "https://pypi.org/project/nhonga-api/"
+}
