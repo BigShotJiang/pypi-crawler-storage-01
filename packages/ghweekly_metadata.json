@@ -1,0 +1,11 @@
+{
+  "name": "ghweekly",
+  "version": "0.1.5",
+  "summary": "Visualize weekly GitHub commit activity across repositories.",
+  "author": "Bhimraj Yadav",
+  "license": null,
+  "home_page": "https://github.com/bhimrazy/gh-weekly-commits",
+  "download_filename": "ghweekly-0.1.5.tar.gz",
+  "download_time": "2025-08-03T09:35:35.776535",
+  "package_url": "https://pypi.org/project/ghweekly/"
+}

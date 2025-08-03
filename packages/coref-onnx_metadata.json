@@ -1,11 +1,11 @@
 {
   "name": "coref-onnx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Lightweight cross-lingual coreference resolution using ONNX Runtime and distilled transformer models",
   "author": "Tal Almagor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coref_onnx-0.1.0.tar.gz",
-  "download_time": "2025-08-03T08:57:38.957993",
+  "download_filename": "coref_onnx-0.1.1.tar.gz",
+  "download_time": "2025-08-03T09:35:49.071895",
   "package_url": "https://pypi.org/project/coref-onnx/"
 }

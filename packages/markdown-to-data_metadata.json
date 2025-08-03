@@ -1,0 +1,11 @@
+{
+  "name": "markdown-to-data",
+  "version": "2.0.0",
+  "summary": "Convert markdown and its elements (tables, lists, code, etc.) into structured, easily processable data formats like lists and hierarchical dictionaries (or JSON), with support for parsing back to markdown.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_to_data-2.0.0.tar.gz",
+  "download_time": "2025-08-03T09:35:47.911164",
+  "package_url": "https://pypi.org/project/markdown-to-data/"
+}

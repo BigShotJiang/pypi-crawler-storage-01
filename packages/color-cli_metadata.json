@@ -1,11 +1,11 @@
 {
   "name": "color-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple coloring util for better output visibility",
   "author": "Abdulrahman Khaled",
   "license": "Apache-2.0",
-  "home_page": null,
-  "download_filename": "color_cli-0.1.0.tar.gz",
-  "download_time": "2025-08-03T09:14:06.104131",
+  "home_page": "https://github.com/Abdulrahman-K-S/Color-CLI",
+  "download_filename": "color_cli-0.1.1.tar.gz",
+  "download_time": "2025-08-03T09:35:41.521279",
   "package_url": "https://pypi.org/project/color-cli/"
 }

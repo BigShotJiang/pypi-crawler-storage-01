@@ -1,0 +1,11 @@
+{
+  "name": "ezpubsub",
+  "version": "0.3.0",
+  "summary": "An ultra simple, modern pub/sub library and blinker alternative for Python",
+  "author": "Edward Jazzhands",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezpubsub-0.3.0.tar.gz",
+  "download_time": "2025-08-03T09:35:35.201802",
+  "package_url": "https://pypi.org/project/ezpubsub/"
+}
