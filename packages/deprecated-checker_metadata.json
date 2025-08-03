@@ -1,11 +1,11 @@
 {
   "name": "deprecated-checker",
-  "version": "1.0.26",
+  "version": "1.0.28",
   "summary": "Tool for checking deprecated dependencies in Python projects and suggesting alternatives",
   "author": "Iulian Pavlov",
   "license": null,
   "home_page": "https://github.com/julicq/deprecated-checker",
-  "download_filename": "deprecated_checker-1.0.26.tar.gz",
-  "download_time": "2025-08-03T19:28:40.466721",
+  "download_filename": "deprecated_checker-1.0.28.tar.gz",
+  "download_time": "2025-08-03T19:38:40.309856",
   "package_url": "https://pypi.org/project/deprecated-checker/"
 }

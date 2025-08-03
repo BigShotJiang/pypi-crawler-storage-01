@@ -1,11 +1,11 @@
 {
   "name": "pitchtools",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "summary": "Utilities to work with pitches, convert between midinotes, frequency and notenames",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pitchtools-1.16.0.tar.gz",
-  "download_time": "2025-08-03T19:12:32.323977",
+  "download_filename": "pitchtools-1.16.1.tar.gz",
+  "download_time": "2025-08-03T19:38:45.416412",
   "package_url": "https://pypi.org/project/pitchtools/"
 }
