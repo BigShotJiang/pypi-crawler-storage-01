@@ -1,11 +1,11 @@
 {
   "name": "circuitpython-serial-controlled-servo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CircuitPython library for Serial Servo Bus (UART)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "circuitpython_serial_controlled_servo-0.1.1.tar.gz",
-  "download_time": "2025-08-03T21:33:12.223202",
+  "download_filename": "circuitpython_serial_controlled_servo-0.1.2.tar.gz",
+  "download_time": "2025-08-03T21:51:03.182255",
   "package_url": "https://pypi.org/project/circuitpython-serial-controlled-servo/"
 }

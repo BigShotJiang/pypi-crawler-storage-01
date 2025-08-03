@@ -1,11 +1,8 @@
 {
-  "download_time": "2025-08-03T21:33:56.531237",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 40.42,
+  "download_time": "2025-08-03T21:51:50.219944",
+  "total_packages_downloaded": 86,
+  "total_size_mb": 3.92,
   "packages": [
-    "louieai",
-    "datasure",
-    "moose-lib",
     "django-hexagonal-cli",
     "netbox-data-flows",
     "firesense",
@@ -75,6 +72,7 @@
     "destrys-uv-example-lib",
     "GeneralManager",
     "kash-shell",
+    "datasure",
     "pjapp",
     "command-creator",
     "ai-proxy-core",
@@ -86,6 +84,10 @@
     "intentkit-py",
     "supertime",
     "gaganclt",
-    "minitonu"
+    "minitonu",
+    "razel",
+    "pymox-kit",
+    "torram",
+    "unifyai"
   ]
 }
