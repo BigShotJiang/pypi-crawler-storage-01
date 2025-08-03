@@ -1,11 +1,11 @@
 {
   "name": "gdmongolite",
-  "version": "0.1.0",
-  "summary": "gdmongolite: lightweight, auto-maintained all-in-one MongoDB toolkit by Ganeshdatta",
-  "author": "Ganeshdatta",
+  "version": "0.1.2",
+  "summary": "gdmongolite is a zero-boilerplate, schema-first, multi-driver MongoDB toolkit that unifies synchronous and asynchronous drivers, Pydantic-powered validation, automatic migrations, telemetry hooks, and a full CLI—all in one package. You write only your data models and queries; gdmongolite handles the rest.",
+  "author": "Ganesh Datta Padamata",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gdmongolite-0.1.0.tar.gz",
-  "download_time": "2025-08-03T15:35:59.382265",
+  "download_filename": "gdmongolite-0.1.2.tar.gz",
+  "download_time": "2025-08-03T15:53:51.654553",
   "package_url": "https://pypi.org/project/gdmongolite/"
 }

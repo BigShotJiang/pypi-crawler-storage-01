@@ -1,11 +1,11 @@
 {
   "name": "gh-templates-darwin-arm64",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "summary": "GitHub Templates CLI tool",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gh_templates_darwin_arm64-0.1.36.tar.gz",
-  "download_time": "2025-08-03T15:13:26.493015",
+  "download_filename": "gh_templates_darwin_arm64-0.1.37.tar.gz",
+  "download_time": "2025-08-03T15:54:15.733484",
   "package_url": "https://pypi.org/project/gh-templates-darwin-arm64/"
 }
