@@ -1,11 +1,11 @@
 {
   "name": "cdk-certbot-dns-route53",
-  "version": "2.4.560",
+  "version": "2.4.561",
   "summary": "Create Cron Job Via Lambda, to update certificate and put it to S3 Bucket.",
   "author": "Neil Kuan<guan840912@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/neilkuan/cdk-certbot-dns-route53.git",
-  "download_filename": "cdk_certbot_dns_route53-2.4.560.tar.gz",
-  "download_time": "2025-08-03T01:08:09.668641",
+  "download_filename": "cdk_certbot_dns_route53-2.4.561.tar.gz",
+  "download_time": "2025-08-04T01:07:24.465941",
   "package_url": "https://pypi.org/project/cdk-certbot-dns-route53/"
 }

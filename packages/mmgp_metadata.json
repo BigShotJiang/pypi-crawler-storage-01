@@ -1,11 +1,11 @@
 {
   "name": "mmgp",
-  "version": "3.5.3",
+  "version": "3.5.5",
   "summary": "Memory Management for the GPU Poor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mmgp-3.5.3.tar.gz",
-  "download_time": "2025-07-30T20:36:04.787476",
+  "download_filename": "mmgp-3.5.5.tar.gz",
+  "download_time": "2025-08-04T01:07:53.325034",
   "package_url": "https://pypi.org/project/mmgp/"
 }
